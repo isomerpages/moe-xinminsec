@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Nutrition and Food Science.md
       - Our People/Humanities.md
       - Our People/Mathematics.md
       - Our People/Mother Tongue Languages.md
