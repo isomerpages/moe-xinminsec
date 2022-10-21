@@ -7,14 +7,10 @@ description: ""
 
   
 
-11 Hougang Avenue 8
-
-Singapore 538 789
-
-School Code: 3050
-
-Tel:(+65) 6288 9382
-
+11 Hougang Avenue 8 <br>
+Singapore 538 789 <br>
+School Code: 3050 <br>
+Tel:(+65) 6288 9382 <br>
 Fax:(+65) 6385 1068
 
 Email: [xinminss\_email@schools.gov.sg](mailto:xinminss_email@schools.gov.sg)
