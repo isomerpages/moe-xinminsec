@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Physical Education.md
       - Our People/Science.md
       - Our People/Character and Citizenship Education.md
       - Our People/Our People.md
