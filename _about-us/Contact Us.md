@@ -11,8 +11,7 @@ description: ""
 Singapore 538 789 <br>
 School Code: 3050 <br>
 Tel:(+65) 6288 9382 <br>
-Fax:(+65) 6385 1068
-
+Fax:(+65) 6385 1068 <br>
 Email: [xinminss\_email@schools.gov.sg](mailto:xinminss_email@schools.gov.sg)
 
 **To Get Here...**
