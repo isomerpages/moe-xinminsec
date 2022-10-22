@@ -30,63 +30,39 @@ The 3 figures represent the close parthership between school, home and the commu
 Our School Song
 ---------------
 
-### Our School Song (In Hanyu Pinyin)
-
-Xin Min Xin Min
-
-wo men yao zuo she hui de zhu ren
-
-wo men yao zuo shi dai de ming deng
-
-bu du si shu shou nao bing yong
-
-yao xue yao zuo ji zhi ji xing
-
-Xin Min Xin Min
-
-wo men yao you ke xue de tou nao
-
-wo men yao you chuang zao de jing shen
-
-wei le ren ai wei le xin yi
-
-wei le zi you wei le he ping
-
+#### Our School Song (In Hanyu Pinyin) <br>
+Xin Min Xin Min <br>
+wo men yao zuo she hui de zhu ren <br>
+wo men yao zuo shi dai de ming deng <br>
+bu du si shu shou nao bing yong <br>
+yao xue yao zuo ji zhi ji xing <br>
+Xin Min Xin Min <br>
+wo men yao you ke xue de tou nao <br>
+wo men yao you chuang zao de jing shen <br>
+wei le ren ai wei le xin yi <br>
+wei le zi you wei le he ping <br>
 Xin Min Xin Min
 
   
 
-### Our School Song's Translation
+#### Our School Song's Translation
 
-Xinmin Xinmin
-
-We want to be the master of our destiny
-
-We want to be the beacon of our time
-
-Not through rote learning; but through the training of a versatile mind
-
-With keen wit and a readiness to put knowledge into practice
-
-Xinmin Xinmin
-
-We want to develop an analytical mind
-
-We want to cultivate an innovative spirit
-
-For love, integrity, freedom and peace
-
+Xinmin Xinmin <br>
+We want to be the master of our destiny <br>
+We want to be the beacon of our time <br>
+Not through rote learning; but through the training of a versatile mind <br>
+With keen wit and a readiness to put knowledge into practice <br>
+Xinmin Xinmin <br>
+We want to develop an analytical mind <br>
+We want to cultivate an innovative spirit <br>
+For love, integrity, freedom and peace <br>
 Xinmin Xinmin
 
 The Student's Creed
 -------------------
 
-I am unique and worthy. Within me lies the power to be the best that I can be.
-
-I shall seek to be upright in character, exemplary in behavior and steadfast in spirit.
-
-I shall learn continuously, think creatively and strive for excellence in whatever I do.
-
-I shall be respectful and caring towards my family members, teachers and fellow students.
-
+I am unique and worthy. Within me lies the power to be the best that I can be. <br>
+I shall seek to be upright in character, exemplary in behavior and steadfast in spirit. <br>
+I shall learn continuously, think creatively and strive for excellence in whatever I do. <br>
+I shall be respectful and caring towards my family members, teachers and fellow students. <br>
 Above all, I shall be compassionate to the less fortunate and loyal to my school and nation.
