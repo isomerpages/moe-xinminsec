@@ -11,20 +11,17 @@ Xinmin Secondary School believes in developing Curious Learners and Compassionat
 Curriculum
 ----------
 
-**_CCE Lessons_**
-
+**_CCE Lessons_** <br>
 CCE Lessons include areas such as National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE), are integrated within a school-wide approach.
 
   
 
-**_Contemporary Issues_**
-
+**_Contemporary Issues_** <br>
 Discussion of contemporary issues in the CCE lessons aims to develop active citizenry and critical thinking among students, by helping them understand the multiple perspectives on current issues. Contemporary issues are discussed fortnightly.
 
   
 
-**_Student Development Experiences_**
-
+**_Student Development Experiences_** <br>
 Student Development Experiences (SDEs) are programmes and activities that contribute towards the holistic development of our students in the physical, aesthetic, intellectual, moral, and social domains.
 
   
@@ -38,14 +35,12 @@ Some of the SDEs in Xinmin Secondary School include experiences in Co-Curricular
 Approaches
 ----------
 
-**_Use of Dialogue to facilitate Contemporary Issues_**
-
+**_Use of Dialogue to facilitate Contemporary Issues_** <br>
 In addition to creating student voice, dialogue also provides opportunities for students to develop self-awareness and empathy. This helps them understand the perspectives of people with different backgrounds or cultures, and to become more sensitive to the social environment and the needs of others. Using this approach, student learn to apply moral reasoning and sound values-based judgements in the choices they make, and understanding the impact and consequences of their actions on others.
 
   
 
-**_Student-Centric Pedagogy_**
-
+**_Student-Centric Pedagogy_** <br>
 The use of instructional and facilitation strategies such as circle structure, four corners, freeze frame, hot seat, round table, role-play, debate etc, promotes students’ voice and empowers students to express their views during CCE lessons. Through the interaction, it also strengthens both teacher-student relationships and student-student relationships.
 
   
