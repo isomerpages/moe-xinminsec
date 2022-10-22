@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Stakeholders/Our Stakeholders.md
       - Our Stakeholders/School's Advisory Committee.md
       - Our Stakeholders/Alumni Executive Committee.md
       - Our Stakeholders/Parent Support Group.md
