@@ -29,7 +29,16 @@ To develop our students to be effectively bilingual, communicate with confidence
 
 Untuk membangunkan pelajar berdwibahasa secara berkesan, berkomunikasi dengan keyakinan diri dan berperspektif global yang berpaksikan kebudayaan bahasa Ibunda.
 
-![MTL Curriculum Framework.JPG](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/MTL%20Curriculum%20Framework.JPG)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/MTL%20Curriculum%20Framework.jpeg)" alt="MTL Curriculum Framework" style="width:70%;">  
+  
+</body>
 
 _Extracted from MTL Syllabus Secondary 2021_
 
@@ -48,9 +57,18 @@ Approaches:
 3.  Developing talents through flag-ship programme.
 4.  Learning languages through edutainment activities.
 
-  
+ 
 
-![MTL Dept.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/MTL%20Dept.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/MTL%20Dept.jpeg)" alt="MTL Department" style="width:70%;">  
+  
+</body>
 
   
 
