@@ -84,9 +84,18 @@ The School Sports Partnership (SSP) provides an opportunity for passionate stude
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 355px; height: 236px;" class="ive_eobj_center" alt="PE_19.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/PE/PE_19.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">XMS in action in the mixed floorball N1 Cluster games</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 352px; height: 236px;" class="ive_eobj_center" alt="PE_20.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/PE/PE_20.jpg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">N1 Cluster games badminton girls in action</div></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 355px; height: 236px;" class="ive_eobj_center" alt="PE_19.jpg" width="100%" src="![](/images/PE_19.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">XMS in action in the mixed floorball N1 Cluster games</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 352px; height: 236px;" class="ive_eobj_center" alt="PE_20.jpg" width="100%" src="![](/images/PE_20.jpeg)"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">N1 Cluster games badminton girls in action</div></td></tr></tbody></table>
 
   
-![PE_21.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/PE/PE_21.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/PE_21.jpeg)" alt="Physical Education" style="width:50%;">  
+  
+</body>
 
 The N1 Cluster Games: A sporting competition organised by the N1 Cluster schools for non – sports CCA students to experience sporting competition
