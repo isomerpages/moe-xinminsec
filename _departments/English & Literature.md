@@ -13,8 +13,6 @@ Approaches
 
 **_English - A Strong Foundation and Rich Language for ALL_**
 
-  
-
 This approach premises on building a strong foundation and providing rich language with deliberate emphasis on the following aspects:
 
 *   differentiated instruction
@@ -26,9 +24,7 @@ This approach premises on building a strong foundation and providing rich langua
 
 The instructional materials we provide complement the teaching approach by connecting themes and texts purposefully with tasks, talk and technology in curriculum enactment as illustrated in the framework below:
 
-  
-
-![Pedagogical Framework Sec Eng Curriculum 2020.png](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/English%20&amp;%20Literature/Pedagogical%20Framework%20Sec%20Eng%20Curriculum%202020.png)  
+![Pedagogical Framework Sec Eng Curriculum 2020](/images/Pedagogical%20Framework%20Sec%20Eng%20Curriculum%202020.png) 
 
 **_Literature – Facilitating students’ active engagement with the text_**
 
@@ -40,10 +36,9 @@ The instructional materials we provide complement the teaching approach by conne
 *   These lenses and processes are captured in the&nbsp;**Literary Response Framework**&nbsp;to explicate how Literature develops in students the ability to read the world and all its texts:
 
   
+![Literacy Response Framework](/images/Literacy%20Response%20Framework.png)
 
-![Literacy Response Framework.png](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/English%20&amp;%20Literature/Literacy%20Response%20Framework.png)
-
-_Extracted from Literature Syllabus 2019_
+<p style="text-align:right;"><em>Extracted from Literature Syllabus 2019</em></p>
 
   
 
