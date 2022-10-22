@@ -66,7 +66,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MTL%20Dept.jpeg)" alt="MTL Department" style="width:70%;">  
+<body><img src="/images/MTL%20Dept.jpeg" alt="MTL Department" style="width:70%;">  
   
 </body>
 
