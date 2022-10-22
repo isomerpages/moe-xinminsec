@@ -6,7 +6,16 @@ description: ""
 Our School Crest
 ----------------
 
-![schlogo_big.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/About%20Us/School%20Crest,%20Song%20&%20Creed/Our%20School%20Crest/schlogo_big.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/schlogo_big.jpeg" alt="School Crest" style="width:50%;">  
+  
+</body>
 
 The graphic display of grace and exuberance depicts our vibrant and dynamic pupils being ready to strive, excel and serve.
 
