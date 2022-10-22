@@ -36,11 +36,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/MTL%20Curriculum%20Framework.jpeg)" alt="MTL Curriculum Framework" style="width:70%;">  
+<body><img src="/images/MTL%20Curriculum%20Framework.jpeg" alt="MTL Curriculum Framework" style="width:70%;">  
   
 </body>
 
-_Extracted from MTL Syllabus Secondary 2021_
+<p style="text-align:right;"><em>Extracted from MTL Syllabus Secondary 2021</em></p>
 
 Directions:
 -----------
