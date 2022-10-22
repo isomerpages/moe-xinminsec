@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/.keep
+      - Our People/Our People.md
       - Our People/Steering Committee.md
       - Our People/Executive & Administrative Staff.md
       - Our People/Arts Education.md
@@ -16,8 +18,6 @@ collections:
       - Our People/Physical Education.md
       - Our People/Science.md
       - Our People/Character and Citizenship Education.md
-      - Our People/Our People.md
-      - Our People/.keep
       - Contact Us.md
       - 360 Campus Tour.md
       - Prospectus.md
