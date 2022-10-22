@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Stakeholders/Alumni Executive Committee.md
       - Our Stakeholders/Parent Support Group.md
       - Our Stakeholders/.keep
       - School Crest, Song & Creed.md
