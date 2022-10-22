@@ -29,7 +29,16 @@ Desired Xinmin Outcomes
 
   
 
-![pic1.png](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/About%20Us/School%20Information/Desired%20Xinmin%20Outcomes/pic1.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
   
 
