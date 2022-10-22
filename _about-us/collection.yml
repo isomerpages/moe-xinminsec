@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Information.md
       - School History.md
       - Our Stakeholders/Our Stakeholders.md
       - Our Stakeholders/School's Advisory Committee.md
