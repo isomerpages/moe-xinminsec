@@ -33,8 +33,6 @@ To extend learning beyond textbook and classroom, we have a range of talent deve
 
 ![Math_4](/images/Math_4.jpeg)
 
-![Math_5.png](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Mathematics/Math_5.png)  
+![Math_5](/images/Math_5.png)
 
-![Math_6.png](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Mathematics/Math_6.png)
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 685px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><blockquote style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none;">Sec 3 students participating in the Inter-School Mathematical Modelling Challenge held by NUS at Marina Bay.</blockquote></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><blockquote style="margin: 0px 0px 0px 10px; outline: 0px; padding: 0px; border: none;">Sec 1 students applying concepts of construction and measurements to find the seat of student A.</blockquote></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; text-align: center;"><blockquote style="margin: 0px 0px 0px 40px; outline: 0px; padding: 0px; border: none;">In-house S1 math trail showcasing students working in groups to solve authentic mathematical questions on coordinate system and number patterns.</blockquote></td></tr></tbody></table>
+![](/images/Math_6.jpg)
