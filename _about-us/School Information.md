@@ -90,7 +90,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Learning%20Experience%20Framework.jpeg)" alt="Learning Experience Framework" style="width:80%;">  
+<body><img src="/images/Learning%20Experience%20Framework.jpeg" alt="Learning Experience Framework" style="width:80%;">  
   
 </body>
 
