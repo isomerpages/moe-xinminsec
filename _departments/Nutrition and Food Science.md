@@ -28,39 +28,39 @@ Ever have such thoughts in your mind? This is sensory evaluation! In FCE, the Se
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="IMG_0034.jpg" width="100%" src="![](/images/IMG_0034.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 225px; height: 303px;" class="ive_eobj_center" alt="IMG_0084.jpg" width="100%" src="![](/images/IMG_0084.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="IMG_0034.jpg" width="100%" src="/images/IMG_0034.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 225px; height: 303px;" class="ive_eobj_center" alt="IMG_0084.jpg" width="100%" src="/images/IMG_0084.jpeg"></td></tr></tbody></table>
 
   
 
-Learning about food sustainability  
+<u>Learning about food sustainability</u>
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="20210504_141313.jpg" width="100%" src="![](/images/20210504_141313.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="IMG-20210504-WA0010.jpg" width="100%" src="![](/images/IMG-20210504-WA0010.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="20210504_141313.jpg" width="100%" src="/images/20210504_141313.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="IMG-20210504-WA0010.jpg" width="100%" src="/images/IMG-20210504-WA0010.jpeg"></td></tr></tbody></table>
 
   
 ![Nutrition and Food Science_1](/images/Nutrition%20and%20Food%20Science_1.png)
 
 ![Nutrition and Food Science_2](/images/Nutrition%20and%20Food%20Science_2.png)
 
-Honing their culinary skills  
+<u>Honing their culinary skills</u>
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="IMG_6570.jpg" width="100%" src="![](/images/IMG_6570.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpg" width="100%" src="![](/images/45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="IMG_6570.jpg" width="100%" src="/images/IMG_6570.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpg" width="100%" src="/images/45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpeg"></td></tr></tbody></table>
 
   
 
-Displaying their finished work  
+<u>Displaying their finished work</u>  
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="IMG_2294.jpg" width="100%" src="![](/images/IMG_2294.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 393px; height: 303px;" class="ive_eobj_center" alt="IMG_2396.jpg" width="100%" src="![](/images/IMG_2396.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="IMG_2294.jpg" width="100%" src="/images/IMG_2294.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 393px; height: 303px;" class="ive_eobj_center" alt="IMG_2396.jpg" width="100%" src="/images/IMG_2396.jpeg"></td></tr></tbody></table>
 
 Beyond the classroom….
 ----------------------
 
-The Xinmin BYO Bento Challenge 2020
+<u>The Xinmin BYO Bento Challenge 2020</u>
 
   
 <style>  
@@ -70,10 +70,26 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/7a164e51-d25f-4cbc-b002-41d426d450ec.jpeg)" alt="The Xinmin BYO Bento Challenge 2020" style="width:75%;">  
+<body><img src="/images/7a164e51-d25f-4cbc-b002-41d426d450ec.jpeg" alt="The Xinmin BYO Bento Challenge 2020" style="width:75%;">  
+  
+</body>
+<br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/bb6f38b0-ef96-4ef7-af47-f3d9b0fdcc22.jpeg" alt="The Xinmin BYO Bento Challenge 2020" style="width:75%;">  
   
 </body>
 
+  
+
+<u>The IgnITE Skills Challenge 2021</u>
+
+  
 <style>  
 img {  
   display: block;  
@@ -81,15 +97,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/bb6f38b0-ef96-4ef7-af47-f3d9b0fdcc22.jpeg)" alt="The Xinmin BYO Bento Challenge 2020" style="width:75%;">  
+<body><img src="/images/xms_hello%20sunshine.jpeg" alt="The IgnITE Skills Challenge 2021" style="width:75%;">  
   
 </body>
-
-  
-
-The IgnITE Skills Challenge 2021
-
-  
+<br>
 <style>  
 img {  
   display: block;  
@@ -97,17 +108,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/xms_hello%20sunshine.jpeg)" alt="School Uniform" style="width:75%;">  
-  
-</body>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="![](/images/xms_sunset.jpeg)" alt="School Uniform" style="width:75%;">  
+<body><img src="/images/xms_sunset.jpeg" alt="The IgnITE Skills Challenge 2021" style="width:75%;">  
   
 </body>
