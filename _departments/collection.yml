@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Business & IT.md
       - Design and Technology.md
       - English & Literature.md
       - Nutrition and Food Science.md
