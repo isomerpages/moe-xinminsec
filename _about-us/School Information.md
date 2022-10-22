@@ -70,7 +70,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/pic3.png)" alt="Every Xinmin student a Confident Leader" style="width:80%;">  
+<body><img src="/images/pic3.png" alt="Every Xinmin student a Confident Leader" style="width:80%;">  
   
 </body>
 
@@ -83,7 +83,16 @@ img {
 Our Learning Experience Framework
 ---------------------------------
 
-![Learning Experience Framework.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/About%20Us/School%20Information/Our%20Learning%20Experience%20Framework/Learning%20Experience%20Framework.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Learning%20Experience%20Framework.jpeg)" alt="Learning Experience Framework" style="width:80%;">  
+  
+</body>
 
 The components of the framework are described as follows
 
