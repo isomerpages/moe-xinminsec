@@ -78,18 +78,11 @@ img {
 
 We believe that through reading, students will be able to connect to the outside world as well as their inner world. In Xinmin, under “Read@Xinmin Programme”, through “Leisure Reading” and “News-In-Education” two domains, we develop students in both of their sensibility and rationality.
 
-  
-
-**World Book Day’s activities**
-
-<p style="text-align:center;"> <strong><u>8 am to 5.30 pm</u></strong></p>
+<p style="text-align:center;"> <strong><u>World Book Day’s activities</u></strong></p>
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 345px; height: 257px;" class="ive_eobj_center" alt="IMG-20170408-WA0028.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/IMG-20170408-WA0028.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="IMG-20170408-WA0021.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/IMG-20170408-WA0021.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 193px; height: 257px;" class="ive_eobj_center" alt="IMG-20170408-WA0020.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/IMG-20170408-WA0020.jpg"></td></tr></tbody></table>
 
-  
-
-**Students’ Work of Reading**
-<p style="text-align:center;"> <strong><u>8 am to 5.30 pm</u></strong></p>
+<p style="text-align:center;"> <strong><u>Students’ Work of Reading</u></strong></p>
   
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 344px; height: 257px;" class="ive_eobj_center" alt="IMG-20200616-WA0006.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/IMG-20200616-WA0006.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 358px; height: 257px;" class="ive_eobj_center" alt="IMG-20210311-WA0002.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/IMG-20210311-WA0002.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 193px; height: 257px;" class="ive_eobj_center" alt="IMG-20200616-WA0004.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/MTL/IMG-20200616-WA0004.jpg"></td></tr></tbody></table>
