@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts Education/Drama.md
       - Arts Education/.keep
       - Business & IT.md
       - Design and Technology.md
