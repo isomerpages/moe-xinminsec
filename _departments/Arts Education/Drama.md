@@ -34,7 +34,7 @@ The Upper Secondary Drama curriculum promotes experiential learning as well as e
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 317px; height: 259px;" class="ive_eobj_center" alt="Drama_1.jpg" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Arts%20Education/Drama/Drama_1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 312px; height: 259px;" class="ive_eobj_center" alt="Drama_2.jpg" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Arts%20Education/Drama/Drama_2.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 317px; height: 259px;" class="ive_eobj_center" alt="Drama_1.jpg" src="![](/images/Drama_1.jpeg)g"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 312px; height: 259px;" class="ive_eobj_center" alt="Drama_2.jpg" src="![](/images/Drama_2.jpeg)"></td></tr></tbody></table>
 
 **Mirroring Technique**
 
@@ -42,17 +42,12 @@ The Upper Secondary Drama curriculum promotes experiential learning as well as e
 
 \- This is one of the Teacher-led practical workshops
 
-  
+![Drama_3](/images/Drama_3.jpeg)
 
   
+![Drama_4](/images/Drama_4.jpeg) 
 
-![Drama_3.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Arts%20Education/Drama/Drama_3.jpg)
-
-  
-
-![Drama_4.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Arts%20Education/Drama/Drama_4.jpg)  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 198px;" class="ive_eobj_center" alt="Drama_5.jpg" width="100%" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Arts%20Education/Drama/Drama_5.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 451px; height: 198px;" class="ive_eobj_center" alt="Drama_6.jpg" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Arts%20Education/Drama/Drama_6.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 264px; height: 198px;" class="ive_eobj_center" alt="Drama_5.jpg" width="100%" src="![](/images/Drama_5.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 451px; height: 198px;" class="ive_eobj_center" alt="Drama_6.jpg" src="https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Arts%20Education/Drama/Drama_6.jpg"></td></tr></tbody></table>
 
 **Exploring ways to exercise embodiment**
 
