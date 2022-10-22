@@ -15,9 +15,16 @@ _**Inquiry-based Learning**_
 
 This approach places the students at the heart of teaching and learning to develop them into confident, self-directed, critical and reflective thinkers. We activate learning through the asking and co-creation of inquisitive questions about the syllabus content. This often serves as a “hook” for students to feel curious in the process of learning. We then tap into their prior knowledge and build on that through the study and analysis of authentic sources of information. Students then synthesise the knowledge and sense-make with the facilitation of teachers. A conclusion is often formed and this can restart the inquiry cycle once again as they reflect on what they have learnt.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Inquiry%20cycle%20diagram.png)" alt="Inquiry cycle diagram" style="width:50%;">  
   
-
-![Inquiry cycle diagram.png](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Dept/Humanities/Inquiry%20cycle%20diagram.png)
+</body>
 
   
 
