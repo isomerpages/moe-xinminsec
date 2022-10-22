@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Character and Citizenship Education.md
