@@ -29,46 +29,26 @@ It is the high standards and continuous commitment of our student leaders, youth
 
   
 
-**Teachers-in-charge**
-
-Ms Nur Amalina Bte Mohamed Zain
-
+**Teachers-in-charge** <br>
+Ms Nur Amalina Bte Mohamed Zain <br>
 Ms Koh Cher Yee
 
   
 
-**Executive Committee 2021**
-
-Corps Sergeant Major (CSM): Suhailah Binte Mohd Sani (307)
-
-Assistant Corps Sergeant Major (ACSM): Zoe Cai Zu Er (308)
-
-Platoon Sergeant 1: Chloe Tay Wei Xuan (308)
-
-Platoon Sergeant 2: Muhammad Maliki Bin Sulaiman (307)
-
-Platoon Sergeant 3: Nur Ateeqah Putri Binte Abdul (308)
-
-  
-
-Publicity Head: Ang Fang Min (308)
-
-Logistics Head: Loh Kai Xuan (306)
-
+**Executive Committee 2021** <br>
+Corps Sergeant Major (CSM): Suhailah Binte Mohd Sani (307) <br>
+Assistant Corps Sergeant Major (ACSM): Zoe Cai Zu Er (308) <br>
+Platoon Sergeant 1: Chloe Tay Wei Xuan (308) <br>
+Platoon Sergeant 2: Muhammad Maliki Bin Sulaiman (307) <br>
+Platoon Sergeant 3: Nur Ateeqah Putri Binte Abdul (308) <br> <br>
+Publicity Head: Ang Fang Min (308) <br>
+Logistics Head: Loh Kai Xuan (306) <br>
 Cadet Development Head: Nashyria Allysha Binte Al-Malek (308)
 
-  
-
-**CCA Schedule**
-
+**CCA Schedule** <br>
 Every Friday: 2pm to 6pm  
 
-  
-
-**CCA Achievement**
-
+**CCA Achievement** <br>
 Gold for Corps Achievement Award (2019)
-
-  
 
 [How to apply for Direct School Admission](https://xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission)
