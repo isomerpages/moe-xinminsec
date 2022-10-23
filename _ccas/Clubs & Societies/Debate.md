@@ -4,8 +4,16 @@ permalink: /ccas/clubs-n-societies/debate/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Debate.jpeg" alt="Debate" style="width:90%;">  
   
-![Debate.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Clubs%20&%20Societies/Debate/Debate.jpg)  
+</body>
 
 The Xinmin Debate Club encourages its members to think critically and intelligently on a given issue, develop an informed opinion and to express that opinion in a clear and persuasive manner. Students are involved in friendly as well as national competitions.
 
@@ -25,8 +33,7 @@ These are the competitions which the debaters took part in this year, running th
 
   
 
-**CCA Achievements**  
-
+**CCA Achievements**  <br>
 XMS Debate Club has participated in multiple competitions including the National Singapore Secondary Schools Debating Championships and have even competed against international opponents at the WoLCe World Inter-School Debating Competition. 
 
   
@@ -39,26 +46,15 @@ Aside from simply taking part in competitions, the club seeks to foster an attit
 
   
 
-**Teachers-in-charge**
-
-Mr Harvinder Singh
-
-Ms Nanthini Gunasekaran
-
+**Teachers-in-charge** <br>
+Mr Harvinder Singh <br>
+Ms Nanthini Gunasekaran <br>
 Ms Nadhrah Zainalabiden 
 
-  
-
-**Debate CCA Leaders**
-
-Vanessa Tjia (Chairperson)
-
+**Debate CCA Leaders** <br>
+Vanessa Tjia (Chairperson) <br>
 Andrea Mok Kai Ting (Vice- Chairperson)
 
-  
-
-**CCA Schedule**
-
-Wednesdays: 3.45pm to 6pm
-
+**CCA Schedule** <br>
+Wednesdays: 3.45pm to 6pm <br>
 Fridays: 2.15pm to 4.30pm
