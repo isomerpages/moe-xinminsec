@@ -4,8 +4,16 @@ permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-![Choir.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Performing%20Arts/Choir/Choir.jpg)**_Students will be required to undergo trials and selections before joining this CCA.)_**  
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Choir.jpeg)" alt="Choir" style="width:90%;">  
+  
+</body>
   
 
 Xinmin Chorale is a youth choir consisting of talented and enthusiastic singers. We seek to inculcate a passion for singing in each of our choristers, and in the process mould them into all-round and gracious student leaders.
