@@ -38,8 +38,7 @@ Our shooters have worked hard to achieve good results at the 2021 NSG Shooting C
 
   
 
-**B Division (Air Pistol Men)**
-
+**B Division (Air Pistol Men)** <br>
 *   Team 11th
 
   
@@ -68,14 +67,10 @@ Our shooters have worked hard to achieve good results at the 2021 NSG Shooting C
 
   
 
-**Teachers-in-charge**
-
-Ms Norfarhana Abdullah (IC)  
-
-Mr Lionel Foon
-
-Ms Norhuda Bte Maksum
-
+**Teachers-in-charge** <br>
+Ms Norfarhana Abdullah (IC)  <br>
+Mr Lionel Foon <br>
+Ms Norhuda Bte Maksum <br>
 Mdm Pok Siok Cheng
 
   
