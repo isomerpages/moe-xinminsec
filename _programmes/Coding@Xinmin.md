@@ -3,6 +3,8 @@ title: Coding@Xinmin
 permalink: /programmes/coding-at-xinmin/
 description: ""
 ---
+_Updated on 24th October 2019_
+
 <style>  
 img {  
   display: block;  
