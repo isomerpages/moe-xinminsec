@@ -3,9 +3,16 @@ title: Coding@Xinmin
 permalink: /programmes/coding-at-xinmin/
 description: ""
 ---
-![Coding1.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Programmes/Coding@Xinmin/Coding1.jpg)
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Coding1.jpeg" alt="Coding@Xinmin" style="width:90%;">  
   
+</body>
 
 “Technology has forever changed the world we live in…”
 
