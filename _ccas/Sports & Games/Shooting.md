@@ -4,11 +4,18 @@ permalink: /ccas/sports-n-games/shooting/
 description: ""
 third_nav_title: Sports & Games
 ---
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Shooting_2021.jpeg" alt="Shooting" style="width:90%;">  
   
-![Shooting_2021.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Sports%20&%20Games/Shooting/Shooting_2021.jpg)
+</body>
 
-**_(Students will be required to undergo trials and selections before joining this CCA.)_**
-
+<p style="text-align:center;"><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p>
   
 
 The Xinmin Shooting Team was set up in 2004 to kindle students’ interest in 10m air rifle and air pistol shooting.
