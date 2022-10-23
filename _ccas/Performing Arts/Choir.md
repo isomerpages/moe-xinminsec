@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Choir.jpeg)" alt="Choir" style="width:90%;">  
+<body><img src="/images/Choir.jpeg" alt="Choir" style="width:90%;">  
   
 </body>
   
