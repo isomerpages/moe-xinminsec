@@ -27,54 +27,39 @@ Under the musical direction of our band maestro, Mr Daniel Kiang, and the ongoin
 
   
 
-**Teachers-in-charge**
-
-Ms Lio Dan Wei (IC)
-
-Ms Susan Lee Boon Hong
-
-Ms Ong Chiew Inn
-
+**Teachers-in-charge** <br>
+Ms Lio Dan Wei (IC) <br>
+Ms Susan Lee Boon Hong <br>
+Ms Ong Chiew Inn <br>
 Ms Siti Khairunnisa
 
   
 
-**Conductors**
-
-Mr Daniel Kiang – Senior band
-
+**Conductors** <br>
+Mr Daniel Kiang – Senior band <br>
 Ms Leong Tjar Ngee – Junior & Recruit Band
 
   
 
-**Student Committee**
-
-Drum Major: Janelle Lim (303)
-
-Band Major (MUSIC): Acasio Shayne Braeden Climacosa (303)
-
-Band Major (ADMIN): Jovan Soh Kim Chew (306)
-
+**Student Committee** <br>
+Drum Major: Janelle Lim (303) <br>
+Band Major (MUSIC): Acasio Shayne Braeden Climacosa (303) <br>
+Band Major (ADMIN): Jovan Soh Kim Chew (306) <br>
 Secretary & Media: Chin Megan (301)
 
   
 
-**CCA Schedule**  
-
-Mon 3.30pm – 6.30pm Senior Band 3 & 4 
-
-Wed 3.30pm – 5.30pm Junior Band 
-
-Wed 3.30pm – 6.30pm Senior Band 3 &4
-
+**CCA Schedule**   <br>
+Mon 3.30pm – 6.30pm Senior Band 3 & 4  <br>
+Wed 3.30pm – 5.30pm Junior Band  <br>
+Wed 3.30pm – 6.30pm Senior Band 3 &4 <br>
 Friday 2-5pm: Recruit Band (Sec 1s)
 
   
 
-**CCA Achievement**
-
+**CCA Achievement** <br>
 Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017
 
   
 
-[How to apply for Direct School Admission](https://xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission)
+[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
