@@ -15,6 +15,7 @@ img {
   
 </body>
   
+<p style="text-align:center;"><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p>
 
 Xinmin Chorale is a youth choir consisting of talented and enthusiastic singers. We seek to inculcate a passion for singing in each of our choristers, and in the process mould them into all-round and gracious student leaders.
 
@@ -42,55 +43,62 @@ In 2017 and 2019, the choir staged successful public concerts at the Esplanade a
 
 It is our long-standing belief that through providing the right environment, guidance and opportunities for students who love music and enjoy singing, they would develop their individual talents, and they would also be imbued with our school’s values of respect, responsibility and resilience.
 
-  
-
-  
-
-**Teachers-in-charge**
-
-Ms Gwyneth Chua Lishan (IC)  
-
-Mr Tau Jun Hui
-
+**Teachers-in-charge** <br>
+Ms Gwyneth Chua Lishan (IC)   <br>
+Mr Tau Jun Hui <br>
 Ms Joanne Kong
-
-  
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; width: 413.6pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border: none;" width="551" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border: 1pt solid rgb(170, 170, 170);" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">President</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-image: initial; border-left: none;" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Jean Goh Shi Yi (403)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">VP (Admin)</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Lim Yu Xi (401)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">VP (Discipline)</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Raeann Chia Rui En (406)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Logistic IC</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Chen Jiayu (402)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Welfare IC</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Deshmukh Nupur Jitendra (403)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Section Leader (Soprano)</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Tong Hui Ying (405)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Section Leader (Alto)</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Ethan Lew Dingrong (405)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Section Leader (Tenor)</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Lim Yu Heng (404)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Section Leader (Bass)</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Yang Wen Heng Xavier (401)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 170.6pt; border-right: 1pt solid rgb(170, 170, 170); border-bottom: 1pt solid rgb(170, 170, 170); border-left: 1pt solid rgb(170, 170, 170); border-image: initial; border-top: none;" width="227"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Combined Group Leader</span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 243pt; border-top: none; border-left: none; border-bottom: 1pt solid rgb(170, 170, 170); border-right: 1pt solid rgb(170, 170, 170);" width="324"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13pt;">Chua Ming Zhe (408)</span></p></td></tr></tbody></table>
 
-**CCA Schedule**
-
-Wednesdays: 3:45pm to 6pm&nbsp;
-
-Fridays: 2pm to 5pm
-
+**CCA Schedule** <br>
+Wednesdays: 3:45pm to 6pm&nbsp; <br>
+Fridays: 2pm to 5pm <br>
 Extra sectional practices will be conducted prior to competitions and performances.
 
-  
-
-**CCA Achievement**
-
+**CCA Achievement** <br>
 Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017
 
-  
+**SYF 2019**
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/syf%202019.jpeg)" alt="Choir SYF 2019" style="width:90%;">  
   
+</body>
+
 
 **SYF 2019**
 
-![syf 2019.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Performing%20Arts/Choir/syf%202019.jpg)
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/syf_2019_1.jpeg)" alt="Choir SYF 2019" style="width:90%;">  
   
-
-**SYF 2019**
-
-![syf_2019_1.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Performing%20Arts/Choir/syf_2019_1.jpg)
+</body>
 
   
 
 **Limelight@Esplanade**
 
-![limelight2019.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Performing%20Arts/Choir/limelight2019.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Choir.jpeg" alt="Choir Limelight@Esplanade" style="width:90%;">  
+  
+</body>
 
   
 
