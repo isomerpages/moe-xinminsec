@@ -73,9 +73,10 @@ Alton subsequently, signed up for the CRADLE programme co-organised by Science C
  
 <p style="text-align:justify">
 While Alton is doing his post-secondary education in Yishun Innova Junior College, he remains actively involved in pursuing Science research, and has been selected into NTU’s Nanyang Research Programme (NRP) since the beginning of 2021. He is currently doing a research on remote sensing (using UAVs) for the monitoring of water bodies in the NRP.&nbsp;</p>
-![](/images/Talent%20Development.jpg)
 
-Jeyvian (401, 2021)
+![Talent Development](/images/Talent%20Development.jpg)
+
+<u>Jeyvian (401, 2021)</u>
 
 Jeyvian is our current Sec 4 student offering O-level Computing. &nbsp;She started her journey in programming with Xinmin and had demonstrated strong interest in both tinkering and coding since joining the school.  
 She gathered a group of like-minded friends to form teams to participate in both MakeX and RippleX competitions and received good results for it. When asked about what she enjoyed most from the competitions, she said she enjoyed creating solutions through prototyping and also to bring her friends together to work on something through both the card-boarding and coding skills. Jeyvian also shared that she benefitted from the exposure to computational thinking and different computing languages from Coding@Xinmin and this knowledge enabled her to handle the different tasks in the competitions with ease and confidence. The design thinking and paper prototyping process also added to her confidence.
