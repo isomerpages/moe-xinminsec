@@ -4,7 +4,17 @@ permalink: /ccas/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![GB.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Uniformed%20Groups/Girls%20Brigade/GB.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/GB.jpeg" alt="Girls' Brigade" style="width:90%;">  
+  
+</body>
+
 The Girls’ Brigade 42nd Company aims to provide girls and young women with the opportunity to grow and to lead to develop them to their fullest potential by Equipping, Empowering and Enabling every Girl to be a leader, and every Officer a Servant Leader.   
 
   
@@ -33,34 +43,20 @@ This year, Ximmin Secondary School has been nominated to represent Girls’ Brig
 
   
 
-  
-
-  
-
-  
-
-**CCA Schedule**
-
-Wednesdays: 4.00 pm to 6:00 pm
-
+**CCA Schedule** <br>
+Wednesdays: 4.00 pm to 6:00 pm <br>
 Saturdays: 8:30 am to 12 noon
 
   
 
-**CCA Achievement**
-
-Attained Girls’ Brigade Company Award 2021 (9th Consecutive Gold)
-
-2020 Pioneer Brigader Brooch Award – 1 awardee
-
-2021 Pioneer Brigader Brooch Award – 1 awardee
-
-2022 Pioneer Brigader Brooch Award – 2 awardees  
-
+**CCA Achievement** <br>
+Attained Girls’ Brigade Company Award 2021 (9th Consecutive Gold) <br>
+2020 Pioneer Brigader Brooch Award – 1 awardee <br>
+2021 Pioneer Brigader Brooch Award – 1 awardee <br>
+2022 Pioneer Brigader Brooch Award – 2 awardees  <br>
 _(The Pioneer Brigadier’s Brooch is the highest and most prestigious award for a secondary GB girl after completion of her senior and pioneer pins)_
 
 Dr. Low Guat Tin Challenge 2021 \[Gold – 2 groups (Poem and Prose)\]
-
                                                        \[Bronze – 2 groups (Poster)\]
 
   
@@ -69,6 +65,4 @@ Please follow @xms.gb42 on Instagram for ongoing updates and photos of our event
 
 For more information, head over to [https://sites.google.com/view/xms42gb](https://sites.google.com/view/xms42gb)
 
-  
-
-[How to apply for Direct School Admission](https://xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission)
+[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
