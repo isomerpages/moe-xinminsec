@@ -96,7 +96,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir.jpeg" alt="Choir Limelight@Esplanade" style="width:90%;">  
+<body><img src="![](/images/limelight2019.jpeg)" alt="Choir Limelight@Esplanade" style="width:90%;">  
   
 </body>
 
@@ -104,7 +104,16 @@ img {
 
 **SYF x NDP 2020**
 
-![te.png](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Performing%20Arts/Choir/te.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/te.png)" alt="Choir SYF x NDP 2020" style="width:90%;">  
+  
+</body>
 
   
 
