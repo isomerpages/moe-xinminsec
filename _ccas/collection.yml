@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs & Societies/Art Club.md
       - Clubs & Societies/Debate.md
       - Clubs & Societies/Media Club.md
       - Clubs & Societies/Outdoor Adventure Club.md
