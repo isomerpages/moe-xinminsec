@@ -55,8 +55,7 @@ Singaporean students who do not meet the eligibility criteria for MOE FAS may al
 
   
 
-Thank you.
-
+Thank you. <br>
 General Office
 
 Xinmin Secondary School
