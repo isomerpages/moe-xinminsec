@@ -36,9 +36,8 @@ _b. family with more than 5 children in GGAS_
 
 _c. family with more than 4 unmarried children not in GGAS_
 
-_d. family with more than 3 grandparents in the household_
-
-_\[GGAS : Government and Government-Aided Schools\]_
+_d. family with more than 3 grandparents in the household_ <br>
+<small><em>[GGAS : Government and Government-Aided Schools\]</em></small>
 
 Application forms must be completed and submitted together with the required supporting documents by&nbsp;**_Friday, 11 November 2022_**. This is to ensure that our FAS students receive their school uniform~s~&nbsp;and textbooks by December 2022, before the start of the new school term on 3 January 2023.
 
