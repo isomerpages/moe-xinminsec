@@ -27,7 +27,7 @@ description: ""
 #### Direct School Admission
 
 05 May 2022 <br>
-[Read more](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/direct-school-admission#_ptoo_99224)
+[Read more](/resources/students/admissions/direct-school-admission#_ptoo_99224)
 
 #### COVID-19 related news
 
