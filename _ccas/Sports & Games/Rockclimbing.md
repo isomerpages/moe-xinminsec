@@ -4,7 +4,16 @@ permalink: /ccas/sports-n-games/rockclimbing/
 description: ""
 third_nav_title: Sports & Games
 ---
-![rockclimbing.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Sports%20&amp;%20Games/Rockclimbing/rockclimbing.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/rockclimbing.jpeg" alt="Climbing" style="width:90%;">  
+  
+</body>
 
 **_(Students will be required to undergo trials and selections before joining this CCA.)_**
 
