@@ -4,7 +4,16 @@ permalink: /ccas/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![SJB.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Uniformed%20Groups/St.%20John%20Brigade/SJB.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/SJB.jpeg" alt="St. John Brigade" style="width:90%;">  
+  
+</body>
 
 In St. John Brigade (SJB), cadets participate in a myriad of activities such as home nursing, hospital attachment, camping, outdoor activities and more, over the course of 4 years. Cadets undergo continual upgrading of their first aid skills and knowledge during weekly trainings. This enables them to assist in rendering first aid during school and public events. At the time of each cadet’s graduation from Xinmin Secondary, s/he would have attained, at least, Certification in Basic First Aid and/or Cardiopulmonary resuscitation (CPR) + Automated External Defibrillator (AED).
 
