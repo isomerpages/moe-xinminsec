@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Cognitive.md
       - Physical.md
       - Student Leadership, Social & Moral Domain.md
