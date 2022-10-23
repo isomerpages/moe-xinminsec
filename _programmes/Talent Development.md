@@ -58,14 +58,10 @@ You may wish to spend the time set aside for SIL to explore and further develop 
 Alton has always been very interested in Science and we encouraged him to engage in various enrichment opportunities in the subject. Building on the Level 1 programmes we offer all students as part of their lower secondary Science curriculum, we encouraged Alton to take part in the Science Busker's festival, where he explored the effect of heat in creating convection currents through the use of emptied tea-bags.
 
   
-
-![TD2.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD2.jpg)
-
-Encouraged by this experience, Alton then participated in the International Student Science Festival, submitting a poster on his research in converting light energy to electrical energy using chlorophyll from plants.  
-
-  
-
-  
+<p style="float:left; margin: 0 10px 0px 0">
+<img src="/images/TD2.jpeg" alt="Talent Development" style="width:175px" /></p>
+<p style="text-align:justify">
+Encouraged by this experience, Alton then participated in the International Student Science Festival, submitting a poster on his research in converting light energy to electrical energy using chlorophyll from plants. </p>
 
 ![TD3.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD3.jpg)Alton subsequently, signed up for the CRADLE programme co-organised by Science Centre Singapore and MOE, in which he created a drone (quadcopter) under the mentorship of Mr Edmund Khee, a scientist from Science Centre Singapore. It is noteworthy that, for this project, Alton also drew on what he learnt from Coding@Xinmin.  
 
