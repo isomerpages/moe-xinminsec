@@ -4,7 +4,16 @@ permalink: /ccas/clubs-n-societies/outdoor-adventure-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![ODAC.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Clubs%20&%20Societies/Outdoor%20Adventure%20Club/ODAC.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/ODAC.jpeg" alt="Outdoor Adventure Club" style="width:90%;">  
+  
+</body>
 
 ODAC members, while engaging in challenging and adventurous local or overseas activities, work together in small groups to exercise leadership and equally important, followership, practise inclusiveness, learn the value of working towards a common goal and recognise the unique attributes each individual brings to the team. These objectives/practices are exemplified by ODAC’s motto: _Improvise, Adapt, Overcome_.
 
@@ -20,46 +29,24 @@ Personal experience in a variety of outdoor settings also helps them to feel mor
 
 Finally, on the most basic level, ODAC gets every member to practise simple physical exercise, healthy living (or is it lifestyle?) habits and an opportunity for members to interact and build strong relationships away from the usual classroom environment.
 
-  
-
-  
-
-**Teachers-in-charge**
-
-Mr Michael Vincent Rodrigues (IC)
-
-Ms Belinda Lim Ee Gek
-
-Mr Jeremy Tan Kian Seng 
-
+**Teachers-in-charge** <br>
+Mr Michael Vincent Rodrigues (IC) <br>
+Ms Belinda Lim Ee Gek <br>
+Mr Jeremy Tan Kian Seng  <br>
 Ms Vanessa Chia Su Qing
 
-  
-
-**Affiliate**
-
-Mr Hardev Singh
-
+**Affiliate** <br>
+Mr Hardev Singh <br>
 Mr Effendy Ahmadi  
 
   
 
-**Student Committee 2022/21**
-
-President:           Wayne Quah (403)
-
-Vice-Presidents: Tee Zee Gheng (408)
-
-                            Ahsta Siddthi Shanker (405)
-
-Quartermasters:  Amriel Lee Li Xuan (402)
-
+**Student Committee 2022/21** <br>
+President:           Wayne Quah (403) <br>
+Vice-Presidents: Tee Zee Gheng (408) <br>
+                           Ahsta Siddthi Shanker (405) <br>
+Quartermasters:  Amriel Lee Li Xuan (402) <br>
                             Shanice Lee Ruiqi (408)
 
-  
-
-  
-
-**CCA Training Schedule**
-
+**CCA Training Schedule** <br>
 Wednesdays & Fridays: 3.30pm to 6.30pm
