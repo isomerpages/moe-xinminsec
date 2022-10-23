@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Drama.jpeg)" alt="English Drama" style="width:90%;">  
+<body><img src="/images/Drama.jpeg" alt="English Drama" style="width:90%;">  
   
 </body>
 
@@ -25,52 +25,36 @@ Most importantly, English Drama is a place where ideas are shared and friendship
 
   
 
-**Teachers-in-charge**  
-
-Mdm Norliza Ali (IC)
-
-Mdm Rebecca Abey
-
+**Teachers-in-charge**  <br>
+Mdm Norliza Ali (IC) <br>
+Mdm Rebecca Abey <br>
 Ms Sophie Ng Lai San
 
   
 
-**Student Committee**
-
-President: Tan Yi Shi (301)
-
-Vice-President: Ian Tan (308)
-
-Discipline: Sreejeet Roy (304)
-
-Admin: Elicia Ng (305)
-
+**Student Committee** <br>
+President: Tan Yi Shi (301) <br>
+Vice-President: Ian Tan (308) <br>
+Discipline: Sreejeet Roy (304) <br>
+Admin: Elicia Ng (305) <br>
 Welfare: Avina Ong (307)
 
   
 
-**CCA Schedule**
-
-Wednesdays: 3.45pm to 5.45pm
-
+**CCA Schedule** <br>
+Wednesdays: 3.45pm to 5.45pm <br>
 Fridays: 2pm to 5pm
 
   
 
-**CCA Achievement**
-
-Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017
-
-Most Creative Play Award in Singapore Youth Festival 2018 Celebrations
-
-Outstanding Performance in Creativity, Teamwork and Performance Structure for the Play! in Singapore Youth Festival 2019 Celebrations
-
-Attained a Certificate of Accomplishment in Singapore Youth Festival (SYF) 2019
-
-Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2021
-
+**CCA Achievement** <br>
+Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017 <br>
+Most Creative Play Award in Singapore Youth Festival 2018 Celebrations <br>
+Outstanding Performance in Creativity, Teamwork and Performance Structure for the Play! in Singapore Youth Festival 2019 Celebrations <br>
+Attained a Certificate of Accomplishment in Singapore Youth Festival (SYF) 2019 <br>
+Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2021 <br>
 Attained a Certificate of Recognition of Participation Singapore Youth Festival (SYF) 2021
 
   
 
-[How to apply for Direct School Admission](https://xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission)
+[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
