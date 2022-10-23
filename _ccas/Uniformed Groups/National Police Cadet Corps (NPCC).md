@@ -4,7 +4,16 @@ permalink: /ccas/uniformed-groups/national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![NPCC.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Uniformed%20Groups/NPCC/NPCC.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/NPCC.jpeg" alt="National Police Cadet Corps (NPCC)" style="width:90%;">  
+  
+</body> 
   
 
 Xinmin National Police Cadet Corps (NPCC) is a vibrant and dynamic CCA. Our training activities include footdrill, armsdrill, shooting, kayaking, campcraft, road safety, crime prevention and police knowledge.
@@ -25,10 +34,8 @@ We take pride in providing ample opportunities to develop our cadets into respon
 
   
 
-**Teachers-in-charge**
-
-Mr Ganesan Selvarathnam (IC)
-
+**Teachers-in-charge** <br>
+Mr Ganesan Selvarathnam (IC) <br>
 Mr Mohamed Firdaus Bin Mohamed Taib
 
   
@@ -53,8 +60,7 @@ Mr Mohamed Firdaus Bin Mohamed Taib
 
   
 
-**53rd Cadet Leader Committee for AY2019**
-
+**53rd Cadet Leader Committee for AY2019** <br>
 <table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 250px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Training Chairperson:</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Unit Support Chairperson:</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Sec 2 Squad Commanders:</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Sec 1 Squad Commanders:</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Jerald Yap Guang Chern</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Chan Jin Ze</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Alastair Pek Kang Yan</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Jerald Yap Guang Chern</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Mohd Syauqi Bin Nowawie</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Bryan Dee Jia Chern</div></td></tr></tbody></table>
 
   
@@ -71,14 +77,11 @@ Mr Mohamed Firdaus Bin Mohamed Taib
 
   
 
-**CCA Schedule**
-
-Wednesdays: 3.30 pm to 5.30 pm
-
+**CCA Schedule** <br>
+Wednesdays: 3.30 pm to 5.30 pm <br>
 Fridays: 3 pm to 6 pm
 
   
 
-**CCA Achievement**
-
+**CCA Achievement** <br>
 Attained Unit Overall Proficiency Award 2017 (Silver)
