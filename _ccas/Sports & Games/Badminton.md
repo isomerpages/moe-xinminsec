@@ -15,6 +15,7 @@ img {
   
 </body>
 
+<p style="text-align:center;"><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p>
   
 
 Badminton is a demanding racquet sport which requires agility, strength, power, speed and high mental endurance. In Xinmin Badminton Team (XMBT), we strive to not only equip our players with proper badminton skills and techniques; we also inculcate important values such as teamwork, resilience and leadership in our players. Besides training hard and participating in competitions, our players also get opportunities to plan and organise events such as the Sec 1 Induction Programme, Xinmin Invitational Competition for the primary schools players, the N1 Cluster Games as well as our own Annual Badminton Camp. These events provide excellent platforms for our players to hone their leadership skills and to strengthen the bonds among players in the team.   
