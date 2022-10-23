@@ -15,21 +15,18 @@ description: ""
 
 #### EOY Script Check Time Table
 
-12 Oct 2022
-
-[Read more](http://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Announcements/EOY%20Script%20Check%20Time%20Table/EOY%20Script%20Check%20TT%20Class.pdf)
+12 Oct 2022 <br>
+[Read more](/files/EOY%20Script%20Check%20TT%20Class.pdf)
 
 #### 2021 School Graduation Certificate
 
-11 May 2022
-
-[Read more](https://xinminsec-moe-edu-sg-admin.cwp.sg/xss/announcements/2021-school-graduation-certificate)
+11 May 2022 <br>
+[Read more](/xss/announcements/2021-school-graduation-certificate)
 
 
 #### Direct School Admission
 
-05 May 2022
-
+05 May 2022 <br>
 [Read more](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/direct-school-admission#_ptoo_99224)
 
 #### COVID-19 related news
