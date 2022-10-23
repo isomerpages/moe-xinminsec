@@ -15,6 +15,8 @@ img {
   
 </body>
 
+<p style="text-align:center;"><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p>
+
   
 
 The Xinmin Chinese Dance Troupe was established in 1995. In 1999, the girls participated in the Singapore Youth Festival (SYF) Central Judging and were awarded a Silver medal. In 2001, they participated in the SYF again and clinched the Gold award.
