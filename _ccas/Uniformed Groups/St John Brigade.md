@@ -51,4 +51,4 @@ Every Friday: 2pm to 6pm
 **CCA Achievement** <br>
 Gold for Corps Achievement Award (2019)
 
-[How to apply for Direct School Admission](https://xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission)
+[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
