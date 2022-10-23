@@ -33,5 +33,4 @@ description: ""
 
 [Resource Kit - Parent Kit - Back to School (Updated-final).pdf](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20School%20(Updated-final).pdf)  
 [SOP for Student Management during FHBL students.pdf](/files/SOP%20for%20Student%20Management%20during%20FHBL%20students.pdf)
-
 [https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection)
