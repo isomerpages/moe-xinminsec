@@ -28,31 +28,16 @@ Club members also attend workshops and training by experienced professionals cur
   
 
 In Xinmin Media Club, we believe in being Professionals at work, Family at play. So come and join us today!
+ 
 
-  
-
-  
-
-**Teachers-In-Charge**
-
-Mr Kuo Yu Hsuan (IC)
-
-Ms Song Mei’en Lyn
-
-Mr Arthur Lee Pei Pin
-
-Ms Aminah Bte Mohd Nagieb
-
+**Teachers-In-Charge** <br>
+Mr Kuo Yu Hsuan (IC) <br>
+Ms Song Mei’en Lyn <br>
+Mr Arthur Lee Pei Pin <br>
+Ms Aminah Bte Mohd Nagieb <br>
 Mr Ho Siang Teng Peter
 
-  
-
-  
-
-**CCA Practice Schedule**
-
-Wednesdays: 3pm to 6pm
-
-Fridays: 2.30pm to 5.30pm
-
+**CCA Practice Schedule** <br>
+Wednesdays: 3pm to 6pm <br>
+Fridays: 2.30pm to 5.30pm <br>
 Students are expected to assist with media duties.
