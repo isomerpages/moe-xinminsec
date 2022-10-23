@@ -63,13 +63,20 @@ Alton has always been very interested in Science and we encouraged him to engage
 <p style="text-align:justify">
 Encouraged by this experience, Alton then participated in the International Student Science Festival, submitting a poster on his research in converting light energy to electrical energy using chlorophyll from plants. </p>
 
-![TD3.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD3.jpg)Alton subsequently, signed up for the CRADLE programme co-organised by Science Centre Singapore and MOE, in which he created a drone (quadcopter) under the mentorship of Mr Edmund Khee, a scientist from Science Centre Singapore. It is noteworthy that, for this project, Alton also drew on what he learnt from Coding@Xinmin.  
+<br>
 
-While Alton is doing his post-secondary education in Yishun Innova Junior College, he remains actively involved in pursuing Science research, and has been selected into NTU’s Nanyang Research Programme (NRP) since the beginning of 2021. He is currently doing a research on remote sensing (using UAVs) for the monitoring of water bodies in the NRP.&nbsp;
+<p style="float:left; margin: 0 10px 0px 0">
+<img src="![](/images/TD3.jpeg)" alt="Talent Development" style="width:175px" /></p>
+<p style="text-align:justify">
+Alton subsequently, signed up for the CRADLE programme co-organised by Science Centre Singapore and MOE, in which he created a drone (quadcopter) under the mentorship of Mr Edmund Khee, a scientist from Science Centre Singapore. It is noteworthy that, for this project, Alton also drew on what he learnt from Coding@Xinmin. </p>
 
-  
+ 
+<p style="text-align:justify">
+While Alton is doing his post-secondary education in Yishun Innova Junior College, he remains actively involved in pursuing Science research, and has been selected into NTU’s Nanyang Research Programme (NRP) since the beginning of 2021. He is currently doing a research on remote sensing (using UAVs) for the monitoring of water bodies in the NRP.&nbsp;</p>
 
-![TD5.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD5.jpg)![TD6.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD6.jpg)  
+![TD5.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD5.jpg)
+
+![TD6.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD6.jpg)  
 
   
 
