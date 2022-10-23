@@ -4,3 +4,7 @@ links:
     collection: about-us
   - title: Departments
     collection: departments
+  - title: CCAs
+    collection: ccas
+  - title: Programmes
+    collection: programmes
