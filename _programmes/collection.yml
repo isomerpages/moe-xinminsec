@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Student Leadership Academy.md
       - XinminCares.md
       - Blended Learning.md
       - Full SBB.md
