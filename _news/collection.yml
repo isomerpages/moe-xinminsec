@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Achievements/Staff.md
       - Achievements/Alumni.md
       - Achievements/Stakeholders.md
       - Achievements/.keep
