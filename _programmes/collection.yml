@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Coding@Xinmin.md
       - RefleXions@Xinmin.md
       - Student Leadership Academy.md
       - XinminCares.md
