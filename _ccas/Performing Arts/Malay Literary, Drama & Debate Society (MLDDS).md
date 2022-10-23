@@ -12,8 +12,7 @@ MLDDS provides students with valuable opportunities to showcase their talents, w
 
   
 
-**PERFORMANCE HIGHLIGHTS**
-
+**PERFORMANCE HIGHLIGHTS** <br>
 2021 was a memorable year for the Malay Dance girls to have attained Certificate of Accomplishment for their debut performance in Singapore Youth Festival (SYF) Presentation this year. The girls debut and persevered with dedication to present graceful movements titled Rentasan Ritma during the festival.
 
   
@@ -22,30 +21,22 @@ In February 2019, both Dikir Barat and Malay Dance put up an excellent performan
 
   
 
-**Teacher-In-Charge:**
-
+**Teacher-In-Charge:** <br>
 Ms&nbsp;Nor’Ain Binte Ismail
 
   
 
-**Student Committee 2021/2022**
-
-President: Aqeel Selamat 307
-
-Vice President: Angie Wong En Qi 301
-
-Awak-awak Master: Muhammad Maliki Bin Sulaiman 407
-
+**Student Committee 2021/2022** <br>
+President: Aqeel Selamat 307 <br>
+Vice President: Angie Wong En Qi 301 <br>
+Awak-awak Master: Muhammad Maliki Bin Sulaiman 407 <br>
 Social Media Support: Audi Airwan 303 , Eshly Qasrina Bte Mohammad Fadillah 307
 
   
 
-**CCA Practice Schedule**
-
-Tuesdays: 4.00pm – 6.00pm
-
-\*Thursdays: 3.30pm – 5.30pm
-
+**CCA Practice Schedule** <br>
+Tuesdays: 4.00pm – 6.00pm <br>
+\*Thursdays: 3.30pm – 5.30pm <br>
 (\*Extra session prior to competitions)
 
 **SOCIAL MEDIA PAGE : @xms.mldds (Instagram)**
