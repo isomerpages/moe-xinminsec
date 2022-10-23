@@ -48,12 +48,12 @@ Fridays: 2pm to 5pm
   
 
 **CCA Achievement** <br>
-Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017 <br>
-Most Creative Play Award in Singapore Youth Festival 2018 Celebrations <br>
-Outstanding Performance in Creativity, Teamwork and Performance Structure for the Play! in Singapore Youth Festival 2019 Celebrations <br>
-Attained a Certificate of Accomplishment in Singapore Youth Festival (SYF) 2019 <br>
-Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2021 <br>
-Attained a Certificate of Recognition of Participation Singapore Youth Festival (SYF) 2021
+* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017 <br>
+* Most Creative Play Award in Singapore Youth Festival 2018 Celebrations <br>
+* Outstanding Performance in Creativity, Teamwork and Performance Structure for the Play! in Singapore Youth Festival 2019 Celebrations <br>
+* Attained a Certificate of Accomplishment in Singapore Youth Festival (SYF) 2019 <br>
+* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2021 <br>
+* Attained a Certificate of Recognition of Participation Singapore Youth Festival (SYF) 2021
 
   
 
