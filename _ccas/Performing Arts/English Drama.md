@@ -4,7 +4,16 @@ permalink: /ccas/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
 ---
-![Drama.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Performing%20Arts/English%20Drama/Drama.jpg)  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Drama.jpeg)" alt="English Drama" style="width:90%;">  
+  
+</body>
 
 The Xinmin English Drama Club aims to groom a troupe of talented and confident young performers through a series of tailored programmes and the guidance of experienced instructors. Students are provided with a platform to showcase their artistic potential and are awarded with opportunities to excel in various aspects of drama. They can demonstrate their creativity by contributing on-stage and off-stage in areas including acting, stage management, directing, writing, planning events and creating stage props and costumes. Through weekly training sessions and various internal and external performances, students can uncover their own hidden talents in acting, develop their voices and gain confidence in expressing themselves. And most of all, forged close bonds as a result of many hours of training and collaboration as a team.
 
