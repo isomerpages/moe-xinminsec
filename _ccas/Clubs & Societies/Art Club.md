@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/ArtClub.jpeg)" alt="Art Club" style="width:90%;">  
+<body><img src="/images/ArtClub.jpeg" alt="Art Club" style="width:90%;">  
   
 </body>
 
@@ -21,12 +21,8 @@ Xinmin Art Club (XAC) is all about learning through fun activities. We aim to pr
 
 Besides these formal learning and sharing sessions, we also seek opportunities to engage the community through events such as the Singapore Youth Festival (SYF) art labs and balloon sculpting workshops. We often participate in various art competitions to see fellow artists from other schools in action. This is because we strongly believe that it is important to gain exposure and increase our knowledge by learning from others.
 
-  
 
-  
-
-**Activities**
-
+**Activities** <br>
 1.  Art Club Camp
 2.  Batik Painting Workshop
 3.  Artwork at Serangoon Public Library
@@ -41,18 +37,13 @@ Besides these formal learning and sharing sessions, we also seek opportunities t
 12.  CCA Orientation Booth
 13.  Physical training/bonding sessions on every first week of the month
 
-**Teachers-in-charge**  
-
-Mr James Tan Wa-Wa
-
-Ms Asniza Bte Hassan
-
+**Teachers-in-charge**  <br>
+Mr James Tan Wa-Wa <br>
+Ms Asniza Bte Hassan <br>
 Ms Ho Yu Sin Grace
 
   
 
-**CCA Schedule**
-
-Wednesdays: 3pm to 5.30pm
-
+**CCA Schedule** <br>
+Wednesdays: 3pm to 5.30pm <br>
 Fridays: 1.30pm\* to 4pm (Timing is subject to change as per course requirements)
