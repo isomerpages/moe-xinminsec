@@ -4,7 +4,16 @@ permalink: /ccas/sports-n-games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-![Badminton.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/CCAs/Sports%20&%20Games/Badminton/Badminton.jpg)**_(Students will be required to undergo trials and selections before joining this CCA.)_**  
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Badminton.jpeg" alt="Badminton" style="width:90%;">  
+  
+</body>
 
   
 
@@ -18,70 +27,48 @@ _\*NSG Badminton Championships are cancelled for 2020 in view of COVID-19 situat
 
   
 
-**2022 Achievements**
-
-**NSG Badminton Championships (North Zone) 2022:**
-
+**<u>2022 Achievements</u>** <br>
+**<u>NSG Badminton Championships (North Zone) 2022:</u>** <br>
 • ‘B’ Division Girls : 2nd
 
   
 
-**2021 Achievements**
-
-**NSG Badminton Championships (North Zone) 2021:**
-
+**<u>2021 Achievements</u>** <br>
+**NSG Badminton Championships (North Zone) 2021:** <br>
 *   ‘B’ Division Girls – 3rd
 
   
 
-**2019 Achievements**
-
-**NSG Badminton Championships (North Zone) 2019:**
-
+**<u>2019 Achievements</u>** <br>
+**NSG Badminton Championships (North Zone) 2019:** <br>
 *   ‘C’ Division Girls – 4th
 *   ‘B’ Division Girls – 4th
 
   
 
-**NSG Badminton Championships (National) 2019:**
-
+**NSG Badminton Championships (National) 2019:** <br>
 *   ‘C’ Division Girls - Top 16
 *   ‘B’ Division Girls – Top 16
 
   
 
-**Teachers-in-charge**
-
-Mr Lim Kok Chong (IC)
-
-Ms Anny Roezza Abdul Aziz
-
-Mdm Annie Tan
-
-Ms Siaw Pei Shin
-
+**Teachers-in-charge** <br>
+Mr Lim Kok Chong (IC) <br>
+Ms Anny Roezza Abdul Aziz <br>
+Mdm Annie Tan <br>
+Ms Siaw Pei Shin <br>
 Ms Noor Hafizah
 
-  
-
-**Coaches**
-
-Mr Wong Shoon Keat (‘B’ Division Coach)
-
+**Coaches** <br>
+Mr Wong Shoon Keat (‘B’ Division Coach) <br>
 Mr Hor Chai Hian (‘C’ Division Coach)
 
   
 
-**Student Committee 2022**
-
-‘B’ Division Captains: D' anna Thong Kai Leng (302)
-
-‘B’ Division Vice-Captains: Chua Yang Ni (304) 
-
-                                    
-
-‘C’ Division Captain: Lim En Qi (202)
-
+**Student Committee 2022** <br>
+‘B’ Division Captains: D' anna Thong Kai Leng (302) <br>
+‘B’ Division Vice-Captains: Chua Yang Ni (304) <br><br>
+‘C’ Division Captain: Lim En Qi (202) <br>
 ‘C’ Division Vice-Captain: Fong Jia Qi (204)
 
   
@@ -96,4 +83,4 @@ Please note that there will be trainings during the school holidays and the trai
 
   
 
-[How to apply for Direct School Admission](https://xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission)
+[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
