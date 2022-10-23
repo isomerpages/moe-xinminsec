@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/floorball.jpeg)" alt="Floorball" style="width:90%;">  
+<body><img src="/images/floorball.jpeg" alt="Floorball" style="width:90%;">  
   
 </body>
   
@@ -24,10 +24,8 @@ Even though the objective of sports is to win, the Xinmin Floorball teachers and
 
   
 
-**Training days**
-
-Wednesdays : 1500 – 1730
-
+**Training days** <br>
+Wednesdays : 1500 – 1730 <br>
 Fridays         : 1430 – 1700
 
   
