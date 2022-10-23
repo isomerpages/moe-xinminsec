@@ -15,8 +15,7 @@ img {
   
 </body>
 
-**_(Students will be required to undergo trials and selections before joining this CCA.)_**
-
+<p style="text-align:center;"><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p>
   
 
 Xinmin Rock Climbing was started in 2008 and is now in its 15th year running. Our belief has always been to develop core values like perseverance and discipline in our team members. These core values are continually emphasised in both training and competition. We also strive to develop teamwork, camaraderie and leadership in our members by providing various opportunities for our students to excel.
