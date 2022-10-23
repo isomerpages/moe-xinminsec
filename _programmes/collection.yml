@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - RefleXions@Xinmin.md
       - Student Leadership Academy.md
       - XinminCares.md
       - Blended Learning.md
