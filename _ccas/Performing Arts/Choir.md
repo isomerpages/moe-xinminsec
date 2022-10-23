@@ -58,7 +58,7 @@ Extra sectional practices will be conducted prior to competitions and performanc
 **CCA Achievement** <br>
 Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017
 
-**SYF 2019**
+<p style="text-align:center;"> <strong>SYF 2019</strong></p>
 
 <style>  
 img {  
@@ -67,12 +67,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/syf%202019.jpeg)" alt="Choir SYF 2019" style="width:90%;">  
+<body><img src="/images/syf%202019.jpeg" alt="Choir SYF 2019" style="width:90%;">  
   
 </body>
 
 
-**SYF 2019**
+<p style="text-align:center;"> <strong>SYF 2019</strong></p>
 
 <style>  
 img {  
@@ -81,13 +81,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/syf_2019_1.jpeg)" alt="Choir SYF 2019" style="width:90%;">  
+<body><img src="/images/syf_2019_1.jpeg" alt="Choir SYF 2019" style="width:90%;">  
   
 </body>
 
-  
-
-**Limelight@Esplanade**
+<p style="text-align:center;"> <strong>Limelight@Esplanade</strong></p>
 
 <style>  
 img {  
@@ -96,13 +94,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/limelight2019.jpeg)" alt="Choir Limelight@Esplanade" style="width:90%;">  
+<body><img src="/images/limelight2019.jpeg" alt="Choir Limelight@Esplanade" style="width:90%;">  
   
 </body>
 
-  
 
-**SYF x NDP 2020**
+<p style="text-align:center;"> <strong>SYF x NDP 2020</strong></p>
 
 <style>  
 img {  
@@ -111,7 +108,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/te.png)" alt="Choir SYF x NDP 2020" style="width:90%;">  
+<body><img src="/images/te.png" alt="Choir SYF x NDP 2020" style="width:90%;">  
   
 </body>
 
@@ -119,4 +116,4 @@ img {
 
 QR code to “Be The Light” music video on YouTube
 
-[How to apply for Direct School Admission](https://xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission)
+[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
