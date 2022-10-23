@@ -3,8 +3,16 @@ title: Student Leadership Academy
 permalink: /programmes/student-leadership-academy/
 description: ""
 ---
-![Student Leadership1.jpg](https://xinminsec.moe.edu.sg/qql/slot/u505/2021/Programmes/Student%20Leadership%20Academy/Student%20Leadership1.jpg)
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Student%20Leadership1.jpeg" alt="Student Leadership Academy" style="width:90%;">  
+  
+</body>
   
 
 Every child can be a leader. Our Student Leadership Academy adopts a whole-school approach to provide a range of programmes and projects that will groom every student to lead hearts and minds with confidence.
