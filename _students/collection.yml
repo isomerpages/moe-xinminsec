@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Physical.md
       - Student Leadership, Social & Moral Domain.md
