@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Malay Literary, Drama & Debate Society (MLDDS).md
       - Performing Arts/Symphonic Band.md
       - Performing Arts/.keep
