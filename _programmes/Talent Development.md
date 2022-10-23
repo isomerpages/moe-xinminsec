@@ -34,35 +34,10 @@ A key component of our Talent Development Framework are our processes of identif
 
 In summary, our Talent Development Framework is as follows:
 
-![TD Pic.png](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/TD%20Pic.png)  
+![TD Pic](/images/TD%20Pic.png)
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-You may wish to click on the following&nbsp;[**link**](https://xinminsec.moe.edu.sg/qql/slot/u505/Programmes/Talent%20Development/Xinmin%20Talent%20Development%20Catalogue%202021_1.pdf)&nbsp;to see the latest catalogue of Talent Development programmes we offer in Xinmin. You may also wish to check out the department pages to find out more about the talent development opportunities they provide.
+You may wish to click on the following&nbsp;[**link**](/files/Xinmin%20Talent%20Development%20Catalogue%202021_1.pdf)&nbsp;to see the latest catalogue of Talent Development programmes we offer in Xinmin. You may also wish to check out the department pages to find out more about the talent development opportunities they provide.
 
   
 
