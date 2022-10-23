@@ -10,7 +10,7 @@ Secondary school is a time where you discover more about yourself – your stren
 We urge you to fully immerse yourself in these learning experiences and seize these opportunities as they present themselves to you. Only then, can you truly discover what you can be good at, where your interests lie, and hopefully, by the end of your time in Xinmin, have some ideas about what and how you can pursue these interests at a deeper level in the next stage of your education.&nbsp;
 
   
-**Xinmin Talent Development Approach**  
+## Xinmin Talent Development Approach  
 
 The talent development opportunities we provide in Xinmin could broadly be organised along five domains:
 
@@ -41,7 +41,7 @@ You may wish to click on the following&nbsp;[**link**](/files/Xinmin%20Talent%20
 
   
 
-**Harnessing Student-Initiated Learning to develop your Talents**
+## Harnessing Student-Initiated Learning to develop your Talents
 
 From Term 3 of 2021, Blended Learning will be a feature of every secondary students’ school experience in Singapore. Once every fortnight, there will be a day where students do not need to come to school. Instead, you will be engaging in home-based learning at home. The reason for making this change is to nurture you to be self-directed learners and provide you with the time and space to explore and develop your interests.
 
@@ -51,9 +51,9 @@ You may wish to spend the time set aside for SIL to explore and further develop 
 
   
 
-**Our Xinmin Talents**
+## Our Xinmin Talents
 
-Alton Lee (401, 2020)
+<u>Alton Lee (401, 2020)</u>
 
 Alton has always been very interested in Science and we encouraged him to engage in various enrichment opportunities in the subject. Building on the Level 1 programmes we offer all students as part of their lower secondary Science curriculum, we encouraged Alton to take part in the Science Busker's festival, where he explored the effect of heat in creating convection currents through the use of emptied tea-bags.
 
