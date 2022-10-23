@@ -45,7 +45,7 @@ If your child is currently a ComCare recipient, he/she will be auto-granted with
 
 For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for ‘2023 MOE FAS pamphlet EL Revised Income Criteria’.
 
-&nbsp;[2023 MOE FAS pamphlet EL Revised Income Criteria.pdf](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Announcements/MOE%20Financial%20Assistance%20Scheme/2023/2023%20MOE%20FAS%20pamphlet%20EL%20-%20Revised%20Income%20Criteria.pdf)
+&nbsp;[2023 MOE FAS pamphlet EL Revised Income Criteria.pdf](/files/2023%20MOE%20FAS%20pamphlet%20EL%20-%20Revised%20Income%20Criteria.pdf)
 
   
 
