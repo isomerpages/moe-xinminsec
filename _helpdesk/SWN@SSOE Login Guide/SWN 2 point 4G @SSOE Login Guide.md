@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+<body><img src="/images/s1.jpeg" style="width:70%;">  
   
 </body>
 
@@ -42,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+<body><img src="![](/images/s2.jpeg)" style="width:70%;">  
   
 </body>
   
@@ -59,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+<body><img src="![](/images/s3.jpeg)" style="width:70%;">  
   
 </body>
 
@@ -83,7 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+<body><img src="![](/images/s4.jpeg)" style="width:70%;">  
   
 </body>
 
@@ -99,7 +99,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+<body><img src="![](/images/s5.jpeg)" style="width:70%;">  
   
 </body>
 
@@ -120,6 +120,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+<body><img src="![](/images/s6.jpeg)" style="width:70%;">  
   
 </body>
