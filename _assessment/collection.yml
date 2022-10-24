@@ -2,4 +2,5 @@ collections:
   assessment:
     output: true
     order:
+      - Instructions to Candidates.md
       - End Of Year Examination Topics and Formats.md
