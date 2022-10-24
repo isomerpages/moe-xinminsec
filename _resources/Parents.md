@@ -3,6 +3,9 @@ title: Parents
 permalink: /resources/parents/
 description: ""
 ---
+Timetables
+----------
+
 *   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&ctz=Asia/Singapore)
 *   [School Timetable](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/timetables/school-timetable)
 *   [Exam Schedule](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Announcements/EOY%20Exam%20Papers/2022/EOY_Timetable_2022_sch%20website_28Sept.pdf)
