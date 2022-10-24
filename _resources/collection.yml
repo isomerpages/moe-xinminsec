@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Staff/School Premium Apps.md
       - Staff/Staff.md
       - Staff/.keep
