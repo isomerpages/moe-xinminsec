@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/s1.jpeg" style="width:70%;">  
+<body><img src="/images/swn1.jpeg" style="width:70%;">  
   
 </body>
 
@@ -42,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/s1.jpeg" style="width:70%;">  
+<body><img src="/images/swn3.jpeg" style="width:70%;">  
   
 </body>
 
@@ -66,7 +66,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/s1.jpeg" style="width:70%;">  
+<body><img src="/images/swn4.jpeg" style="width:70%;">  
   
 </body>
 
@@ -81,7 +81,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/s1.jpeg" style="width:70%;">  
+<body><img src="/images/swn5.jpeg" style="width:70%;">  
   
 </body>
 
@@ -103,6 +103,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/s1.jpeg" style="width:70%;">  
+<body><img src="/images/swn6.jpeg" style="width:70%;">  
   
 </body>
