@@ -8,7 +8,11 @@ description: ""
 <p style="float:right; margin: 0 10px 0px 0">
 <img style="width:175px" alt="Principal" src="/images/pg1.png"></p>
 <p style="text-align:justify">
-The Parents Gateway (PG) Mobile App is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this app to receive our monthly school newsletters, stay updated about our programmes, and submit online consent forms for their child’s activities.<br>The PG App will be implemented in all MOE schools in 2019. For parents with two or more children and they are in different schools, you will be able to receive notifications for all your children on the same PG App. <br>All parents are <strong>strongly encouraged</strong> to 
+The Parents Gateway (PG) Mobile App is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this app to receive our monthly school newsletters, stay updated about our programmes, and submit online consent forms for their child’s activities.
+	
+<p style="text-align:justify">The PG App will be implemented in all MOE schools in 2019. For parents with two or more children and they are in different schools, you will be able to receive notifications for all your children on the same PG App. </p>
+
+<p style="text-align:justify">All parents are <strong>strongly encouraged</strong> to 
 <strong>download and use the PG App</strong> as it will bring significant benefits for parents, teachers and the school.</p>
 
 -----
@@ -130,5 +134,3 @@ You may also scan the QR codes below to access the respective portals
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 840px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;">5. You should see your child’s school announcements and activities.</td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" width="234px"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" class="ive_eobj_left" alt="step5.jpg" src="/images/step5.jpeg"></td></tr></tbody></table>
 
 * * *
-
-  
