@@ -19,17 +19,32 @@ They will need to manually configure their devices to connect to another network
 2.    Select "**Add network**".
 
   
-
-![s1.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/SWN2.4G/s1.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+  
+</body>
 
   
 
 3.    Under Network Name, type in "**SWN2.4G@SSOE**", under Security, select "**None**".
 
   
-
-![s2.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/SWN2.4G/s2.jpg)
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+  
+</body>
   
 
 4.    Upon connected to “**SWN2.4G@SSOE**”, you will be redirected to a login page.
@@ -37,8 +52,16 @@ They will need to manually configure their devices to connect to another network
 \-    If you are not directed to the login page, go to “**http://portal.swn.moe.edu.sg**”
 
   
-
-![3.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/SWN2.4G/3.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+  
+</body>
 
 \-    Check the “**I accept the terms and disclaimer agreement**”.
 
@@ -53,16 +76,32 @@ _If you have forgotten your IAMS password, please fill up the online form [here
 5.    If you are connecting to “**SWN2.4G@SSOE**” WIFI for the first time, please select “**Click Here**” to download and install “MOE-MSS” certificate. (You only need to install once).
 
   
-
-![4.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/SWN2.4G/4.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+  
+</body>
 
   
 
 6.    You should see this page upon successfully login to "**SWN2.4G@SSOE**" WIFI.
 
   
-
-![5.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/SWN2.4G/5.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
+  
+</body>
 
   
 
@@ -74,6 +113,13 @@ To logout off “**SWN2.4G@SSOE**”, simply
 
 \-    On the top of the screen, click on your “**NRIC**” and select “**Sign Out**”
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" style="width:70%;">  
   
-
-![6.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/SWN2.4G/6.jpg)
+</body>
