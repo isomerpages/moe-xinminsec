@@ -17,8 +17,16 @@ School users may connect to SWN@SSOE WIFI to access the internet for teaching an
 _(If you are unable to find “SWN@SSOE”, please click [here](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/helpdesk/swn-at-ssoe-login-guide/swn2-4g-at-ssoe-login-guide))_
 
   
-
-![2.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/2.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/s1.jpeg" style="width:70%;">  
+  
+</body>
 
   
 
@@ -27,8 +35,16 @@ _(If you are unable to find “SWN@SSOE”, please click [here](https://xinmins
 \-    If you are not directed to the login page, go to “**http://portal.swn.moe.edu.sg**”
 
   
-
-![3.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/3.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/s1.jpeg" style="width:70%;">  
+  
+</body>
 
 \-    Check the “**I accept the terms and disclaimer agreement**”.
 
@@ -43,16 +59,31 @@ _If you have forgotten your IAMS password, please fill up the online form [here
 4.    If you are connecting to “**SWN@SSOE**” for the first time, please select “**Click Here**” to download and install “MOE-MSS” certificate. (You only need to install once).
 
   
-
-![4.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/4.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/s1.jpeg" style="width:70%;">  
+  
+</body>
 
   
 
 5.    You should see this page upon successfully login to "**SWN@SSOE**" WIFI.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/s1.jpeg" style="width:70%;">  
   
-
-![5.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/5.jpg)
+</body>
 
   
 
@@ -65,5 +96,13 @@ To logout off "**SWN@SSOE**”, simply:
 \-    On the top of the screen, click on your “**NRIC**” and select “**Sign Out**”.
 
   
-
-![6.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/SWN@SSOE%20Login%20Guide/6.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/s1.jpeg" style="width:70%;">  
+  
+</body>
