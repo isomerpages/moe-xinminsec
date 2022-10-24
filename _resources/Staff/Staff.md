@@ -4,7 +4,6 @@ permalink: /resources/staff/
 description: ""
 third_nav_title: Staff
 ---
-
 Timetables
 ----------
 
@@ -45,7 +44,7 @@ T&L Resources
 -------------
 
 *   [T&L Bulletin](https://sites.google.com/xinminss.edu.sg/tlbulletin-2020/home?pli=1)
-*   [School Premium Apps](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/staff/tnl-resources/school-premium-apps)
+*   [School Premium Apps](/resources/staff/tnl-resources/school-premium-apps)
 
 Other Resources
 ---------------
