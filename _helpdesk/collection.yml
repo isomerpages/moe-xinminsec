@@ -2,4 +2,5 @@ collections:
   helpdesk:
     output: true
     order:
+      - Student ICON Password Reset Guide.md
       - Counselling.md
