@@ -2,5 +2,6 @@ collections:
   assessment:
     output: true
     order:
+      - Criteria for Promotion.md
       - Instructions to Candidates.md
       - End Of Year Examination Topics and Formats.md
