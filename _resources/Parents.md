@@ -21,7 +21,7 @@ Quick Links
 *   [P@X Facebook](https://www.facebook.com/groups/xmsspax/?ref=share)
 *   [Parenting with MOE](https://www.instagram.com/parentingwith.moesg/?hl=en)
 *   [schoolbag.sg](http://schoolbag.sg/)
-*   [Family Matters @ School Programme](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/quick-links/family-matters-at-school-programme)
+*   [Family Matters @ School Programme](/resources/parents/quick-links/family-matters-at-school-programme)
 
 School Resources
 ----------------
