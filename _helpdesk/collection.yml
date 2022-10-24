@@ -1,4 +1,5 @@
 collections:
   helpdesk:
     output: true
-    order: []
+    order:
+      - Counselling.md
