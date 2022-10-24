@@ -72,4 +72,3 @@ Official Social Media Pages
 *   [Chinese Language](https://www.instagram.com/xms_cl/)
 *   [Food & Consumer Education](https://www.instagram.com/xmsnutritionandfoodscience/)
 *   [Physical Education](https://www.instagram.com/xms_pe/?hl=en)
-
