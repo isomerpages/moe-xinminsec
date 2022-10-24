@@ -2,5 +2,6 @@ collections:
   helpdesk:
     output: true
     order:
+      - SWN@SSOE Login Guide/.keep
       - Student ICON Password Reset Guide.md
       - Counselling.md
