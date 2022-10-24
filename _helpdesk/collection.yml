@@ -2,6 +2,7 @@ collections:
   helpdesk:
     output: true
     order:
+      - SLS Password Reset Guide.md
       - Google Apps Password Reset Guide.md
       - SWN@SSOE Login Guide/SWN@SSOE Login Guide.md
       - SWN@SSOE Login Guide/SWN 2 point 4G @SSOE Login Guide.md
