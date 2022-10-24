@@ -55,7 +55,7 @@ Helpdesk
 --------
 
 *   [SLS Password Reset Guide](/resources/students/helpdesk/sls-password-reset-guide/)
-*   [Google Apps Password Reset Guide](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/staff/helpdesk/google-apps-password-reset-guide)
+*   [Google Apps Password Reset Guide](/resources/students/helpdesk/google-apps-password-reset-guide/)
 *   [SWN@SSOE Login Guide](/resources/students/helpdesk/swn-at-ssoe-login-guide/)
 
 Assessment
