@@ -1,0 +1,4 @@
+collections:
+  newsletter-for-parents:
+    output: true
+    order: []
