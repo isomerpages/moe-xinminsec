@@ -2,6 +2,7 @@ collections:
   well-being-guide:
     output: true
     order:
+      - Mental Health/Helplines.md
       - Mental Health/.keep
       - Tips for Effective Learning.md
       - School Counselling.md
