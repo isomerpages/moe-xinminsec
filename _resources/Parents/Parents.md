@@ -54,9 +54,9 @@ Other Resources
 *   [Home-based Learning](https://sites.google.com/xinminss.edu.sg/hbl-may2021/home)
 *   [Cyber Wellness](https://drive.google.com/file/d/11uxMXxLACqCiZ1BCL5gUBjq-laxrYbR6/view)
 *   [Sexuality Education](/files/Sex%20Ed%20Schools%20webpage1.pdf)
-*   [Mental Health](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/other-resources/mental-health)
+*   [Mental Health](/resources/parents/other-resources/mental-health)
 *   [Family Service Centres](https://www.msf.gov.sg/dfcs/familyservice/default.aspx)
-*   [List of Helplines](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/other-resources/list-of-helplines)
+*   [List of Helplines](/resources/parents/other-resources/list-of-helplines)
 
 Admissions
 ----------
