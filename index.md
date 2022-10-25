@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Xinmin Secondary School
+description: Xinmin Secondary School
+image: /images/xinmin logo.png
 permalink: /
 notification: ""
 sections:
@@ -24,3 +24,4 @@ sections:
       url: /xss/announcements-2022
       image: /images/92f2f98bd_4956.jpeg
 ---
+
