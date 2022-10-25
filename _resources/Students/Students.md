@@ -43,11 +43,11 @@ Well-Being Guide
 
 *   [Cyber Wellness](https://drive.google.com/file/d/11uxMXxLACqCiZ1BCL5gUBjq-laxrYbR6/view)
 *   [Education & Career Guidance](/files/Xinmin%202021%20CAA120421.pdf)
-*   [Mental Health](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/mental-health)
-*   [Tips for Effective Learning](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/tips-for-effective-learning)
+*   [Mental Health](/resources/students/well-being-guide/mental-health/101-ways-to-cope-with-stress/)
+*   [Tips for Effective Learning](/resources/students/well-being-guide/tips-for-effective-learning/)
 *   [Managing Stress](/files/Ways%20to%20cope%20with%20stress.pdf)
-*   [Helplines](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/mental-health/helplines)  
-*   [School Counselling](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/school-counselling)
+*   [Helplines](/resources/students/well-being-guide/mental-health/helplines/)  
+*   [School Counselling](/resources/students/well-being-guide/school-counselling/)
 
 Assessment
 ----------
