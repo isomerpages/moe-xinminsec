@@ -33,10 +33,10 @@ Helpdesk
 School Resources
 ----------------
 
-*   [School Rules](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/school-rules)
-*   [Attire & Grooming](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/attire-n-grooming)
-*   [Booklists](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/bookshop-and-uniform-supplier)
-*   [Bookshop and Uniform Supplier](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/bookshop-and-uniform-supplier)
+*   [School Rules](/resources/students/school-resources/school-rules)
+*   [Attire & Grooming](/resources/students/school-resources/attire-n-grooming)
+*   [Booklists](/resources/students/school-resources/bookshop-and-uniform-supplier)
+*   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
 
 Well-Being Guide
 ----------------
