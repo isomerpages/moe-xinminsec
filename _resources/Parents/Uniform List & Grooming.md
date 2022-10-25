@@ -16,45 +16,7 @@ The uniform and grooming of all boys must conform in appearance to the the pictu
 *   The fringe must not touch the eyebrows when combed down.
 *   Face must be clean shaven. Sideburns, moustache and beard are not allowed.
 
-  
-
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 166px; height: 207px;" class="ive_eobj_center" alt="1.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 215px; height: 207px;" class="ive_eobj_center" alt="2.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/2.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 313px; height: 207px;" class="ive_eobj_center" alt="3.jpg" width="100%" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/3.jpg"></td></tr></tbody></table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 210px; height: 509px;" class="ive_eobj_center" alt="student1.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/student1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 303px; height: 509px;" class="ive_eobj_center" alt="student2.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/student2.jpg"></td></tr></tbody></table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+![Attire and grooming for boys](/images/Attire%20and%20grooming%20for%20boys.jpg)
 
 *   Pants must not be tapered or shortened above the ankles
 *   Long pants and shorts must conform to manufacturer’s specs
