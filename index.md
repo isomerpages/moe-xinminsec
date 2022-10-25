@@ -15,6 +15,9 @@ sections:
         - title: Resources
           description: Parents
           url: /resources/parents/
+        - title: Resources
+          description: Staff
+          url: /resources/staff/
   - infopic:
       title: Announcements
       button: Click here for latest announcments!
