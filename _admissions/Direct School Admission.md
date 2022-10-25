@@ -48,4 +48,4 @@ All final results will be notified by post to the applicants to inform them of t
 
   
 
-[How to apply](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/direct-school-admission#_ptoo_99224)
+[How to apply](/resources/students/admissions/direct-school-admission)
