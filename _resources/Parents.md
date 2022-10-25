@@ -26,10 +26,10 @@ Quick Links
 School Resources
 ----------------
 
-*   [School Rules](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/school-rules)
-*   [Uniform List & Grooming](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/attire-n-grooming)
-*   [Booklists](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/booklists)
-*   [Bookshop and Uniform Supplier](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/school-resources/bookshop-and-uniform-supplier)
+*   [School Rules](/resources/students/school-resources/school-rules)
+*   [Uniform List & Grooming](/resources/students/school-resources/attire-n-grooming)
+*   [Booklists](/resources/students/school-resources/booklists)
+*   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
 *   [Financial Assistance Scheme](https://xinminsec-moe-edu-sg-admin.cwp.sg/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
 *   [School Dental Clinic](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/school-resources/school-dental-clinic)
 
