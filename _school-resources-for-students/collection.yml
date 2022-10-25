@@ -2,4 +2,5 @@ collections:
   school-resources-for-students:
     output: true
     order:
+      - Booklists.md
       - Bookshop and Uniform Supplier.md
