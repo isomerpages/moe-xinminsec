@@ -1,0 +1,4 @@
+collections:
+  timetables:
+    output: true
+    order: []
