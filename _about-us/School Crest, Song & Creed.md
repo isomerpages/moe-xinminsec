@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/schlogo_big.jpeg" alt="School Crest" style="width:30%;">  
+<body><img src="/images/schlogo_big.jpeg" alt="School Crest" style="width:20%;">  
   
 </body>
 
