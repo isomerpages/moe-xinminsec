@@ -60,7 +60,6 @@ To avoid disappointment, bookings have to make 2 days in advance before your act
   
 There will be strictly&nbsp;**<u>NO trying of uniforms</u>**&nbsp;allowed at our outlet due to hygiene reasons during this crucial period. Instead, parents are advised to bring down their child’s best-fitted garment to compare with our standard uniform sizes for best uniform fitting.  
   
+[Jeep Sing Fashion Information.pdf](/files/Jeep%20Sing%20Fashion%20Information.pdf)
 
-[Jeep Sing Fashion Information.pdf](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Stakeholders/Information/School%20uniform/2021/Jeep%20Sing%20Fashion%20Information.pdf)  
-
-[EOY Xinmin Sec Uniform Sales Schedule 22 Oct 2021.pdf](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Stakeholders/Information/School%20uniform/2021/EOY%20Xinmin%20Sec%20Uniform%20Sales%20Schedule%20%2022%20Oct%202021.pdf)
+[EOY Xinmin Sec Uniform Sales Schedule 22 Oct 2021.pdf](/files/EOY%20Xinmin%20Sec%20Uniform%20Sales%20Schedule%20%2022%20Oct%202021.pdf)
