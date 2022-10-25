@@ -45,7 +45,7 @@ Well-Being Guide
 *   [Education & Career Guidance](/files/Xinmin%202021%20CAA120421.pdf)
 *   [Mental Health](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/mental-health)
 *   [Tips for Effective Learning](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/tips-for-effective-learning)
-*   [Managing Stress](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/managing-stress)
+*   [Managing Stress](/files/Ways%20to%20cope%20with%20stress.pdf)
 *   [Helplines](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/mental-health/helplines)  
 *   [School Counselling](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/school-counselling)
 
