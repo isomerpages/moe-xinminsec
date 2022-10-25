@@ -36,7 +36,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/MTL%20Curriculum%20Framework.jpeg" alt="MTL Curriculum Framework" style="width:70%;">  
+<body><img src="/images/MTL%20Curriculum%20Framework.jpeg" alt="MTL Curriculum Framework" style="width:50%;">  
   
 </body>
 
