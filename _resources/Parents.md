@@ -60,11 +60,11 @@ Other Resources
 Admissions
 ----------
 
-*   [Direct School Admission](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/direct-school-admission)
-*   [International Student Admission](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/international-student-admission)
-*   [Local Transfer Admission](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/local-transfer-admission)
-*   [Returning Singaporean Admission](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/returning-singaporean-admission)
-*   [Secondary 1 Posting](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/admissions/secondary-1-posting)
+*   [Direct School Admission](/resources/students/admissions/direct-school-admission)
+*   [International Student Admission](/resources/students/admissions/international-student-admission)
+*   [Local Transfer Admission](/resources/students/admissions/local-transfer-admission)
+*   [Returning Singaporean Admission](/resources/students/admissions/returning-singaporean-admission)
+*   [Secondary 1 Posting](/resources/students/admissions/secondary-1-posting)
 
 Official Social Media Pages
 ---------------------------
