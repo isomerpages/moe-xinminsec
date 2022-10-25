@@ -47,7 +47,6 @@ Well-Being Guide
 *   [Tips for Effective Learning](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/tips-for-effective-learning)
 *   [Managing Stress](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/managing-stress)
 *   [Helplines](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/mental-health/helplines)  
-    
 *   [School Counselling](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/school-counselling)
 
 Assessment
