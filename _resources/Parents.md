@@ -26,9 +26,9 @@ Quick Links
 School Resources
 ----------------
 
-*   [School Rules](/resources/students/school-resources/school-rules)
-*   [Uniform List & Grooming](/resources/students/school-resources/attire-n-grooming)
-*   [Booklists](/resources/students/school-resources/booklists)
+*   [School Rules](/resources/parents/school-resources/school-rules)
+*   [Uniform List & Grooming](/resources/parents/school-resources/uniform-list-n-grooming)
+*   [Booklists](/resources/parents/school-resources/booklists)
 *   [Bookshop and Uniform Supplier](/resources/parents/school-resources/bookshop-and-uniform-supplier)
 *   [Financial Assistance Scheme](/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
 *   [School Dental Clinic](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/school-resources/school-dental-clinic)
