@@ -2,12 +2,12 @@ collections:
   resources:
     output: true
     order:
+      - Parents/.keep
+      - Parents/Parents.md
       - Parents/School Rules.md
       - Parents/Uniform List & Grooming.md
       - Parents/Booklists.md
       - Parents/Bookshop and Uniform Supplier.md
-      - Parents/.keep
-      - Parents/Parents.md
       - Parents/School Dental Clinic.md
       - Staff/.keep
       - Staff/Staff.md
