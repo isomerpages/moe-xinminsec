@@ -30,42 +30,7 @@ The uniform and grooming of all boys must conform in appearance to the the pictu
 
 The uniform and grooming of all girls must conform in appearance to the the pictures and description in this document.
 
-  
-
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 215px; height: 221px;" class="ive_eobj_center" alt="g1.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/g1.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 160px; height: 221px;" class="ive_eobj_center" alt="g2.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/g2.jpg"></td></tr></tbody></table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-
-<table style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_left"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 215px; height: 208px;" class="ive_eobj_center" alt="g3.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/g3.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 187px; height: 208px;" class="ive_eobj_center" alt="g4.jpg" src="https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/Uniform%20List%20&amp;%20Grooming/g4.jpg"></td></tr></tbody></table>
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+![Attire and Grooming for Girls](/images/Attire%20and%20Grooming%20for%20Girls.jpg)
   
 
 *   Girls with long hair must tie or pin it up neatly with black, dark blue or dark brown hair accessories, ensuring that the fringe does not touch the eyebrows or is pinned up at all times as shown here.
