@@ -6,18 +6,18 @@ description: ""
 ### Sec 2 subject combinations options submission
 
 25 Oct 2022 <br>
-[Read more](https://xinminsec-moe-edu-sg-admin.cwp.sg/xss/announcements/sec-2-subject-combinations-options-submission)
+[Read more](/xss/announcements/sec-2-subject-combinations-options-submission)
 
 ### Newsletter to Parents (October 2022)
 
 14 Oct 2022 <br>
-[Read more](http://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Stakeholders/Information/Letter%20to%20Parents/2022/2022%20XMS%20Oct%20Newsletter.pdf)
+[Read more](/files/2022%20XMS%20Oct%20Newsletter.pdf)
 
 
 ### 2023 Financial Assistance Scheme - With Revised Income Criteria
 
 17 Oct 2022 <br>
-[Read more](https://xinminsec-moe-edu-sg-admin.cwp.sg/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
+[Read more](/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
 
 
 ### EOY Script Check Time Table
