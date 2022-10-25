@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - Returning Singaporean Admission.md
       - Secondary 1 Posting.md
