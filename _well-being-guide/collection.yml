@@ -1,4 +1,5 @@
 collections:
   well-being-guide:
     output: true
-    order: []
+    order:
+      - School Counselling.md
