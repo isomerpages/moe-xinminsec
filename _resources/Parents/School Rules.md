@@ -134,8 +134,6 @@ In enforcing the school rules and regulations, the school aims to teach students
 *   Laptop computers
 *   Other similar items
 
-  
+![OFFENCE CATEGORIES](/images/OFFENCE%20CATEGORIES-1.jpeg)
 
-![OFFENCE CATEGORIES-1.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/School%20Rules/OFFENCE%20CATEGORIES-1.jpg)
-
-![OFFENCE CATEGORIES-2.jpg](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Parents/School%20Rules/OFFENCE%20CATEGORIES-2.jpg)
+![OFFENCE CATEGORIES](/images/OFFENCE%20CATEGORIES-2.jpeg)
