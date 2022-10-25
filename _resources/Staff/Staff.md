@@ -62,7 +62,7 @@ Helpdesk
 Assessment
 ----------
 
-*   [Assessment Plan 2021](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/assessment-plan-2021)
-*   [Criteria for Promotion](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/criteria-for-promotion)
-*   [Instructions to Candidates](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/instructions-to-candidates)
-*   [End Of Year Examination Topics and Formats](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/end-of-year-examination-topics-and-formats)
+*   [Assessment Plan 2021](/resources/students/assessment/assessment-plan-2021)
+*   [Criteria for Promotion](/resources/students/assessment/criteria-for-promotion)
+*   [Instructions to Candidates](/resources/students/assessment/instructions-to-candidates)
+*   [End Of Year Examination Topics and Formats](/resources/students/assessment/end-of-year-examination-topics-and-formats)
