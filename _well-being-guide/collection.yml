@@ -2,9 +2,9 @@ collections:
   well-being-guide:
     output: true
     order:
-      - Mental Health/101 Ways to Cope with Stress.md
-      - Mental Health/Mental Health E Kit.md
-      - Mental Health/Helplines.md
       - Mental Health/.keep
+      - Mental Health/101 Ways to Cope with Stress.md
+      - Mental Health/Helplines.md
+      - Mental Health/Mental Health E Kit.md
       - Tips for Effective Learning.md
       - School Counselling.md
