@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements 2022.md
       - Sec 2 subject combinations options submission.md
       - 2023 Financial Assistance Scheme (With Revised Income Criteria).md
       - 2021 School Graduation Certificate.md
-      - Announcements 2022.md
