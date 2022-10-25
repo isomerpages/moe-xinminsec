@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/xinminsec.gif
+      key_highlights:
+        - title: Resources
+          description: Students
+          url: /resources/students/
+        - title: Resources
+          description: Parents
+          url: /resources/parents/
   - infopic:
       title: Announcements
       button: Click here for latest announcments!
