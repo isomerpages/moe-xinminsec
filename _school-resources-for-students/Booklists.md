@@ -6,9 +6,9 @@ description: ""
 _Updated as of 12/01/2022_
 
 **<u>Sec 1</u>**  
-[Sec 1 Express.pdf](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Stakeholders/Information/Booklist/2022/Sec%201%20Exp.pdf)  <br>
-[Sec 1 Normal Academic.pdf](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Stakeholders/Information/Booklist/2022/Sec%201%20NA.pdf)  <br>
-[Sec 1 Normal Technical.pdf](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Stakeholders/Information/Booklist/2022/Sec%201%20NT.pdf)
+[Sec 1 Express.pdf](/files/Sec%201%20Exp.pdf)  <br>
+[Sec 1 Normal Academic.pdf](/files/Sec%201%20NA.pdf)  <br>
+[Sec 1 Normal Technical.pdf](/files/Sec%201%20NT.pdf)
 
 **<u>Sec 2</u>** <br>
 [Sec 2 Express.pdf](/files/Sec%202%20Express.pdf) <br>
