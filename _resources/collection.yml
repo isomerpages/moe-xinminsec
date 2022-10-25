@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents.md
       - Staff/.keep
       - Staff/Staff.md
       - Staff/School Premium Apps.md
