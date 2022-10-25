@@ -1,0 +1,4 @@
+collections:
+  other-resources-for-parents:
+    output: true
+    order: []
