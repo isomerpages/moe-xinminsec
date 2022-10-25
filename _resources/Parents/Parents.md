@@ -31,22 +31,22 @@ School Resources
 *   [Uniform List & Grooming](/resources/students/school-resources/attire-n-grooming)
 *   [Booklists](/resources/students/school-resources/booklists)
 *   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
-*   [Financial Assistance Scheme](https://xinminsec-moe-edu-sg-admin.cwp.sg/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
-*   [School Dental Clinic](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/school-resources/school-dental-clinic)
+*   [Financial Assistance Scheme](/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
+*   [School Dental Clinic](/resources/parents/school-resources/school-dental-clinic)
 
 Assessment
 ----------
 
-*   [Assessment Plan 2021](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/assessment-plan-2021)
-*   [Criteria for Promotion](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/criteria-for-promotion)
-*   [Instructions to Candidates](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/instructions-to-candidates)
-*   [End Of Year Examination Topics and Formats](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/assessment/end-of-year-examination-topics-and-formats)
+*   [Assessment Plan 2021](/resources/students/assessment/assessment-plan-2021)
+*   [Criteria for Promotion](/resources/students/assessment/criteria-for-promotion)
+*   [Instructions to Candidates](/resources/students/assessment/instructions-to-candidates)
+*   [End Of Year Examination Topics and Formats](/resources/students/assessment/end-of-year-examination-topics-and-formats)
 
 Newsletters
 -----------
 
-*   [2022](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/newsletters/2022)
-*   [2021](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/newsletters/2021)
+*   [2022](/resources/parents/newsletters/2022)
+*   [2021](/resources/parents/newsletters/2021)
 
 Other Resources
 ---------------
