@@ -2,4 +2,5 @@ collections:
   well-being-guide:
     output: true
     order:
+      - Tips for Effective Learning.md
       - School Counselling.md
