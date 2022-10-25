@@ -40,11 +40,11 @@ All final results will be notified by post to the applicants to inform them of t
 2022 Talent Areas and Criteria
 ------------------------------
 
-[Performing Arts](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/DSA/2022/Performing%20Arts%202022.pdf)  
+[Performing Arts](/files/Performing%20Arts%202022.pdf)
 
-[Sports and Games](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/DSA/2022/Sports%20and%20Games%202022.pdf)  
+[Sports and Games](/files/Sports%20and%20Games%202022.pdf)
 
-[Uniform Groups](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/2021/Resources/Students/DSA/2022/UG%202022.pdf)  
+[Uniform Groups](/files/UG%202022.pdf) 
 
   
 
