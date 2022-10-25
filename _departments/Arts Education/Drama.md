@@ -4,7 +4,7 @@ permalink: /departments/arts-education/drama/
 description: ""
 third_nav_title: Arts Education
 ---
-<h2 style="color:red" align="center">Upper Sec Drama</h4>
+<h3 style="color:red" align="center">Upper Sec Drama</h3>
 
   
 
