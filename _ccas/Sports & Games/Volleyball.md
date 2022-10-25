@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/vb.jpeg)" alt="Volleyball" style="width:90%;">  
+<body><img src="/images/vb.jpeg" alt="Volleyball" style="width:90%;">  
   
 </body>
 
