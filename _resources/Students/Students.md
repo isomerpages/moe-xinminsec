@@ -42,7 +42,7 @@ Well-Being Guide
 ----------------
 
 *   [Cyber Wellness](https://drive.google.com/file/d/11uxMXxLACqCiZ1BCL5gUBjq-laxrYbR6/view)
-*   [Education & Career Guidance](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/education-n-career-guidance)
+*   [Education & Career Guidance](/files/Xinmin%202021%20CAA120421.pdf)
 *   [Mental Health](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/mental-health)
 *   [Tips for Effective Learning](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/tips-for-effective-learning)
 *   [Managing Stress](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/well-being-guide/managing-stress)
