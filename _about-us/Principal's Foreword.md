@@ -6,11 +6,14 @@ description: ""
 <p style="float:left; margin: 0 10px 0px 0">
 <img src="/images/Tan%20Soon%20Hui.jpg" alt="Principal" style="width:300px" /></p>
 <p style="text-align:justify">
-Warm greetings from all of us at Xinmin!</p>
+Xinmin Secondary School is an institution of excellence that has nurtured many generations of students to be curious learners, compassionate contributors, and confident leaders. Founded in 1945, Xinmin draws strength from our rich heritage while simultaneously looking ahead to prepare our students well for the future. From our beginning as a community school till today, the essence of a Xinmin education is to develop leaders of hearts and leaders of minds, anchored on our values of Respect, Responsibility, and Resilience. At the same time, we continually review our total curriculum and scan educational developments to design learning experiences that develop 21st Century Competencies and dispositions in our students.</p>
 <p style="text-align:justify">
-Since 1945, Xinmin has grown from a humble village school to the outstanding education institution that it is today. While the contexts may have changed, what remains steadfast is our commitment to prepare our students well for their future ahead. Drawing our learning from what would qualify as a most anomalous 2020, we were offered a glimpse of the possibilities presented by a different paradigm of learning and teaching - one which harnesses technology, and which features students' self-directedness and voice more strongly.</p>
+As an autonomous school, we develop our students holistically and cultivate their talents by complementing the Singapore national curriculum with a range of thoughtfully-developed signature programmes. Our signature programmes are:</p>
 <p style="text-align:justify">
-These resonate with what we do in Xinmin. Beyond providing our students with a strong foundation for further learning, we equip all our students with competencies like critical and analytical thinking, collaboration and leadership through providing opportunities for them to create, connect and cultivate. We also emphasise character education and inculcate our values of Respect, Responsibility and Resilience in all that we do.</p>
+* Coding@Xinmin, focusing on computational thinking and design thinking;
+* RefleXions@Xinmin, developing empathy and collaboration skills;
+* XinminCares, fostering civic character and the will to act; and
+* the Student Leadership Academy, honing leadership competencies and confidence.</p>
 <p style="text-align:justify">
 The secondary school years are a time where students explore their different interests and strengths and work towards their aspirations. We support this by offering our students multiple opportunities to discover and pursue their interests and passions, and through these experiences, develop holistically. It is also for this reason that we offer a range of options to our students in both the academic and co-curricular areas.</p>
 <p style="text-align:justify">
