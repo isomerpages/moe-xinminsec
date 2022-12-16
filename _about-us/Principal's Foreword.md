@@ -11,7 +11,7 @@ Xinmin Secondary School is an institution of excellence that has nurtured many g
 As an autonomous school, we develop our students holistically and cultivate their talents by complementing the Singapore national curriculum with a range of thoughtfully-developed signature programmes. Our signature programmes are:</p>
 <p style="text-align:justify">
 	
-- Coding@Xinmin, focusing on computational thinking and design thinking;
+<p style="text-align:justify">- Coding@Xinmin, focusing on computational thinking and design thinking;</p>
 	
 - RefleXions@Xinmin, developing empathy and collaboration skills;
 	
