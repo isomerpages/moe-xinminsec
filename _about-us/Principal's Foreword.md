@@ -10,12 +10,14 @@ Xinmin Secondary School is an institution of excellence that has nurtured many g
 <p style="text-align:justify">
 As an autonomous school, we develop our students holistically and cultivate their talents by complementing the Singapore national curriculum with a range of thoughtfully-developed signature programmes. Our signature programmes are:</p>
 <p style="text-align:justify">
+	
 * Coding@Xinmin, focusing on computational thinking and design thinking;
 * RefleXions@Xinmin, developing empathy and collaboration skills;
+	
 * XinminCares, fostering civic character and the will to act; and
 * the Student Leadership Academy, honing leadership competencies and confidence.</p>
 <p style="text-align:justify">
-The secondary school years are a time where students explore their different interests and strengths and work towards their aspirations. We support this by offering our students multiple opportunities to discover and pursue their interests and passions, and through these experiences, develop holistically. It is also for this reason that we offer a range of options to our students in both the academic and co-curricular areas.</p>
+The academic subjects, co-curricular programmes, and signature programmes form our school’s total curriculum that we provide for every Xinmin student entrusted to us. The total curriculum is augmented by the Xinmin Talent Development Approach, through which opportunities for students to develop their talents are organised along five domains – cognitive, aesthetics, psychomotor, community, and leadership – to empower every Xinmin student to soar.</p>
 <p style="text-align:justify">
 Complementing our rigorous and enriching school-based curriculum, our school also offers state-of-the-art facilities like our Creative Arts Complex for our students to extend their learning of, and deepen their appreciation for the arts. It also presents our students with a platform to perform for the community, and through this, build positive relationships with our neighbours in the community.</p>
 <p style="text-align:justify">
