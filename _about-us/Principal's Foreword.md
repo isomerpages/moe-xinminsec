@@ -3,9 +3,8 @@ title: Principal's Foreword
 permalink: /about-us/principals-message/
 description: ""
 ---
-
 <p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/Principals%20Message%20Page.jpeg" alt="Principal" style="width:300px" /></p>
+<img src="/images/Tan%20Soon%20Hui.jpg" alt="Principal" style="width:300px" /></p>
 <p style="text-align:justify">
 Warm greetings from all of us at Xinmin!</p>
 <p style="text-align:justify">
