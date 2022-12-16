@@ -24,4 +24,4 @@ Xinmin is blessed with a team of caring teachers and allied educators committed 
 We welcome you to join us – as students, parents, and partners – on this special journey together!</p>
 
 Principal <br>
-Mr Tan Kuo Cheang
+Mr Tan Soon Hui
