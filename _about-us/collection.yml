@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
+      - Principal's Foreword.md
       - School Information.md
       - School History.md
       - Our Stakeholders/Our Stakeholders.md
