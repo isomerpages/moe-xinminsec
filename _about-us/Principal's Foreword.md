@@ -19,9 +19,9 @@ As an autonomous school, we develop our students holistically and cultivate thei
 <p style="text-align:justify">
 The academic subjects, co-curricular programmes, and signature programmes form our school’s total curriculum that we provide for every Xinmin student entrusted to us. The total curriculum is augmented by the Xinmin Talent Development Approach, through which opportunities for students to develop their talents are organised along five domains – cognitive, aesthetics, psychomotor, community, and leadership – to empower every Xinmin student to soar.</p>
 <p style="text-align:justify">
-Complementing our rigorous and enriching school-based curriculum, our school also offers state-of-the-art facilities like our Creative Arts Complex for our students to extend their learning of, and deepen their appreciation for the arts. It also presents our students with a platform to perform for the community, and through this, build positive relationships with our neighbours in the community.</p>
+Xinmin is blessed with a team of caring teachers and allied educators committed to reaching new peaks of excellence, and dedicated administrative and operational staff working hand in hand to ensure effective teaching and learning in the student development and academic domains. With strong support from the School Advisory Committee, alumni, and parents, our Xinmin family lives out the words of our school song every day by placing learning and growth at the centre of all we do: so that our students will be masters of their destiny and beacons of their time – not just for themselves, but also for love, integrity, freedom and peace.</p>
 <p style="text-align:justify">
-With our fraternity of committed and competent staff members and strong support from our stakeholders, we are committed to develop our students into the Curious Learners, Compassionate Contributors and Confident Leaders. Indeed, Xinmin Secondary School has an established tradition of producing graduates who create positive impact in their respective fields. We hope you will join our Xinmin family, and we are confident that you, like many others before you, will benefit from and enjoy the Xinmin experience!</p>
+We welcome you to join us – as students, parents, and partners – on this special journey together!</p>
 
 Principal <br>
 Mr Tan Kuo Cheang
