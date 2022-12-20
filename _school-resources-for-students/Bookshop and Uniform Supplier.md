@@ -21,11 +21,7 @@ E-mail:&nbsp;[casco@singnet.com.sg](mailto:casco@singnet.com.sg)
   
 
 Please contact the General Office at 6288 9382 if you require further assistance.  
-
-  
-
-B) Uniform Supplier Information
--------------------------------
+### B) Uniform Supplier Information
 
 Jeep Sing Fashion  
 Blk 4012 Ang Mo Kio Ave 10  
