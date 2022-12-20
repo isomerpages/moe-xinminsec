@@ -3,8 +3,6 @@ title: SLS Password Reset Guide
 permalink: /resources/students/helpdesk/sls-password-reset-guide/
 description: ""
 ---
-![Slide1](/images/Slide1.jpeg)
-
 ![Slide3](/images/Slide3.jpeg)
 
   
