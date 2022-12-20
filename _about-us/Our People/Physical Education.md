@@ -704,11 +704,11 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 133px;
+            height: 146px;
           "
           class="ive_eobj_left"
-          alt="Shanti Teo.jpg"
-          src="/images/Shanti%20Teo.jpeg"
+          alt="Joey Tay Hui Lin.jpg"
+          src="/images/Joey%20Tay%20Hui%20Lin.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -732,7 +732,9 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Shanti Teo</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Joey Tay Hui Lin</b
+          >
         </div>
         <div
           style="
@@ -784,8 +786,8 @@ third_nav_title: Our People
               text-decoration: underline;
             "
             target=""
-            href="mailto:shanti_b@schools.gov.sg"
-            >shanti_b@schools.gov.sg</a
+            href="mailto:joey_tay_hui_lin@schools.gov.sg"
+            >joey_tay_hui_lin@schools.gov.sg</a
           >
         </div>
       </td>
@@ -914,11 +916,11 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 146px;
+            height: 133px;
           "
           class="ive_eobj_left"
-          alt="Joey Tay Hui Lin.jpg"
-          src="/images/Joey%20Tay%20Hui%20Lin.jpeg"
+          alt="Shanti Teo.jpg"
+          src="/images/Shanti%20Teo.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -942,9 +944,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Ms Joey Tay Hui Lin</b
-          >
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Shanti Teo</b>
         </div>
         <div
           style="
@@ -996,8 +996,8 @@ third_nav_title: Our People
               text-decoration: underline;
             "
             target=""
-            href="mailto:joey_tay_hui_lin@schools.gov.sg"
-            >joey_tay_hui_lin@schools.gov.sg</a
+            href="mailto:shanti_b@schools.gov.sg"
+            >shanti_b@schools.gov.sg</a
           >
         </div>
       </td>
