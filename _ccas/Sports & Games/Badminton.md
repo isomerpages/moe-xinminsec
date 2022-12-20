@@ -40,9 +40,7 @@ _\*NSG Badminton Championships are cancelled for 2020 in view of COVID-19 situat
   
 
 **<u>2019 Achievements</u>** <br>
-**NSG Badminton Championships (North Zone) 2019:** <br>
-*   ‘C’ Division Girls – 4th
-*   ‘B’ Division Girls – 4th
+**NSG Badminton Championships (North Zone) 2019:** <br>*   ‘C’ Division Girls – 4th<br>*   ‘B’ Division Girls – 4th
 
   
 
