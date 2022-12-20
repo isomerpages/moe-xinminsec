@@ -2605,3 +2605,5 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
     </tr>
   </tbody>
 </table>
+
+**Mode of payment**
