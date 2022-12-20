@@ -28,12 +28,12 @@ img {
 
 <p style="text-align:center;"><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></p>
 
-**_Families under the below listed household members are required to apply via&nbsp;hardcopy forms:_**  
+**Families under the below listed household members are required to apply via&nbsp;hardcopy forms:**  
 
-_a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)_
-_b. family with more than 5 children in GGAS<br>
-_c. family with more than 4 unmarried children not in GGAS<br>
-_d. family with more than 3 grandparents in the household_ <br>
+a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>
+b. family with more than 5 children in GGAS<br>
+c. family with more than 4 unmarried children not in GGAS<br>
+d. family with more than 3 grandparents in the household_ <br>
 <small><em>[GGAS : Government and Government-Aided Schools\]</em></small>
 
 Application forms must be completed and submitted together with the required supporting documents by&nbsp;**_Friday, 11 November 2022_**. This is to ensure that our FAS students receive their school uniform~s~&nbsp;and textbooks by December 2022, before the start of the new school term on 3 January 2023.
