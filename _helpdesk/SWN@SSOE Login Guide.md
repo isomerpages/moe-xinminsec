@@ -3,17 +3,14 @@ title: SWN@SSOE Login Guide
 permalink: /resources/students/helpdesk/swn-at-ssoe-login-guide/
 description: ""
 ---
-
 School users may connect to SWN@SSOE WIFI to access the internet for teaching and learning purposes.
 
   
 
 **To connect to SWN@SSOE** WIFI:
 
-1.    On your device, under “**Settings**”, select "**Connections**", enable your "**WIFI**".
-
-2.    Select “**SWN@SSOE**”.
-
+1.    On your device, under “**Settings**”, select "**Connections**", enable your "**WIFI**".<br>
+2.    Select “**SWN@SSOE**”.<br>
 _(If you are unable to find “SWN@SSOE”, please click [here](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/helpdesk/swn-at-ssoe-login-guide/swn2-4g-at-ssoe-login-guide))_
 
   
@@ -29,9 +26,7 @@ img {
 </body>
 
   
-
-3.    Upon connected to “SWN@SSOE” WIFI, you will be redirected to **SWN@SSOE login page**.
-
+3.    Upon connected to “SWN@SSOE” WIFI, you will be redirected to **SWN@SSOE login page**.<br>
 \-    If you are not directed to the login page, go to “**http://portal.swn.moe.edu.sg**”
 
   
@@ -46,8 +41,7 @@ img {
   
 </body>
 
-\-    Check the “**I accept the terms and disclaimer agreement**”.
-
+\-    Check the “**I accept the terms and disclaimer agreement**”.<br>
 \-    Login with your **IAMS credentials** to continue
 
   
@@ -87,12 +81,9 @@ img {
 
   
 
-6.    Remember to log out after you have finished using “**SWN@SSOE**” WIFI. 
-
-To logout off "**SWN@SSOE**”, simply:
-
-\-    Go to "**http://portal.swn.moe.edu.sg**",
-
+6.    Remember to log out after you have finished using “**SWN@SSOE**” WIFI. <br>
+To logout off "**SWN@SSOE**”, simply:<br>
+\-    Go to "**http://portal.swn.moe.edu.sg**",<br>
 \-    On the top of the screen, click on your “**NRIC**” and select “**Sign Out**”.
 
   
