@@ -13,7 +13,7 @@ As announced in MOF’s Government’s Support Package on 14 Oct 2022, the incom
 
 Families with Singaporean students that meet the above income criteria are invited to obtain the application forms at our General Office, or download via&nbsp;[HERE](/files/MOE%20FAS/MOE%20FAS%20Application%20Form%20-%20Final%20Oct%2022.pdf)
 
-Alternatively, you may also apply via eFAS by scanning the QR Code or the link below._&nbsp;Please note that&nbsp;softcopies of supporting documents are required to be attached for eFAS application.
+Alternatively, you may also apply via eFAS by scanning the QR Code or the link below. Please note that softcopies of supporting documents are required to be attached for eFAS application.
 
 <style>  
 img {  
