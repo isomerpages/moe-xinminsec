@@ -1,5 +1,5 @@
 collections:
-  timetable:
+  example-folder:
     output: true
     order:
       - folder-page.md
