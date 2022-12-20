@@ -15,7 +15,9 @@ _Updated as of 14/12/2022_
 
   
 **<u>Sec 3</u>** <br>
-
+[Sec 3 Express](/files/Booklist/2023/Sec%203%20Express.pdf)<br>
+[Sec 3 Normal Academic](/files/Booklist/2023/Sec%203%20Normal%20Academic.pdf)<br>
+[Sec 3 Normal Technical](/files/Booklist/2023/Sec%203%20Normal%20Technical.pdf)
   
 **<u>Sec 4</u>** <br>
 
