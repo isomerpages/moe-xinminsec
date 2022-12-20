@@ -18,12 +18,12 @@ Timetables
 
 Quick Links
 -----------
-
-*   [Parents Gateway](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/quick-links/parents-gateway)
-*   [P@X Facebook](https://www.facebook.com/groups/xmsspax/?ref=share)
-*   [Parenting with MOE](https://www.instagram.com/parentingwith.moesg/?hl=en)
-*   [schoolbag.sg](http://schoolbag.sg/)
 *   [Family Matters @ School Programme](/resources/parents/quick-links/family-matters-at-school-programme)
+*   [Parents Gateway](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/quick-links/parents-gateway)
+*   [Parenting with MOE](https://www.instagram.com/parentingwith.moesg/?hl=en)
+*   [P@X Facebook](https://www.facebook.com/groups/xmsspax/?ref=share)
+*   [schoolbag.sg](http://schoolbag.sg/)
+
 
 School Resources
 ----------------
