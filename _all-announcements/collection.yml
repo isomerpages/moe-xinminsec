@@ -1,5 +1,5 @@
 collections:
-  announcements-backend:
+  all-announcements:
     output: true
     order:
       - 2023 Financial Assistance Scheme (With Revised Income Criteria).md
