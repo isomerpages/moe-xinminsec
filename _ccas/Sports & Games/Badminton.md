@@ -44,9 +44,7 @@ _\*NSG Badminton Championships are cancelled for 2020 in view of COVID-19 situat
 
   
 
-**NSG Badminton Championships (National) 2019:** <br>
-*   ‘C’ Division Girls - Top 16
-*   ‘B’ Division Girls – Top 16
+**NSG Badminton Championships (National) 2019:** <br>* ‘C’ Division Girls - Top 16<br>* ‘B’ Division Girls – Top 16
 
   
 
