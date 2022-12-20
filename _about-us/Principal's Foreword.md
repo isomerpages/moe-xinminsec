@@ -5,6 +5,7 @@ description: ""
 ---
 ![](/images/Ps%20Foreword%20Banner%20Photo.jpg)
 
+
 <p style="text-align:justify">
 Xinmin Secondary School is an institution of excellence that has nurtured many generations of students to be curious learners, compassionate contributors, and confident leaders. Founded in 1945, Xinmin draws strength from our rich heritage while simultaneously looking ahead to prepare our students well for the future. From our beginning as a community school till today, the essence of a Xinmin education is to develop leaders of hearts and leaders of minds, anchored on our values of Respect, Responsibility, and Resilience.</p><p style="text-align:justify">At the same time, we continually review our total curriculum and scan educational developments to design learning experiences that develop 21st Century Competencies and dispositions in our students.</p>
 <p style="text-align:justify">
