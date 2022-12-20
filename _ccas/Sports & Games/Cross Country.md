@@ -23,14 +23,14 @@ Time :  3.30 – 5.30pm <br>
 Venues : School / Sports Park / Hougang or Serangoon Stadium / PCN/ Reservoirs
 
 **Features** <br>
-1\. Leadership roles to create responsible and proactive athletes to take ownership <br>
-2\. Varied training programmes such as running workouts and fitness trainings
+\- Leadership roles to create responsible and proactive athletes to take ownership <br>
+\- Varied training programmes such as running workouts and fitness trainings
 
 **Events** <br>
-\-    Sec 1 Orientation <br>
-\-    Farewell for graduating batch <br>
-\-    Values in Action projects <br>
-\-    Team bonding / Camp
+Sec 1 Orientation <br>
+Farewell for graduating batch <br>
+Values in Action projects <br>
+Team bonding / Camp
 
   
 
