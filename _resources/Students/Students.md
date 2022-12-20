@@ -54,8 +54,8 @@ Assessment
 
 *   [Assessment Plan](/resources/students/assessment/assessment-plan-2021/)
 *   [Criteria for Promotion](/resources/students/assessment/criteria-for-promotion/)
+*  [End Of Year Examination Topics and Formats](/resources/students/assessment/end-of-year-examination-topics-and-formats/)
 *   [Instructions to Candidates](/resources/students/assessment/instructions-to-candidates/)
-*   [End Of Year Examination Topics and Formats](/resources/students/assessment/end-of-year-examination-topics-and-formats/)
 
 Admissions
 ----------
