@@ -990,6 +990,112 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
+        <td
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px 15px 15px 0px;
+            vertical-align: top;
+          "
+        >
+          <img
+            style="
+              margin: 0px 10px 0px 0px;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              float: left;
+              width: 113px;
+              height: 151px;
+            "
+            class="ive_eobj_left"
+            alt="Nanthini Gunasekaran web.jpg"
+            src="/images/Nanthini%20Gunasekaran%20web.jpeg"
+          />
+        </td>
+        <td
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px 15px 15px 0px;
+            vertical-align: top;
+          "
+        >
+          <br style="margin: 0px; outline: 0px; padding: 0px" />
+          <div
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              line-height: 24.99px;
+              color: rgb(0, 0, 0);
+              font-family: Helvetica, sans-serif;
+              font-size: 17px;
+              font-weight: 400;
+            "
+          >
+            <b style="margin: 0px; outline: 0px; padding: 0px"
+              >Ms Nanthini Gunasekaran</b
+            >
+          </div>
+          <div
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              line-height: 24.99px;
+              color: rgb(0, 0, 0);
+              font-family: Helvetica, sans-serif;
+              font-size: 17px;
+              font-weight: 400;
+            "
+          >
+            Designation: Teacher
+          </div>
+          <div
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              line-height: 24.99px;
+              color: rgb(0, 0, 0);
+              font-family: Helvetica, sans-serif;
+              font-size: 17px;
+              font-weight: 400;
+            "
+          >
+            Department: Humanities
+          </div>
+          <div
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              line-height: 24.99px;
+              color: rgb(0, 0, 0);
+              font-family: Helvetica, sans-serif;
+              font-size: 17px;
+              font-weight: 400;
+            "
+          >
+            Email:<span>&nbsp;</span
+            ><a
+              style="
+                margin: 0px;
+                outline: 0px;
+                padding: 0px;
+                color: rgb(42, 103, 183);
+                text-decoration: underline;
+              "
+              target=""
+              href="mailto:nanthini_gunasekaran@schools.gov.sg"
+              >nanthini_gunasekaran@schools.gov.sg</a
+            >
+          </div>
+        </td>
+      </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
           margin: 0px;
@@ -1197,112 +1303,6 @@ third_nav_title: Our People
               target=""
               href="mailto:norhuda_maksum@schools.gov.sg"
               >norhuda_maksum@schools.gov.sg</a
-            >
-          </div>
-        </td>
-      </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
-          "
-        >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 113px;
-              height: 151px;
-            "
-            class="ive_eobj_left"
-            alt="Nanthini Gunasekaran web.jpg"
-            src="/images/Nanthini%20Gunasekaran%20web.jpeg"
-          />
-        </td>
-        <td
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
-          "
-        >
-          <br style="margin: 0px; outline: 0px; padding: 0px" />
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Ms Nanthini Gunasekaran</b
-            >
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Teacher
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Department: Humanities
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:<span>&nbsp;</span
-            ><a
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                color: rgb(42, 103, 183);
-                text-decoration: underline;
-              "
-              target=""
-              href="mailto:nanthini_gunasekaran@schools.gov.sg"
-              >nanthini_gunasekaran@schools.gov.sg</a
             >
           </div>
         </td>
