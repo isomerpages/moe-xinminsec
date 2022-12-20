@@ -2,5 +2,4 @@ collections:
   announcements-backend:
     output: true
     order:
-      - Sec 2 Subject Combinations Options Submission.md
       - 2023 Financial Assistance Scheme (With Revised Income Criteria).md
