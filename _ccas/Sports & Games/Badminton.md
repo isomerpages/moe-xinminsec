@@ -30,13 +30,12 @@ _\*NSG Badminton Championships are cancelled for 2020 in view of COVID-19 situat
 
 **<u>2022 Achievements</u>** <br>
 **<u>NSG Badminton Championships (North Zone) 2022:</u>** <br>
-• ‘B’ Division Girls : 2nd
+‘B’ Division Girls : 2nd
 
   
 
 **<u>2021 Achievements</u>** <br>
-**NSG Badminton Championships (North Zone) 2021:** <br>
-*   ‘B’ Division Girls – 3rd
+**NSG Badminton Championships (North Zone) 2021:** <br>* ‘B’ Division Girls – 3rd
 
   
 
