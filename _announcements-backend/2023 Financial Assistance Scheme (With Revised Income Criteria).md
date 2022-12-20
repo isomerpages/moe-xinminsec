@@ -49,7 +49,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/MOE%20FAS/MOE_FAS_Sec1_2023.png" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:40%;">  
+<body><img src="/images/MOE%20FAS/MOE_FAS_Sec1_2023.png" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:38%;">  
 </body>
 <p style="text-align:center;"><a href="https://go.gov.sg/s1-moefas">https://go.gov.sg/s1-moefas</a></p>
 
