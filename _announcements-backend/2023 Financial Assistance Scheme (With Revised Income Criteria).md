@@ -42,6 +42,7 @@ Application forms should be completed and submitted with the supporting document
 
 For MOE FAS applications **approved by respective primary schools, or their siblings’ schools**, please click the below link or scan the QR code to submit the approval letter for our processing.
 
+
 Thank you. <br>
 General Office
 
