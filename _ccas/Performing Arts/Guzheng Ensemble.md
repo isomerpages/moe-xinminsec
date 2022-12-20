@@ -32,25 +32,25 @@ Mrs May Ng <br>
 Ms Guan Jing
 
   
-
 **Exco for Guzheng Ensemble (2021 – 2022)** <br>
-1. President: Thum Jing Tao (402) <br>
-2. Vice-President (Admin): Alena Lock Yi Xin (409) <br>
-3. Vice-President (Music) and Sectional Leader: Eunice Ho Xuan Pei (402) <br>
-4. Discipline Head: Tong Khai Shuen (403) <br>
-5. Quarter Master (Equipment) (Head) and Sectional Leader: Shanice Loke Xuan Ning (402) <br>
-6. Quarter Master (Equipment): Lee Hui (403) <br>
-7. Quarter Master (Apparel) (Head): Joelle Lui Hui Wen (401) <br>
-8. Quarter Master (Publicity) and Sectional Leader (Head): Charlotte Wong Yu Xuan (404)
+President: Thum Jing Tao (402) <br>
+Vice-President (Admin): Alena Lock Yi Xin (409) <br>
+Vice-President (Music) and Sectional Leader: Eunice Ho Xuan Pei (402) <br>
+Discipline Head: Tong Khai Shuen (403) <br>
+Quarter Master (Equipment) (Head) and Sectional Leader: Shanice Loke Xuan Ning (402) <br>
+Quarter Master (Equipment): Lee Hui (403) <br>
+Quarter Master (Apparel) (Head): Joelle Lui Hui Wen (401) <br>
+Quarter Master (Publicity) and Sectional Leader (Head): Charlotte Wong Yu Xuan (404)
+
 
   
 
 **Upper Sec Committee Member (2021 – 2022)** <br>
-9. Camp Committee: Ng Qi Ying (405) <br>
-10. Level IC (Sec 3): Lauren Tay Ying En (303)
+Camp Committee: Ng Qi Ying (405) <br>
+Level IC (Sec 3): Lauren Tay Ying En (303)
 
 **Lower Sec Committee Member (2021 – 2022)** <br>
-11. Level IC (Lower Sec Chairperson): Tan Zhi Qi (204)
+Level IC (Lower Sec Chairperson): Tan Zhi Qi (204)
 
   
 
