@@ -2206,7 +2206,7 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
     padding: 0px;
     border-collapse: collapse;
     width: 823.094px;
-		border=1px;
+		border:1px;
   "
   width="662"
   cellpadding="0"
