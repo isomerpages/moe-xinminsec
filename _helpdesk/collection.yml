@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Google Apps Password Reset Guide.md
-      - SWN@SSOE Login Guide.md
       - SLS Password Reset Guide.md
       - Student ICON Password Reset Guide.md
+      - SWN@SSOE Login Guide.md
