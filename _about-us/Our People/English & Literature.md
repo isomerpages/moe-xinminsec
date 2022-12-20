@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lim Tze Ting Jasmine.jpg"
-          src="/images/Lim%20Tze%20Ting%20Jasmine.jpeg"
+          src="/images/English Language/Lim%20Tze%20Ting%20Jasmine.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -163,7 +163,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Amy Luisita.jpg"
-          src="/images/Amy%20Luisita.jpeg"
+          src="/images/English Language/Amy%20Luisita.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -267,7 +267,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Sharon Ong Ling Hui.jpg"
-          src="/images/Sharon%20Ong%20Ling%20Hui.jpeg"
+          src="/images/English Language/Sharon%20Ong%20Ling%20Hui.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -371,7 +371,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Abeyegoonasekera Rebecca.jpg"
-          src="/images/Abeyegoonasekera%20Rebecca.jpeg"
+          src="/images/English Language/Abeyegoonasekera%20Rebecca.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -475,7 +475,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Anny Roezza Abdul Aziz.jpg"
-          src="/images/Anny%20Roezza%20Abdul%20Aziz.jpeg"
+          src="/images/English Language/Anny%20Roezza%20Abdul%20Aziz.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -579,7 +579,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Chan Shu Min Charlene.jpg"
-          src="/images/Chan%20Shu%20Min%20Charlene.jpeg"
+          src="/images/English Language/Chan%20Shu%20Min%20Charlene.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -683,7 +683,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="CHANG HOW CHUN.jpg"
-          src="/images/CHANG%20HOW%20CHUN.jpeg"
+          src="/images/English Language/CHANG%20HOW%20CHUN.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -825,7 +825,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Chia Yen Har Junice.jpg"
-          src="/images/Chia%20Yen%20Har%20Junice.jpeg"
+          src="/images/English Language/Chia%20Yen%20Har%20Junice.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -929,7 +929,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Doreen Yeo.jpg"
-          src="/images/Doreen%20Yeo.jpeg"
+          src="/images/English Language/Doreen%20Yeo.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1031,7 +1031,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lim Ee Gek Belinda.jpg"
-          src="/images/Lim%20Ee%20Gek%20Belinda.jpeg"
+          src="/images/English Language/Lim%20Ee%20Gek%20Belinda.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1136,7 +1136,7 @@ third_nav_title: Our People
           class="ive_eobj_left"
           alt="Lionel_Foon 1.jpg"
           width="100%"
-          src="/images/Lionel_Foon%201.jpeg"
+          src="/images/English Language/Lionel_Foon%201.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1240,7 +1240,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Nadrah 1.jpg"
-          src="/images/Nadrah%201.jpeg"
+          src="/images/English Language/Nadrah%201.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1824,7 +1824,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="YEE SIAU FOON.jpg"
-          src="/images/YEE%20SIAU%20FOON.jpeg"
+          src="/images/English Language/YEE%20SIAU%20FOON.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
