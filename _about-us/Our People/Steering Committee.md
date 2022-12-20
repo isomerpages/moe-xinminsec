@@ -362,6 +362,112 @@ third_nav_title: Our People
         "
       >
         <img
+          src="/images/Alan%20Ang%20Tong%20Hock.jpeg"
+          alt="Alan Ang Tong Hock.jpg"
+          class="ive_eobj_left"
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 106px;
+            height: 150px;
+          "
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Mr Alan Ang Tong Hock</b
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Year Head (Sec 1 and 2 - Year 2022)
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Mathematics
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            href="mailto:ang_tong_hock@schools.gov.sg"
+            target=""
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            >ang_tong_hock@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
           src="/images/Amy%20Luisita.jpeg"
           alt="Amy Luisita.jpg"
           class="ive_eobj_left"
@@ -1624,113 +1730,6 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;
-          width: 120px;
-        "
-      >
-        <img
-          src="/images/Tay%20Lye%20Hock%20Gabriel.jpeg"
-          alt="Tay Lye Hock Gabriel.jpg"
-          class="ive_eobj_left"
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 114px;
-            height: 154px;
-          "
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Mr Tay Lye Hock Gabriel</b
-          >
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation: Head of Department / Covering Arts Education
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Physical Education &amp; CCA
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            href="mailto:tay_lye_hock_gabriel@schools.gov.sg"
-            target=""
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            >tay_lye_hock_gabriel@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
         "
       >
         <img
@@ -1835,11 +1834,12 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;
+          width: 120px;
         "
       >
         <img
-          src="/images/Alan%20Ang%20Tong%20Hock.jpeg"
-          alt="Alan Ang Tong Hock.jpg"
+          src="/images/Tay%20Lye%20Hock%20Gabriel.jpeg"
+          alt="Tay Lye Hock Gabriel.jpg"
           class="ive_eobj_left"
           style="
             margin: 0px 10px 0px 0px;
@@ -1848,8 +1848,8 @@ third_nav_title: Our People
             border: none;
             max-width: 100%;
             float: left;
-            width: 106px;
-            height: 150px;
+            width: 114px;
+            height: 154px;
           "
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
@@ -1875,7 +1875,7 @@ third_nav_title: Our People
           "
         >
           <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Mr Alan Ang Tong Hock</b
+            >Mr Tay Lye Hock Gabriel</b
           >
         </div>
         <div
@@ -1890,7 +1890,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          Designation: Year Head (Sec 1 and 2 - Year 2022)
+          Designation: Head of Department / Covering Arts Education
         </div>
         <div
           style="
@@ -1904,7 +1904,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          Department: Mathematics
+          Department: Physical Education &amp; CCA
         </div>
         <div
           style="
@@ -1920,7 +1920,7 @@ third_nav_title: Our People
         >
           Email:<span>&nbsp;</span
           ><a
-            href="mailto:ang_tong_hock@schools.gov.sg"
+            href="mailto:tay_lye_hock_gabriel@schools.gov.sg"
             target=""
             style="
               margin: 0px;
@@ -1929,7 +1929,7 @@ third_nav_title: Our People
               color: rgb(42, 103, 183);
               text-decoration: underline;
             "
-            >ang_tong_hock@schools.gov.sg</a
+            >tay_lye_hock_gabriel@schools.gov.sg</a
           >
         </div>
       </td>
