@@ -55,8 +55,9 @@ img {
 
 If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2023. Please contact the school at 6288 9382 to enquire on your MOE FAS auto grant status.
 
-For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for ‘2023 MOE FAS pamphlet 4L Revised Income Criteria’.
 
+For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for ‘2023 MOE FAS pamphlet 4L Revised Income Criteria’.<br>
+[2023 MOE FAS pamphlet 4L Revised Income Criteria](/files/MOE%20FAS/2023%20MOE%20FAS%20pamphlet%204L%20-%20Revised%20Income%20Criteria%20Final_compressed.pdf)
 
 Thank you. <br>
 General Office
