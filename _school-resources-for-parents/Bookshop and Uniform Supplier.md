@@ -2190,11 +2190,15 @@ purchase**
 </table>
 
 Please contact the General Office at 6288 9382 if you require further
-assistance. ###B) Uniform Supplier Information<br />Jeep Sing Fashion Blk 4012
-Ang Mo Kio Ave 10<br />#01-08/09 Techplace 1<br />Singapore 569628<br />Tel:
-31636074 Fax: 63862407<br />
-Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) **Modes
-of purchase**
+assistance. <br>
+### B) Uniform Supplier Information<br>
+Jeep Sing Fashion Blk 4012
+Ang Mo Kio Ave 10<br>
+#01-08/09 Techplace 1<br>Singapore 569628<br>
+Tel: 31636074 <br>
+Fax: 63862407<br>
+Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
+**Modes of purchase**
 <table
   style="
     margin: 0px;
@@ -2603,4 +2607,3 @@ of purchase**
 </table>
 
 [Jeep Sing Fashion Information](/files/Uniforms/Jeep%20Sing%20Fashion%20Information.pdf)
-
