@@ -2606,4 +2606,6 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
   </tbody>
 </table>
 
-**Mode of payment**
+**Mode of payment**<br>
+Cash, PayNow, DBS PayLah! and Nets*<br>
+\- Please note that Nets payment mode is NOT available for school uniform purchases in school
