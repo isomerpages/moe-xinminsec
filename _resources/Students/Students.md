@@ -25,9 +25,9 @@ Quick Links
 Helpdesk
 --------
 
-*   [SLS Password Reset Guide](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/helpdesk/sls-password-reset-guide)
-*   [Google Apps Password Reset Guide](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/helpdesk/google-apps-password-reset-guide)
-*   [SWN@SSOE Login Guide](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/students/helpdesk/swn-at-ssoe-login-guide)
+*   [SLS Password Reset Guide](/resources/students/helpdesk/sls-password-reset-guide)
+*   [Google Apps Password Reset Guide](/resources/students/helpdesk/google-apps-password-reset-guide)
+*   [SWN@SSOE Login Guide](/resources/students/helpdesk/swn-at-ssoe-login-guide)
 *   [Student ICON Password Reset Guide](https://tinyurl.com/pwrform-xmss)
 
 School Resources
