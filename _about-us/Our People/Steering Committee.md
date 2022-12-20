@@ -676,6 +676,113 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;
+          width: 120px;
+        "
+      >
+        <img
+          src="/images/Choy%20Mun%20Kheong%20Nicholas.jpeg"
+          alt="Choy Mun Kheong Nicholas.jpg"
+          class="ive_eobj_left"
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 110px;
+            height: 162px;
+          "
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Mr Choy Mun Kheong Nicholas</b
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Subject Head - Science
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Science
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            href="mailto:choy_mun_kheong_nicholas@schools.gov.sg"
+            target=""
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            >choy_mun_kheong_nicholas@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
         "
       >
         <img
@@ -875,6 +982,226 @@ third_nav_title: Our People
               text-decoration: underline;
             "
             >singh_hardev@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+          width: 120px;
+        "
+      >
+        <img
+          src="/images/Harvinder%20Singh_1.jpeg"
+          alt="Harvinder Singh_1.jpg"
+          class="ive_eobj_left"
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 111px;
+            height: 144px;
+          "
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr&nbsp;</b
+          ><span
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              background-color: initial;
+            "
+            ><b style="margin: 0px; outline: 0px; padding: 0px"
+              >Harvinder Singh</b
+            ></span
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Subject Head - Aesthetic
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Arts Education
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            href="mailto:Harvinder_Singh@schools.gov.sg"
+            target=""
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            >Harvinder_Singh@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          src="/images/Ho%20Yen%20Peng.jpeg"
+          alt="Ho Yen Peng.jpg"
+          class="ive_eobj_left"
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 113px;
+            height: 145px;
+          "
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Ho Yen Peng</b>
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Subject Head
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Physical Education &amp; CCA
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            href="mailto:lim_yen_peng@schools.gov.sg"
+            target=""
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            >lim_yen_peng@schools.gov.sg</a
           >
         </div>
       </td>
@@ -1624,6 +1951,113 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;
+          width: 120px;
+        "
+      >
+        <img
+          src="/images/Tay%20Lye%20Hock%20Gabriel.jpeg"
+          alt="Tay Lye Hock Gabriel.jpg"
+          class="ive_eobj_left"
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 114px;
+            height: 154px;
+          "
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Mr Tay Lye Hock Gabriel</b
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Head of Department / Covering Arts Education
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Physical Education &amp; CCA
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            href="mailto:tay_lye_hock_gabriel@schools.gov.sg"
+            target=""
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            >tay_lye_hock_gabriel@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
         "
       >
         <img
@@ -1719,6 +2153,231 @@ third_nav_title: Our People
               text-decoration: underline;
             "
             >susan_lee_boon_hong@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          src="/images/sl_a_lady.png"
+          alt="Low Yan Jin.jpg"
+          class="ive\_eobj\_left"
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 114px;
+            height: 145px;
+          "
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Lim Mei Yin, Tiffany
+            <div
+              style="
+                margin: 0px;
+                outline: 0px;
+                padding: 0px;
+                line-height: 24.99px;
+                color: rgb(0, 0, 0);
+                font-family: Helvetica, sans-serif;
+                font-size: 17px;
+                font-weight: 400;
+              "
+            >
+              Designation:&nbsp;<span
+                style="
+                  margin: 0px;
+                  outline: 0px;
+                  padding: 0px;
+                  background-color: initial;
+                "
+                >Assistant Year Head
+                <div
+                  style="
+                    margin: 0px;
+                    outline: 0px;
+                    padding: 0px;
+                    line-height: 24.99px;
+                    color: rgb(0, 0, 0);
+                    font-family: Helvetica, sans-serif;
+                    font-size: 17px;
+                    font-weight: 400;
+                  "
+                >
+                  Department: Mathematics
+                  <div
+                    style="
+                      margin: 0px;
+                      outline: 0px;
+                      padding: 0px;
+                      line-height: 24.99px;
+                      color: rgb(0, 0, 0);
+                      font-family: Helvetica, sans-serif;
+                      font-size: 17px;
+                      font-weight: 400;
+                    "
+                  >
+                    Email:&nbsp;<a
+                      href="mailto:Tiffany_My_Lim@schools.gov.sg"
+                      target=""
+                      style="
+                        margin: 0px;
+                        outline: 0px;
+                        padding: 0px;
+                        color: rgb(42, 103, 183);
+                        text-decoration: underline;
+                      "
+                      >Tiffany_My_Lim@schools.gov.sg</a
+                    >
+                  </div>
+                </div></span
+              >
+            </div></b
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          src="/images/Low%20Yan%20Jin.jpeg"
+          alt="Low Yan Jin.jpg"
+          class="ive_eobj_left"
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 114px;
+            height: 145px;
+          "
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Low Yan Jin</b>
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation:&nbsp;<span
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              background-color: initial;
+            "
+            >Subject Head - Student Well-Being</span
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Mathematics
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            href="mailto:yan_jin_low@schools.gov.sg"
+            target=""
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            >yan_jin_low@schools.gov.sg</a
           >
         </div>
       </td>
@@ -1944,440 +2603,6 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Tay%20Lye%20Hock%20Gabriel.jpeg"
-          alt="Tay Lye Hock Gabriel.jpg"
-          class="ive_eobj_left"
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 114px;
-            height: 154px;
-          "
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Mr Tay Lye Hock Gabriel</b
-          >
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation: Head of Department / Covering Arts Education
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Physical Education &amp; CCA
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            href="mailto:tay_lye_hock_gabriel@schools.gov.sg"
-            target=""
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            >tay_lye_hock_gabriel@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <img
-          src="/images/Ho%20Yen%20Peng.jpeg"
-          alt="Ho Yen Peng.jpg"
-          class="ive_eobj_left"
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 113px;
-            height: 145px;
-          "
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Ho Yen Peng</b>
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation: Subject Head
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Physical Education &amp; CCA
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            href="mailto:lim_yen_peng@schools.gov.sg"
-            target=""
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            >lim_yen_peng@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-          width: 120px;
-        "
-      >
-        <img
-          src="/images/Choy%20Mun%20Kheong%20Nicholas.jpeg"
-          alt="Choy Mun Kheong Nicholas.jpg"
-          class="ive_eobj_left"
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 110px;
-            height: 162px;
-          "
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Mr Choy Mun Kheong Nicholas</b
-          >
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation: Subject Head - Science
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Science
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            href="mailto:choy_mun_kheong_nicholas@schools.gov.sg"
-            target=""
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            >choy_mun_kheong_nicholas@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-          width: 120px;
-        "
-      >
-        <img
-          src="/images/Harvinder%20Singh_1.jpeg"
-          alt="Harvinder Singh_1.jpg"
-          class="ive_eobj_left"
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 111px;
-            height: 144px;
-          "
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr&nbsp;</b
-          ><span
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              background-color: initial;
-            "
-            ><b style="margin: 0px; outline: 0px; padding: 0px"
-              >Harvinder Singh</b
-            ></span
-          >
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation: Subject Head - Aesthetic
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Arts Education
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            href="mailto:Harvinder_Singh@schools.gov.sg"
-            target=""
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            >Harvinder_Singh@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-          width: 120px;
-        "
-      >
-        <img
           src="/images/sl_a_gentleman.png"
           alt="sl_a_gentleman.png"
           class="ive_eobj_left"
@@ -2470,231 +2695,6 @@ third_nav_title: Our People
               text-decoration: underline;
             "
             >so_arivazhagian_m_thiruselvan@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <img
-          src="/images/Low%20Yan%20Jin.jpeg"
-          alt="Low Yan Jin.jpg"
-          class="ive_eobj_left"
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 114px;
-            height: 145px;
-          "
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Low Yan Jin</b>
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation:&nbsp;<span
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              background-color: initial;
-            "
-            >Subject Head - Student Well-Being</span
-          >
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Mathematics
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            href="mailto:yan_jin_low@schools.gov.sg"
-            target=""
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            >yan_jin_low@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <img
-          src="/images/sl_a_lady.png"
-          alt="Low Yan Jin.jpg"
-          class="ive\_eobj\_left"
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 114px;
-            height: 145px;
-          "
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Lim Mei Yin, Tiffany
-            <div
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                line-height: 24.99px;
-                color: rgb(0, 0, 0);
-                font-family: Helvetica, sans-serif;
-                font-size: 17px;
-                font-weight: 400;
-              "
-            >
-              Designation:&nbsp;<span
-                style="
-                  margin: 0px;
-                  outline: 0px;
-                  padding: 0px;
-                  background-color: initial;
-                "
-                >Assistant Year Head
-                <div
-                  style="
-                    margin: 0px;
-                    outline: 0px;
-                    padding: 0px;
-                    line-height: 24.99px;
-                    color: rgb(0, 0, 0);
-                    font-family: Helvetica, sans-serif;
-                    font-size: 17px;
-                    font-weight: 400;
-                  "
-                >
-                  Department: Mathematics
-                  <div
-                    style="
-                      margin: 0px;
-                      outline: 0px;
-                      padding: 0px;
-                      line-height: 24.99px;
-                      color: rgb(0, 0, 0);
-                      font-family: Helvetica, sans-serif;
-                      font-size: 17px;
-                      font-weight: 400;
-                    "
-                  >
-                    Email:&nbsp;<a
-                      href="mailto:Tiffany_My_Lim@schools.gov.sg"
-                      target=""
-                      style="
-                        margin: 0px;
-                        outline: 0px;
-                        padding: 0px;
-                        color: rgb(42, 103, 183);
-                        text-decoration: underline;
-                      "
-                      >Tiffany_My_Lim@schools.gov.sg</a
-                    >
-                  </div>
-                </div></span
-              >
-            </div></b
           >
         </div>
       </td>
