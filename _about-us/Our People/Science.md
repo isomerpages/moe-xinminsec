@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lim Boon Ping.jpg"
-          src="/images/Lim%20Boon%20Ping.jpeg"
+          src="/images/Science/Lim%20Boon%20Ping.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -166,7 +166,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Choy Mun Kheong Nicholas.jpg"
-          src="/images/Choy%20Mun%20Kheong%20Nicholas.jpeg"
+          src="/images/Science/Choy%20Mun%20Kheong%20Nicholas.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -272,7 +272,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Michael Rodrigues.jpg"
-          src="/images/Michael%20Rodrigues.jpeg"
+          src="/images/Science/Michael%20Rodrigues.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -378,7 +378,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Annie Tan.jpg"
-          src="/images/Annie%20Tan.jpeg"
+          src="/images/Science/Annie%20Tan.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -482,7 +482,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Kris Chua.jpg"
-          src="/images/Kris%20Chua.jpeg"
+          src="/images/Science/Kris%20Chua.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -586,7 +586,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Kuo Yu Hsuan web.jpg"
-          src="/images/Kuo%20Yu%20Hsuan%20web.jpeg"
+          src="/images/Science/Kuo%20Yu%20Hsuan%20web.jpeg"
         />
       </td>
       <td
@@ -690,7 +690,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lin Shun Yi.jpg"
-          src="/images/Lin%20Shun%20Yi.jpeg"
+          src="/images/Science/Lin%20Shun%20Yi.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -794,7 +794,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Seetoh Lai Yip.jpg"
-          src="/images/Seetoh%20Lai%20Yip.jpeg"
+          src="/images/Science/Seetoh%20Lai%20Yip.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -898,7 +898,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Hafizah1.jpg"
-          src="/images/Hafizah1.jpeg"
+          src="/images/Science/Hafizah1.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1004,7 +1004,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Norfarhana Abdullah.jpg"
-          src="/images/Norfarhana%20Abdullah.jpeg"
+          src="/images/Science/Norfarhana%20Abdullah.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1110,7 +1110,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Cindy Wong.jpg"
-          src="/images/Cindy%20Wong.jpeg"
+          src="/images/Science/Cindy%20Wong.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1321,7 +1321,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Zhuang Haoyang.jpg"
-          src="/images/Zhuang%20Haoyang.jpeg"
+          src="/images/Science/Zhuang%20Haoyang.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
