@@ -2,7 +2,6 @@ collections:
   timetable:
     output: true
     order:
-      - School Timetable.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
