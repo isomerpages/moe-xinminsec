@@ -43,27 +43,24 @@ Our shooters have worked hard to achieve good results at the 2021 NSG Shooting C
 
   
 
-**B Division (Air Pistol Women)**
-
-*   Team 5th
-*   Individual 12th – Leung Hei Tung (403)
-*   Individual 19th – Joy Chia Xuan (302)
-
-  
-
-**B Division (Air Rifle Men)**
-
-*   Team 5th
-*   Individual 7th – Bryan Khoo Zhi Ren (303)
-*   Individual 20th – Lim Xanthus (401)
+**B Division (Air Pistol Women)**<br>
+Team 5th <br>
+Individual 12th – Leung Hei Tung (403)<br>
+Individual 19th – Joy Chia Xuan (302)<br>
 
   
 
-**B Division (Air Rifle Women)**
+**B Division (Air Rifle Men)**<br>
+Team 5th<br>
+Individual 7th – Bryan Khoo Zhi Ren (303)<br>
+Individual 20th – Lim Xanthus (401)<br>
 
-*   Team 6th
-*   Individual 5th – Ashley Goh Yu Ting (401)
-*   Individual 15th – Jamie Yeo Kaixin (405)
+  
+
+**B Division (Air Rifle Women)**<br>
+Team 6th<br>
+Individual 5th – Ashley Goh Yu Ting (401)<br>
+Individual 15th – Jamie Yeo Kaixin (405)<br>
 
   
 
