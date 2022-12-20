@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Students/School Timetable.md
       - Students/Students.md
       - Students/.keep
       - Parents/.keep
