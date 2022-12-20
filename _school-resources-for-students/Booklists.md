@@ -3,9 +3,10 @@ title: Booklists
 permalink: /resources/students/school-resources/booklists/
 description: ""
 ---
-_Updated as of 12/01/2022_
+_Updated as of 14/12/2022_
 
 **<u>Sec 1</u>**  
+
 [Sec 1 Express.pdf](/files/Sec%201%20Exp.pdf)  <br>
 [Sec 1 Normal Academic.pdf](/files/Sec%201%20NA.pdf)  <br>
 [Sec 1 Normal Technical.pdf](/files/Sec%201%20NT.pdf)
