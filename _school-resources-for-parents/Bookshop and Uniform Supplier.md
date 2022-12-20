@@ -2609,3 +2609,9 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
 **Mode of payment**<br>
 Cash, PayNow, DBS PayLah! and Nets*<br>
 \- Please note that Nets payment mode is NOT available for school uniform purchases in school
+
+**Retail Outlet Operating Hours**<br>
+Mon to Fri - 10.00am to 6.00pm<br>
+(Lunch break and sanitising of store - 1pm to 2pm)<br>
+Sat - 10.00am to 2.00pm<br>
+Closed on Sunday and Public Holidays<br>
