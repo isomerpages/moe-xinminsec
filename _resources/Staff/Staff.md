@@ -41,9 +41,8 @@ MOE Links (Intranet)
 
 T&L Resources
 -------------
-
-*   [T&L Bulletin](https://sites.google.com/xinminss.edu.sg/tlbulletin-2020/home?pli=1)
 *   [School Premium Apps](/resources/staff/tnl-resources/school-premium-apps)
+*   [T&L Bulletin](https://sites.google.com/xinminss.edu.sg/tlbulletin-2020/home?pli=1)
 
 Other Resources
 ---------------
