@@ -2,7 +2,7 @@ collections:
   school-resources-for-students:
     output: true
     order:
-      - School Rules.md
       - Attire & Grooming.md
       - Booklists.md
       - Bookshop and Uniform Supplier.md
+      - School Rules.md
