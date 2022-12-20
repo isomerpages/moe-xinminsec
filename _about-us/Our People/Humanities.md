@@ -249,109 +249,109 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 109px;
+            height: 145px;
+          "
+          class="ive_eobj_left"
+          alt="Ng Lee Hua.jpg"
+          src="/images/Ng%20Lee%20Hua.jpeg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 109px;
-              height: 145px;
-            "
-            class="ive_eobj_left"
-            alt="Ng Lee Hua.jpg"
-            src="/images/Ng%20Lee%20Hua.jpeg"
-          /><br style="margin: 0px; outline: 0px; padding: 0px" />
-        </td>
-        <td
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Ng Lee Hua</b>
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <br style="margin: 0px; outline: 0px; padding: 0px" />
-          <div
+          Designation: Year Head (Sec 3 - Year 2022)
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Humanities
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
             "
+            target=""
+            href="mailto:ng_lee_hua@schools.gov.sg"
+            >ng_lee_hua@schools.gov.sg</a
           >
-            <b style="margin: 0px; outline: 0px; padding: 0px">Ms Ng Lee Hua</b>
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Year Head (Sec 3 - Year 2022)
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Department: Humanities
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:<span>&nbsp;</span
-            ><a
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                color: rgb(42, 103, 183);
-                text-decoration: underline;
-              "
-              target=""
-              href="mailto:ng_lee_hua@schools.gov.sg"
-              >ng_lee_hua@schools.gov.sg</a
-            >
-          </div>
-        </td>
-      </tr>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
@@ -990,111 +990,111 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 113px;
+            height: 151px;
+          "
+          class="ive_eobj_left"
+          alt="Nanthini Gunasekaran web.jpg"
+          src="/images/Nanthini%20Gunasekaran%20web.jpeg"
+        />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 113px;
-              height: 151px;
-            "
-            class="ive_eobj_left"
-            alt="Nanthini Gunasekaran web.jpg"
-            src="/images/Nanthini%20Gunasekaran%20web.jpeg"
-          />
-        </td>
-        <td
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Nanthini Gunasekaran</b
+          >
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <br style="margin: 0px; outline: 0px; padding: 0px" />
-          <div
+          Designation: Teacher
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Humanities
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
             "
+            target=""
+            href="mailto:nanthini_gunasekaran@schools.gov.sg"
+            >nanthini_gunasekaran@schools.gov.sg</a
           >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Ms Nanthini Gunasekaran</b
-            >
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Teacher
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Department: Humanities
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:<span>&nbsp;</span
-            ><a
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                color: rgb(42, 103, 183);
-                text-decoration: underline;
-              "
-              target=""
-              href="mailto:nanthini_gunasekaran@schools.gov.sg"
-              >nanthini_gunasekaran@schools.gov.sg</a
-            >
-          </div>
-        </td>
-      </tr>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
@@ -1202,111 +1202,111 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 113px;
+            height: 133px;
+          "
+          class="ive_eobj_left"
+          alt="Norhuda bte Maksum.jpg"
+          src="/images/Norhuda%20bte%20Maksum.jpeg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 113px;
-              height: 133px;
-            "
-            class="ive_eobj_left"
-            alt="Norhuda bte Maksum.jpg"
-            src="/images/Norhuda%20bte%20Maksum.jpeg"
-          /><br style="margin: 0px; outline: 0px; padding: 0px" />
-        </td>
-        <td
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Norhuda bte Maksum</b
+          >
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <br style="margin: 0px; outline: 0px; padding: 0px" />
-          <div
+          Designation: Teacher
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Humanities
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
             "
+            target=""
+            href="mailto:norhuda_maksum@schools.gov.sg"
+            >norhuda_maksum@schools.gov.sg</a
           >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Ms Norhuda bte Maksum</b
-            >
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Teacher
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Department: Humanities
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:<span>&nbsp;</span
-            ><a
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                color: rgb(42, 103, 183);
-                text-decoration: underline;
-              "
-              target=""
-              href="mailto:norhuda_maksum@schools.gov.sg"
-              >norhuda_maksum@schools.gov.sg</a
-            >
-          </div>
-        </td>
-      </tr>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
@@ -1537,112 +1537,6 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 112px;
-            height: 143px;
-          "
-          class="ive_eobj_left"
-          alt="sl_a_lady.png"
-          src="/images/sl_a_lady.png"
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Ms Wang Shi Ting</b
-          >
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation: Teacher
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Humanities
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            target=""
-            href="mailto:shi_ting_wan@schools.gov.sg"
-            >shi_ting_wan@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <img
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 112px;
             height: 139px;
           "
           class="ive_eobj_left"
@@ -1727,6 +1621,112 @@ third_nav_title: Our People
             target=""
             href="mailto:tong_pui_leng@schools.gov.sg"
             >tong_pui_leng@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 112px;
+            height: 143px;
+          "
+          class="ive_eobj_left"
+          alt="sl_a_lady.png"
+          src="/images/sl_a_lady.png"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Wang Shi Ting</b
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Teacher
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Humanities
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            target=""
+            href="mailto:shi_ting_wan@schools.gov.sg"
+            >shi_ting_wan@schools.gov.sg</a
           >
         </div>
       </td>
