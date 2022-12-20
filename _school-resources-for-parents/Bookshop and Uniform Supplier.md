@@ -2605,7 +2605,7 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
     </tr>
   </tbody>
 </table>
-
+<br><br>
 **Mode of payment**<br>
 Cash, PayNow, DBS PayLah! and Nets*<br>
 \- Please note that Nets payment mode is NOT available for school uniform purchases in school
@@ -2622,4 +2622,4 @@ We do not allow walk-in to our retail outlet or school without any booking of ap
 To avoid disappointment, bookings have to make 2 days in advance before your actual day of collection at our retail outlet.
 
 
-There will be strictly **NO trying of uniforms** allowed at our outlet due to hygiene reasons during this crucial period. Instead, parents are advised to bring down their child’s best-fitted garment to compare with our standard uniform sizes for best uniform fitting. 
+There will be strictly **NO trying of uniforms** allowed at our outlet due to hygiene reasons during this crucial period. Instead, parents are advised to bring down their child’s best-fitted garment to compare with our standard uniform sizes for best uniform fitting.
