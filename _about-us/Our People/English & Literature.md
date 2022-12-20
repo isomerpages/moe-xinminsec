@@ -1803,178 +1803,178 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 106px;
+            height: 134px;
+          "
+          class="ive_eobj_left"
+          alt="YEE SIAU FOON.jpg"
+          src="/images/YEE%20SIAU%20FOON.jpeg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 106px;
-              height: 134px;
-            "
-            class="ive_eobj_left"
-            alt="YEE SIAU FOON.jpg"
-            src="/images/YEE%20SIAU%20FOON.jpeg"
-          /><br style="margin: 0px; outline: 0px; padding: 0px" />
-        </td>
-        <td
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Yee Siau Foon</b
+          >
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        ></div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        ></div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <div
+          Designation: Teacher
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <span
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              background-color: initial;
             "
+            >Department:&nbsp;</span
+          ><span
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              background-color: initial;
+            "
+            >English and Literature</span
           >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Ms Yee Siau Foon</b
-            >
-          </div>
-          <div
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:&nbsp;<span
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              background-color: initial;
             "
-          ></div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          ></div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Teacher
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            <span
+            ><a
               style="
                 margin: 0px;
                 outline: 0px;
                 padding: 0px;
-                background-color: initial;
+                color: rgb(42, 103, 183);
+                text-decoration: underline;
               "
-              >Department:&nbsp;</span
-            ><span
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                background-color: initial;
-              "
-              >English and Literature</span
-            >
-          </div>
-          <div
+              target=""
+              href="mailto:yee_siau_foon@schools.gov.sg"
+              >yee_siau_foon@schools.gov.sg</a
+            ></span
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <span
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              background-color: initial;
             "
-          >
-            Email:&nbsp;<span
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                background-color: initial;
-              "
-              ><a
-                style="
-                  margin: 0px;
-                  outline: 0px;
-                  padding: 0px;
-                  color: rgb(42, 103, 183);
-                  text-decoration: underline;
-                "
-                target=""
-                href="mailto:yee_siau_foon@schools.gov.sg"
-                >yee_siau_foon@schools.gov.sg</a
-              ></span
-            >
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            <span
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                background-color: initial;
-              "
-              ><br style="margin: 0px; outline: 0px; padding: 0px"
-            /></span>
-          </div>
-        </td>
-      </tr>
+            ><br style="margin: 0px; outline: 0px; padding: 0px"
+          /></span>
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
