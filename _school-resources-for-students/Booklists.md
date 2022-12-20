@@ -3,7 +3,7 @@ title: Booklists
 permalink: /resources/students/school-resources/booklists/
 description: ""
 ---
-_Updated as of 14/12/2022_
+<small>_Updated as of 14/12/2022_</small>
 
 **<u>Sec 1</u>**  
 To be confirmed
