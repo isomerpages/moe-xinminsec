@@ -2605,5 +2605,3 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
     </tr>
   </tbody>
 </table>
-
-[Jeep Sing Fashion Information](/files/Uniforms/Jeep%20Sing%20Fashion%20Information.pdf)
