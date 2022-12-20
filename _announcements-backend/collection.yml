@@ -1,5 +1,5 @@
 collections:
-  announcements-old:
+  announcements-backend:
     output: true
     order:
       - Announcements 2022.md
