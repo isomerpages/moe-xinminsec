@@ -42,13 +42,13 @@ Mr Effendy Ahmadi
   
 
 **Student Committee 2022/21** <br>
-President:<br>
+**President:**<br>
 Wayne Quah (403) <br>
 
-Vice-Presidents:<br>
+**Vice-Presidents:**<br>
 Tee Zee Gheng (408) <br>
 
-Quartermasters:<br>
+**Quartermasters:**<br>
 Ahsta Siddthi Shanker (405) <br>
 Amriel Lee Li Xuan (402) <br>
 Shanice Lee Ruiqi (408)
