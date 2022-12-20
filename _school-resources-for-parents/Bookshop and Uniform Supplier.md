@@ -2192,7 +2192,7 @@ purchase**
 Please contact the General Office at 6288 9382 if you require further
 assistance. <br>
 ### B) Uniform Supplier Information<br>
-Jeep Sing Fashion Blk 4012
+Jeep Sing Fashion Blk 4012<br>
 Ang Mo Kio Ave 10<br>
 #01-08/09 Techplace 1<br>Singapore 569628<br>
 Tel: 31636074 <br>
