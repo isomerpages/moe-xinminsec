@@ -42,7 +42,16 @@ Application forms should be completed and submitted with the supporting document
 
 For MOE FAS applications **approved by respective primary schools, or their siblings’ schools**, please click the below link or scan the QR code to submit the approval letter for our processing.
 
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/MOE%20FAS/MOE_FAS_Sec1_2023.png" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:40%;">  
+</body>
+<p style="text-align:center;"><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></p>
 Thank you. <br>
 General Office
 
