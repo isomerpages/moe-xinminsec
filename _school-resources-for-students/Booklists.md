@@ -15,14 +15,10 @@ _Updated as of 14/12/2022_
 
   
 **<u>Sec 3</u>** <br>
-[Sec 3 Express.pdf](/files/Sec%203%20Express.pdf)  <br>
-[Sec 3 Normal Academic.pdf](/files/Sec%203%20Normal%20Academic.pdf)  <br>
-[Sec 3 Normal Technical.pdf](/files/Sec%203%20Normal%20Technical.pdf)
+
   
 **<u>Sec 4</u>** <br>
-[Sec 4 Express.pdf](/files/Sec%204%20Express.pdf) <br>
-[Sec 4 Normal Academic.pdf](/files/Sec%204%20Normal%20Academic.pdf)  <br>
-[Sec 4 Normal Technical.pdf](/files/Sec%204%20Normal%20Technical.pdf)
+
   
 **<u>Sec 5</u>** <br>
 [Sec 5 Normal Academic.pdf](/files/Sec%205%20Normal%20Academic.pdf)
