@@ -42,11 +42,16 @@ Mr Effendy Ahmadi
   
 
 **Student Committee 2022/21** <br>
-President:           Wayne Quah (403) <br>
-Vice-Presidents: Tee Zee Gheng (408) <br>
-                           Ahsta Siddthi Shanker (405) <br>
-Quartermasters:  Amriel Lee Li Xuan (402) <br>
-                            Shanice Lee Ruiqi (408)
+President:<br>
+Wayne Quah (403) <br>
+
+Vice-Presidents:<br>
+Tee Zee Gheng (408) <br>
+
+Quartermasters:<br>
+Ahsta Siddthi Shanker (405) <br>
+Amriel Lee Li Xuan (402) <br>
+Shanice Lee Ruiqi (408)
 
 **CCA Training Schedule** <br>
 Wednesdays & Fridays: 3.30pm to 6.30pm
