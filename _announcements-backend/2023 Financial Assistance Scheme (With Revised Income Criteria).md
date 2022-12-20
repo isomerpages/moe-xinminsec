@@ -59,6 +59,10 @@ If your child is currently a ComCare recipient, he/she will be auto-granted with
 For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for ‘2023 MOE FAS pamphlet 4L Revised Income Criteria’.<br>
 [2023 MOE FAS pamphlet 4L Revised Income Criteria](/files/MOE%20FAS/2023%20MOE%20FAS%20pamphlet%204L%20-%20Revised%20Income%20Criteria%20Final_compressed.pdf)
 
+If you wish to know more about MOE FAS may visit MOE website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).
+
+Singaporean students who do not meet the eligibility criteria for MOE FAS may also apply for School-based FAS via the MOE FAS application. Approval will be granted on a case-to-case basis.
+
 Thank you. <br>
 General Office
 
