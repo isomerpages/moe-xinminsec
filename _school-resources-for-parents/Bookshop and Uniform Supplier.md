@@ -2214,7 +2214,7 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
   border="1"
   class="MsoTableGrid"
 >
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px; border:1px;">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
