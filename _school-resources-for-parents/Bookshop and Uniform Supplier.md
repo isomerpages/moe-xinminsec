@@ -2615,3 +2615,11 @@ Mon to Fri - 10.00am to 6.00pm<br>
 (Lunch break and sanitising of store - 1pm to 2pm)<br>
 Sat - 10.00am to 2.00pm<br>
 Closed on Sunday and Public Holidays<br>
+
+***Important Note**<br>
+We do not allow walk-in to our retail outlet or school without any booking of appointment. Please click on the above link to book your appointment
+
+To avoid disappointment, bookings have to make 2 days in advance before your actual day of collection at our retail outlet.
+
+
+There will be strictly **NO trying of uniforms** allowed at our outlet due to hygiene reasons during this crucial period. Instead, parents are advised to bring down their child’s best-fitted garment to compare with our standard uniform sizes for best uniform fitting. 
