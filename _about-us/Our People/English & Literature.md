@@ -662,109 +662,109 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 109px;
+            height: 146px;
+          "
+          class="ive_eobj_left"
+          alt="Chan Shu Min Charlene.jpg"
+          src="/images/Chan%20Shu%20Min%20Charlene.jpeg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 109px;
-              height: 146px;
-            "
-            class="ive_eobj_left"
-            alt="Chan Shu Min Charlene.jpg"
-            src="/images/Chan%20Shu%20Min%20Charlene.jpeg"
-          /><br style="margin: 0px; outline: 0px; padding: 0px" />
-        </td>
-        <td
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Chan Shu Min Charlene</b
+          >
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <div
+          Designation: Teacher
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: English and Literature
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:&nbsp;<a
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
             "
+            target=""
+            href="mailto:chan_shu_min_charlene@schools.gov.sg"
+            >chan_shu_min_charlene@schools.gov.sg</a
           >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Ms Chan Shu Min Charlene</b
-            >
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Teacher
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Department: English and Literature
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:&nbsp;<a
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                color: rgb(42, 103, 183);
-                text-decoration: underline;
-              "
-              target=""
-              href="mailto:chan_shu_min_charlene@schools.gov.sg"
-              >chan_shu_min_charlene@schools.gov.sg</a
-            >
-          </div>
-        </td>
-      </tr>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
