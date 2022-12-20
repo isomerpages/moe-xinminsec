@@ -68,9 +68,8 @@ Admissions
 
 Official Social Media Pages
 ---------------------------
-
-*   [Official School Instagram](https://www.instagram.com/xinminss/?hl=en)
-*   [English Language & Literature](https://www.instagram.com/xmsenglish/)
 *   [Chinese Language](https://www.instagram.com/xms_cl/)
+*   [English Language & Literature](https://www.instagram.com/xmsenglish/)
 *   [Food & Consumer Education](https://www.instagram.com/xmsnutritionandfoodscience/)
+*   [Official School Instagram](https://www.instagram.com/xinminss/?hl=en)
 *   [Physical Education](https://www.instagram.com/xms_pe/?hl=en)
