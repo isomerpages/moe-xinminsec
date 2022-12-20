@@ -355,233 +355,233 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 104px;
+            height: 143px;
+          "
+          class="ive_eobj_left"
+          alt="Elizabeth 1.jpg"
+          src="/images/Elizabeth%201.jpeg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 104px;
-              height: 143px;
-            "
-            class="ive_eobj_left"
-            alt="Elizabeth 1.jpg"
-            src="/images/Elizabeth%201.jpeg"
-          /><br style="margin: 0px; outline: 0px; padding: 0px" />
-        </td>
-        <td
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Elizabeth Margaretha<br
+              style="margin: 0px; outline: 0px; padding: 0px"
+          /></b>
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <br style="margin: 0px; outline: 0px; padding: 0px" />
-          <div
+          Designation: Management Support Officer&nbsp;
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:&nbsp;<span
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              background-color: initial;
             "
-          >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Ms Elizabeth Margaretha<br
-                style="margin: 0px; outline: 0px; padding: 0px"
-            /></b>
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Management Support Officer&nbsp;
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:&nbsp;<span
+            ><a
               style="
                 margin: 0px;
                 outline: 0px;
                 padding: 0px;
-                background-color: initial;
+                color: rgb(42, 103, 183);
+                text-decoration: underline;
               "
-              ><a
-                style="
-                  margin: 0px;
-                  outline: 0px;
-                  padding: 0px;
-                  color: rgb(42, 103, 183);
-                  text-decoration: underline;
-                "
-                target=""
-                href="mailto:Elizabeth_Margaretha@schools.gov.sg"
-                >Elizabeth_Margaretha@schools.gov.sg</a
-              ></span
-            >
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
+              target=""
+              href="mailto:Elizabeth_Margaretha@schools.gov.sg"
+              >Elizabeth_Margaretha@schools.gov.sg</a
+            ></span
           >
-            <br style="margin: 0px; outline: 0px; padding: 0px" />
-          </div>
-        </td>
-      </tr>
-      <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
-          "
-        >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 104px;
-              height: 143px;
-            "
-            class="ive_eobj_left"
-            alt="Elizabeth 1.jpg"
-            src="/images/Farith Begum.jpg"
-          /><br style="margin: 0px; outline: 0px; padding: 0px" />
-        </td>
-        <td
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
           <br style="margin: 0px; outline: 0px; padding: 0px" />
-          <div
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 104px;
+            height: 143px;
+          "
+          class="ive_eobj_left"
+          alt="Elizabeth 1.jpg"
+          src="/images/Farith Begum.jpg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Ms Faritha Begum<br
+              style="margin: 0px; outline: 0px; padding: 0px"
+          /></b>
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Management Support Officer&nbsp;
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:&nbsp;<span
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              background-color: initial;
             "
-          >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Ms Faritha Begum<br
-                style="margin: 0px; outline: 0px; padding: 0px"
-            /></b>
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Designation: Management Support Officer&nbsp;
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:&nbsp;<span
+            ><a
               style="
                 margin: 0px;
                 outline: 0px;
                 padding: 0px;
-                background-color: initial;
+                color: rgb(42, 103, 183);
+                text-decoration: underline;
               "
-              ><a
-                style="
-                  margin: 0px;
-                  outline: 0px;
-                  padding: 0px;
-                  color: rgb(42, 103, 183);
-                  text-decoration: underline;
-                "
-                target=""
-                href="mailto:faritha_begum@schools.gov.sg"
-                >faritha_begum@schools.gov.sg</a
-              ></span
-            >
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
+              target=""
+              href="mailto:faritha_begum@schools.gov.sg"
+              >faritha_begum@schools.gov.sg</a
+            ></span
           >
-            <br style="margin: 0px; outline: 0px; padding: 0px" />
-          </div>
-        </td>
-      </tr>
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <br style="margin: 0px; outline: 0px; padding: 0px" />
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
@@ -1005,119 +1005,119 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-        <td
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 111px;
+            height: 142px;
+          "
+          class="ive_eobj_left"
+          alt="Muhammad Aliff.jpg"
+          src="/images/Muhammad%20Aliff.jpeg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <img
-            style="
-              margin: 0px 10px 0px 0px;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              float: left;
-              width: 111px;
-              height: 142px;
-            "
-            class="ive_eobj_left"
-            alt="Muhammad Aliff.jpg"
-            src="/images/Muhammad%20Aliff.jpeg"
-          /><br style="margin: 0px; outline: 0px; padding: 0px" />
-        </td>
-        <td
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Mr Muhammad Aliff Bin Selamat</b
+          >
+        </div>
+        <div
           style="
             margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
-            vertical-align: top;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
         >
-          <br style="margin: 0px; outline: 0px; padding: 0px" />
-          <div
+          <span
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              background-color: initial;
             "
-          >
-            <b style="margin: 0px; outline: 0px; padding: 0px"
-              >Mr Muhammad Aliff Bin Selamat</b
-            >
-          </div>
-          <div
+            >Designation: Technical Support Officer</span
+          ><br style="margin: 0px; outline: 0px; padding: 0px" />
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Design &amp; Technology
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
             style="
               margin: 0px;
               outline: 0px;
               padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
             "
+            target=""
+            href="mailto:aliff_selamat@schools.gov.sg"
+            >aliff_selamat@schools.gov.sg</a
           >
-            <span
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                background-color: initial;
-              "
-              >Designation: Technical Support Officer</span
-            ><br style="margin: 0px; outline: 0px; padding: 0px" />
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Department: Design &amp; Technology
-          </div>
-          <div
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              line-height: 24.99px;
-              color: rgb(0, 0, 0);
-              font-family: Helvetica, sans-serif;
-              font-size: 17px;
-              font-weight: 400;
-            "
-          >
-            Email:<span>&nbsp;</span
-            ><a
-              style="
-                margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                color: rgb(42, 103, 183);
-                text-decoration: underline;
-              "
-              target=""
-              href="mailto:aliff_selamat@schools.gov.sg"
-              >aliff_selamat@schools.gov.sg</a
-            >
-          </div>
-        </td>
-      </tr>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
@@ -1555,12 +1555,12 @@ third_nav_title: Our People
             border: none;
             max-width: 100%;
             float: left;
-            width: 117px;
-            height: 143px;
+            width: 115px;
+            height: 141px;
           "
           class="ive_eobj_left"
-          alt="Rajoo Tamilmanni.jpg"
-          src="/images/Rajoo%20Tamilmanni.jpeg"
+          alt="Kamisah Bte Midi.jpg"
+          src="/images/Kamisah%20Bte%20Midi.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1585,8 +1585,9 @@ third_nav_title: Our People
           "
         >
           <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Mdm Rajoo Tamilmanni</b
-          >
+            >Miss Kamisah Bte Midi<br
+              style="margin: 0px; outline: 0px; padding: 0px"
+          /></b>
         </div>
         <div
           style="
@@ -1638,8 +1639,8 @@ third_nav_title: Our People
               text-decoration: underline;
             "
             target=""
-            href="mailto:rajoo_tamil_manni_sivanantham@schools.gov.sg"
-            >rajoo_tamil_manni_sivanantham@schools.gov.sg</a
+            href="mailto:kamisah_midi@schools.gov.sg"
+            >kamisah_midi@schools.gov.sg</a
           >
         </div>
       </td>
@@ -1768,113 +1769,6 @@ third_nav_title: Our People
             border: none;
             max-width: 100%;
             float: left;
-            width: 115px;
-            height: 141px;
-          "
-          class="ive_eobj_left"
-          alt="Kamisah Bte Midi.jpg"
-          src="/images/Kamisah%20Bte%20Midi.jpeg"
-        /><br style="margin: 0px; outline: 0px; padding: 0px" />
-      </td>
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <br style="margin: 0px; outline: 0px; padding: 0px" />
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Miss Kamisah Bte Midi<br
-              style="margin: 0px; outline: 0px; padding: 0px"
-          /></b>
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Designation: Operations Support Officer
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Department: Operations
-        </div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-          "
-        >
-          Email:<span>&nbsp;</span
-          ><a
-            style="
-              margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;
-            "
-            target=""
-            href="mailto:kamisah_midi@schools.gov.sg"
-            >kamisah_midi@schools.gov.sg</a
-          >
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <img
-          style="
-            margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
             width: 119px;
             height: 148px;
           "
@@ -1960,6 +1854,112 @@ third_nav_title: Our People
             target=""
             href="mailto:Lim_Thiam_bee@schools.gov.sg"
             >Lim_Thiam_bee@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 117px;
+            height: 143px;
+          "
+          class="ive_eobj_left"
+          alt="Rajoo Tamilmanni.jpg"
+          src="/images/Rajoo%20Tamilmanni.jpeg"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
+        style="
+          margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+        "
+      >
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          <b style="margin: 0px; outline: 0px; padding: 0px"
+            >Mdm Rajoo Tamilmanni</b
+          >
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Operations Support Officer
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Operations
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:<span>&nbsp;</span
+          ><a
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            target=""
+            href="mailto:rajoo_tamil_manni_sivanantham@schools.gov.sg"
+            >rajoo_tamil_manni_sivanantham@schools.gov.sg</a
           >
         </div>
       </td>
