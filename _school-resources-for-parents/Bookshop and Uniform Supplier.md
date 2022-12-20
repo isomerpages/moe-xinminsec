@@ -2197,7 +2197,7 @@ Ang Mo Kio Ave 10<br>
 #01-08/09 Techplace 1<br>Singapore 569628<br>
 Tel: 31636074 <br>
 Fax: 63862407<br>
-Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
+Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br><br>
 **Modes of purchase**
 <table
   style="
@@ -2605,7 +2605,7 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/) <br>
     </tr>
   </tbody>
 </table>
-<br><br>
+
 **Mode of payment**<br>
 Cash, PayNow, DBS PayLah! and Nets*<br>
 \- Please note that Nets payment mode is NOT available for school uniform purchases in school
