@@ -2202,6 +2202,7 @@ of purchase**
     padding: 0px;
     border-collapse: collapse;
     width: 823.094px;
+		border=1px;
   "
   width="662"
   cellpadding="0"
@@ -2601,6 +2602,5 @@ of purchase**
   </tbody>
 </table>
 
-[Jeep Sing Fashion
-Information.pdf](/files/Jeep%20Sing%20Fashion%20Information.pdf)
+[Jeep Sing Fashion Information](/files/Uniforms/Jeep%20Sing%20Fashion%20Information.pdf)
 
