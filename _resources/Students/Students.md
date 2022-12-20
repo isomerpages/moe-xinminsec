@@ -65,7 +65,7 @@ Admissions
 *   [International Student Admission](/resources/students/admissions/international-student-admission)
 *   [Local Transfer Admission](/resources/students/admissions/local-transfer-admission)
 *   [Returning Singaporean Admission](/resources/students/admissions/returning-singaporean-admission)
-*   [Secondary 1 Posting](/resources/students/admissions/secondary-1-posting)
+*   [Secondary 1 Posting](https://sites.google.com/xinminss.edu.sg/e-registration-sec-1-2023/home)
 
 Official Social Media Pages
 ---------------------------
