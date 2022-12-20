@@ -19,25 +19,24 @@ Timetables
 Quick Links
 -----------
 
-*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Google Classroom](https://classroom.google.com/)
+*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Student ICON](https://workspace.google.com/dashboard)
 
 Helpdesk
 --------
 
-*   [SLS Password Reset Guide](/resources/students/helpdesk/sls-password-reset-guide)
 *   [Google Apps Password Reset Guide](/resources/students/helpdesk/google-apps-password-reset-guide)
-*   [SWN@SSOE Login Guide](/resources/students/helpdesk/swn-at-ssoe-login-guide)
+*   [SLS Password Reset Guide](/resources/students/helpdesk/sls-password-reset-guide)
 *   [Student ICON Password Reset Guide](https://tinyurl.com/pwrform-xmss)
+*   [SWN@SSOE Login Guide](/resources/students/helpdesk/swn-at-ssoe-login-guide)
 
 School Resources
 ----------------
-
-*   [School Rules](/resources/students/school-resources/school-rules)
 *   [Attire & Grooming](/resources/students/school-resources/attire-n-grooming)
 *   [Booklists](/resources/students/school-resources/bookshop-and-uniform-supplier)
 *   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
+*   [School Rules](/resources/students/school-resources/school-rules)
 
 Well-Being Guide
 ----------------
