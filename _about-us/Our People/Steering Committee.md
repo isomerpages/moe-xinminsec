@@ -48,7 +48,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Tan%20Soon%20Hui%20small.png"
+          src="/images/School_Leaders/Tan%20Soon%20Hui%20small.png"
           alt="Tan Soon Hui.jpg"
           class="ive_eobj_left"
           style="
@@ -152,7 +152,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Wu%20Danping.jpeg"
+          src="/images/School_Leaders/Wu%20Danping.jpeg"
           alt="Wu Danping.jpg"
           class="ive_eobj_left"
           style="
@@ -256,7 +256,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Tan%20Kok%20Kwang.jpeg"
+          src="/images/School_Leaders/Tan%20Kok%20Kwang.jpeg"
           alt="Tan Kok Kwang.jpg"
           class="ive_eobj_left"
           style="
