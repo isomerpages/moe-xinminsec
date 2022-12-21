@@ -1010,7 +1010,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Koh Cher Yee.jpg"
-          src="/images/Koh%20Cher%20Yee.jpeg"
+          src="/images/Mother_Tongue/Koh%20Cher%20Yee.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
