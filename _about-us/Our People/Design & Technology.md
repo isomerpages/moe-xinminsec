@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lee Foo Yong.jpg"
-          src="/images/Lee%20Foo%20Yong.jpeg"
+          src="/images/Information_Technology/Lee%20Foo%20Yong.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
