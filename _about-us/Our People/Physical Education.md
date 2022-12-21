@@ -166,7 +166,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Hardev Singh.jpg"
-          src="/images/Physical_Education/Hardev%20Singh.jpeg"
+          src="/images/Physical_Education/Hardev%20Singh.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
