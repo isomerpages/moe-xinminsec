@@ -270,7 +270,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Asniza Hassan web.jpg"
-          src="/images/Asniza%20Hassan%20web.jpeg"
+          src="/images/Design_And_Technology/Asniza%20Hassan%20web.jpeg"
         />
       </td>
       <td
@@ -376,7 +376,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Ho Siang Teng Peter.jpg"
-          src="/images/Ho%20Siang%20Teng%20Peter.jpeg"
+          src="/images/Design_And_Technology/Ho%20Siang%20Teng%20Peter.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -482,7 +482,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tan Wa-Wa James.jpg"
-          src="/images/Tan%20Wa-Wa%20James.jpeg"
+          src="/images/Design_And_Technology/Tan%20Wa-Wa%20James.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
