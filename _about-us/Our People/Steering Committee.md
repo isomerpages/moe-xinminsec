@@ -362,7 +362,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Alan%20Ang%20Tong%20Hock.jpeg"
+          src="/images/Mathematics/Alan%20Ang%20Tong%20Hock.jpeg"
           alt="Alan Ang Tong Hock.jpg"
           class="ive_eobj_left"
           style="
@@ -679,7 +679,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Hardev%20Singh.jpeg"
+          src="/images/Physical_Education/Hardev%20Singh.jpeg"
           alt="Hardev Singh.jpg"
           class="ive_eobj_left"
           style="
@@ -887,7 +887,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Latifah%20Bte%20Abdul%20Latiff.jpeg"
+          src="/images/Humanities/Latifah%20Bte%20Abdul%20Latiff.jpeg"
           alt="Latifah Bte Abdul Latiff.jpg"
           class="ive_eobj_left"
           style="
@@ -993,7 +993,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Lee%20Foo%20Yong.jpeg"
+          src="/images/information_technology/Lee%20Foo%20Yong.jpeg"
           alt="Lee Foo Yong.jpg"
           class="ive_eobj_left"
           style="
@@ -1311,7 +1311,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Ng%20Lee%20Hua.jpeg"
+          src="/images/Humanities/Ng%20Lee%20Hua.jpeg"
           alt="Ng Lee Hua.jpg"
           class="ive_eobj_left"
           style="
@@ -1522,7 +1522,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Tay%20Lye%20Hock%20Gabriel.jpeg"
+          src="/images/Physical_Education/Tay%20Lye%20Hock%20Gabriel.jpeg"
           alt="Tay Lye Hock Gabriel.jpg"
           class="ive_eobj_left"
           style="
@@ -1735,7 +1735,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Chua%20Chee%20Pheng%20Johnson.jpeg"
+          src="/images/Mathematics/Chua%20Chee%20Pheng%20Johnson.jpeg"
           alt="Chua Chee Pheng Johnson.jpg"
           class="ive_eobj_left"
           style="
@@ -1842,7 +1842,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Harvinder%20Singh_1.jpeg"
+          src="/images/Arts_Education/Harvinder%20Singh_1.jpeg"
           alt="Harvinder Singh_1.jpg"
           class="ive_eobj_left"
           style="
@@ -1957,7 +1957,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Ho%20Yen%20Peng.jpeg"
+          src="/images/Physical_Education/Ho%20Yen%20Peng.jpeg"
           alt="Ho Yen Peng.jpg"
           class="ive_eobj_left"
           style="
@@ -2061,7 +2061,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Susan%20Lee%20Boon%20Hong.jpeg"
+          src="/images/Mathematics/Susan%20Lee%20Boon%20Hong.jpeg"
           alt="Susan Lee Boon Hong.jpg"
           class="ive_eobj_left"
           style="
@@ -2280,7 +2280,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Low%20Yan%20Jin.jpeg"
+          src="/images/Mathematics/Low%20Yan%20Jin.jpeg"
           alt="Low Yan Jin.jpg"
           class="ive_eobj_left"
           style="
@@ -2392,7 +2392,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Tau%20Jun%20Hui.jpeg"
+          src="/images/Mother_Tongue/Tau%20Jun%20Hui.jpeg"
           alt="Tau Jun Hui.jpg"
           class="ive_eobj_left"
           style="
@@ -2496,7 +2496,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Tan%20Kian%20Seng%20Jeremy.jpeg"
+          src="/images/Physical_Education/Tan%20Kian%20Seng%20Jeremy.jpeg"
           alt="Tan Kian Seng Jeremy.jpg"
           class="ive_eobj_left"
           style="
@@ -2709,7 +2709,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Rachel%20Teng.jpeg"
+          src="/images/EAS/Rachel%20Teng.jpeg"
           alt="Rachel Teng.jpg"
           class="ive_eobj_left"
           style="
@@ -2813,7 +2813,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Sim%20Yong%20Meng%20Vincent.jpeg"
+          src="/images/EAS/Sim%20Yong%20Meng%20Vincent.jpeg"
           alt="Sim Yong Meng Vincent.jpg"
           class="ive_eobj_left"
           style="
