@@ -1098,7 +1098,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Lim%20Boon%20Ping.jpeg"
+          src="/images/Science/Lim%20Boon%20Ping.jpeg"
           alt="Lim Boon Ping.jpg"
           class="ive_eobj_left"
           style="
@@ -1204,7 +1204,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Lim%20Tze%20Ting%20Jasmine.jpeg"
+          src="/images/English%20Language/Lim%20Tze%20Ting%20Jasmine.jpeg"
           alt="Lim Tze Ting Jasmine.jpg"
           class="ive_eobj_left"
           style="
@@ -1415,7 +1415,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Sharon%20Ong%20Ling%20Hui.jpeg"
+          src="/images//English%20Language/Sharon%20Ong%20Ling%20Hui.jpeg"
           alt="Sharon Ong Ling Hui.jpg"
           class="ive_eobj_left"
           style="
@@ -1629,7 +1629,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Choy%20Mun%20Kheong%20Nicholas.jpeg"
+          src="/images/Science/Choy%20Mun%20Kheong%20Nicholas.jpeg"
           alt="Choy Mun Kheong Nicholas.jpg"
           class="ive_eobj_left"
           style="
