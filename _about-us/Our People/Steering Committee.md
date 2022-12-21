@@ -679,7 +679,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Physical_Education/Hardev%20Singh.jpeg"
+          src="/images/Humanities/Hardev%20Singh.jpeg"
           alt="Hardev Singh.jpg"
           class="ive_eobj_left"
           style="
@@ -993,7 +993,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/information_technology/Lee%20Foo%20Yong.jpeg"
+          src="/images/Information_Technology/Lee%20Foo%20Yong.jpeg"
           alt="Lee Foo Yong.jpg"
           class="ive_eobj_left"
           style="
