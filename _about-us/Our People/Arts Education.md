@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Harvinder Singh_1.jpg"
-          src="/images/Harvinder%20Singh_1.jpeg"
+          src="/images/Arts_Education/Harvinder%20Singh_1.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -176,7 +176,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Aminah Binte Mohd Nagieb.jpg"
-          src="/images/Aminah%20Binte%20Mohd%20Nagieb.jpeg"
+          src="/images/Arts_Education/Aminah%20Binte%20Mohd%20Nagieb.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -282,7 +282,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tan Hui Li.jpg"
-          src="/images/Tan%20Hui%20Li.jpeg"
+          src="/images/Arts_Education/Tan%20Hui%20Li.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -492,7 +492,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="lio dan wei.jpg"
-          src="/images/lio%20dan%20wei.jpeg"
+          src="/images/Arts_Education/lio%20dan%20wei.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -596,7 +596,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lionel_Foon 1.jpg"
-          src="/images/Lionel_Foon.jpeg"
+          src="/images/Arts_Education/Lionel_Foon%201.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
