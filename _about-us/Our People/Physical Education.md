@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tay Lye Hock Gabriel.jpg"
-          src="/images/Tay%20Lye%20Hock%20Gabriel.jpeg"
+          src="/images/Physical_Education/Tay%20Lye%20Hock%20Gabriel.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -166,7 +166,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Hardev Singh.jpg"
-          src="/images/Hardev%20Singh.jpeg"
+          src="/images/Physical_Education/Hardev%20Singh.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -286,7 +286,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Ho Yen Peng.jpg"
-          src="/images/Ho%20Yen%20Peng.jpeg"
+          src="/images/Physical_Education/Ho%20Yen%20Peng.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -390,7 +390,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tan Kian Seng Jeremy.jpg"
-          src="/images/Tan%20Kian%20Seng%20Jeremy.jpeg"
+          src="/images/Physical_Education/Tan%20Kian%20Seng%20Jeremy.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -496,7 +496,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Estee See Toh Sijia.jpg"
-          src="/images/Estee%20See%20Toh%20Sijia.jpeg"
+          src="/images/Physical_Education/Estee%20See%20Toh%20Sijia.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -602,7 +602,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Ganesan Selvarathnam.jpg"
-          src="/images/Ganesan%20Selvarathnam.jpeg"
+          src="/images/Physical_Education/Ganesan%20Selvarathnam.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -708,7 +708,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Joey Tay Hui Lin.jpg"
-          src="/images/Joey%20Tay%20Hui%20Lin.jpeg"
+          src="/images/Physical_Education/Joey%20Tay%20Hui%20Lin.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -814,7 +814,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Elias Loo web.jpg"
-          src="/images/Elias%20Loo%20web.jpeg"
+          src="/images/Physical_Education/Elias%20Loo%20web.jpeg"
         />
       </td>
       <td
@@ -920,7 +920,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Shanti Teo.jpg"
-          src="/images/Shanti%20Teo.jpeg"
+          src="/images/Physical_Education/Shanti%20Teo.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
