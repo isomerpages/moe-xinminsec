@@ -375,7 +375,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="sl_a_gentleman.png"
-          src="/images/sl_a_gentleman.png"
+          src="/images/Thiru.png"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
