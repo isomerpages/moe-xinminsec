@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Latifah Bte Abdul Latiff.jpg"
-          src="/images/Latifah%20Bte%20Abdul%20Latiff.jpeg"
+          src="/images/Humanities/Latifah%20Bte%20Abdul%20Latiff.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -166,7 +166,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Hardev Singh.jpg"
-          src="/images/Hardev%20Singh.jpeg"
+          src="/images/Humanities/Hardev%20Singh.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -270,7 +270,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Ng Lee Hua.jpg"
-          src="/images/Ng%20Lee%20Hua.jpeg"
+          src="/images/Humanities/Ng%20Lee%20Hua.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -481,7 +481,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Emily Lim Xin Yi.jpg"
-          src="/images/Emily%20Lim%20Xin%20Yi.jpeg"
+          src="/images/Humanities/Emily%20Lim%20Xin%20Yi.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -587,7 +587,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Gywneth Chua Li Shan web.jpg"
-          src="/images/Gywneth%20Chua%20Li%20Shan%20web.jpeg"
+          src="/images/Humanities/Gywneth%20Chua%20Li%20Shan%20web.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -693,7 +693,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Hazirah Binte Mohamad Helmy.jpg"
-          src="/images/Hazirah%20Binte%20Mohamad%20Helmy.jpeg"
+          src="/images/Humanities/Hazirah%20Binte%20Mohamad%20Helmy.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -799,7 +799,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lee Lu May (Mrs May Ng).jpg"
-          src="/images/Lee%20Lu%20May%20(Mrs%20May%20Ng).jpeg"
+          src="/images/Humanities/Lee%20Lu%20May%20(Mrs%20May%20Ng).jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -905,7 +905,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lu Wenqi Kevin.jpg"
-          src="/images/Lu%20Wenqi%20Kevin.jpeg"
+          src="/images/Humanities/Lu%20Wenqi%20Kevin.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1011,7 +1011,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Nanthini Gunasekaran web.jpg"
-          src="/images/Nanthini%20Gunasekaran%20web.jpeg"
+          src="/images/Humanities/Nanthini%20Gunasekaran%20web.jpeg"
         />
       </td>
       <td
@@ -1117,7 +1117,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Neo Hao Ting Jaclyn.jpg"
-          src="/images/Neo%20Hao%20Ting%20Jaclyn.jpeg"
+          src="/images/Humanities/Neo%20Hao%20Ting%20Jaclyn.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1223,7 +1223,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Norhuda bte Maksum.jpg"
-          src="/images/Norhuda%20bte%20Maksum.jpeg"
+          src="/images/Humanities/Norhuda%20bte%20Maksum.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1329,7 +1329,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Nur Amalina Bte Mohamed.jpg"
-          src="/images/Nur%20Amalina%20Bte%20Mohamed.jpeg"
+          src="/images/Humanities/Nur%20Amalina%20Bte%20Mohamed.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1541,7 +1541,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tong Pui Leng.jpg"
-          src="/images/Tong%20Pui%20Leng.jpeg"
+          src="/images/Humanities/Tong%20Pui%20Leng.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
