@@ -468,7 +468,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Amy%20Luisita.jpeg"
+          src="/images/English%20Language/Amy%20Luisita.jpeg"
           alt="Amy Luisita.jpg"
           class="ive_eobj_left"
           style="
