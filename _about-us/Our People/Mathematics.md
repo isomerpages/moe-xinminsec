@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Chua Chee Pheng Johnson.jpg"
-          src="/images/Chua%20Chee%20Pheng%20Johnson.jpeg"
+          src="/images/Mathematics/Chua%20Chee%20Pheng%20Johnson.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
