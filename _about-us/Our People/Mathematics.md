@@ -206,7 +206,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          Designation: Year Head (Sec 1 and 2 - Year 2022)
+          Designation: Year Head (Sec 2)
         </div>
         <div
           style="
