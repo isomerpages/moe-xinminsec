@@ -166,7 +166,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Alan Ang Tong Hock.jpg"
-          src="/images/Alan%20Ang%20Tong%20Hock.jpeg"
+          src="/images/Mathematics/Alan%20Ang%20Tong%20Hock.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -272,7 +272,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Yap Bee Leng.jpg"
-          src="/images/Yap%20Bee%20Leng.jpeg"
+          src="/images/Mathematics/Yap%20Bee%20Leng.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -376,7 +376,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Susan Lee Boon Hong.jpg"
-          src="/images/Susan%20Lee%20Boon%20Hong.jpeg"
+          src="/images/Mathematics/Susan%20Lee%20Boon%20Hong.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -482,7 +482,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Low Yan Jin.jpg"
-          src="/images/Low%20Yan%20Jin.jpeg"
+          src="/images/Mathematics/Low%20Yan%20Jin.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -586,7 +586,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Winston_Bay 1.jpg"
-          src="/images/Winston_Bay%201.jpeg"
+          src="/images/Mathematics/Winston_Bay%201.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -691,7 +691,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Joanne_Kong.jpg"
-          src="/images/Joanne_Kong.jpeg"
+          src="/images/Mathematics/Joanne_Kong.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -902,7 +902,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lee Kin Meng.jpg"
-          src="/images/Lee%20Kin%20Meng.jpeg"
+          src="/images/Mathematics/Lee%20Kin%20Meng.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1006,7 +1006,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lee Pei Pin Arthur.jpg"
-          src="/images/Lee%20Pei%20Pin%20Arthur.jpeg"
+          src="/images/Mathematics/Lee%20Pei%20Pin%20Arthur.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1112,7 +1112,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Pang Hui Chin web.jpg"
-          src="/images/Pang%20Hui%20Chin%20web.jpeg"
+          src="/images/Mathematics/Pang%20Hui%20Chin%20web.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1323,7 +1323,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tan Li Meng.jpg"
-          src="/images/Tan%20Li%20Meng.jpeg"
+          src="/images/Mathematics/Tan%20Li%20Meng.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1427,7 +1427,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Jaime.jpg"
-          src="/images/Jaime.jpeg"
+          src="/images/Mathematics/Jaime.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1532,7 +1532,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Vanessa Chia Su Qing.jpg"
-          src="/images/Vanessa%20Chia%20Su%20Qing.jpeg"
+          src="/images/Mathematics/Vanessa%20Chia%20Su%20Qing.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
