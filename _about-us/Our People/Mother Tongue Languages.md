@@ -272,7 +272,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tau Jun Hui.jpg"
-          src="/images/Tau%20Jun%20Hui.jpeg"
+          src="/images/Mother_Tongue/Tau%20Jun%20Hui.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -376,7 +376,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Norliza Bte Ali web.jpg"
-          src="/images/Norliza%20Bte%20Ali%20web.jpeg"
+          src="/images/Mother_Tongue/Norliza%20Bte%20Ali%20web.jpeg"
         />
       </td>
       <td
@@ -588,7 +588,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Ang Koon Yong.jpg"
-          src="/images/Ang%20Koon%20Yong.jpeg"
+          src="/images/Mother_Tongue/Ang%20Koon%20Yong.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -694,7 +694,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Effendy Bin Ahmadi.jpg"
-          src="/images/Effendy%20Bin%20Ahmadi.jpeg"
+          src="/images/Mother_Tongue/Effendy%20Bin%20Ahmadi.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -800,7 +800,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Guan Jing web.jpg"
-          src="/images/Guan%20Jing%20web.jpeg"
+          src="/images/Mother_Tongue/Guan%20Jing%20web.jpeg"
         />
       </td>
       <td
@@ -904,7 +904,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Janice Low Earn Qing.jpg"
-          src="/images/Janice%20Low%20Earn%20Qing.jpeg"
+          src="/images/Mother_Tongue/Janice%20Low%20Earn%20Qing.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1114,7 +1114,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lim Kok Chong.jpg"
-          src="/images/Lim%20Kok%20Chong.jpeg"
+          src="/images/Mother_Tongue/Lim%20Kok%20Chong.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1220,7 +1220,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Norain Binte Ismail.jpg"
-          src="/images/Norain%20Binte%20Ismail.jpeg"
+          src="/images/Mother_Tongue/Norain%20Binte%20Ismail.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1326,7 +1326,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="siaw pey chin.jpg"
-          src="/images/siaw%20pey%20chin.jpeg"
+          src="/images/Mother_Tongue/siaw%20pey%20chin.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1432,7 +1432,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Xiao Yan Fei.jpg"
-          src="/images/Xiao%20Yan%20Fei.jpeg"
+          src="/images/Mother_Tongue/Xiao%20Yan%20Fei.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
