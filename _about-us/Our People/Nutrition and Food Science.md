@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Izyan Ayuni Binte Azmi.jpg"
-          src="/images/Izyan%20Ayuni%20Binte%20Azmi.jpeg"
+          src="/images/Food_And_Nutrition/Izyan%20Ayuni%20Binte%20Azmi.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -174,7 +174,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lyn Song MeiEn.jpg"
-          src="/images/Lyn%20Song%20MeiEn.jpeg"
+          src="/images/Food_And_Nutrition/Lyn%20Song%20MeiEn.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -288,7 +288,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Ong Chiew Inn.jpg"
-          src="/images/Ong%20Chiew%20Inn.jpeg"
+          src="/images/Food_And_Nutrition/Ong%20Chiew%20Inn.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
