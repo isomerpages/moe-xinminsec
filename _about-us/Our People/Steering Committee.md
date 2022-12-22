@@ -2251,7 +2251,7 @@ third_nav_title: Our People
                     "
                   >
                     Email:&nbsp;<a
-                      href="mailto:Tiffany_My_Lim@schools.gov.sg"
+                      href="mailto:Tiffany_Lim@schools.gov.sg"
                       target=""
                       style="
                         margin: 0px;
@@ -2260,7 +2260,7 @@ third_nav_title: Our People
                         color: rgb(42, 103, 183);
                         text-decoration: underline;
                       "
-                      >Tiffany_My_Lim@schools.gov.sg</a
+                      >Tiffany_Lim@schools.gov.sg</a
                     >
                   </div>
                 </div></span
