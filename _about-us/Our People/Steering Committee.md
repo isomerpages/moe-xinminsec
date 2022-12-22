@@ -2237,7 +2237,7 @@ third_nav_title: Our People
                     font-weight: 400;
                   "
                 >
-                  Department: Mathematics
+                  Department: Science
                   <div
                     style="
                       margin: 0px;
