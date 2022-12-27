@@ -3,7 +3,11 @@ title: School Timetable
 permalink: /resources/students/timetables/school-timetable/
 description: ""
 ---
-_Updated as of 27 September 2022_
+_Updated as of 27 December 2022_
+
+For classes, please click [here](https://drive.google.com/drive/folders/1yxPoY1T8elgA12x8oiZcZn9VeVB_kagY?usp=sharing)
+
+For teachers, please click [here](https://drive.google.com/drive/folders/1kN1DwWUNpRaKb7ypW-KAfMJCepOm776v?usp=share_link)
 
 To search for teachers' free slots, click [here](https://go.gov.sg/xmss-tt)
 
