@@ -317,7 +317,7 @@ third_nav_title: Our People
                   padding: 0px;
                   background-color: initial;
                 "
-                >Assistant Year Head - Sec 3
+                >Assistant Year Head - Sec 2
                 <div
                   style="
                     margin: 0px;
