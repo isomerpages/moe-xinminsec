@@ -308,7 +308,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          Designation: Year Head (Sec 4 and 5)
+          Designation: Year Head - Sec 4/5
         </div>
         <div
           style="
