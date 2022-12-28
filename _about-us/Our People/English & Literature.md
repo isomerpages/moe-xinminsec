@@ -1642,8 +1642,8 @@ third_nav_title: Our People
               text-decoration: underline;
             "
             target=""
-            href="mailto:Tang_Song_Hun_Andronicus@schools.gov.sg"
-            >Tang_Song_Hun_Andronicus@schools.gov.sg</a
+            href="mailto:Tang_Song_Hun_Andronicus_a@schools.gov.sg"
+            >Tang_Song_Hun_Andronicus_a@schools.gov.sg</a
           >
         </div>
       </td>
