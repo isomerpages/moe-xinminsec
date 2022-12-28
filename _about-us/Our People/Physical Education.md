@@ -430,7 +430,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          Designation: Assistant Year Head (Sec 4 - 2022)
+          Designation: Assistant Year Head - Sec 4/5
         </div>
         <div
           style="
