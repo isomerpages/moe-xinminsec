@@ -414,7 +414,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          Designation: Year Head - Sec 2
+          Designation: Year Head - Sec 3
         </div>
         <div
           style="
@@ -2224,7 +2224,7 @@ third_nav_title: Our People
                   padding: 0px;
                   background-color: initial;
                 "
-                >Assistant Year Head - Sec 3
+                >Assistant Year Head - Sec 2
                 <div
                   style="
                     margin: 0px;
