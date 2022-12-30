@@ -3,8 +3,6 @@ title: School Rules and Regulations
 permalink: /resources/parents/school-resources/school-rules/
 description: ""
 ---
-
-
 ### Introduction
 
 In enforcing the school rules and regulations, the school aims to teach students the school values of Responsibility, Respect and Resilience. We hope to teach students how to uphold standards of behaviour that are acceptable in school and society. Overall, the rules and regulations are designed to create a safe and secure environment for all students to learn and for staff to carry out their duties.
