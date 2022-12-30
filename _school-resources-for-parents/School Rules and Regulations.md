@@ -76,10 +76,11 @@ In enforcing the school rules and regulations, the school aims to teach students
 
 ### Resillience
 
-*   Students are to attend school, classes, CCAs and other school activities regularly and punctually.
-*   Students are to be attentive, cooperative and diligent (e.g. there must be no sleeping in class, disruptive behaviour or tardiness).
-*   Students are to complete and hand in all assignments punctually.
-*   Students must strive to produce quality work in and out of the classroom.
+* Students are to attend school, classes, CCAs and other school activities regularly and punctually.
+* Students are to be attentive, cooperative and diligent (e.g. there must be no sleeping in class, disruptive behaviour or tardiness).
+* Students are to complete and hand in all assignments punctually.
+* Students must strive to produce quality work in and out of the classroom.
+
 
   
 
