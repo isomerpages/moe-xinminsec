@@ -36,7 +36,7 @@ School Resources
 *   [Attire & Grooming](/resources/students/school-resources/attire-n-grooming)
 *   [Booklists](/resources/students/school-resources/bookshop-and-uniform-supplier)
 *   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
-*   [School Rules](/resources/students/school-resources/school-rules)
+*   [School Rules and Regulations](/resources/students/school-resources/school-rules)
 
 Well-Being Guide
 ----------------
