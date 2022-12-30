@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Parents2.md
       - Students.md
       - Parents1/.keep
       - Staff/.keep
