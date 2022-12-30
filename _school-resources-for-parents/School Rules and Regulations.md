@@ -132,12 +132,7 @@ In enforcing the school rules and regulations, the school aims to teach students
 
 **Restricted Items**
 
-*   Mobile phones
-*   iPods
-*   iPads
-*   Tablets
-*   Laptop computers
-*   Other similar items
+* All electronic devices other than student PLDs
 
 ![OFFENCE CATEGORIES](/images/OFFENCE%20CATEGORIES-1.jpeg)
 
