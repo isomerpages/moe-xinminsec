@@ -44,30 +44,33 @@ In enforcing the school rules and regulations, the school aims to teach students
 
 ### Responsibility
 
-*   Students are to be good ambassadors of the school at all times.
-*   Students must be standing with their class in the assigned venue punctually and participate in the Flag Raising Ceremony.
-*   Absence from school or any school activity must be substantiated by a valid medical certificate (MC) or documented valid reason (other than MCs, reasons for absence are only deemed valid upon acceptance by, and at the discretion of the school).
-*   Students must submit their MCs/documents within 3 working days upon their return to school.
-*   Permission to leave school before official holidays, or official dismissal may be granted in special cases. For such cases, parents or legal guardians must write in to the Year Head and Form Teachers at least 2 weeks beforehand.
-*   Students must demonstrate a sense of civic mindedness – e.g. queue up, return utensils in the canteen, keep the school clean, return lost and found items.
-*   Students must keep their classrooms clean, neat and tidy at all times.
-*   All food and drinks, with the exception of plain water, are to be consumed in the canteen.
-*   Students must use school facilities and equipment with proper authorisation and take care of them.
-*   Students must not waste electricity or water.
-*   Students must not vandalise.
-*   Students must report to the school authorities if they have damaged school equipment or property.
-*   Students must take care of their own personal belongings and rent a locker if they wish to store personal items and valuables in school.
-*   Students are to observe the appropriate decorum during school events such as assemblies, celebrations, sports day.
-*   Students who need to leave a lesson for valid reasons (e.g. going to the toilet, feeling unwell, official duties) must seek the permission of the teacher present.
-*   Students are to diligently perform all duties assigned to them.
-*   During time-tabled and CCA time, all mobile electronic devices (e.g. mobile phones, iPods, iPads, Tablets or Laptops etc.) usage is restricted and can only be used under direct teacher supervision.
-*   Usage of mobile electronic devices outside of time-tabled time may be restricted by school staff if it interferes with school programmes or activities.
-*   In all lesson venues, mobile electronic devices must be in airplane mode or switched off and be kept either in student’s bags or pockets.
-*   Students must uphold the law and report those who break the law.
-*   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-*   Students must not engage in gambling or betting.
-*   Students are to follow the security procedures of the school and report misdeeds or suspicious behaviour.
-*   Students are to report and surrender all lost and found items to the General Office so that the owners may claim them.
+* Students are to be good ambassadors of the school at all times.
+* Students must be standing with their class in the assigned venue punctually and participate in the Flag Raising Ceremony.
+* Absence from school or any school activity must be substantiated by a valid medical certificate (MC) or documented valid reason (other than MCs, reasons for absence are only deemed valid upon acceptance by, and at the discretion of the school).
+* Students must submit their MCs/documents within 3 working days upon their return to school.
+* Permission to leave school before official holidays or official dismissal may be granted in special cases. For such cases, parents or legal guardians must write in to the Year Head and Form Teachers at least 2 weeks beforehand.
+* Students must demonstrate civic mindedness – e.g. queue up, return utensils in the canteen, keep the school clean, return lost and found items.
+* Students must keep their classrooms clean, neat and tidy at all times.
+* If food and drinks are consumed in the classrooms, disposable packaging and food waste must be properly disposed of in the large common bins provided along the corridor and not in the classroom wastepaper basket.
+* Students are not allowed to consume food and drink during free periods.
+* Students must use school facilities and equipment with proper authorisation and take care of them.
+* Students must not waste electricity or water.
+* Students must not vandalise.
+* Students must report to the school authorities if they have damaged school equipment or property.
+* Students are to observe the appropriate decorum during school events such as assemblies, celebrations, sports day.
+* Students who need to leave a lesson for valid reasons (e.g. going to the toilet, feeling unwell, official duties) must seek the permission of the teacher present.
+* Students are to diligently perform all duties assigned to them.
+* During lessons, all mobile phones must be locked in student lockers unless specific permission from school staff is given.
+* Students are to take care of their Personal Learning Devices (PLDs) and lock them in their lockers when not in use.
+* Students are to bring home their PLDs every day and charge them at home.
+* Lockers are the property of the school and are provided on loan to students. Students are to take care of their lockers and provide their own locks.
+* Usage of mobile phones outside of time-tabled time may be restricted by school staff if it interferes with school programmes or activities.
+* Students must uphold the law and report those who break the law.
+* All students are not allowed to have any weapon in their possession. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+* Students must not engage in gambling or betting.
+* Students are to follow the security procedures of the school and report misdeeds or suspicious behaviour.
+* Students are to report and surrender all lost and found items to the General Office so that the owners may claim them.
+
 
   
 
