@@ -11,33 +11,34 @@ In enforcing the school rules and regulations, the school aims to teach students
 
 ### Respect
 
-*   Students are to participate in the flag raising and lowering ceremonies with dignity and respect.
-*   Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students must recite the Pledge with the right fist placed over the heart.
-*   Students are to uphold the reputation of the school and nation. There must not be any defamation (in any form) of the school, staff, fellow students or any of the nation’s leaders.
-*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
-*   Shirts and blouses must be buttoned up properly and tucked in.
-*   Tattered, torn, outgrown, stained and faded uniforms must be replaced.
-*   Only plain white school shoes and the Xinmin socks are to be worn.
-*   Only the Xinmin Jacket, which is part of the school uniform, can be worn.
-*   Xinmin PE T-shirts and shorts are to be worn for PE lessons. Students are not to wear PE attire on days they do not have PE.
-*   Class T-shirts are only for graduating classes (4E, 4N, 4T & 5N) and must be approved by the School Leaders. Their design and use must be authorised by the school leaders.
-*   Students may report to school in half uniform on days when they have PE (Half uniform is defined as PE top and uniform bottom).
-*   Students are not to wear jewellery, necklaces, bracelets, ornaments or makeup. Religious items must not be worn/displayed visibly.
-*   Fingernails are to be short and unpainted.
-*   Ear sticks and ear rings or studs are not allowed on boys.
-*   Girls may wear one ear stud per earlobe. The ear stud must not be more than 5mm in diameter. Ear rings are not allowed.
-*   Piercing of any other part of the body is not allowed.
-*   Tattoos on any part of the body are not allowed.
-*   Highlighting or dyeing of hair is not allowed.
-*   Hair extensions are not allowed.
-*   Wearing of caps/hats to school is not allowed unless special permission is given.
-*   Coloured contact lenses are not allowed.
-*   Male students must be neat in appearance, clean-shaven and no facial hair is allowed.
-*   Only girls are allowed to wear hair accessories such as hair bands and clips, which are to be black, dark brown or dark blue.
-*   Students are to be respectful to school staff.
-*   Students are to treat each other with respect (e.g. no vulgar, sexual or crude language, no bullying, threatening, intimidating, impersonation or causing annoyance or hurt to anyone by any means).
-*   Students are not to be intimate with one another (e.g. no hugging, holding of hands, kissing, writing of intimate correspondence, sitting in close proximity etc.).
-*   Students are not to abet the commission of offences by others.
+* Students are to participate in the flag raising and lowering ceremonies with dignity and respect.
+* Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students must recite the Pledge with the right fist placed over the heart.
+* Students are to uphold the reputation of the school and nation. There must not be any defamation (in any form) of the school, staff, fellow students, or any of the nation’s leaders.
+* Students are to wear the prescribed school uniform and any modification to the uniform is not allowed.
+* Shirts and blouses must be buttoned up properly and tucked in.
+* Tattered, torn, outgrown, stained or faded uniforms must be replaced.
+* Only plain white school shoes and the Xinmin socks are to be worn.
+* Only the Xinmin Jacket, which is part of the school uniform, can be worn.
+* Xinmin PE T-shirts and shorts are to be worn for PE lessons. Students are not to wear PE attire on days they do not have PE.
+* Class T-shirts are only for graduating classes (Sec 4 and Sec 5) and their design and use must be approved by the School Management. 
+* Students may report to school in half uniform on days when they have PE (Half uniform is defined as PE top and uniform bottom).
+* Students are not to wear jewellery, necklaces, bracelets, ornaments or makeup. Religious items must not be worn/displayed visibly.
+* Fingernails are to be short and unpainted.
+* Ear sticks and ear rings or studs are not allowed on boys.
+* Girls may wear one ear stud per earlobe. The ear stud must not be more than 5mm in diameter. Ear rings are not allowed.
+* Piercing of any other part of the body is not allowed.
+* Tattoos on any part of the body are not allowed.
+* Highlighting or dyeing of hair is not allowed.
+* Hair extensions are not allowed.
+* Wearing of caps/hats to school is not allowed unless special permission is given.
+* Coloured contact lenses are not allowed.
+* Male students must be neat in appearance, clean-shaven and no facial hair is allowed.
+* Only girls are allowed to wear hair accessories such as hair bands and clips, which are to be black, dark brown or dark blue.
+* Students are to be respectful to school staff.
+* Students are to treat each other with respect (e.g. no vulgar, sexual or crude language, no bullying, threatening, intimidating, impersonation or causing annoyance or hurt to anyone by any means).
+* Students are not to be intimate with one another (e.g. no hugging, holding of hands, kissing, writing of intimate correspondence, sitting in close proximity etc.).
+* Students are not to abet the commission of offences by others. 
+
 
   
 
