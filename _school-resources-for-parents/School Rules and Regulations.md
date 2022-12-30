@@ -134,6 +134,5 @@ In enforcing the school rules and regulations, the school aims to teach students
 
 * All electronic devices other than student PLDs
 
-![OFFENCE CATEGORIES](/images/OFFENCE%20CATEGORIES-1.jpeg)
-
-![OFFENCE CATEGORIES](/images/OFFENCE%20CATEGORIES-2.jpeg)
+![](/images/School%20Rules%20and%20Regulations/OFFENCE%20CATEGORIES%2001%20(1).jpg)
+![](/images/School%20Rules%20and%20Regulations/OFFENCE%20CATEGORIES%2002%20(1).jpg)
