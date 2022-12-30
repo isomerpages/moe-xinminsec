@@ -32,7 +32,7 @@ School Resources
 *   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
 *   [Financial Assistance Scheme](/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
 *   [School Dental Clinic](/resources/parents/school-resources/school-dental-clinic)
-*   [School Rules and Regulations](/resources/students/school-resources/school-rules)
+*   [School Rules and Regulations](/resources/students/school-resources/school-rules/)
 *   [Uniform List & Grooming](/resources/students/school-resources/attire-n-grooming)
 
 Assessment
