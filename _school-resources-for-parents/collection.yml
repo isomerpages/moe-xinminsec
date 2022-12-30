@@ -2,6 +2,7 @@ collections:
   school-resources-for-parents:
     output: true
     order:
+      - School Rules and Regulations.md
       - Booklists.md
       - Bookshop and Uniform Supplier.md
       - School Dental Clinic.md
