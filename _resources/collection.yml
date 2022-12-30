@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Students.md
+      - Parents1/Parents2.md
       - Parents1/.keep
       - Staff/.keep
       - Staff/Staff.md
