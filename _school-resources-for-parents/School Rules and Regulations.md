@@ -120,15 +120,15 @@ In enforcing the school rules and regulations, the school aims to teach students
 
 **Schedule C**
 
-*   Pornographic materials (inclusive of electronic media)
-*   Weapons/Weapon-like items
-*   Sparklers and Pyrotechnics
-*   Tobacco products and alcohol
-*   Contraband or duty unpaid items
-*   All items that the school management may deem inappropriate for students
-*   All items prohibited under Singapore Law
+* Pornographic materials (inclusive of electronic media)
+* Weapons/Weapon-like items
+* Sparklers and Pyrotechnics
+* Tobacco products and alcohol
+* Contraband or duty unpaid items
+* All items that the school management may deem inappropriate or potentially dangerous for students, such as penknives
+* All items prohibited under Singapore Law
 
-  
+ 
 
 **Restricted Items**
 
