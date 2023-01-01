@@ -40,7 +40,7 @@ Quarter Master (Apparel) (Head):  Khoo Wen Qian (403)<br>
 Quarter Master (Apparel): Graceanne Suvarna Wie (401)<br>
 Quarter Master (Publicity) (Head):  Amelia Ng Ling En (402)<br>
 Level IC (Sec 4):  Lauren Tay Ying En (403)<br>
-Level IC (Sec 3):  Tan Zhi Qi (303)<br>
+Level IC (Sec 3):  Tan Zhi Qi (303) <br>
 Level IC (Lower Sec):  Chew En Rui Hayden (201)<br>
 
 
