@@ -27,20 +27,22 @@ Mrs Cindy Wong <br>
 Ms Guan Jing   <br>
 
 
+
   
 **Exco for Guzheng Ensemble (2021 – 2022)** <br>
-1.	President & Sectional Leader: 	Foo Khia Ying (402)
-2.	Vice-President (Admin) & Sectional Leader: Tan Zi Lin, Genecia (404) <br>
-3.	Vice-President (Music) & Sectional Leader:  Sarah Lee Ziling (404) <br>
-4.	Discipline Head:  Tan Hong Yuan Jackie (401) <br>
-5.	Quarter Master (Equipment) (Head):  Lauren Tay Ying En (403) <br>
-6.	Quarter Master (Equipment):  Ng Swee Min Eliza (405) <br>
-7.	Quarter Master (Apparel) (Head):  Khoo Wen Qian (403) <br>
-8.	Quarter Master (Apparel):  Graceanne Suvarna Wie (401)<br>
-9.	Quarter Master (Publicity) (Head):  Amelia Ng Ling En (402)<br>
-10.	Level IC (Sec 4):  Lauren Tay Ying En (403) <br>
-11.	Level IC (Sec 3):  Tan Zhi Qi (303) <br>
-12.	Level IC (Lower Sec):  Chew En Rui Hayden (201)<br>
+President & Sectional Leader: Foo Khia Ying (402) <br>
+Vice-President (Admin) & Sectional Leader: Tan Zi Lin, Genecia (404)<br>
+Vice-President (Music) & Sectional Leader:  Sarah Lee Ziling (404)<br>
+Discipline Head:  Tan Hong Yuan Jackie (401)<br>
+Quarter Master (Equipment) (Head):  Lauren Tay Ying En (403)<br>
+Quarter Master (Equipment): Ng Swee Min Eliza (405) <br>
+Quarter Master (Apparel) (Head):  Khoo Wen Qian (403)<br>
+Quarter Master (Apparel): Graceanne Suvarna Wie (401)<br>
+Quarter Master (Publicity) (Head):  Amelia Ng Ling En (402)<br>
+Level IC (Sec 4):  Lauren Tay Ying En (403)<br>
+Level IC (Sec 3):  Tan Zhi Qi (303)<br>
+Level IC (Lower Sec):  Chew En Rui Hayden (201)<br>
+
 
   
 
