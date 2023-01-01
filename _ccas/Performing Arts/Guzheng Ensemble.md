@@ -29,7 +29,7 @@ Ms Guan Jing   <br>
 
 
   
-**Exco for Guzheng Ensemble (2021 – 2022)** <br>
+**Exco for Guzheng Ensemble (2022 – 2023)** <br>
 President & Sectional Leader: Foo Khia Ying (402) <br>
 Vice-President (Admin) & Sectional Leader: Tan Zi Lin, Genecia (404)<br>
 Vice-President (Music) & Sectional Leader:  Sarah Lee Ziling (404)<br>
