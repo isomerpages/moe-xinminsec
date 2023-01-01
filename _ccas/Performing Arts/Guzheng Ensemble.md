@@ -27,9 +27,10 @@ In 2015, the Ensemble collaborated with the various aesthetic CCAs of the school
 Bicultural trips to China have also been organised to enhance our players’ skills, and to deepen their love for traditional Chinese music in a time when pop music dominates. Under the guidance of the Ensemble’s reputable instructor, Mr Thum Soon Boon, the Ensemble would undoubtedly continue to shine.
 
 **Teachers-in-charge** <br>
-Mr Zhuang Haoyang (IC) <br>
-Mrs May Ng <br>
-Ms Guan Jing
+Ms Pang Hui Chin (IC) <br>
+Mrs Cindy Wong <br>
+Ms Guan Jing   <br>
+
 
   
 **Exco for Guzheng Ensemble (2021 – 2022)** <br>
