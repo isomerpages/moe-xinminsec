@@ -55,8 +55,10 @@ Level IC (Lower Sec Chairperson): Tan Zhi Qi (204)
   
 
 **CCA Schedule** <br>
-Mondays & Wednesdays: 2pm to 6.30pm <br>
-Extra practices on Thursdays & Fridays, 2pm to 6.30pm, will be conducted prior to competitions and performances.
+Mondays & Wednesdays: 3 pm to 6.30 pm<br>
+Additional practices on Fridays, 2 pm to 4 pm, will be conducted prior to competitions and performances.<br>
+Students may require up to 30 minutes after the end of each session to pack up and debrief.
+
 
   
 
