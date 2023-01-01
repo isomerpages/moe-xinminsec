@@ -61,7 +61,12 @@ Extra practices on Thursdays & Fridays, 2pm to 6.30pm, will be conducted prior t
   
 
 **CCA Achievement** <br>
-Attained a Certificate of Distinction in Singapore Youth Festival (SYF) in 2013, 2015, 2017, 2019 and 2021
+Singapore Youth Festival (SYF) Central Judging
+* Gold Award (2001, 2003, 2005, 2007)
+* Gold with Honours Award (2009, 2011)
+Singapore Youth Festival (SYF) Arts Presentation
+* Certificate of Distinction (2013, 2015, 2017, 2019)
+
 
   
 
