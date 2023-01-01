@@ -15,14 +15,9 @@ img {
   
 </body>
   
+Xinmin’s Guzheng Ensemble was established in 1993. The Ensemble performs extensively at school events and is a common fixture at Chinese New Year celebrations and Speech Days. Our portfolio includes public performances at the Singapore Conference Hall for the Oceanic Melody concert (2003), Kaleidoscope I and II (2006, 2010). The Ensemble was also invited to stage a performance at the Esplanade Outdoor Theatre as part of a series of performances for the 2013 Huayi Festival. In 2017, the Ensemble was invited to stage a performance at the Marina Bay Floating Platform as part of a series of performances for River Hong Bao.
 
-Xinmin’s Guzheng Ensemble has a reputation for being a prestigious CCA in Xinmin. Since its debut in 1993, the Ensemble has attained 4 consecutive Gold awards (2001, 2003, 2005, 2007) and 2 Gold with Honours awards (2009, 2011) at the Singapore Youth Festival (SYF) Central Judging of Instrumental Ensembles. 2013 marked an important milestone as the Ensemble clinched the Certificate of Distinction at the inaugural SYF Arts Presentation and continued to sustain the award ever since that year. The Ensemble performs extensively at school events and is a common fixture at Chinese New Year celebrations and Speech Days. Our portfolio includes public performances at the Singapore Conference Hall for the Oceanic Melody concert (2003), Kaleidoscope I and II (2006, 2010). The Ensemble was also invited to stage a performance at the Esplanade Outdoor Theatre as part of a series of performances for the 2013 Huayi Festival. In 2017, the Ensemble was invited to stage a performance at the Marina Bay Floating Platform as part of a series of performances for River Hong Bao.
-
-  
-
-In 2015, the Ensemble collaborated with the various aesthetic CCAs of the school to put up an environmental theatre to celebrate the grand opening of the Xinmin Creative Arts Complex (CAC). In the following year, the Ensemble held her inaugural concert at the CAC as part of Xinthesis V. In 2018, the Ensemble put up yet another Guzheng Concert at the CAC as part of Xinthesis VI.
-
-  
+In 2015, the Ensemble collaborated with the various aesthetic CCAs of the school to put up an environmental theatre to celebrate the grand opening of the Xinmin Creative Arts Complex (CAC). In the following year, the Ensemble held her inaugural concert at the CAC as part of Xinthesis V. In 2018, the Ensemble put up another Guzheng Concert at the CAC as part of Xinthesis VI. 
 
 Bicultural trips to China have also been organised to enhance our players’ skills, and to deepen their love for traditional Chinese music in a time when pop music dominates. Under the guidance of the Ensemble’s reputable instructor, Mr Thum Soon Boon, the Ensemble would undoubtedly continue to shine.
 
