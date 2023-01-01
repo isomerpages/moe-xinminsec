@@ -33,24 +33,18 @@ Ms Guan Jing
 
   
 **Exco for Guzheng Ensemble (2021 – 2022)** <br>
-President: Thum Jing Tao (402) <br>
-Vice-President (Admin): Alena Lock Yi Xin (409) <br>
-Vice-President (Music) and Sectional Leader: Eunice Ho Xuan Pei (402) <br>
-Discipline Head: Tong Khai Shuen (403) <br>
-Quarter Master (Equipment) (Head) and Sectional Leader: Shanice Loke Xuan Ning (402) <br>
-Quarter Master (Equipment): Lee Hui (403) <br>
-Quarter Master (Apparel) (Head): Joelle Lui Hui Wen (401) <br>
-Quarter Master (Publicity) and Sectional Leader (Head): Charlotte Wong Yu Xuan (404)
-
-
-  
-
-**Upper Sec Committee Member (2021 – 2022)** <br>
-Camp Committee: Ng Qi Ying (405) <br>
-Level IC (Sec 3): Lauren Tay Ying En (303)
-
-**Lower Sec Committee Member (2021 – 2022)** <br>
-Level IC (Lower Sec Chairperson): Tan Zhi Qi (204)
+1.	President & Sectional Leader: 	Foo Khia Ying (402)
+2.	Vice-President (Admin) & Sectional Leader: Tan Zi Lin, Genecia (404) <br>
+3.	Vice-President (Music) & Sectional Leader:  Sarah Lee Ziling (404) <br>
+4.	Discipline Head:  Tan Hong Yuan Jackie (401) <br>
+5.	Quarter Master (Equipment) (Head):  Lauren Tay Ying En (403) <br>
+6.	Quarter Master (Equipment):  Ng Swee Min Eliza (405) <br>
+7.	Quarter Master (Apparel) (Head):  Khoo Wen Qian (403) <br>
+8.	Quarter Master (Apparel):  Graceanne Suvarna Wie (401)<br>
+9.	Quarter Master (Publicity) (Head):  Amelia Ng Ling En (402)<br>
+10.	Level IC (Sec 4):  Lauren Tay Ying En (403) <br>
+11.	Level IC (Sec 3):  Tan Zhi Qi (303) <br>
+12.	Level IC (Lower Sec):  Chew En Rui Hayden (201)<br>
 
   
 
