@@ -15,8 +15,7 @@ img {
   
 </body>
 
-The Xinmin Media Club provides media support for events both in and out of school as well as pursues projects and competitions in the relevant areas. The Xinmin Media Club comprises four departments: audio visual aid (AVA), photography, videography and information technology (IT).
-
+The Xinmin Media Club provides media support for events both in and out of school as well as pursues projects and competitions in the relevant areas. The Xinmin Media Club comprises three departments: audio visual aid (AVA), photography and videography.
   
 
 In the club, senior members provide training and guidance to the junior members in order for them to develop the necessary skills and technical knowledge. These skills and knowledge are then put into good use to support various school events such as the Annual Combined Sports Meet and school concerts like Xinthesis, Xinfony and Melizo. The club also lends its support to the community such as the Xinmin Alumni, Town Council and other affiliated organisations or schools when the need and opportunity arises.
