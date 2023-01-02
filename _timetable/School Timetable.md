@@ -3,7 +3,7 @@ title: School Timetable
 permalink: /resources/students/timetables/school-timetable/
 description: ""
 ---
-_Updated as of 29 December 2022_
+_Updated as of 02 January 2023_
 
 For classes, please click [here](https://drive.google.com/drive/folders/1yxPoY1T8elgA12x8oiZcZn9VeVB_kagY?usp=sharing)
 
