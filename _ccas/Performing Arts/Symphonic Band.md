@@ -31,7 +31,6 @@ Under the musical direction of our band maestro, Mr Daniel Kiang, and the ongoin
 Ms Lio Dan Wei (IC) <br>
 Ms Susan Lee Boon Hong <br>
 Ms Ong Chiew Inn <br>
-Ms Siti Khairunnisa
 
   
 
