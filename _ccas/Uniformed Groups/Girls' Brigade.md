@@ -366,9 +366,8 @@ contributions.
           border: 1px solid rgb(170, 170, 170);
         "
       >
-        Miss Fion Tang<br style="margin: 0px; outline: 0px; padding: 0px" />Miss
+        Miss
         Goh Zi Qi<br style="margin: 0px; outline: 0px; padding: 0px" />Miss
-        Faith Lim<br style="margin: 0px; outline: 0px; padding: 0px" />Miss
         Leong En En<br style="margin: 0px; outline: 0px; padding: 0px" />Miss
         Jeyvian Ang<br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
