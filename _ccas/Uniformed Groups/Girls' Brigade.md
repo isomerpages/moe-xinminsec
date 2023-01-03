@@ -506,7 +506,8 @@ contributions.
 
 **CCA Schedule** <br />
 Wednesdays: 4.00 pm to 5:30 pm <br />
-Saturdays: 8:30 am to 12 noon **CCA Achievement** <br />
+Saturdays: 8:30 am to 12 noon<br><br>
+**CCA Achievement** <br />
 Attained Girls’ Brigade Company Award 2021 (9th Consecutive Gold)<br />
 2020 Pioneer Brigader Brooch Award – 1 awardee<br />
 2021 Pioneer Brigader Brooch Award – 1 awardee<br />
