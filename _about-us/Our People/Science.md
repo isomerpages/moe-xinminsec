@@ -60,7 +60,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Lim Boon Ping.jpg"
-          src="/images/Science/Lim%20Boon%20Ping.jpeg"
+          src="/images/Science/Lim%20Boon%20Ping.png"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
