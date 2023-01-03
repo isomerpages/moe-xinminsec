@@ -50,15 +50,15 @@ Ms Liew Ziyi<br>
 
 
 **Student Committee** <br>
-**‘B’ Division:** <br>
-Captain:&nbsp; Andre Lim (301) <br>
+**Sec 4s** <br>
+Captain:&nbsp; Andre Lim (401) <br>
 Vice-captains: Rin Low (306) and Rachel Wong (304) <br>
-Team Managers: Trevonne Tan (307) and Megan Chung (302)
+Team Managers: Trevonne Tan (407) and Megan Chung (402)
 
-**‘C’ Division:** <br>
-Captain: Clarisse Lim (201) <br>
-Vice-captains: Goh Wan Ting (201) and Ennya Lim (206) <br>
-Team Managers: Nur Zarifah (206) and Kyler Lee (203)
+**Sec 3s:** <br>
+Captain: Clarisse Lim (303) <br>
+Vice-captains: Goh Wan Ting (303) and Ennya Lim (306) <br>
+Team Managers: Nur Zarifah (306) and Kyler Lee (301)
 
 **CCA schedule** <br>
 Wednesdays: 3.30 - 6.30 pm <br>
