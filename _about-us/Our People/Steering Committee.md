@@ -1204,7 +1204,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Science/Lim%20Boon%20Ping.jpeg"
+          src="/images/Science/Lim%20Boon%20Ping.png"
           alt="Lim Boon Ping.jpg"
           class="ive_eobj_left"
           style="
