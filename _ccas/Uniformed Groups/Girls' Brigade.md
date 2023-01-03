@@ -39,20 +39,22 @@ Last year, Ximmin Secondary School was nominated to represent Girls’ Brigade S
   
 
 **CCA Schedule** <br>
-Wednesdays: 4.00 pm to 6:00 pm <br>
+Wednesdays: 4.00 pm to 5:30 pm <br>
 Saturdays: 8:30 am to 12 noon
 
   
 
 **CCA Achievement** <br>
-Attained Girls’ Brigade Company Award 2021 (9th Consecutive Gold) <br>
-2020 Pioneer Brigader Brooch Award – 1 awardee <br>
-2021 Pioneer Brigader Brooch Award – 1 awardee <br>
-2022 Pioneer Brigader Brooch Award – 2 awardees  <br>
-_(The Pioneer Brigadier’s Brooch is the highest and most prestigious award for a secondary GB girl after completion of her senior and pioneer pins)_
+Attained Girls’ Brigade Company Award 2021 (9th Consecutive Gold)<br>
+2020 Pioneer Brigader Brooch Award – 1 awardee<br>
+2021 Pioneer Brigader Brooch Award – 1 awardee<br>
+(The Pioneer Brigadier’s Brooch is the highest and most prestigious award for a secondary GB girl after completion of her senior and pioneer pins)<br>
 
-Dr. Low Guat Tin Challenge 2021 \[Gold – 2 groups (Poem and Prose)\]
-                                                       \[Bronze – 2 groups (Poster)\]
+Dr. Low Guat Tin Challenge 2021 <br>[Gold – 2 groups (Poem and Prose)]<br>
+                                                       [Bronze – 2 groups (Poster)]<br><br>
+Dr. Low Guat Tin Challenge 2022 <br>[Silver – 2 group awards and 1 individual award]<br>
+                                                       [Bronze – 3 group awards and 2 individual awards]<br>
+
 
   
 
