@@ -15,19 +15,14 @@ img {
   
 </body>
 
-The Girls’ Brigade 42nd Company aims to provide girls and young women with the opportunity to grow and to lead to develop them to their fullest potential by Equipping, Empowering and Enabling every Girl to be a leader, and every Officer a Servant Leader.   
+The Girls’ Brigade 42nd Company aims to provide girls and young women with the opportunity to grow and to lead to develop them to their fullest potential by Equipping, Empowering and Enabling every Girl to be a leader, and every Officer a Servant Leader. 
 
-  
+We organise a holistic selection of activities such as camps, drills and badgework which will give multiple opportunities for our girls to lead, plan and participate. These include both indoor and outdoor activities such as handicrafts, outreach to the community, outdoor cooking and learning journeys around Singapore. 
 
-We organise a holistic selection of activities such as camps, drills and badgework which will give multiple opportunities for our girls to lead, plan and participate. These include both indoor and outdoor activities such as handicrafts, outreach to the community, outdoor cooking and learning journeys around Singapore. 
+Through the girls’ four years in Girls’ Brigade, our programme aims to develop the social, educational, spiritual, and physical aspects of every girl so that they will learn important life skills and be well equipped to take on any challenges in life. 
 
-  
+Last year, Ximmin Secondary School was nominated to represent Girls’ Brigade Singapore for the National Day Parade marching contingent 2022, in recognition of our CCA track record and contributions. 
 
-Through the girls’ four years in Girls’ Brigade, our programme aims to develop the social, educational, spiritual, and physical aspects of every girl so that they will learn important life skills and be well equipped to take on any challenges in life. 
-
-  
-
-This year, Ximmin Secondary School has been nominated to represent Girls’ Brigade Singapore for the National Day Parade marching contingent 2022, in recognition of our CCA track record and contributions. 
 
   
 
