@@ -1434,7 +1434,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="sl_a_lady.png"
-          src="/images/sl_a_lady.png"
+          src="/images/Science/Tan Hui Miang.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
