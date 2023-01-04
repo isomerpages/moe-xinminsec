@@ -475,7 +475,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Abeyegoonasekera Rebecca.jpg"
-          src="/images/English Language/Abeyegoonasekera%20Rebecca.jpeg"
+          src="/images/English Language/Abeyegoonasekera Rebecca.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1136,7 +1136,7 @@ third_nav_title: Our People
           class="ive_eobj_left"
           alt="Lionel_Foon 1.jpg"
           width="100%"
-          src="/images/English Language/Lionel_Foon%201.jpeg"
+          src="/images/English Language/Lionel.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
