@@ -469,7 +469,7 @@ Mr Hor Chai Hian (‘C’ Division Coach) **Student Committee 2022** <br />
       >
         3.30pm to 6.30pm<br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
-      <td
+        <td
         width="79"
         style="
           margin: 0px;
@@ -477,9 +477,10 @@ Mr Hor Chai Hian (‘C’ Division Coach) **Student Committee 2022** <br />
           padding: 2px;
           text-align: center;
           border: 1px solid rgb(170, 170, 170);
-          background-color: rgb(128, 128, 128);
         "
-      ></td>
+      >
+        3.30pm to 6.30pm<br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
       <td
         width="79"
         style="
@@ -533,7 +534,7 @@ Mr Hor Chai Hian (‘C’ Division Coach) **Student Committee 2022** <br />
       >
         3.30pm to 6.30pm<br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
-      <td
+       <td
         width="79"
         style="
           margin: 0px;
@@ -541,9 +542,10 @@ Mr Hor Chai Hian (‘C’ Division Coach) **Student Committee 2022** <br />
           padding: 2px;
           text-align: center;
           border: 1px solid rgb(170, 170, 170);
-          background-color: rgb(128, 128, 128);
         "
-      ></td>
+      >
+        3.30pm to 6.30pm<br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
 			  <td
         width="79"
         style="
