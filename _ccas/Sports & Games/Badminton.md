@@ -89,7 +89,7 @@ Mr Hor Chai Hian (‘C’ Division Coach) **Student Committee 2022** <br />
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
-        width="140"
+        width="120"
         style="
           margin: 0px;
           outline: 0px;
@@ -163,7 +163,7 @@ Mr Hor Chai Hian (‘C’ Division Coach) **Student Committee 2022** <br />
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
-        width="140"
+        width="120"
         style="
           margin: 0px;
           outline: 0px;
