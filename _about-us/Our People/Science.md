@@ -260,7 +260,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/sl_a_lady.png"
+          src="/images/Science/Tiffany.jpg"
           alt="Low Yan Jin.jpg"
           class="ive\_eobj\_left"
           style="
