@@ -400,7 +400,7 @@ third_nav_title: Our People
           "
         >
           <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Mr Thiruselvani S/O Arivazhagian</b
+            >Mr Thiruselvan S/O Arivazhagian</b
           >
         </div>
         <div
