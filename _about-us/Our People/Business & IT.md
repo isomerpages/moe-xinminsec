@@ -218,7 +218,7 @@ third_nav_title: Our People
                       font-weight: 400;
                     "
                   >
-                    Department: Mathematics
+                    Department: Business & Infocomm and Mathematics
                   </div>
                   <div
                     style="
@@ -322,7 +322,7 @@ third_nav_title: Our People
                       font-weight: 400;
                     "
                   >
-                    Department: Mathematics
+                    Department: Business & Infocomm
                   </div>
                   <div
                     style="
