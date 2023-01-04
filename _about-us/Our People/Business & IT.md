@@ -269,7 +269,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Terry Tan.jpg"
-          src="/images/Terry%20Tan.jpeg"
+          src="/images/EAS/Terry%20Tan.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -373,7 +373,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Yap Hock Heng.jpg"
-          src="/images/Yap%20Hock%20Heng.jpeg"
+          src="/images/EAS/Yap%20Hock%20Heng.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -479,7 +479,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Asyraf.jpg"
-          src="/images/Asyraf.jpeg"
+          src="/images/EAS/Asyraf.jpeg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
