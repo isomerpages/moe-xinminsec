@@ -176,7 +176,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Aminah Binte Mohd Nagieb.jpg"
-          src="/images/Arts_Education/Aminah%20Binte%20Mohd%20Nagieb.jpeg"
+          src="/images/Arts_Education/Aminah Binte Mohd Nagieb.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -282,7 +282,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Tan Hui Li.jpg"
-          src="/images/Arts_Education/Tan%20Hui%20Li.jpeg"
+          src="/images/Arts_Education/Hailey.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -702,7 +702,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="sl_a_lady.png"
-          src="/images/sl_a_lady.png"
+          src="/images/Arts_Education/Joanne Liu.jpg"
         />
       </td>
       <td
