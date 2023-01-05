@@ -269,7 +269,7 @@ third_nav_title: Our People
           style="width: 111px; height: 131px"
           class="ive_eobj_left"
           alt="Kline.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/New/Kline.jpg"
+          src="images/Information_Technology/Kline.jpg"
         /><br />
       </td>
       <td>
