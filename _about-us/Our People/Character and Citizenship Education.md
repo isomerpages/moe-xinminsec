@@ -69,7 +69,7 @@ third_nav_title: Our People
           style="width: 114px; height: 152px"
           class="ive_eobj_left"
           alt="Chan Shu Min Charlene.jpeg"
-         src="images/English_Language/Chan Shu Min Charlene.jpeg"
+         	 src="images/English_Language/Chan Shu Min Charlene.jpeg"
         /><br />
       </td>
       <td>
