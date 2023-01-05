@@ -12,7 +12,7 @@ third_nav_title: Our People
           style="width: 112px; height: 132px"
           class="ive_eobj_left"
           alt="Carol.jpg"
-          src="Images/Mother_Tongue/Carol.jpg"
+          src="images/Mother_Tongue/Carol.jpg"
         /><br />
       </td>
       <td>
@@ -40,8 +40,8 @@ third_nav_title: Our People
       <td>
         <img
           class="ive_eobj_left"
-          alt="Low Yan Jin.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/Mathematics/2022/Low Yan Jin.jpg"
+          alt="Low Yan Jin.jpg"      
+						 src="images/Mathematics/Low Yan Jin.jpeg"
         /><br />
       </td>
       <td>
