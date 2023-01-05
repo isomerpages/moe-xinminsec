@@ -12,7 +12,7 @@ third_nav_title: Our People
           style="width: 112px; height: 132px"
           class="ive_eobj_left"
           alt="Carol.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/New/Carol.jpg"
+          src="Images/Mother_Tongue/Carol.jpg"
         /><br />
       </td>
       <td>
