@@ -68,8 +68,8 @@ third_nav_title: Our People
         <img
           style="width: 114px; height: 152px"
           class="ive_eobj_left"
-          alt="Chan Shu Min Charlene.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/English and Literature/2022/Chan Shu Min Charlene.jpg"
+          alt="Chan Shu Min Charlene.jpeg"
+         src="images/English_Language/Chan Shu Min Charlene.jpeg"
         /><br />
       </td>
       <td>
