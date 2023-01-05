@@ -225,7 +225,7 @@ third_nav_title: Our People
           style="width: 113px; height: 138px"
           class="ive_eobj_left"
           alt="Abeyegoonasekera Rebecca.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/English and Literature/2022/Abeyegoonasekera Rebecca.jpg"
+        src="images/English Language/Abeyegoonasekera Rebecca.jpg"
         /><br />
       </td>
       <td>
@@ -253,7 +253,7 @@ third_nav_title: Our People
       </td>
       <td>
         <br />
-        <div style="line-height: 24.99px"><b>Ms Nanthini Gunasekaran</b></div>\
+        <div style="line-height: 24.99px"><b>Ms Nanthini Gunasekaran</b></div>
         <div style="line-height: 24.99px">
           Email:
           <a target="" href="mailto:nanthini_gunasekaran@schools.gov.sg"
@@ -291,7 +291,7 @@ third_nav_title: Our People
           style="width: 113px; height: 133px"
           class="ive_eobj_left"
           alt="Lionel.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/New/Lionel.jpg"
+          src="images/English Language/Lionel.jpg"
         /><br />
       </td>
       <td>
@@ -386,7 +386,7 @@ third_nav_title: Our People
           style="width: 101px; height: 127px"
           class="ive_eobj_left"
           alt="Nadrah 1.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/English and Literature/2022/Nadrah 1.jpg"
+         src="images/English Language/Nadrah 1.jpeg"
         /><br />
       </td>
       <td>
@@ -414,7 +414,7 @@ third_nav_title: Our People
           style="width: 102px; height: 127px"
           class="ive_eobj_left"
           alt="CHANG HOW CHUN.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/English and Literature/2022/CHANG HOW CHUN.jpg"
+        src="images/English Language/CHANG HOW CHUN.jpeg"
         /><br />
       </td>
       <td>
@@ -461,7 +461,7 @@ third_nav_title: Our People
           style="width: 113px; height: 129px"
           class="ive_eobj_left"
           alt="Lim Ee Gek Belinda.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/English and Literature/2022/Lim Ee Gek Belinda.jpg"
+         src="images/English Language/Lim Ee Gek Belinda.jpeg"
         /><br />
       </td>
       <td>
