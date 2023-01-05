@@ -317,7 +317,7 @@ third_nav_title: Our People
           style="width: 107px; height: 147px"
           class="ive_eobj_left"
           alt="Kuo Yu Hsuan web.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/Science/2019/Kuo Yu Hsuan web.jpg"
+          src="images/Science/Kuo Yu Hsuan web.jpeg"
         /><br />
       </td>
       <td>
