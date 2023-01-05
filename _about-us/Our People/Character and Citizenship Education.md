@@ -482,7 +482,7 @@ third_nav_title: Our People
           style="width: 110px; height: 137px"
           class="ive_eobj_left"
           alt="Michael Rodrigues.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/Science/2022/Michael Rodrigues.jpg"
+          src="images/Science/Michael Rodrigues.jpeg"
         /><br />
       </td>
       <td>
