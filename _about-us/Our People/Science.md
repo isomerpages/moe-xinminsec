@@ -930,7 +930,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Lin Shun Yi</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Lin Shunyi</b>
         </div>
         <div
           style="
