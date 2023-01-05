@@ -196,7 +196,7 @@ third_nav_title: Our People
         <img
           class="ive_eobj_left"
           alt="Nur Amalina Bte Mohamed.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/Humanities/2022/Nur Amalina Bte Mohamed.jpg"
+          src="images/Humanities/Nur Amalina Bte Mohamed.jpeg"
         /><br />
       </td>
       <td>
