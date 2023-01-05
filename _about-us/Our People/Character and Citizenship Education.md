@@ -365,7 +365,7 @@ third_nav_title: Our People
           style="width: 113px; height: 147px"
           class="ive_eobj_left"
           alt="lio dan wei.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/Craft and Technology/2020/lio dan wei.jpg"
+         src="images/Arts_Education/lio dan wei.jpeg"
         /><br />
       </td>
       <td>
