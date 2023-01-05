@@ -39,7 +39,7 @@ Team Manager : Jayden Goh Kai Yi (201)
 
   
 
-**Teachers** :
+**Teachers** <br>
 Miss Estee See Toh  - Seetoh_sijia@schools.gov.sg<br>
 Mr Thiruselvan SO Arivazhagian - so_arivazhagian_m_thiruselvan@schools.gov.sg<br>
 Miss Hailey Tan Huili - hailey_tan_hui_li@schools.gov.sg<br>
