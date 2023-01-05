@@ -23,6 +23,7 @@ Venues : School / Ci Yuan Sports Park / Hougang Stadium / PCN
 \- Leadership roles to create responsible and proactive athletes to take ownership <br>
 \- Varied training programmes such as running workouts and fitness trainings
 
+
 **Events** <br>
 Sec 1 Orientation<br>
 Farewell for graduating batch<br>
@@ -30,7 +31,6 @@ Values in Action projects<br>
 Team bonding / Camp
 
   
-
 **Student Committee (2022)** <br>
 Captain : Poh Yang Jie, Shayne (202) <br>
 Vice Captain : Arren-Rafael Harie Raj (308) <br>
