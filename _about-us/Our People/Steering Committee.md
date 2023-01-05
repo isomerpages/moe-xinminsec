@@ -1680,7 +1680,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          Designation: Head of Department / Covering Arts Education
+          Designation: Head of Department
         </div>
         <div
           style="
@@ -2167,7 +2167,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images/Science/Tiffany.jpg"
+        src="/images/sl_a_lady.png"
           alt="Low Yan Jin.jpg"
           class="ive\_eobj\_left"
           style="
