@@ -248,7 +248,7 @@ third_nav_title: Our People
           style="width: 109px; height: 145px"
           class="ive_eobj_left"
           alt="Nanthini Gunasekaran web.jpg"
-          src="/qql/slot/u505/2021/About Us/Our People/CCE/Nanthini Gunasekaran web.jpg"
+        src="images/Humanities/Nanthini Gunasekaran web.jpeg"
         />
       </td>
       <td>
@@ -338,7 +338,7 @@ third_nav_title: Our People
           style="width: 100px; height: 140px"
           class="ive_eobj_left"
           alt="Gywneth Chua Li Shan web.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/Humanities/2019/Gywneth Chua Li Shan web.jpg"
+        src="images/Humanities/Gywneth Chua Li Shan web.jpeg"
         /><br />
       </td>
       <td>
