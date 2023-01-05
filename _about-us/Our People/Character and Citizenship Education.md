@@ -308,7 +308,6 @@ third_nav_title: Our People
             >Lionel_Foon_koi_siong@schools.gov.sg</a
           ><br />
         </div>
-
         <div style="line-height: 24.99px">Member<br /></div>
       </td>
     </tr>
