@@ -9,27 +9,24 @@ third_nav_title: Sports & Games
   
 
 **Description** <br>
-Cross country as a CCA nurtures students’ holistic development. As they learn values and mold their character through running, students fulfill their potential and nurture passion in the sport. This transcends beyond their athletic domains into their academic pursuit with instilled discipline and resilience. Opportunities for student’s initiatives will give them ownership and self-direction as they develop their socio-emotional competencies.
+Cross country as a CCA nurtures students’ holistic development. As they learn values and mold their character through running, students fulfill their potential and nurture passion in the sport. This transcends beyond their athletic domains into their academic pursuit with instilled discipline and resilience. Opportunities for student’s initiatives will give them ownership and self-direction as they develop their socio-emotional competencies. The team will comprise of both boys and girls to represent Xinmin Secondary School at the National School Games. Students will also be able to participate in open running events that are organized for the public. 
 
-  
-
-The Xinmin Cross Country team started in 2021. The team will comprise of both boys and girls to represent Xinmin Secondary School at the National School Games. Students will also be able to participate in open running events that are organized for the public. 
-
-  
+ 
 
 **Training details:** <br>
-Days : Wednesday and Friday <br>
-Time :  3.30 – 5.30pm <br>
-Venues : School / Sports Park / Hougang or Serangoon Stadium / PCN/ Reservoirs
+Days : Wednesday and Friday for all students, Mondays(Only for selected students during competition period)<br>
+Time : 3.30 – 5.30pm<br>
+Venues : School / Ci Yuan Sports Park / Hougang Stadium / PCN
+
 
 **Features** <br>
 \- Leadership roles to create responsible and proactive athletes to take ownership <br>
 \- Varied training programmes such as running workouts and fitness trainings
 
 **Events** <br>
-Sec 1 Orientation <br>
-Farewell for graduating batch <br>
-Values in Action projects <br>
+Sec 1 Orientation<br>
+Farewell for graduating batch<br>
+Values in Action projects<br>
 Team bonding / Camp
 
   
@@ -42,19 +39,10 @@ Team Manager : Jayden Goh Kai Yi (201)
 
   
 
-**Achievements/Competitions (2022)** <br>
-Hoh Ying Min (301)  <br>
-\- 6th position in National School Games (1500m ‘B’ Division Girls)  <br>
-\- 8th position in National School Games (3000m ‘B’ Division Girls)
+**Teachers** :
+Miss Estee See Toh  - Seetoh_sijia@schools.gov.sg<br>
+Mr Thiruselvan SO Arivazhagian - so_arivazhagian_m_thiruselvan@schools.gov.sg<br>
+Miss Hailey Tan Huili - hailey_tan_hui_li@schools.gov.sg<br>
 
-**Teachers-in-charge:**  <br>
-Ms Estee See Toh <br>
-Mr Thiruselvan s/o Arivazhagian M
-
-  
-
-**Teachers** : Miss Estee See Toh, Mr Thiruselvan s/o Arivazhagian M <br>
-**Coach**: Mr Dhashman s/o Thangavelu <br>
-**Email address** : Seetoh\_sijia@schools.gov.sg,  so\_arivazhagian\_m\_thiruselvan@schools.gov.sg
 
 Follow us on Instagram @xms\_xcountry
