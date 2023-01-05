@@ -172,7 +172,7 @@ third_nav_title: Our People
           style="width: 115px; height: 145px"
           class="ive_eobj_left"
           alt="Chia Yen Har Junice.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/MT/2022/Norain Binte Ismail.jpg"
+          src="images/Mother_Tongue/Norain Binte Ismail.jpeg"
         /><br />
       </td>
       <td>
