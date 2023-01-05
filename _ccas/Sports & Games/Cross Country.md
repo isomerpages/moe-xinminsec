@@ -4,6 +4,7 @@ permalink: /ccas/sports-n-games/cross-country/
 description: ""
 third_nav_title: Sports & Games
 ---
+![sd](/images/CCAs/Cross%20Country/crosscountry3.jpg)
 “Run when you can, walk when you have to, crawl if you must. Just never give up!” Dean Karnazes
 
   
