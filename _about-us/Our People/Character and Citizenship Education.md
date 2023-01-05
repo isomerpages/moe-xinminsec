@@ -121,7 +121,7 @@ third_nav_title: Our People
           style="width: 113px; height: 162px"
           class="ive_eobj_left"
           alt="Elias Loo web.jpg"
-          src="/qql/slot/u505/2021/About Us/Our People/CCE/Elias Loo web.jpg"
+          src="images/Physical_Education/Elias Loo web.jpeg"
         />
       </td>
       <td>
