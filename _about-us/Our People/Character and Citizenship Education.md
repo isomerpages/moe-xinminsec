@@ -527,7 +527,7 @@ third_nav_title: Our People
           style="width: 113px; height: 162px"
           class="ive_eobj_left"
           alt="Ms Catherine Ng.png"
-          src="/qql/slot/u505/2021/About Us/Our People/CCE/Ms Catherine Ng.png"
+          src="images/Counselling/Ms Catherine Ng.png"
         />
       </td>
       <td>
