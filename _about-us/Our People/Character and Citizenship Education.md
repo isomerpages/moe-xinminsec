@@ -506,7 +506,7 @@ third_nav_title: Our People
           style="width: 113px; height: 156px"
           class="ive_eobj_left"
           alt="Lee Chye Poh Lynne web.jpg"
-          src="/qql/slot/u505/2021/About Us/Our People/CCE/Lee Chye Poh Lynne web.jpg"
+          src="images/Counselling/Lee Chye Poh Lynne web.jpeg"
         />
       </td>
       <td>
