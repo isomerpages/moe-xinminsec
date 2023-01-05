@@ -95,7 +95,7 @@ third_nav_title: Our People
           style="width: 114px; height: 163px"
           class="ive_eobj_left"
           alt="Lu Wenqi Kevin.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/Humanities/2022/Lu Wenqi Kevin.jpg"
+         src="images/Humanities/Lu Wenqi Kevin.jpeg"
         /><br />
       </td>
       <td>
