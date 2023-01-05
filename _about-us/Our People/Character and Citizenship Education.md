@@ -69,7 +69,7 @@ third_nav_title: Our People
           style="width: 114px; height: 152px"
           class="ive_eobj_left"
           alt="Chan Shu Min Charlene.jpeg"
-         	 src="images/English_Language/Chan Shu Min Charlene.jpeg"
+         	 src="images/English Language/Chan Shu Min Charlene.jpeg"
         /><br />
       </td>
       <td>
@@ -144,7 +144,7 @@ third_nav_title: Our People
           style="width: 115px; height: 145px"
           class="ive_eobj_left"
           alt="Chia Yen Har Junice.jpg"
-          src="/qql/slot/u505/School/Our People/Departments/English and Literature/2022/Chia Yen Har Junice.jpg"
+						 src="images/English Language/Chia Yen Har Junice.jpeg"
         /><br />
       </td>
       <td>
