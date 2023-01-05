@@ -250,7 +250,7 @@ third_nav_title: Our People
         </div>
       </td>
     </tr>
-		 <tr style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
           margin: 0px;
@@ -515,7 +515,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mdm Annie Tan</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Annie Ng</b>
         </div>
         <div
           style="
@@ -678,110 +678,108 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-    <td
-      style="
-        margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;
-      "
-    >
-      <img
-        style="
-          margin: 0px 10px 0px 0px;
-          outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 107px;
-          height: 137px;
-        "
-        class="ive_eobj_left"
-        alt="sl_a_lady.png"
-        src="/images/sl_a_lady.png"
-      /><br style="margin: 0px; outline: 0px; padding: 0px" />
-    </td>
-    <td
-      style="
-        margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;
-      "
-    >
-      <br style="margin: 0px; outline: 0px; padding: 0px" />
-      <div
+      <td
         style="
           margin: 0px;
           outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
         "
       >
-        <b style="margin: 0px; outline: 0px; padding: 0px"
-          >Ms Ivy Se Hoo</b
-        >
-      </div>
-      <div
+        <img
+          style="
+            margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 137px;
+          "
+          class="ive_eobj_left"
+          alt="sl_a_lady.png"
+          src="/images/sl_a_lady.png"
+        /><br style="margin: 0px; outline: 0px; padding: 0px" />
+      </td>
+      <td
         style="
           margin: 0px;
           outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
         "
       >
-        Designation: Teacher
-      </div>
-      <div
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;
-        "
-      >
-        Department: Science
-      </div>
-      <div
-        style="
-          margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;
-        "
-      >
-        Email:&nbsp;<a
+        <br style="margin: 0px; outline: 0px; padding: 0px" />
+        <div
           style="
             margin: 0px;
             outline: 0px;
             padding: 0px;
-            color: rgb(42, 103, 183);
-            text-decoration: underline;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
           "
-          target=""
-          href="mailto:Ivy_Se_Hoo@schools.gov.sg"
-          >Ivy_Se_Hoo@schools.gov.sg</a
         >
-      </div>
-    </td>
-  </tr>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Ivy Lai</b>
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Designation: Teacher
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Department: Science
+        </div>
+        <div
+          style="
+            margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+          "
+        >
+          Email:&nbsp;<a
+            style="
+              margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;
+            "
+            target=""
+            href="mailto:Ivy_Se_Hoo@schools.gov.sg"
+            >Ivy_Se_Hoo@schools.gov.sg</a
+          >
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td
         style="
@@ -1458,9 +1456,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Mdm Tan Hui Miang</b
-          >
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Emily Chia</b>
         </div>
         <div
           style="
