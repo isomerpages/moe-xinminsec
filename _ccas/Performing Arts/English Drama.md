@@ -42,9 +42,8 @@ Welfare: Avina Ong (307)
   
 
 **CCA Schedule** <br>
-Wednesdays: 3.45pm to 5.45pm <br>
-Fridays: 2pm to 5pm
-
+Every Wednesday - 3.30 - 6.00pm<br>
+Every Friday - 2.00 - 5.00pm
   
 
 **CCA Achievement** <br>
