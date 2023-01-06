@@ -35,12 +35,602 @@ Ms Wan Shi Ting
   
 
 **Exco for Chinese Dance (2022 − 2023)**
-
-<table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 130px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">President:</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Vice Presidents:</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Logistics Team:</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Lu’lu Aliesha Binte Samion (402)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Liang Jiwen (402)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Pak Fang Yu (402)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Gladys Lee (403)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Faizah Binte Abd Ghani (409)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Ho Shao Ting Sheena (305)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Wong Him Fi (309)</div></td></tr></tbody></table>
-
-Sec 3 Level Leaders: Wong Liang Xuan (402), Wong Sham Yu (305) <br>
-Sec 2 Level Leaders: Toh Yan Ru (401), Lee Yu Chen (303) <br>
-Sec 1 Level Leaders: Bevlyn Yeo (302), Leow Minjun (308)
+<table
+  class="MsoTableGrid"
+  border="1"
+  cellspacing="0"
+  cellpadding="0"
+  style="
+    border-collapse: collapse;
+    border: none;
+    mso-border-alt: solid windowtext 0.5pt;
+    mso-yfti-tbllook: 1184;
+    mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+  "
+>
+  <tbody>
+    <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >President
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-left: none;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Tang Wai Sum Kate (405)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 1">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Vice-Presidents
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Sammi Chong (401), Wong Jia Qian (404)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 2">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Upper Secondary Year Head
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Ong Jia Rui Rise (406)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 3">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Lower Secondary Year Head
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Chloe Tea Yu Qing (405)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 4">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Logistics Team
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Lee Jia Xuan (401) [Head of Logistics]
+          ></span>
+        </p>
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Chng Shirlyn (308)
+          ></span>
+        </p>
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Goh Kar Wen, Shirlyn (302)
+          ></span>
+        </p>
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Loh Wan Ning (302)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 5">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Publicity Team
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Denyse Chua (405) [Head of Publicity]
+          ></span>
+        </p>
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Lim Sian Ting (405)
+          ></span>
+        </p>
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Cheryl Lee Jia Hui (301)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 6">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >S3 2022/ S4 2023 Level Leader
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Carrie Ang Yi Jing (402)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 7">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >S2 2022/ S3 2023 Level Leader
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Quah Xuan Yi Edyth (402)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 8">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >S1 2022/ S2 2023 Level Leaders
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Chin Kai Yan (309), Jez Quah Xuan Ci (303)
+          ></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 9; mso-yfti-lastrow: yes">
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >S1 2023 Level Leaders
+          ></span>
+        </p>
+      </td>
+      <td
+        width="312"
+        valign="top"
+        style="
+          width: 233.75pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;
+        "
+      >
+        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
+          <span
+            style="
+              font-size: 13pt;
+              font-family: 'Helvetica', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+            "
+            >Chan Hui Qi (302), Charmaine Ong Shi Ru (305)
+          ></span>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
   
 
