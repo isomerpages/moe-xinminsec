@@ -55,7 +55,7 @@ Ms Noor Hafizah **Coaches** <br />
 Mr Wong Shoon Keat (‘B’ Division Coach) <br />
 Mr Hor Chai Hian (‘C’ Division Coach) 
 
-**Student Committee 2022** <br />
+**Student Committee 2023** <br />
 ‘B’ Division Captains: D' anna Thong Kai Leng (402)<br>
 ‘B’ Division Vice-Captains: Chua Yang Ni (404)
 
