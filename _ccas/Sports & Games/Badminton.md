@@ -580,5 +580,7 @@ Mr Hor Chai Hian (‘C’ Division Coach)
 </table><br>
 Please note that there will be trainings during the school holidays and the
 training schedule for the school holidays will be given to students 2 weeks
-before the holidays.  [How to apply for Direct School
+before the holidays.  
+
+[How to apply for Direct School
 Admission](/resources/students/admissions/direct-school-admission)
