@@ -40,9 +40,13 @@ Instagram **@xms.badminton** _\*NSG Badminton Championships are cancelled for
 ‘B’ Division Girls : 2nd **<u>2021 Achievements</u>** <br />
 **NSG Badminton Championships (North Zone) 2021:** <br />* ‘B’ Division Girls –
 3rd **<u>2019 Achievements</u>** <br />
+
 **NSG Badminton Championships (North Zone) 2019:** <br />* ‘C’ Division Girls –
-4th<br />* ‘B’ Division Girls – 4th **NSG Badminton Championships (National)
+4th<br />* ‘B’ Division Girls – 4th 
+
+**NSG Badminton Championships (National)
 2019:** <br />* ‘C’ Division Girls - Top 16<br />* ‘B’ Division Girls – Top 16
+
 **Teachers-in-charge** <br />
 Mr Lim Kok Chong (IC) <br />
 Ms Anny Roezza Abdul Aziz <br />
@@ -50,11 +54,13 @@ Mdm Annie Tan <br />
 Ms Siaw Pei Shin <br />
 Ms Noor Hafizah **Coaches** <br />
 Mr Wong Shoon Keat (‘B’ Division Coach) <br />
-Mr Hor Chai Hian (‘C’ Division Coach) **Student Committee 2022** <br />
-‘B’ Division Captains: D' anna Thong Kai Leng (302) <br />
-‘B’ Division Vice-Captains: Chua Yang Ni (304) <br /><br />
-‘C’ Division Captain: Lim En Qi (202) <br />
-‘C’ Division Vice-Captain: Fong Jia Qi (204)<br><br> **CCA Schedule**<br>
+Mr Hor Chai Hian (‘C’ Division Coach) 
+
+**Student Committee 2022** <br />
+‘B’ Division Captains: D' anna Thong Kai Leng (402)<br>
+‘B’ Division Vice-Captains: Chua Yang Ni (404)
+
+**CCA Schedule**<br>
  **Odd Week**
 <table
   class="iveo_table ives_tab_simple3"
