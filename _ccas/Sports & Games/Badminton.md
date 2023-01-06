@@ -45,12 +45,6 @@ Instagram **@xms.badminton** _\*NSG Badminton Championships are cancelled for
 **<u>2021 Achievements</u>** <br />
 **NSG Badminton Championships (North Zone) 2021:** <br />* ‘B’ Division Girls –
 3rd 
-<br><br>**<u>2019 Achievements</u>** <br>
-**NSG Badminton Championships (North Zone) 2019:** <br />* ‘C’ Division Girls –
-4th<br />* ‘B’ Division Girls – 4th 
-
-**NSG Badminton Championships (National)
-2019:** <br />* ‘C’ Division Girls - Top 16<br />* ‘B’ Division Girls – Top 16
 
 **Teachers-in-charge** <br />
 Mr Lim Kok Chong (IC) <br />
