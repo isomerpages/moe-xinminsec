@@ -35,12 +35,16 @@ N1 Cluster Games as well as our own Annual Badminton Camp. These events provide
 excellent platforms for our players to hone their leadership skills and to
 strengthen the bonds among players in the team.  Follow us on
 Instagram **@xms.badminton** _\*NSG Badminton Championships are cancelled for
-2020 in view of COVID-19 situation._ **<u>2022 Achievements</u>** <br />
-**<u>NSG Badminton Championships (North Zone) 2022:</u>** <br />
-‘B’ Division Girls : 2nd **<u>2021 Achievements</u>** <br />
-**NSG Badminton Championships (North Zone) 2021:** <br />* ‘B’ Division Girls –
-3rd **<u>2019 Achievements</u>** <br />
+2020 in view of COVID-19 situation._
 
+**<u>2022 Achievements</u>** <br />
+**<u>NSG Badminton Championships (North Zone) 2022:</u>** <br />
+‘B’ Division Girls : 2nd 
+
+**<u>2021 Achievements</u>** <br />
+**NSG Badminton Championships (North Zone) 2021:** <br />* ‘B’ Division Girls –
+3rd 
+<br><br>**<u>2019 Achievements</u>** <br>
 **NSG Badminton Championships (North Zone) 2019:** <br />* ‘C’ Division Girls –
 4th<br />* ‘B’ Division Girls – 4th 
 
