@@ -17,17 +17,15 @@ img {
 
 <p style="text-align:center;"><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p>
 
-  
-
 The Xinmin Chinese Dance Troupe was established in 1995. In 1999, the girls participated in the Singapore Youth Festival (SYF) Central Judging and were awarded a Silver medal. In 2001, they participated in the SYF again and clinched the Gold award.
-
-  
 
 The troupe was awarded the Gold Award again in the SYF in 2003 and 2005. The year 2007 was significant as it was the first time the troupe was awarded the Gold with Honours award, which it sustained for the next two consecutive SYFs (2009 and 2011). In the SYF Arts Presentation 2013, 2015 and 2017, they obtained the Distinction Award.
 
-  
+Despite the 2021 SYF Arts Presentation being filled with challenges posed by COVID-19, there were new opportunities that arose out of it. We had the opportunity to present two performances, 牧歌and 繁花 on stage and gave younger dancers a chance to perform and learn on a larger platform. The dancers worked as a team to overcome the challenges and succeeded in attaining a Certificate of Distinction and Certificate of Accomplishment respectively.
 
-The dancers were invited to perform at the SYF Opening Ceremony in 2012 and at the opening of the Arts Education Conference - Asia Pacific Symposium on Music Education on 17 July 2013 at Republic Polytechnic, and their performances were well-received. In 2016, they were invited to perform at a National Day Dinner where Prime Minister Lee Hsien Loong was the Guest of Honour. In addition, the dancers performed at the Esplanade Outdoor Theatre in 2016 and 2017, as part of the SYF Youth Celebrations.
+The dancers were honoured to be invited to perform at the SYF Opening Ceremony in 2012 and at the opening of the Arts Education Conference - Asia Pacific Symposium on Music Education on 17 July 2013 at Republic Polytechnic.  Their performances were well-received by the audience. In 2016, they were invited to perform at a National Day Dinner where Prime Minister Lee Hsien Loong was the Guest of Honour. In addition, the dancers performed at the Esplanade Outdoor Theatre in 2016 and 2017, as part of the SYF Youth Celebrations. In 2022, the dancers were invited to perform at the Ang Mo Kio−Hougang National Day dinner. 
+
+
 
 **Teacher-in-charge** <br>
 Mrs Joanne Wong Mei Jun (IC)  <br>
