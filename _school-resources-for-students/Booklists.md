@@ -27,4 +27,4 @@ _Updated as of 20/12/2022_<br>
 [Sec 4 Normal Technical](/files/Booklist/2023/Sec%204%20Normal%20Technical.pdf)
   
 **<u>Sec 5</u>** <br>
-To be confirmed
+[Sec 5 Normal Academic](/files/Booklist/2023/Sec%205%20Normal%20Academic.pdf)
