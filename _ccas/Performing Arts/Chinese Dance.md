@@ -45,10 +45,10 @@ Sec 1 Level Leaders: Bevlyn Yeo (302), Leow Minjun (308)
   
 
 **CCA Schedule** <br>
-Mondays: 3.15pm to 6.30pm<br>
-Fridays: 1.45pm to 5pm<br>
-Extra practices on Wednesdays, 3.30pm to 5.30pm, will be conducted prior to competitions and performances.<br>
-Students may require up to 20 minutes after end of session to clean the dance room, to cool down and to change out of dance practice attire.
+_Mondays: 3.15pm to 6.30pm_<br>
+_Fridays: 1.45pm to 5pm_<br>
+_Extra practices on Wednesdays, 3.30pm to 5.30pm, will be conducted prior to competitions and performances._<br>
+_Students may require up to 20 minutes after end of session to clean the dance room, to cool down and to change out of dance practice attire._
 
 
   
