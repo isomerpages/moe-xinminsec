@@ -28,9 +28,9 @@ The dancers were honoured to be invited to perform at the SYF Opening Ceremony i
 
 
 **Teacher-in-charge** <br>
-Mrs Joanne Wong Mei Jun (IC)  <br>
-Ms Emily Lim Xin Yi   <br>
-Ms Izyan Ayuni bte Azmi
+Ms Emily Lim Xin Yi (IC) <br>
+Ms Izyan Ayuni bte Azmi<br>
+Ms Wan Shi Ting
 
   
 
