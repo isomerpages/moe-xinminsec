@@ -69,7 +69,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >President
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -93,7 +93,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Tang Wai Sum Kate (405)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -119,7 +119,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Vice-Presidents
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -146,7 +146,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Sammi Chong (401), Wong Jia Qian (404)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -172,7 +172,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Upper Secondary Year Head
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -199,7 +199,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Ong Jia Rui Rise (406)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -225,7 +225,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Lower Secondary Year Head
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -252,7 +252,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Chloe Tea Yu Qing (405)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -278,7 +278,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Logistics Team
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -305,7 +305,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Lee Jia Xuan (401) [Head of Logistics]
-          ></span>
+          </span>
         </p>
         <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
           <span
@@ -316,7 +316,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Chng Shirlyn (308)
-          ></span>
+          </span>
         </p>
         <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
           <span
@@ -327,7 +327,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Goh Kar Wen, Shirlyn (302)
-          ></span>
+          </span>
         </p>
         <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
           <span
@@ -338,7 +338,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Loh Wan Ning (302)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -364,7 +364,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Publicity Team
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -391,7 +391,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Denyse Chua (405) [Head of Publicity]
-          ></span>
+          </span>
         </p>
         <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
           <span
@@ -402,7 +402,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Lim Sian Ting (405)
-          ></span>
+          </span>
         </p>
         <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
           <span
@@ -413,7 +413,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Cheryl Lee Jia Hui (301)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -439,7 +439,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >S3 2022/ S4 2023 Level Leader
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -466,7 +466,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Carrie Ang Yi Jing (402)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -492,7 +492,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >S2 2022/ S3 2023 Level Leader
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -519,7 +519,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Quah Xuan Yi Edyth (402)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -545,7 +545,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >S1 2022/ S2 2023 Level Leaders
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -572,7 +572,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Chin Kai Yan (309), Jez Quah Xuan Ci (303)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
@@ -598,7 +598,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >S1 2023 Level Leaders
-          ></span>
+          </span>
         </p>
       </td>
       <td
@@ -625,7 +625,7 @@ Ms Wan Shi Ting
               color: black;
             "
             >Chan Hui Qi (302), Charmaine Ong Shi Ru (305)
-          ></span>
+          </span>
         </p>
       </td>
     </tr>
