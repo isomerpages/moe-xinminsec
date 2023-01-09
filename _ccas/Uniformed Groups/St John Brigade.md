@@ -46,7 +46,9 @@ Logistics Head: Loh Kai Xuan (306) <br>
 Cadet Development Head: Nashyria Allysha Binte Al-Malek (308)
 
 **CCA Schedule** <br>
-Every Friday: 2pm to 6pm  
+Wed: for selected levels<br>
+Friday: 2pm to 6pm
+
 
 **CCA Achievement** <br>
 Gold for Corps Achievement Award (2019)
