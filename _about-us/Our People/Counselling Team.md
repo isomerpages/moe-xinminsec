@@ -270,7 +270,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Liew Li Lian 1.jpg"
-          src="/images/Counselling/Liew Li Lian.jpg"
+          src="/images/Counselling/Liew Li Lian2.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
