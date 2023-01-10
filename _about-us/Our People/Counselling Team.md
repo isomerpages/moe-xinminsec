@@ -166,7 +166,7 @@ third_nav_title: Our People
           "
           class="ive_eobj_left"
           alt="Ms Catherine Ng.png"
-          src="/images/Ms%20Catherine%20Ng.png"
+          src="/images/Counselling/Ms%20Catherine%20Ng.png"
         />
       </td>
       <td
