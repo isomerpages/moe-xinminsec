@@ -3,6 +3,11 @@ title: Announcements
 permalink: /xss/announcements-2022/
 description: ""
 ---
+#### Briefing Slides for Release of O-Level Results
+
+12 Jan 2023 <br>
+[Read more](/files/Newsletter%20to%20Parents/2022/2022%20XMS%20December%20Newsletter.pdf)
+
 #### Newsletter to Parents (Nov/Dec 2022)
 
 22 Dec 2022 <br>
