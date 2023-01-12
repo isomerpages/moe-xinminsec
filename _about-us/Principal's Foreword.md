@@ -41,4 +41,3 @@ Mr Tan Soon Hui<br><br>
 
 陈顺惠先生<Br>
 校长
-
