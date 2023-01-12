@@ -6,7 +6,7 @@ description: ""
 #### Briefing Slides for Release of O-Level Results
 
 12 Jan 2023 <br>
-[Read more](https://xinminsec-moe-edu-sg-admin.cwp.sg/all-announcements/permalink/briefing-o-level-slides)
+[Read more](/all-announcements/olevelresultsbriefing/)
 
 #### Newsletter to Parents (Nov/Dec 2022)
 
