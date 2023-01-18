@@ -43,15 +43,17 @@ Mr Effendy Ahmadi
 
 **Student Committee 2022/21** <br>
 **President:**<br>
-Wayne Quah (403) <br>
+Chung Ying Rong, Ginji (405) <br>
 
 **Vice-Presidents:**<br>
-Tee Zee Gheng (408) <br>
+Lim Cheng Xi Wayne (402) <br>
+Aqeel Bin Selamat (407) <br>
 
 **Quartermasters:**<br>
-Ahsta Siddthi Shanker (405) <br>
-Amriel Lee Li Xuan (402) <br>
-Shanice Lee Ruiqi (408)
+Shanice Lee Ruiqi (501) <br>
+Yeo Ke Wei, Chloe (402) <br>
+Eshly Qasrina Binte Mohammad Fadillah (408) <br>
 
 **CCA Training Schedule** <br>
-Wednesdays & Fridays: 3.30pm to 6.30pm
+Wednesdays: 3.45pm to 6.45pm<br>
+Fridays: 2.30pm to 5.30pm
