@@ -3,10 +3,6 @@ title: Staff
 permalink: /resources/staff/
 description: ""
 ---
-
-
-
-
 Timetables
 ----------
 
@@ -35,7 +31,7 @@ MOE Links (Intranet)
 *   [iEXAMS2](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)
 *   [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
-*   [Pac@Gov](https://www.pac.gov.sg/)
+*   [Pac@Gov](https://www.hrp.gov.sg/hrp/#/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
 
