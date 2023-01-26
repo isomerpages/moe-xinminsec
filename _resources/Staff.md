@@ -15,7 +15,6 @@ Quick Links
 -----------
 *   [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
 *   [Commzgate SMS](https://portal.commzgate.com/)
-*   [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
 *   [ICON](https://icon.moe.edu.sg/)
 *   [Google Classroom](https://classroom.google.com/)
 *   [MIMS Portal](http://mims.moe.gov.sg/)  
