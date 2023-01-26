@@ -1521,7 +1521,7 @@ third_nav_title: Our People
         "
       >
         <img
-          src="/images//English%20Language/Sharon%20Ong%20Ling%20Hui.jpeg"
+          src="/images/English%20Language/Sharon%20Ong%20Ling%20Hui.jpeg"
           alt="Sharon Ong Ling Hui.jpg"
           class="ive_eobj_left"
           style="
