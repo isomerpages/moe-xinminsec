@@ -21,7 +21,7 @@ Quick Links
 *   [Parents Gateway](https://xinminsec-moe-edu-sg-admin.cwp.sg/resources/parents/quick-links/parents-gateway)
 *   [Parenting with MOE](https://www.instagram.com/parentingwith.moesg/?hl=en)
 *   [P@X Facebook](https://www.facebook.com/groups/xmsspax/?ref=share)
-*   [schoolbag.sg](http://schoolbag.sg/)
+*   [schoolbag.sg](https://www.schoolbag.edu.sg/)
 
 
 School Resources
