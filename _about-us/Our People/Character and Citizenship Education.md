@@ -441,7 +441,7 @@ third_nav_title: Our People
           style="width: 101px; height: 129px"
           class="ive_eobj_left"
           alt="sl_a_lady.png"
-          src="/qql/slot/u505/School/Our People/Departments/sl_a_lady.png"
+          src="/images/sl_a_lady.png"
         /><br />
       </td>
       <td>
