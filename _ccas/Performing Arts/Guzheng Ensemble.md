@@ -49,7 +49,7 @@ Level IC (Lower Sec):  Chew En Rui Hayden (201)<br>
 **CCA Schedule** <br>
 Mondays & Wednesdays: 3 pm to 7 pm<br>
 Additional practices on Fridays, 2 pm to 4 pm, will be conducted prior to competitions and performances.<br>
-Students may require up to 30 minutes after the end of each session to pack up and debrief.
+
 
 
   
