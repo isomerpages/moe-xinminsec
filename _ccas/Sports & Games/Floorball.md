@@ -29,7 +29,7 @@ Ms Charlene Chan
 
 **Training days** <br>
 Wednesdays : 2 pm - 5:30 pm <br>
-Fridays         : 2:30 pm - 5 pm
+Fridays         : 2:30 pm - 5:30 pm
 
   
 
