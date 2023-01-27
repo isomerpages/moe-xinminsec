@@ -45,5 +45,5 @@ Mr Zhuang Haoyang
   
 
 **CCA Schedule** <br>
-Wednesdays: 3pm to 5.30pm <br>
+Wednesdays: 3:30pm to 5.30pm <br>
 Fridays: 1.30pm\* to 4pm (Timing is subject to change as per course requirements)
