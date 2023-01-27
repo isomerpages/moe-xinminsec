@@ -26,6 +26,13 @@ APW (National 3rd Runner-up)<br>
 APM (National 2nd ) <br>
 ARM (National 3rd) <br>
 
+**Individual Medal**
+<br>
+C Div: ARW ( National Champion, Neo Kah Yin Yvaine, 302)<br>
+C Div: APM (National 3rd, Joshua Chia Ang, 303)<br>
+B Div: APW (National 4th, Lim Wei Xin, 405) <br>
+B Div: APM (National Champion, Andrew Khoo Zhi Cheng, 406)<br>
+
 
   **Teachers-in-charge** <br>
   Ms Norfarhana Abdullah (IC) <br>
