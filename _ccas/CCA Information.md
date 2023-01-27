@@ -57,8 +57,6 @@ Participation
 
 This domain recognises the students’ participation in school-based co-curricular activities (CCA).
 
-  
-
 1.  Every student must participate in at least 1 school-based CCA throughout his/her stay in Xinmin Secondary School.  
     
 2.  A student is allowed to participate in a 2nd school-based CCA if he/she is able to manage the commitments to both CCAs. A student is not allowed to discontinue his/her 1st CCA in lieu of the 2nd CCA should he/she decide to revert to having one CCA.  
