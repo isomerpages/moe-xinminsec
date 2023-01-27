@@ -56,7 +56,7 @@ Other Resources
 *   [Home-based Learning](https://sites.google.com/xinminss.edu.sg/hbl-may2021/home)
 *   [List of Helplines](/resources/parents/other-resources/list-of-helplines)
 *   [Mental Health](/resources/parents/other-resources/mental-health)
-*  [Sexuality Education](/files/Sex%20Education/Sex%20Ed%20Schools%20webpage1.pdf)
+*  [Sexual Education](/files/Sex%20Education/Sex%20Ed%20Schools%20webpage%2027%20Jan%202023.pdf)
 
 
 Admissions
