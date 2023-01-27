@@ -75,7 +75,6 @@ Ms Chua Ai Zhen Kris
 
 **Student EXCO 2020-2021**  
 
-
 | Position  | Name | Class  |
 | -------- | -------- | -------- |
 | Captain     | FONG CHENG JIE ANDRIC     | 401     |
