@@ -22,7 +22,10 @@ Floorball for boys is a new CCA introduced in Xinmin from 2022. It is a fast-pac
 
 Even though the objective of sports is to win, the Xinmin Floorball teachers and coaches believe that it is more important to focus on the students’ character first before focusing on developing the necessary knowledge and skills needed for the game. Under the guidance of Mrs. Shanti Teo, teacher-in-charge and the coach, Coach Ysaac, we aspire to develop the Xinmin Floorball players to be sportsman grounded in good values and with a mindset for excellence. 
 
-  
+**Teachers-in-charge** <br />
+Mrs Shanti Teo<br>
+Ms Charlene Chan 
+
 
 **Training days** <br>
 Wednesdays : 1500 – 1730 <br>
