@@ -28,7 +28,7 @@ Most importantly, English Drama is a place where ideas are shared and friendship
 **Teachers-in-charge**  <br>
 Mdm Norliza Ali (IC) <br>
 Mdm Rebecca Abey <br>
-Ms Sophie Ng Lai San
+Ms Lee Lu May
 
   
 
