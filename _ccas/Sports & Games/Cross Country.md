@@ -28,7 +28,6 @@ Venues : School / Ci Yuan Sports Park / Hougang Stadium / PCN
 **Events** <br>
 Sec 1 Orientation<br>
 Farewell for graduating batch<br>
-Values in Action projects<br>
 Team bonding / Camp
 
   
