@@ -36,7 +36,7 @@ Social Media Support: Audi Airwan 303 , Eshly Qasrina Bte Mohammad Fadillah 307
 
 **CCA Practice Schedule** <br>
 Tuesdays: 4.30pm to 7.30pm <br>
-\*Thursdays: 3.30pm – 5.30pm <br>
+Thursdays: 3.30pm – 5.30pm <br>
 (\*Extra session prior to competitions)
 
 **SOCIAL MEDIA PAGE : @xms.mldds (Instagram)**
