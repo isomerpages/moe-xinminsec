@@ -22,11 +22,8 @@ Alternative Dental Clinic:
 | -------- | -------- | -------- |
 | Yio Chu Kang Primary School<br><br>*Clinic open on every EVEN weeks of the month     | 87645325     | 1 Hougang St 51<br> Singapore 538720     |
 
-
-  
-
-If all the clinics are closed and for an emergency (e.g. Dental Trauma, Facial Swelling or Toothache), please contact Health Promotion Board (School Dental Centre) @ Tel: 6435 3782 for assistance.
-
-  
+If all the clinics are closed and for an emergency (e.g. Dental Trauma, Facial Swelling or Toothache), please contact Health Promotion Board (School Dental Centre) @ Tel: 64353782 for assistance.
 
 Please note that international students and permanent residents will be charged for consultation and treatment at Health Promotion Board.
+
+  
