@@ -110,7 +110,7 @@ This domain recognises the different levels of representation and accomplishment
 | -------- | -------- | -------- | -------- | -------- |
 |   Represented class/house/CCA at intra-school event.   |  Represented school/external organization* at local/international event for 1 year.    | Represented school/external organization* at local/international event for 2 years.     | Represented school/external organization* at local/international event for 3 years or more.     | Represented Singapore Schools at local/international competition. <br><br>Represented National Project of Excellence at local/international event.  <br><br>Represented MOE at local/international event. <br><br>Represented Singapore at international event, sanctioned by relevant bodies. |
 |      |      |      |  Represented UG HQ at international event.    |  Represented UG HQ at international competition.   |
-|      |     |     Represented school/external organization* at local/international event and achieved the following (for 1 year):<br><br>- Top 4 (or its equivalent) team placing.<br>- Top 8 (or its equivalent) individual placing. <br>- Gold/Silver/Bronze award certification (or its equivalent placing).<br>-  SYF Arts Presentation Certificate of Distinction/Accomplishment. | Text     | Text     |
+|      |     |     Represented school/external organization* at local/international event and achieved the following (for 1 year):<br><br>- Top 4 (or its equivalent) team placing.<br><br>- Top 8 (or its equivalent) individual placing. <br><br>- Gold/Silver/Bronze award certification (or its equivalent placing).<br><br>-  SYF Arts Presentation Certificate of Distinction/Accomplishment. | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     |
 
 
