@@ -16,7 +16,17 @@ Under the expert coaching of our professional coaches, to date, we have groomed 
 
 Our shooters have worked hard to achieve good results at the 2022 NSG Shooting Championship. They have done well individually and as a team:
 
-  
+**Team Medal**
+<br>B Div:<br>
+APW (National Champion) <br>
+APM (National 3rd Runner-up)<br>
+
+C Div: <br>
+APW (National 3rd Runner-up)<br>
+APM (National 2nd ) <br>
+ARM (National 3rd) <br>
+
+
   **Teachers-in-charge** <br>
   Ms Norfarhana Abdullah (IC) <br>
   Mr Lionel Foon <br>
