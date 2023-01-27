@@ -46,7 +46,7 @@ Mr Ganesan Selvarathnam (IC) <br>
 
   
 **CCA Schedule** <br>
-Wednesdays: 4 pm to 6 pm <br>
+Wednesdays: 4pm to 6pm <br>
 Fridays: 2.30pm to 6pm
   
 
