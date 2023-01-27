@@ -39,7 +39,7 @@ Our shooters have worked hard to achieve good results at the 2021 NSG Shooting C
   
 
 **B Division (Air Pistol Men)** <br>
-*   Team 11th
+ Team 11th
 
   
 
@@ -68,7 +68,8 @@ Individual 15th – Jamie Yeo Kaixin (405)<br>
 Ms Norfarhana Abdullah (IC)  <br>
 Mr Lionel Foon <br>
 Ms Norhuda Bte Maksum <br>
-Mdm Pok Siok Cheng
+Mr Ang Choon Peng<br>
+Ms Chua Ai Zhen Kris 
 
   
 
