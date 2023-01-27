@@ -22,7 +22,7 @@ Ms Xiao Yanfei
   
 
 **CCA Practice Schedule** <br>
-Tuesdays: 330pm to 530pm  
+Tuesdays: 4pm to 6pm
 
   
 
