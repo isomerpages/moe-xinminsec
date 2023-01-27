@@ -104,9 +104,17 @@ Achievement
 
 This domain recognises the different levels of representation and accomplishment in the students’ involvement in school or other external organisations.
 
-![CCA_Information_Table.jpg](/images/CCAs/CCA%20Information/CCA_Information_Table.jpg)
 
-  
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|   Represented class/house/CCA at intra-school event.   |  Represented school/external organization* at local/international event for 1 year.    | Represented school/external organization* at local/international event for 2 years.     | Represented school/external organization* at local/international event for 3 years or more.     | Represented Singapore Schools at local/international competition. <br><br>Represented National Project of Excellence at local/international event.  <br><br>Represented MOE at local/international event. <br>
+Represented Singapore at international event, sanctioned by relevant bodies.
+     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+
+
 
 \*Representation of external organisations and accomplishment at external events:
 
