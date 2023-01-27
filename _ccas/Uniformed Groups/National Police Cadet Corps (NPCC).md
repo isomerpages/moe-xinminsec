@@ -36,7 +36,6 @@ We take pride in providing ample opportunities to develop our cadets into respon
 
 **Teachers-in-charge** <br>
 Mr Ganesan Selvarathnam (IC) <br>
-Mr Mohamed Firdaus Bin Mohamed Taib
 
   
 
