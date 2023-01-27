@@ -12,8 +12,8 @@ Friday: 8am to 5pm <br>
 Lunch Time: 12.30pm to 1.30pm<br>
 **Telephone: 87643972**
   
+***Note*: *Clinic open on every ODD weeks of the month and subjected to change*
 
-**_\*Note: Clinic operating hours are subject to change_**  
 
   
 
