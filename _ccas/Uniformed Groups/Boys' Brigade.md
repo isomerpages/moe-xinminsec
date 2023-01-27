@@ -23,27 +23,7 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 
 
 
-|  |  |  |
-| -------- | -------- | -------- |
-| Acting Captain     |  LTA Kenric Seah     |
-| Overall Teacher-In-Charge     | Mr Nicholas Choy     |
-| Teacher-In-Charge     | Mr Winston Bay     |
-| Teacher-In-Charge     | Mr Winston Bay     |
-| Officer   | Mr Nicholas Choy     |
-| Officer     | Mr Nicholas Choy     |
-| Officer     | Mr Nicholas Choy     |
-| Officer     | Mr Nicholas Choy     |
-| Adult Volunteer     | Mr Nicholas Choy     |
-| Adult Volunteer     | Mr Nicholas Choy     |
-| Adult Volunteer     | Mr Nicholas Choy     |
-|  Primer (Platoon Commander 1)    | Mr Nicholas Choy     |
-|  Primer (Platoon Commander 1)    | Mr Nicholas Choy     |
-|  Primer (Platoon Commander 2)    | Mr Nicholas Choy     |
-|  Primer (Platoon Commander 2)    | Mr Nicholas Choy     |
-|  Primer (Platoon Commander 3)    | Mr Nicholas Choy     |
-|  Primer (Platoon Commander 3)    | Mr Nicholas Choy     |
-|  Primer    | Mr Nicholas Choy     |
-|  Primer    | Mr Nicholas Choy     |
+
 
 
 
