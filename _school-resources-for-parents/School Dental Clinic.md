@@ -3,15 +3,14 @@ title: School Dental Clinic
 permalink: /resources/parents/school-resources/school-dental-clinic/
 description: ""
 ---
-
 Xinmin Primary School's Dental Clinic also provide Dental Services to the students of Xinmin Secondary School. Please see below for their operating hours:  
 
   
 
 Mondays to Thursday: 8am to 5.30pm <br>
 Friday: 8am to 5pm <br>
-Lunch Time: 12.30pm to 1.30pm
-
+Lunch Time: 12.30pm to 1.30pm<br>
+**Telephone: 87643972**
   
 
 **_\*Note: Clinic operating hours are subject to change_**  
