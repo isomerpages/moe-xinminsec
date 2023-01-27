@@ -38,8 +38,9 @@ B Div: APM (National Champion, Andrew Khoo Zhi Cheng, 406)<br>
   Ms Norfarhana Abdullah (IC) <br>
   Mr Lionel Foon <br>
   Ms Norhuda Bte Maksum <br>
+	Ms Chua Ai Zhen Kris <br>
   Mr Ang Choon Peng<br>
-  Ms Chua Ai Zhen Kris 
+  
   
   **Student EXCO 2020-2021** 
   
