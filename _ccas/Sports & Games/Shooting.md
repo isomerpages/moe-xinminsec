@@ -4,8 +4,7 @@ permalink: /ccas/sports-n-games/shooting/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-    <img style="width: 90%" alt="Shooting" src="/images/Shooting_2021.jpeg">
+<img style="width: 90%" alt="Shooting" src="/images/Shooting_2021.jpeg">
   
   
   <p style="text-align: center">
@@ -424,4 +423,3 @@ third_nav_title: Sports & Games
   
   [How to apply for Direct School
   Admission](/resources/students/admissions/direct-school-admission)
-  
