@@ -6,38 +6,16 @@ third_nav_title: Sports & Games
 ---
 <img style="width: 90%" alt="Shooting" src="/images/Shooting_2021.jpeg">
   
-  
-  <p style="text-align: center">
-    <strong><em>(Students will be required to undergo trials and selections before
-        joining this CCA.)</em></strong>
-  </p>
-  
-  The Xinmin Shooting Team was set up in 2004 to kindle students’ interest in 10m
-  air rifle and air pistol shooting. In shooting, mental fortitude and physical
-  strength are equally important, as the sport demands consistency and precision.
-  Through regular training, our shooters develop concentration and tenacity to
-  overcome their greatest opponent: themselves. To test their abilities, our
-  shooters get to compete in invitational shooting competitions, as well as the
-  coveted annual National School Games Shooting Championship. Under the expert
-  coaching of our professional coaches, to date, we have groomed at least 16
-  Xinmin students who were offered the opportunity to train in the National Youth
-  Team. Our shooters have worked hard to achieve good results at the 2021 NSG
-  Shooting Championship. They have done well individually and as a team: **B
-  Division (Air Pistol Men)** <br>
-  Team 11th **B Division (Air Pistol Women)**<br>
-  Team 5th <br>
-  Individual 12th – Leung Hei Tung (403)<br>
-  Individual 19th – Joy Chia Xuan (302)<br>
-  
-  **B Division (Air Rifle Men)**<br>
-  Team 5th<br>
-  Individual 7th – Bryan Khoo Zhi Ren (303)<br>
-  Individual 20th – Lim Xanthus (401)<br>
-  
-  **B Division (Air Rifle Women)**<br>
-  Team 6th<br>
-  Individual 5th – Ashley Goh Yu Ting (401)<br>
-  Individual 15th – Jamie Yeo Kaixin (405)<br>
+The Xinmin Shooting Team was set up in 2004 to kindle students’ interest in 10m air rifle and air pistol shooting.
+
+In shooting, mental fortitude and physical strength are equally important, as the sport demands consistency and precision. Through regular training, our shooters develop concentration and tenacity to overcome their greatest opponent: themselves.
+
+To test their abilities, our shooters get to compete in invitational shooting competitions, as well as the coveted annual National School Games Shooting Championship.
+
+Under the expert coaching of our professional coaches, to date, we have groomed at least 18 Xinmin students who were offered the opportunity to train in the National Youth Team.
+
+Our shooters have worked hard to achieve good results at the 2022 NSG Shooting Championship. They have done well individually and as a team:
+
   
   **Teachers-in-charge** <br>
   Ms Norfarhana Abdullah (IC) <br>
