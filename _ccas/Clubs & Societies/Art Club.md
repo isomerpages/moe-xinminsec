@@ -40,7 +40,7 @@ Besides these formal learning and sharing sessions, we also seek opportunities t
 **Teachers-in-charge**  <br>
 Mr James Tan Wa-Wa <br>
 Ms Asniza Bte Hassan <br>
-Ms Ho Yu Sin Grace
+Mr Zhuang Haoyang
 
   
 
