@@ -104,7 +104,7 @@ Achievement
 
 This domain recognises the different levels of representation and accomplishment in the students’ involvement in school or other external organisations.
 
-
+![](/images/CCAs/CCA%20Information/Achievements%20table.jpg)
 \*Representation of external organisations and accomplishment at external events:
  
 
