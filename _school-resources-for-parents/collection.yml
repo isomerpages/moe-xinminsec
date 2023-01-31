@@ -1,0 +1,9 @@
+collections:
+  school-resources-for-parents:
+    output: true
+    order:
+      - Booklists.md
+      - Bookshop and Uniform Supplier.md
+      - School Dental Clinic.md
+      - School Rules and Regulations.md
+      - Uniform List & Grooming.md

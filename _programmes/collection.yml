@@ -1,0 +1,12 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Talent Development.md
+      - Coding@Xinmin.md
+      - RefleXions@Xinmin.md
+      - Student Leadership Academy.md
+      - XinminCares.md
+      - Blended Learning.md
+      - Full SBB.md
+      - PDLP.md
