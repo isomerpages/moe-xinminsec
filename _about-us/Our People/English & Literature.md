@@ -1657,7 +1657,7 @@ third_nav_title: Our People
           vertical-align: top;
         "
       >
-        <img
+     <img
           style="
             margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -1665,12 +1665,12 @@ third_nav_title: Our People
             border: none;
             max-width: 100%;
             float: left;
-            width: 109px;
-            height: 139px;
+            width: 113px;
+            height: 143px;
           "
           class="ive_eobj_left"
-          alt="sl_a_gentleman.png"
-          src="/images/sl_a_gentleman.png"
+          alt="ho xin yi angeline.jpg"
+          src="/images/sl_a_lady.png"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1693,7 +1693,7 @@ third_nav_title: Our People
             font-weight: 400;
           "
         >
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr&nbsp;</b
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms&nbsp;</b
           ><span
             style="
               margin: 0px;
