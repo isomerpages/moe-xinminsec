@@ -72,7 +72,6 @@ Ms Low Yan Jin (Boys) <br>
 Mr Elias Loo (‘B’ Division Boys) <br>
 Mr Ang Koon Yong (‘C’ Division Boys) <br>
 Ms Joey Tay (Girls) <br>
-Ms Charlene Chan (‘B’ Division Girls) <br>
 Ms Kline Mildred Michelle (‘C’ Division Girls)
 
   
