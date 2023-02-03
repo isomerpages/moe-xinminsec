@@ -20,13 +20,8 @@ sections:
           url: /resources/staff/
   - infopic:
       title: Announcements
-      button: Click here for latest announcments!
+      button: latest announcements here
       url: /xss/announcements-2022
       image: /images/92f2f98bd_4956.jpeg
       alt: Xinmin Secondary School Logo
 ---
-
-
-
-
-
