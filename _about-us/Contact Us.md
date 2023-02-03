@@ -7,7 +7,7 @@ description: ""
 
   
 
-11 Hougang Avenue 8 <br>
+11 Hougang Avenue 8,<br>
 Singapore 538 789 <br>
 School Code: 3050 <br>
 Tel:(+65) 6288 9382 <br>
