@@ -51,7 +51,7 @@ Mr Lim Kok Chong (IC) <br />
 Ms Anny Roezza Abdul Aziz <br />
 Mdm Annie Tan <br />
 Ms Siaw Pei Shin <br />
-Ms Noor Hafizah **Coaches** <br />
+Ms Noor Hafizah <br><br>**Coaches** <br />
 Mr Wong Shoon Keat (‘B’ Division Coach) <br />
 Mr Hor Chai Hian (‘C’ Division Coach) 
 
