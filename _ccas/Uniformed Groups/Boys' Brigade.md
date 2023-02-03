@@ -33,9 +33,17 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 |  Officer  |   2LT Bernard Soon  | 
 |  Officer  |   2LT Terence Loke   | 
 |  Officer  |   2LT Goh Zuwei   | 
-| Acting Captain     | – LTA Kenric Seah     | 
-| Acting Captain     | – LTA Kenric Seah     | 
-
+| Adult Volunteer    | Mr Liu Hongyou     | 
+| Adult Volunteer     | Mr Marcus Ee     | 
+| Adult Volunteer     | Mr Mendis Tan   | 
+| Primer (Platoon Commander 1)     | CLT Henry Tay  | 
+| Primer (Platoon Commander 1)     | CLT Ryan Lee | 
+| Primer (Platoon Commander 2)     | SCL Wilment Tay  | 
+| Primer (Platoon Commander 2)     | SCL Hiw Zheng Han | 
+| Primer (Platoon Commander 3)     | Mr Kow Jia Liang  | 
+| Primer (Platoon Commander 3)     | CL Fong Yi Shen  | 
+| Primer    | SCL Tea Yan Xin  | 
+| Primer | SCL Zeph Tan| 
 
 
 
