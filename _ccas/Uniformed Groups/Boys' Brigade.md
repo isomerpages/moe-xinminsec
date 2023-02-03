@@ -46,7 +46,6 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 
 **The 2021/2022 BB 45th Council**
 
-
 |  |  | 
 | -------- | -------- | 
 | Company Sergeant Major     | SGT Tan Yong Ding (301)     | 
@@ -54,8 +53,6 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 | Quartermaster    | SGT David Soon (309)    | 
 | Assistant Quartermaster     | SGT Victor Tan (305)     | 
 
-
-<table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 300px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Company Sergeant Major</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Assistant Company Sergeant Major</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Quartermaster</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">Assistant Quartermaster</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">– SGT Tan Yong Ding (301)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">– SGT Hayward Tan (307)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">– SGT David Soon (309)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400;">– SGT Victor Tan (305)</div></td></tr></tbody></table>
 
 **CCA Schedule**
 <br>Fridays:  1:30 pm to 3:45 pm<br>
