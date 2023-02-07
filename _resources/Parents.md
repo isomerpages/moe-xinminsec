@@ -31,6 +31,7 @@ School Resources
 *   [Financial Assistance Scheme](/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
 *   [School Dental Clinic](/resources/parents/school-resources/school-dental-clinic)
 *   [School Rules and Regulations](/resources/parents/school-resources/school-rules/)
+*   [Sexuality Education](/files/Sex%20Education/Sex%20Ed%20Schools%20webpage%2027%20Jan%202023.pdf)
 *   [Uniform List & Grooming](/resources/students/school-resources/attire-n-grooming)
 
 Assessment
@@ -55,7 +56,6 @@ Other Resources
 *   [Home-based Learning](https://sites.google.com/xinminss.edu.sg/hbl-may2021/home)
 *   [List of Helplines](/resources/parents/other-resources/list-of-helplines)
 *   [Mental Health](/resources/parents/other-resources/mental-health)
-*  [Sexual Education](/files/Sex%20Education/Sex%20Ed%20Schools%20webpage%2027%20Jan%202023.pdf)
 
 
 Admissions
