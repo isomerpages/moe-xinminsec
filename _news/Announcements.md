@@ -3,7 +3,7 @@ title: Announcements
 permalink: /xss/announcements-2022/
 description: ""
 ---
-#### Newsletter to Parents (Nov/Dec 2022)
+#### Newsletter to Parents (Term 1 2023)
 
 08 Feb 2023 <br>
 [Read more](/files/Newsletter%20to%20Parents/2023/Xinminss%20Newsletters%20T12023.pdf)
