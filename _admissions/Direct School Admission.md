@@ -40,11 +40,11 @@ All final results will be notified by post to the applicants to inform them of t
 2022 Talent Areas and Criteria
 ------------------------------
 
-[Performing Arts](/files/Performing%20Arts%202022.pdf)
+[Performing Arts](/files/Direct%20School%20Admissions/Performing%20Arts%202022.pdf)
 
-[Sports and Games](/files/Sports%20and%20Games%202022.pdf)
+[Sports and Games](/files/Direct%20School%20Admissions/Sports%20and%20Games%202022.pdf)
 
-[Uniform Groups](/files/UG%202022.pdf) 
+[Uniform Groups](/files/Direct%20School%20Admissions/Uniform%20Groups%202022.pdf)
 
   
 
