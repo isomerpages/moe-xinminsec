@@ -23,6 +23,7 @@ Quick Links
 *   [SCMobile](https://scmobile.moe.edu.sg/login)
 *   [SSOE Portal](https://ssoe2.moe.edu.sg/sp)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+*   [XMSS Media Club Service Request form](https://docs.google.com/forms/d/e/1FAIpQLScWvF2EV-frqUT1dH3xXSyeeYiGlzmA1ArUCo8sYUgERuOljA/viewform?usp=sf_link)
 
 MOE Links (Intranet)
 --------------------
