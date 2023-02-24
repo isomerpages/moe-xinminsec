@@ -1381,8 +1381,8 @@ third_nav_title: Our People
             height: 127px;
           "
           class="ive_eobj_left"
-          alt="Nadrah 1.jpg"
-          src="/images/English Language/Nadrah%201.jpeg"
+          alt="penny_wang.jpg"
+          src="/images/English Language/Penny Wang.jpg"
         /><br style="margin: 0px; outline: 0px; padding: 0px" />
       </td>
       <td
@@ -1406,7 +1406,7 @@ third_nav_title: Our People
           "
         >
           <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Ms Nadhrah Binte Zainalabiden</b
+            >Ms Penny Wang</b
           >
         </div>
         <div
@@ -1473,8 +1473,8 @@ third_nav_title: Our People
                 text-decoration: underline;
               "
               target=""
-              href="mailto:Nadhrah_Zainalabiden@schools.gov.sg"
-              >Nadhrah_Zainalabiden@schools.gov.sg</a
+              href="mailto:penny_wang@schools.gov.sg"
+              >penny_wang@schools.gov.sg</a
             ></span
           >
         </div>
