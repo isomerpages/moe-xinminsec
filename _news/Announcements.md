@@ -6,7 +6,7 @@ description: ""
 #### Secondary 2 Subject Combinations for the 2022 Cohort
 
 19 Mar 2023 <br>
-[Read more]
+[Read more](/xss/announcements/ssc2)
 
 
 
