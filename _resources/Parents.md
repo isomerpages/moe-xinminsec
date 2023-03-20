@@ -31,7 +31,7 @@ School Resources
 *   [Financial Assistance Scheme](/xss/announcements/2023-financial-assistance-scheme-with-revised-income-criteria)
 *   [School Dental Clinic](/resources/parents/school-resources/school-dental-clinic)
 *   [School Rules and Regulations](/resources/parents/school-resources/school-rules/)
-*   [Sexuality Education](/files/Sex%20Education/Sex%20Ed%20Schools%20webpage%2027%20Jan%202023.pdf)
+*   [Sexuality Education in Schools](/files/Sexuality%20Education%20in%20Schools/Sexuality%20Education%20in%20Schools%2017%20March%202023.pdf)
 *   [Uniform List & Grooming](/resources/students/school-resources/attire-n-grooming)
 
 Assessment
