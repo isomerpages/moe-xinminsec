@@ -45,7 +45,7 @@ Assessment
 
 Newsletters
 -----------
-
+*   [2023](/resources/parents/newsletters/2023)
 *   [2022](/resources/parents/newsletters/2022)
 *   [2021](/resources/parents/newsletters/2021)
 
