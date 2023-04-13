@@ -6,7 +6,7 @@ description: ""
 #### Reflection Theater Booking Form
 
 13 Apr 2023 <br>
-[Read more](/xss/announcements/ssc2)
+[Read more](/files/Reflection%20Theatre/rt%20booking%20form.pdf)
 
 
 #### Secondary 2 Subject Combinations for the 2022 Cohort
