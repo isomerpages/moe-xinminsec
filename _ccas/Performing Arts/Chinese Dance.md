@@ -417,8 +417,9 @@ _Students may require up to 20 minutes after end of session to clean the dance r
   
 
 **CCA Achievement** <br>
-Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2019<br>
-Attained Certificate of Distinction and Certificate of Accomplishment in Singapore Youth Festival (SYF) 2021
+* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2019<br>
+* Attained Certificate of Distinction and Certificate of Accomplishment in Singapore Youth Festival (SYF) 2021<br>
+* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2023 
 
 
   
