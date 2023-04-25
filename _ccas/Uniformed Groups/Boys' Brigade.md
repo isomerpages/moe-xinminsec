@@ -55,6 +55,10 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 <br>Fridays:  1:30 pm to 3:45 pm<br>
 Saturdays: 7:30 am to 12:30 pm
 
+**CCA Achievement**<br>
+JM Fraser Award for Excellence (Year of Assessment 2022) – High Distinction <br>
+Character Quest 2022 – 5th position<br>
+BB Blaze 2023 – 8th position <br>
 
 
 [How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
