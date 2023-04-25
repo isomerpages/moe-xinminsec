@@ -40,11 +40,8 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 | Primer (Platoon Commander 3)     | SCL Henry Tay  | 
 | Primer (Platoon Commander 3)     | CLT David Soon  | 
 | Primer (Platoon Commander 4)     | Mr Kow Jia Liang  | 
-| Primer    | SCL Tea Yan Xin  | 
-| Primer | SCL Zeph Tan| 
 
-
-**The 2021/2022 BB 45th Council**
+**The 2022/2023 BB 45th Council**
 
 |  |  | 
 | -------- | -------- | 
