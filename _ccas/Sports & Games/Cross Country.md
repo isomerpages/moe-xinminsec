@@ -45,7 +45,7 @@ Team bonding / Camp
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.6pt" valign="top" nowrap="" width="183"><p class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Team Manager</span></b></p></td><td style="width:137.0pt;border:solid windowtext 1.0pt;
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.6pt" valign="top" nowrap="" width="183"><p class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">IT heads</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:18.85pt"><td style="width:58.0pt;border:solid windowtext 1.0pt;
+  color:black">IT Head</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:18.85pt"><td style="width:58.0pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:18.85pt" valign="top" nowrap="" width="77"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black">2023</span></p></td><td style="width:137.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
