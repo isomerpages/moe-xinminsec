@@ -12,6 +12,7 @@ img {
 }  
 </style>  
 <img src="/images/floorball.jpeg" alt="Floorball" style="width:90%;">  
+![](/images/CCAs/Floorball/floorball_2.jpg)
   
 
   
