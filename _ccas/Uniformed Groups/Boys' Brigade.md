@@ -23,7 +23,7 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 
 |  |  | 
 | -------- | -------- | 
-| Acting Captain     | LTA Kenric Seah     | 
+| Captain     | LTA Kenric Seah     | 
 | Teacher-In-Charge    |   Mr Winston Bay | 
 | Teacher-In-Charge    | Ms Tiffany Lim    | 
 |  Officer  |   2LT Bernard Soon  | 
