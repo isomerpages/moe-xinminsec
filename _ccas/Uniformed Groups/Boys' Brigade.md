@@ -26,10 +26,9 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 | Acting Captain     | LTA Kenric Seah     | 
 | Teacher-In-Charge    |   Mr Winston Bay | 
 | Teacher-In-Charge    | Ms Tiffany Lim    | 
-|  Officer  |  LTA Bay Qin Yao   | 
 |  Officer  |   2LT Bernard Soon  | 
 |  Officer  |   2LT Terence Loke   | 
-|  Officer  |   2LT Goh Zuwei   | 
+|  Officer  |   2LT  Nelson Fong | 
 | Adult Volunteer    | Mr Liu Hongyou     | 
 | Adult Volunteer     | Mr Marcus Ee     | 
 | Adult Volunteer     | Mr Mendis Tan   | 
