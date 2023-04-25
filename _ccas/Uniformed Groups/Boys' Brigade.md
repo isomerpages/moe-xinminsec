@@ -33,12 +33,13 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 | Adult Volunteer    | Mr Liu Hongyou     | 
 | Adult Volunteer     | Mr Marcus Ee     | 
 | Adult Volunteer     | Mr Tea Yan Xin  | 
-| Primer (Platoon Commander 1)     | CLT Henry Tay  | 
-| Primer (Platoon Commander 1)     | CLT Ryan Lee | 
-| Primer (Platoon Commander 2)     | SCL Wilment Tay  | 
-| Primer (Platoon Commander 2)     | SCL Hiw Zheng Han | 
-| Primer (Platoon Commander 3)     | Mr Kow Jia Liang  | 
-| Primer (Platoon Commander 3)     | CL Fong Yi Shen  | 
+| Primer (Platoon Commander 1)     | CLT Zavier Phoo  | 
+| Primer (Platoon Commander 1)     | CLT Lee Jia Heng | 
+| Primer (Platoon Commander 2)     | SCL Lenox Lim  | 
+| Primer (Platoon Commander 2)     | SCL Hayward Tan | 
+| Primer (Platoon Commander 3)     | SCL Henry Tay  | 
+| Primer (Platoon Commander 3)     | CLT David Soon  | 
+| Primer (Platoon Commander 4)     | Mr Kow Jia Liang  | 
 | Primer    | SCL Tea Yan Xin  | 
 | Primer | SCL Zeph Tan| 
 
