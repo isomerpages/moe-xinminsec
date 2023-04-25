@@ -45,10 +45,10 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 
 |  |  | 
 | -------- | -------- | 
-| Company Sergeant Major     | SGT Tan Yong Ding (301)     | 
-| Assistant Company Sergeant Major     | SGT Hayward Tan (307)    | 
-| Quartermaster    | SGT David Soon (309)    | 
-| Assistant Quartermaster     | SGT Victor Tan (305)     | 
+| Company Sergeant Major     | WO Saw Yu Xi Owen (404)     | 
+| Assistant Company Sergeant Major     | SSG Ngang Xue Jian (402)    | 
+| Quartermaster    | WO Brayden Chong (409)   | 
+| Assistant Quartermaster     | SSG Zave Wee (402)    | 
 
 
 **CCA Schedule**
