@@ -59,7 +59,7 @@ Team bonding / Camp
   color:black">Gabrielle Tey 206</span></p></td><td style="width:137.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:18.85pt" valign="top" width="183"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Hanley Goh 302<br>Ong Joon Jae 204</span></p></td></tr></tbody></table>
+  color:black">Janelle Li 204</span></p></td></tr></tbody></table>
 
 
   
