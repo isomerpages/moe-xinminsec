@@ -29,9 +29,10 @@ The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discip
 |  Officer  |   2LT Bernard Soon  | 
 |  Officer  |   2LT Terence Loke   | 
 |  Officer  |   2LT  Nelson Fong | 
+|  Officer  |   2LT  John Low | 
 | Adult Volunteer    | Mr Liu Hongyou     | 
 | Adult Volunteer     | Mr Marcus Ee     | 
-| Adult Volunteer     | Mr Mendis Tan   | 
+| Adult Volunteer     | Mr Tea Yan Xin  | 
 | Primer (Platoon Commander 1)     | CLT Henry Tay  | 
 | Primer (Platoon Commander 1)     | CLT Ryan Lee | 
 | Primer (Platoon Commander 2)     | SCL Wilment Tay  | 
