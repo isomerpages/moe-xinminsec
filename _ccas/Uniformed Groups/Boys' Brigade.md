@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/BB.jpeg" alt="Boys' Brigade" style="width:90%;">  
+<img src="/images/BB.jpeg" alt="Boys' Brigade" style="width:90%;">  
   
-</body>
+
 
 The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discipline and self-respect through engaging boys in adventure and various badge-work activities such as kayaking, navigation and drills. Boys also learn important life skills such as first aid and field cooking. Most importantly, the values of caring for others and serving the community are also emphasized as the boys are given leadership roles and take on active roles to mentor and guide their juniors.
 
