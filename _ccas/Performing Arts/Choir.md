@@ -48,7 +48,10 @@ Fridays: 2pm to 5pm <br>
 Extra sectional practices will be conducted prior to competitions and performances.
 
 **CCA Achievement** <br>
-Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017
+Singapore Youth Festival (SYF) 2017 – Certificate of Distinction<br>
+Singapore Youth Festival (SYF) 2019 – Certificate of Distinction<br>
+Singapore Youth Festival (SYF) 2023 – Certificate of Distinction<br>
+
 
 <p style="text-align:center;"> <strong>SYF 2019</strong></p>
 
