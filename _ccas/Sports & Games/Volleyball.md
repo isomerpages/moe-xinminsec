@@ -98,10 +98,9 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 
 | B Boys | |
 | -------- | -------- |
-| Co-Captain     |  Alisha Durra (308)    | 
-| Co-Captain     | Shreyen Ooi (304)   | 
-| Co-Captain     | Ng Gwek Teng (301   | 
-|   Publicity Head   |   Joey Tan Joo Yee (308)  | 
+| Co-Captain     |  Lee Jia Jun (301)     | 
+| Co-Captain     | Choong Kang Rui (304)   | 
+|   Publicity Head   |   Neo Zhi Kai, Jovan (305)  | 
 
   
 
