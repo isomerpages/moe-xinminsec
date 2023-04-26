@@ -56,8 +56,11 @@ Mr Wong Shoon Keat (‘B’ Division Coach) <br>
 Mr Hor Chai Hian (‘C’ Division Coach) 
 
 **Student Committee 2023** <br>
-‘B’ Division Captains: D' anna Thong Kai Leng (402)<br>
-‘B’ Division Vice-Captains: Chua Yang Ni (404)
+‘B’ Division Captains: LIM EN QI (301)<br>
+‘B’ Division Vice-Captains: FONG JIA QI (303)<br>
+‘C’ Division Captains: VENUS TAY YU XI (205)<br>
+‘C’ Division Vice-Captains: NG XI YUAN, SYLVIE (204)<br>
+
 
 **CCA Schedule**<br>
  **Odd Week**
