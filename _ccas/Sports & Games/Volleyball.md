@@ -88,6 +88,20 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 |   Publicity Head   |    Evan Lee Yee Fan (201) | 
 
 
+| B Girls | |
+| -------- | -------- |
+| Co-Captain     |  Alisha Durra (308)    | 
+| Co-Captain     | Shreyen Ooi (304)   | 
+| Co-Captain     | Ng Gwek Teng (301   | 
+|   Publicity Head   |   Joey Tan Joo Yee (308)  | 
+
+
+| B Boys | |
+| -------- | -------- |
+| Co-Captain     |  Alisha Durra (308)    | 
+| Co-Captain     | Shreyen Ooi (304)   | 
+| Co-Captain     | Ng Gwek Teng (301   | 
+|   Publicity Head   |   Joey Tan Joo Yee (308)  | 
 
   
 
