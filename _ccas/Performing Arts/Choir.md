@@ -44,7 +44,7 @@ Mr Tau Jun Hui
 **CCA Schedule** <br>
 Wednesdays: 3:30pm to 6pm&nbsp; <br>
 Fridays: 2pm to 5pm <br>
-Extra sectional practices will be conducted prior to competitions and performances.
+Extra sectional practices may be conducted prior to competitions and performances.
 
 **CCA Achievement** <br>
 Singapore Youth Festival (SYF) 2017 – Certificate of Distinction<br>
