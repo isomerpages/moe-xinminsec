@@ -104,10 +104,8 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 
   
 
-**CCA Practice Schedule**  
-**_\*Training and Friendly Games when necessary_**
 
-**CCA Practice Schedule** **_\*Training and Friendly Games when necessary_**
+**CCA Practice Schedule** <br>**_\*Training and Friendly Games when necessary_**
 <table style="margin: 0px;
     outline: 0px;
     padding: 0px;
