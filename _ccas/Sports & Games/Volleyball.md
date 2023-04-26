@@ -219,8 +219,6 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
   background:gray;mso-background-themecolor:background1;mso-background-themeshade:
   128;padding:0cm 0cm 0cm 0cm;height:20.7pt" valign="top" width="78"></td></tr></tbody></table>
 
-[How to apply for Direct School
-Admission](/resources/students/admissions/direct-school-admission)
 
 
 [How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
