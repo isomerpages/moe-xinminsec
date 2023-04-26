@@ -73,11 +73,10 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 **Student Committee 2023**  
 | C Girls | |
 | -------- | -------- |
-| Captain     | Sim Wei Xuan, Jamie (205)     | 
-| Vice-Captain     |  Lim Han Xuan Trisha (207)    | 
-| Vice-Captain     |   Everlyn Lim Beng Been (205)   | 
-|   Publicity Head   |   Goh Zi Xuan, Mathilda (205)   | 
-
+| Captain     |   Sim Wei Xuan, Jamie (205)  | 
+| Vice-Captain     |    Lim Han Xuan Trisha (207)   | 
+| Vice-Captain     |    Everlyn Lim Beng Been (205) | 
+|   Publicity Head   |    Goh Zi Xuan, Mathilda (205), | 
 <br>
 
 | C Boys | |
