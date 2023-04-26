@@ -107,11 +107,5 @@ img {
 }  
 </style>  
 <img src="/images/CCAs/Choir/2020/syf_ndp_2020.png" alt="Choir SYF x NDP 2020" style="width:90%;">   
-![](/images/CCAs/Choir/2020/syf_ndp_2020.png)
-
-
-  
-
-QR code to “Be The Light” music video on YouTube
-
+ 
 [How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
