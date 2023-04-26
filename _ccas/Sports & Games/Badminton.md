@@ -45,13 +45,12 @@ Instagram&nbsp;**@xms.badminton** _\*NSG Badminton Championships are cancelled f
 **2021 Achievements** <br>
 **NSG Badminton Championships (North Zone) 2021:** <br>* ‘B’ Division Girls –
 3rd 
-
 **Teachers-in-charge** <br>
 Mr Lim Kok Chong (IC) <br>
 Ms Anny Roezza Abdul Aziz <br>
 Mdm Annie Tan <br>
 Ms Siaw Pei Shin <br>
-Ms Noor Hafizah <br><br>
+Ms Noor Hafizah <br>
 
 **Coaches** <br>
 Mr Wong Shoon Keat (‘B’ Division Coach)<br>
