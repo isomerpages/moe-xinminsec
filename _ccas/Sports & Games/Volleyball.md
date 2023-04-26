@@ -70,7 +70,6 @@ Ms Joey Tay (Girls) <br>
 Ms Kline Mildred Michelle (‘C’ Division Girls)
 
   
-
 **Student Committee 2023**  
 | C Girls | |
 | -------- | -------- |
