@@ -28,43 +28,39 @@ Follow us on&nbsp;**Instagram @xmsvolleyball**&nbsp;
 
 **Achievements for 2019** <br>
 North Zone Inter-school Volleyball Championship 2019: <br>
-• B Div Boys: 2nd <br>
-• B Div Girls: 2nd <br>
-• C Div Boys: 3rd <br>
-• C Div Girls: 1st
-
-  
+B Div Boys: 2nd <br>
+B Div Girls: 2nd <br>
+C Div Boys: 3rd <br>
+C Div Girls: 1st
 
 National Inter-school Volleyball Championship 2019: <br>
-• B Div Boys: Top 8 <br>
-• B Div Girls: 4th position <br>
-• C Div Boys: Top 16 <br>
-• C Div Girls: Top 8
-
+B Div Boys: Top 8 <br>
+B Div Girls: 4th position <br>
+C Div Boys: Top 16 <br>
+C Div Girls: Top 8
   
 
 **Achievements for 2021** <br>
 North Zone Inter-school Volleyball Championship 2021: <br>
-• B Div Boys: Top 8 <br>
-• B Div Girls: 1st <br>
+B Div Boys: Top 8 <br>
+B Div Girls: 1st <br>
 \*National B Division and C Division cancelled in view of Covid-19 situation
 
   
 
 **Achievements for 2022** <br>
 North Zone Inter-school Volleyball Championship 2022: <br>
-• B Div Boys: Top 8 <br>
-• B Div Girls: 1st <br>
-• C Div Boys: 2nd <br>
-• C Div Girls: 1st
-
-  
+B Div Boys: Top 8 <br>
+B Div Girls: 1st <br>
+C Div Boys: 2nd <br>
+C Div Girls: 1st
 
 National Inter-school Volleyball Championship 2022: <br>
-• C Div Boys: Top 16 <br>
-• C Div Girls: 4th
+C Div Boys: Top 16 <br>
+C Div Girls: 4th
 
-  
+**Achievements for 2023** <br>
+B Div Girls: Top 16
 
 **Teachers-in-charge** <br>
 Ms Low Yan Jin (Boys) <br>
