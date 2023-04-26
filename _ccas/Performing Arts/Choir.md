@@ -83,7 +83,7 @@ img {
   
 
 
-<p style="text-align:center;"> <strong>Limelight@Esplanade</strong></p>
+<p style="text-align:center;"> <strong>SuperNova 2022 @Reflections Theatre, Xinmin Creative Arts Complex</strong></p>
 
 <style>  
 img {  
@@ -92,7 +92,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/limelight2019.jpeg" alt="Choir Limelight@Esplanade" style="width:90%;">  
+<img src="/images/CCAs/Choir/2022/supernova_2022.jpg" alt="Choir Limelight@Esplanade" style="width:90%;">  
   
 
 
@@ -106,8 +106,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/te.png" alt="Choir SYF x NDP 2020" style="width:90%;">  
-  
+<img src="/images/CCAs/Choir/2022/supernova_2022.jpg" alt="Choir SYF x NDP 2020" style="width:90%;">   
 
 
   
