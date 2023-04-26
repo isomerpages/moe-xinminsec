@@ -53,7 +53,7 @@ Singapore Youth Festival (SYF) 2019 – Certificate of Distinction<br>
 Singapore Youth Festival (SYF) 2023 – Certificate of Distinction<br>
 
 
-<p style="text-align:center;"> <strong>SYF 2019</strong></p>
+<p style="text-align:center;"> <strong>Singapore Youth Festival (SYF) Arts Presentation 2023</strong></p>
 
 <style>  
 img {  
