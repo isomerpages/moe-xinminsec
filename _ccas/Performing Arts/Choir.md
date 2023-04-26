@@ -106,7 +106,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/CCAs/Choir/2022/supernova_2022.jpg" alt="Choir SYF x NDP 2020" style="width:90%;">   
+<img src="/images/CCAs/Choir/2020/syf_ndp_2020.png" alt="Choir SYF x NDP 2020" style="width:90%;">   
+![](/images/CCAs/Choir/2020/syf_ndp_2020.png)
 
 
   
