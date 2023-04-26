@@ -64,7 +64,8 @@ img {
 </style>  
 <img src="/images/CCAs/Choir/2023/syf_choir_2023.jpg" alt="Choir SYF 2019" style="width:90%;">  
 <br>
-<img src="/images/CCAs/Choir/2023/syf_choir_2023.jpg" alt="Choir SYF 2019" style="width:90%;">  
+<img src="/images/CCAs/Choir/2023/syf%20choir%202023_2.jpg" alt="Choir SYF 2019" style="width:90%;">  
+![](/images/CCAs/Choir/2023/syf%20choir%202023_2.jpg)
   
 
 
