@@ -105,7 +105,7 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 
 
 **CCA Practice Schedule** <br>**_\*Training and Friendly Games when necessary_**
-
+![](/images/CCAs/Volleyball/volleyball%20table.JPG)
 
 
 [How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
