@@ -73,10 +73,10 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 **Student Committee 2023**  
 | C Girls | |
 | -------- | -------- |
-| Captain     |   Timothy Lim Sheuan Horng (208)   | 
-| Vice-Captain     |    Swee Wee Herng Jeroy   | 
-| Vice-Captain     |    Tan Woo Yew Samuel (208)  | 
-|   Publicity Head   |    Evan Lee Yee Fan (201) | 
+| Captain     |   Sim Wei Xuan, Jamie (205)  | 
+| Vice-Captain     |    Lim Han Xuan Trisha (207)   | 
+| Vice-Captain     |    Everlyn Lim Beng Been (205) | 
+|   Publicity Head   |    Goh Zi Xuan, Mathilda (205), | 
 <br>
 
 | C Boys | |
