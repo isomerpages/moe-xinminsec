@@ -94,8 +94,7 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 
 | B Boys | |
 | -------- | -------- |
-| Co-Captain     |  Lee Jia Jun (301)     | 
-| Co-Captain     | Choong Kang Rui (304)   | 
+| Co-Captains     |  Lee Jia Jun (301)  &amp; Choong Kang Rui (304)  | 
 |   Publicity Head   |   Neo Zhi Kai, Jovan (305)  | 
 
   
