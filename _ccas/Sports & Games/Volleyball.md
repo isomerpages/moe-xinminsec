@@ -88,9 +88,7 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 
 | B Girls | |
 | -------- | -------- |
-| Co-Captain     |  Alisha Durra (308)    | 
-| Co-Captain     | Shreyen Ooi (304)   | 
-| Co-Captain     | Ng Gwek Teng (301   | 
+| Co-Captains     |  Ng Gwek Teng (301), Shreyen Ooi (304), Alisha Durra (308)    | 
 |   Publicity Head   |   Joey Tan Joo Yee (308)  | 
 
 
