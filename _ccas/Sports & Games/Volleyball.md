@@ -75,31 +75,26 @@ Ms Kline Mildred Michelle (‘C’ Division Girls)
 | C Girls | | |
 | -------- | -------- |- |
 | Captain     | Sim Wei Xuan, Jamie (205)     |     |
-| Vice-Captain     | Lim Han Xuan Trisha (207)   |     |
-| Vice-Captain     | Everlyn Lim Beng Been (205)    |     |
+| Vice-Captains     | Lim Han Xuan Trisha (207), Everlyn Lim Beng Been (205)    |     |
 | Publicity Head    | Goh Zi Xuan, Mathilda (205)  |     |
 
 
 | C Boys | |
 | -------- | -------- |
 | Captain     |   Timothy Lim Sheuan Horng (208)   | 
-| Vice-Captain     |    Swee Wee Herng Jeroy   | 
-| Vice-Captain     |    Tan Woo Yew Samuel (208)  | 
+| Vice-Captains     |    Swee Wee Herng Jeroy &amp;  Tan Woo Yew Samuel (208)  | 
 |   Publicity Head   |    Evan Lee Yee Fan (201) | 
 
 
 | B Girls | |
 | -------- | -------- |
-| Co-Captain     |  Alisha Durra (308)    | 
-| Co-Captain     | Shreyen Ooi (304)   | 
-| Co-Captain     | Ng Gwek Teng (301   | 
+| Co-Captains     |  Ng Gwek Teng (301), Shreyen Ooi (304), Alisha Durra (308)    | 
 |   Publicity Head   |   Joey Tan Joo Yee (308)  | 
 
 
 | B Boys | |
 | -------- | -------- |
-| Co-Captain     |  Lee Jia Jun (301)     | 
-| Co-Captain     | Choong Kang Rui (304)   | 
+| Co-Captains     |  Lee Jia Jun (301)  &amp; Choong Kang Rui (304)  | 
 |   Publicity Head   |   Neo Zhi Kai, Jovan (305)  | 
 
   
