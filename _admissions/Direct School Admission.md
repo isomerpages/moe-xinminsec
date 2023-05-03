@@ -40,6 +40,6 @@ All final results will be notified by post to the applicants to inform them of t
 
 [Performing Arts](/files/Direct%20School%20Admissions/performing%20arts%202023.pdf) <br>
 [Sports and Games](/files/Direct%20School%20Admissions/sports%20and%20games%202023.pdf)<br>
-[Uniform Groups](/files/Direct%20School%20Admissions/uniform%20groups_2023.pdf)
+[Uniformed Groups](/files/Direct%20School%20Admissions/uniform%20groups_2023.pdf)
 
 [How to apply](https://www.moe.gov.sg/secondary/dsa/application)
