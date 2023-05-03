@@ -38,12 +38,8 @@ All final results will be notified by post to the applicants to inform them of t
 2023 Talent Areas and Criteria
 ------------------------------
 
-[Performing Arts](/files/Direct%20School%20Admissions/performing%20arts%202023.pdf)
-
-[Sports and Games](/files/Direct%20School%20Admissions/sports%20and%20games%202023.pdf)
-
+[Performing Arts](/files/Direct%20School%20Admissions/performing%20arts%202023.pdf) <br>
+[Sports and Games](/files/Direct%20School%20Admissions/sports%20and%20games%202023.pdf)<br>
 [Uniform Groups](/files/Direct%20School%20Admissions/uniform%20groups_2023.pdf)
 
-  
-
-[How to apply](/resources/students/admissions/direct-school-admission)
+[How to apply](https://www.moe.gov.sg/secondary/dsa/application)
