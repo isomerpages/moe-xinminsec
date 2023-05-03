@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /resources/students/admissions/direct-school-admission/
 description: ""
 ---
-Under the Direct School Admission Exercise, students with exceptional talents listed below may be considered for direct entry to Xinmin Secondary School for the Secondary 1 cohort of 2023.
+Under the Direct School Admission Exercise, students with exceptional talents listed below may be considered for direct entry to Xinmin Secondary School for the Secondary 1 cohort of 2024.
 
   
 
@@ -24,7 +24,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 
   
 
-The application is free-of-charge and will be open from 5 May 2022, 11 am to 1 Jun 2022, 3 pm. For more details, please refer to MOE website - [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
+The application is free-of-charge and will be open from 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023.  . For more details, please refer to MOE website - [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
 Results of Application
 ----------------------
