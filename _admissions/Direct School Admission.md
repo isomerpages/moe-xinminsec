@@ -24,7 +24,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 
   
 
-The application is free-of-charge and will be open from 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023.  . For more details, please refer to MOE website -&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
+The application is free-of-charge and will be open from 11am on Thursday, 4 May 2023 to 3pm on Wednesday, 31 May 2023. <br> For more details, please refer to MOE website -&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
 Results of Application
 ----------------------
