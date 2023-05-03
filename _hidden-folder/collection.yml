@@ -2,5 +2,6 @@ collections:
   hidden-folder:
     output: true
     order:
+      - Publications.md
       - Press.md
       - Cognitive.md
