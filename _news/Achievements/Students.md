@@ -6,5 +6,5 @@ third_nav_title: Achievements
 ---
 ### [Aesthetics](/news/achievements/students/aesthetics/)
 ### [Physical](/news/achievements/students/physical/)
-### [Student Leadership, Social & Moral Domain](/news/achievements/students/student-leadership-social-n-moral-domain/)
+### [Student Leadership, Social & Moral Domain](/news/achievements/students/student-leadership/)
 ### [Social & Moral Domain](/news/achievements/students/socialnmoral/)
