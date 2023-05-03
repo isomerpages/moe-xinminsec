@@ -1,0 +1,4 @@
+collections:
+  hidden-folder:
+    output: true
+    order: []
