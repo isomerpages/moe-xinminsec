@@ -35,7 +35,7 @@ All final results will be notified by post to the applicants to inform them of t
 (ii) Wait List (WL), <br>
 (iii) Unsuccessful.
 
-2022 Talent Areas and Criteria
+2023 Talent Areas and Criteria
 ------------------------------
 
 [Performing Arts](/files/Direct%20School%20Admissions/performing%20arts%202023.pdf)
