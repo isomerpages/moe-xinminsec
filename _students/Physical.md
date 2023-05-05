@@ -3,17 +3,12 @@ title: Physical
 permalink: /news/achievements/students/physical/
 description: ""
 ---
-
-
-
 <style type="text/css">
 
 .auto-style1 {
 	text-decoration: underline;
 }
 </style>
-
-
 
 <table style="margin: 0px;
     outline: 0px;
@@ -237,7 +232,7 @@ description: ""
               font-size: 17px;
               font-weight: 400;
               text-align: left;">
-            <span style="margin: 0px; outline: 0px; padding: 0px">B Division Boys – Champions&nbsp; &nbsp;</span> <br>Andrew Khoo Zhi Cheng (406) – Individual Champion<br><br> Teo Kai Jie 
+            <span style="margin: 0px; outline: 0px; padding: 0px">B Division Boys – Champions&nbsp; &nbsp;</span> <br>Andrew Khoo Zhi Cheng (406) – Individual Champion<br> Teo Kai Jie 
 			  Davion (402) – 4th in Individual Category <br><br>
         <span style="outline: 0px;">
             <span style="margin: 0px; outline: 0px; padding: 0px">B Division Girls – 5</span><sup style="margin: 0px; outline: 0px; padding: 0px">th</sup><span style="margin: 0px; outline: 0px; padding: 0px">&nbsp; &nbsp; <br>Angie Wong En Qi (401) – 6th in Individual 
