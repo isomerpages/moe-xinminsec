@@ -98,12 +98,7 @@ description: ""
           padding: 2px;
           text-align: center;
           border: 1px solid rgb(170, 170, 170);">
-        <p style="margin: 0px 0px 10px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            text-align: left;">
-          Uniformed Groups Company Recognition</p>
+       <p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: left;">Uniformed Groups Company Recognition)</p>
       </td>
       <td width="372" style="margin: 0px;
           outline: 0px;
