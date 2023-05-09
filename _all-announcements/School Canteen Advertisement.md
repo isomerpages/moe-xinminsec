@@ -21,7 +21,7 @@ description: ""
 * List of proposed menu and pricing for all items<br>
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc<br>
 
-3. Submit the completed application form and documents by closing date to the School's General Office.
+3) Submit the completed application form and documents by closing date to the School's General Office.
 
 * Address: Xinmin Secondary School
 * Contact No: 6288 9382
