@@ -3,6 +3,10 @@ title: Announcements
 permalink: /xss/announcements-2022/
 description: ""
 ---
+#### School Canteen Advertisement
+09 May 2023 <br>
+[Read more](/all-announcements/school-canteen-ads/)
+
 #### Reflection Theater Booking Form
 
 13 Apr 2023 <br>
