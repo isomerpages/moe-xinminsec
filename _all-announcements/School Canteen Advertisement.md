@@ -10,7 +10,7 @@ description: ""
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-
+[Application Form](/files/Announcements/School%20Canteen%20Advertisement/application%20form-%20bf7%20(2018).pdf)
 
 
 2. Attached the following documents together with the application form:
