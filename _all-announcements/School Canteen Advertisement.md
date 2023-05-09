@@ -9,8 +9,7 @@ description: ""
 
 **Application Procedure**
 <br>
-1.Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-
+1.Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 [Application Form](/files/Announcements/School%20Canteen%20Advertisement/application%20form-%20bf7%20(2018).pdf)
 
 
