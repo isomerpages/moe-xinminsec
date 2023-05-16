@@ -22,6 +22,6 @@ sections:
       title: Announcements
       button: latest announcements here
       url: /xss/announcements-2022
-      image: /images/Announcement Front Images/homecoming_draft2.jpg
+      image: /images/92f2f98bd_4956.jpeg
       alt: Xinmin Secondary School Logo
 ---
