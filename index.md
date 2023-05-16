@@ -24,7 +24,4 @@ sections:
       url: /xss/announcements-2022
       image: /images/92f2f98bd_4956.jpeg
       alt: Xinmin Secondary School Logo
-  - resources:
-      title: Announcements
-      button: All Announcements
 ---
