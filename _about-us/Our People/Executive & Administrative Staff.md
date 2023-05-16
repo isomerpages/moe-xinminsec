@@ -1029,7 +1029,7 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 122px;" class="ive_eobj_left" alt="Aryani Bte Abdul Rahman.jpg" src="/images/EAS/Aryani%20Bte%20Abdul%20Rahman.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 122px;" class="ive_eobj_left" alt="Aryani Bte Abdul Rahman.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
