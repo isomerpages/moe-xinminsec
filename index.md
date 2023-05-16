@@ -26,6 +26,5 @@ sections:
       alt: Xinmin Secondary School Logo
   - resources:
       title: Test1
-      subtitle: Test1
       button: Resources Button Name
 ---
