@@ -8,7 +8,7 @@ description: ""
 
 | Type of Stall | Closing Date  | Requirements |
 | -------- | -------- | -------- |
-| Chicken Rice Stall     | 15 June 2023      | Nil     |
+| Chicken Rice Stall     | 14 June 2023      | Nil     |
 
 **Application Procedure**
 <br>
