@@ -25,7 +25,7 @@ sections:
       image: /images/92f2f98bd_4956.jpeg
       alt: Xinmin Secondary School Logo
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      title: Test1
+      subtitle: Test1
       button: Resources Button Name
 ---
