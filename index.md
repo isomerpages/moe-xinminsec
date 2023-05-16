@@ -24,4 +24,11 @@ sections:
       url: /xss/announcements-2022
       image: /images/92f2f98bd_4956.jpeg
       alt: Xinmin Secondary School Logo
+  - infopic:
+      title: XMS Homecoming 2023
+      subtitle: Notice
+      button: Read more
+      url: www.google.com
+      image: /images/Announcement Front Images/xms_homecoming_draft1.jpg
+      alt: Image alt text
 ---
