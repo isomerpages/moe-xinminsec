@@ -31,7 +31,7 @@ sections:
       image: /images/Announcement Front Images/xms_homecoming_draft1.jpg
       alt: Image alt text
   - infopic:
-      title: First Lego Competition
+      title: First LEGO Collectible
       button: Read more
       url: www.google.com
       image: /images/Announcement Front Images/first_lego_competiton1.jpg
