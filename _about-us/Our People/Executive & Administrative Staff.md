@@ -1054,7 +1054,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Administration Executive
+          Designation: Operations Support Officer
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1078,7 +1078,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:aryani_abdul_rahman@schools.gov.sg">aryani_abdul_rahman@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="">-</a>
         </div>
       </td>
     </tr>
