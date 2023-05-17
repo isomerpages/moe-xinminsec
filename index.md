@@ -19,12 +19,6 @@ sections:
           description: Staff
           url: /resources/staff/
   - infopic:
-      title: Announcements
-      button: latest announcements here
-      url: /xss/announcements-2022
-      image: /images/92f2f98bd_4956.jpeg
-      alt: Xinmin Secondary School Logo
-  - infopic:
       title: XMS Homecoming 2023
       button: Read more
       url: www.google.com
@@ -36,4 +30,10 @@ sections:
       url: www.google.com
       image: /images/Announcement Front Images/first_lego_competiton1.jpg
       alt: Image alt text
+  - infopic:
+      title: Announcements
+      button: latest announcements here
+      url: /xss/announcements-2022
+      image: /images/92f2f98bd_4956.jpeg
+      alt: Xinmin Secondary School Logo
 ---
