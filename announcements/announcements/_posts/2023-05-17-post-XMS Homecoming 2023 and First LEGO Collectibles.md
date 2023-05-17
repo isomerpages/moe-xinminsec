@@ -8,4 +8,5 @@ image: ""
 ---
 ![](/images/Announcement%20Front%20Images/xms%20homecoming%202023.jpg)
 
+[Click here to order](https://go.gov.sg/collectiblesorder)
 ![](/images/Announcement%20Front%20Images/xinmin%20collectibles.jpg)
