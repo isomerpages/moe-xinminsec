@@ -28,10 +28,4 @@ sections:
   - resources:
       title: Announcements
       button: More Posts
-  - infopic:
-      title: Announcements
-      button: latest announcements here
-      url: /xss/announcements-2022
-      image: /images/92f2f98bd_4956.jpeg
-      alt: Xinmin Secondary School Logo
 ---
