@@ -25,13 +25,13 @@ sections:
       image: /images/Announcement Front
         Images/xms_homecoming_first_lego_collectible.jpg
       alt: Image alt text
+  - resources:
+      title: Announcements
+      button: More Posts
   - infopic:
       title: Announcements
       button: latest announcements here
       url: /xss/announcements-2022
       image: /images/92f2f98bd_4956.jpeg
       alt: Xinmin Secondary School Logo
-  - resources:
-      title: Announcements
-      button: More Posts
 ---
