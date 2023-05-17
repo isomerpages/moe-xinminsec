@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: XMS Homecoming 2023 and First LEGO Collectibles
       button: read more
-      url: www.google.com
+      url: /announcements/announcements/homecoming-lego/
       image: /images/Announcement Front Images/homecoming and collectibles.jpg
       alt: xms_hm_lego
   - resources:
