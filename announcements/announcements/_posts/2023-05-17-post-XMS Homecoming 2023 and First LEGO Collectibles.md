@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Announcement%20Front%20Images/xms%20homecoming%202023.jpg)
+
+![](/images/Announcement%20Front%20Images/xinmin%20collectibles.jpg)
