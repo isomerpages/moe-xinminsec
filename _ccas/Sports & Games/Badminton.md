@@ -20,6 +20,7 @@ third_nav_title: Sports & Games
       joining this CCA.)</em></strong>
 </p>
 
+[Xinmin Invitational Badminton (Girls) 2023](/files/CCA/instruction%20for%20participants%20-%20badminton.pdf)<br><br>
 Badminton is a demanding racquet sport which requires agility, strength, power,
 speed and high mental endurance. In Xinmin Badminton Team (XMBT), we strive to
 not only equip our players with proper badminton skills and techniques; we also
