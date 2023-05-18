@@ -19,7 +19,7 @@ sections:
           description: Staff
           url: /resources/staff/
   - infopic:
-      title: XMS Homecoming 2023 and First LEGO Collectibles
+      title: XMS Homecoming 2023 and First XMS Collectibles
       button: read more
       url: /announcements/announcements/homecoming-lego/
       image: /images/Announcement Front Images/homecoming and collectibles.jpg
