@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/SymphonicBand.jpeg" alt="Symphonic Band" style="width:90%;">  
+<img src="/images/SymphonicBand.jpeg" alt="Symphonic Band" style="width:90%;">  
   
-</body>
+
 
 Despite the short amount of time available to train the young enthusiasts who mostly have little or no prior exposure to band music, Xinmin Concert Band has always been passionate and sincere in educating and training its young musicians. Through hard work and dedication, the members continuously strive to achieve the high standards set by their predecessors through their practices and sectionals. They have also clinched prestigious awards, particularly at the Singapore Youth Festival Arts Presentation for concert bands – Gold Award in 2007 and 2011 and Gold with Honours in 2009, and then the Distinction Awards in 2013, 2015 and 2017. The Percussion Ensemble of the band also participated in the festival for the first time and clinched its first Distinction Award in 2019.
 
@@ -31,12 +31,13 @@ Under the musical direction of our band maestro, Mr Daniel Kiang, and the ongoin
 Ms Lio Dan Wei (IC) <br>
 Ms Susan Lee Boon Hong <br>
 Ms Ong Chiew Inn <br>
+Ms Nur Ellyana Binti Roslan <br>
 
   
 
 **Conductors** <br>
 Mr Daniel Kiang – Senior band <br>
-Ms Leong Tjar Ngee – Junior & Recruit Band
+Ms Leong Tjar Ngee – Junior &amp; Recruit Band
 
   
 
@@ -44,14 +45,14 @@ Ms Leong Tjar Ngee – Junior & Recruit Band
 Drum Major: Janelle Lim (303) <br>
 Band Major (MUSIC): Acasio Shayne Braeden Climacosa (303) <br>
 Band Major (ADMIN): Jovan Soh Kim Chew (306) <br>
-Secretary & Media: Chin Megan (301)
+Secretary &amp; Media: Chin Megan (301)
 
   
 
 **CCA Schedule**   <br>
-Mon 3.30pm – 6.30pm Senior Band 3 & 4  <br>
-Wed 3.30pm – 5.30pm Junior Band  <br>
-Wed 3.30pm – 6.30pm Senior Band 3 &4 <br>
+Mon 3.30pm – 6.30pm Senior Band 3 &amp; 4&nbsp; <br>
+Wed 3.30pm – 5.30pm Junior Band&nbsp; <br>
+Wed 3.30pm – 6.30pm Senior Band 3 &amp;4 <br>
 Friday 2-5pm: Recruit Band (Sec 1s)
 
   
