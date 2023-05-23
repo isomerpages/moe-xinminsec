@@ -1,7 +1,7 @@
 ---
 title: XMS Homecoming 2023 and First XMS Collectibles
 permalink: /announcements/announcements/homecoming-lego/
-date: 2023-05-17
+date: 2023-05-23
 layout: post
 description: ""
 image: ""
