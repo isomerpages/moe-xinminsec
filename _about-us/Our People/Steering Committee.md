@@ -559,7 +559,7 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/li_jiaying.jpg" alt="sl_a_lady.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/li_jiaying_1.jpg" alt="sl_a_lady.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
