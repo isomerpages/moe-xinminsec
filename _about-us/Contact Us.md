@@ -16,7 +16,8 @@ Fax:(+65) 6385 1068 <br>
 Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/scss)
 <br>
 <span style="color:#999999"><em>Powered by:
-<br><img src="/images/logo-askgov.png" style="width:20%;float:left">
+<br><img src="/images/logo-askgov.png" style="width:15%;float:left">
+	
 <br>
 
 **To Get Here...**
