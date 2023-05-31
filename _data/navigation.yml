@@ -12,3 +12,5 @@ links:
     collection: news
   - title: Admissions
     collection: admissions
+  - title: Have A Question?
+    url: https://go.ask.gov.sg/xms
