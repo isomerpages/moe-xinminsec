@@ -27,7 +27,7 @@ Jeep Sing Fashion
 Blk 4012 Ang Mo Kio Ave 10  
 #01-08/09 Techplace 1  
 Singapore 569628  
-Tel: 31636074  
+Tel:  64563198 <br>
 Fax: 63862407  
 Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
 
