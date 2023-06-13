@@ -110,7 +110,7 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 106px;
-            height: 159px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/School_Leaders/Vanessa_Cheng.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 159px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/School_Leaders/vanessa_cheng1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
