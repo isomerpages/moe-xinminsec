@@ -11,7 +11,6 @@ Timetables
 *   [Home Based Lesson Scheduler (Upper Sec)](https://docs.google.com/spreadsheets/d/1x1Cezpsez216UctPwE2lLGUA4oqZyoGbWNltjtOAcDs/edit?usp=sharing)
 *   [Home Based Lesson Scheduler (Lower Sec)](https://docs.google.com/spreadsheets/d/1HHoS_7IaTD-gqG91jqGgc60Ehn3MhNJgcfSlF7uHAAs/edit?usp=sharing)
 *   [School Timetable](/resources/students/timetables/school-timetable/)
-*   [Time Practice Schedule for Sec 4/5](https://docs.google.com/spreadsheets/d/1bYfUWNGab7SeWXZa0l1FBCTfK-ERZr5k/edit#gid=416475905)
 *   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1GviWZeYlra1BgRd3xR9lwSSFl-U_ycNAI1TrhZOIo74/edit#gid=1621271360)
 
 
