@@ -20,6 +20,7 @@ Quick Links
 *   [MIMS Portal](http://mims.moe.gov.sg/)  
 *   [MOE Internet](https://www.moe.gov.sg/)
 *   [Parents Gateway](https://pg.moe.edu.sg/)  
+*   [Resource Booking System (RBS)](https://rbs.avero-tech.com/)  
 *   [SCMobile](https://scmobile.moe.edu.sg/login)
 *   [SSOE Portal](https://ssoe2.moe.edu.sg/sp)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
