@@ -811,7 +811,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:lee_pei_pin_arthur@schools.gov.sg">lee_pei_pin_arthur@schools.gov.sg</a>
+                text-decoration: underline;" target="" href="mailto:lee_pei_pin_arthur@schools.gov.sg">loh_si_lan@schools.gov.sg</a>
           </div>
         </td>
       </tr>
