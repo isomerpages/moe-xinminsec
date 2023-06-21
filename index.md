@@ -24,6 +24,13 @@ sections:
       url: /announcements/announcements/homecoming-lego/
       image: /images/Announcement Front Images/homecoming and collectibles.jpg
       alt: xms_hm_lego
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://go.ask.gov.sg/xms
+      image: /images/xms-askgov.png
+      alt: Image alt text
   - resources:
       title: Announcements
       button: More Posts

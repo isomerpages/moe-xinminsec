@@ -6,8 +6,8 @@ description: ""
 Timetables
 ----------
 
-*   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&ctz=Asia/Singapore)
-*   [Exam Schedule](/files/Timetable/EOY_Timetable_2022_sch%20website_28Sept.pdf)
+*   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&amp;ctz=Asia/Singapore)
+<!--*   [Exam Schedule](/files/Timetable/EOY_Timetable_2022_sch%20website_28Sept.pdf)-->
 *   [School Timetable](/resources/students/timetables/school-timetable) 
 *   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1GviWZeYlra1BgRd3xR9lwSSFl-U_ycNAI1TrhZOIo74/edit#gid=1319614797)
 
@@ -20,6 +20,7 @@ Quick Links
 *   [MIMS Portal](http://mims.moe.gov.sg/)  
 *   [MOE Internet](https://www.moe.gov.sg/)
 *   [Parents Gateway](https://pg.moe.edu.sg/)  
+*   [Resource Booking System (RBS)](https://rbs.avero-tech.com/)  
 *   [SCMobile](https://scmobile.moe.edu.sg/login)
 *   [SSOE Portal](https://ssoe2.moe.edu.sg/sp)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
@@ -39,10 +40,10 @@ MOE Links (Intranet)
 
 
 
-T&L Resources
+T&amp;L Resources
 -------------
 *   [School Premium Apps](/resources/staff/tnl-resources/school-premium-apps)
-*   [T&L Bulletin](https://sites.google.com/xinminss.edu.sg/tlbulletin-2020/home?pli=1)
+*   [T&amp;L Bulletin](https://sites.google.com/xinminss.edu.sg/tlbulletin-2020/home?pli=1)
 
 Other Resources
 ---------------

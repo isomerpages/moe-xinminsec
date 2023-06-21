@@ -4,7 +4,7 @@ permalink: /about-us/our-people/mother-tongue-languages/
 description: ""
 third_nav_title: Our People
 ---
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -30,7 +30,7 @@ third_nav_title: Our People
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;" class="ive_eobj_center ives_tab_kosong">
+    width: 840px;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -38,14 +38,14 @@ third_nav_title: Our People
           padding: 0px 15px 15px 0px;
           vertical-align: top;
           width: 120px;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/li_jiaying_1.jpg" alt="Tau Jun Hui.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 110px;
-            height: 148px;" class="ive_eobj_left" alt="Tau Jun Hui.jpg" src="/images/Mother_Tongue/li_jiaying_1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 148px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -90,11 +90,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:Li_Jiaying@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Li_Jiaying@schools.gov.sg">Li_Jiaying@schools.gov.sg</a>
+              text-decoration: underline;">Li_Jiaying@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -103,14 +103,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Carol.jpg" alt="sl_a_lady.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 107px;
-            height: 137px;" class="ive_eobj_left" alt="sl_a_lady.png" src="/images/Mother_Tongue/Carol.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 137px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -156,28 +156,97 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:chong_xing_le_carol@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:chong_xing_le_carol@schools.gov.sg">chong_xing_le_carol@schools.gov.sg</a>
+              text-decoration: underline;">chong_xing_le_carol@schools.gov.sg</a>
         </div>
       </td>
     </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+    <td style="margin: 0px;
+        outline: 0px;
+        padding: 0px 15px 15px 0px;
+        vertical-align: top;
+        width: 120px;">
+      <img style="margin: 0px 10px 0px 0px;
+          outline: 0px;
+          padding: 0px;
+          border: none;
+          max-width: 100%;
+          float: left;
+          width: 111px;
+          height: 144px;" class="ive_eobj_left" alt="Ang_yan_chee" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+    </td>
+    <td style="margin: 0px;
+        outline: 0px;
+        padding: 0px 15px 15px 0px;
+        vertical-align: top;">
+      <br style="margin: 0px; outline: 0px; padding: 0px">
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        <b style="margin: 0px; outline: 0px; padding: 0px">Ms&nbsp;</b><span style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px">Ang Yan Chee</b></span>
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        Designation: Subject Head - Mother Tonguage Languages
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        Department: Mother Tonguage Languages
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        Email:<span>&nbsp;</span><a style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            color: rgb(42, 103, 183);
+            text-decoration: underline;" target="" href="mailto:ang_yan_chee@schools.gov.sg">ang_yan_chee@schools.gov.sg</a>
+      </div>
+    </td>
+  </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;
           width: 120px;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Tau%20Jun%20Hui.jpeg" alt="Tau Jun Hui.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 110px;
-            height: 148px;" class="ive_eobj_left" alt="Tau Jun Hui.jpg" src="/images/Mother_Tongue/Tau%20Jun%20Hui.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 148px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -202,7 +271,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head / (Covering HOD/Mother Tongue Languages)
+          Designation: Subject Head - Mother Tongue Languages)
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -222,11 +291,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:tau_jun_hui@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:tau_jun_hui@schools.gov.sg">tau_jun_hui@schools.gov.sg</a>
+              text-decoration: underline;">tau_jun_hui@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -235,14 +304,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Norliza%20Bte%20Ali%20web.jpeg" alt="Norliza Bte Ali web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 102px;
-            height: 142px;" class="ive_eobj_left" alt="Norliza Bte Ali web.jpg" src="/images/Mother_Tongue/Norliza%20Bte%20Ali%20web.jpeg">
+            height: 142px;">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -287,11 +356,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:norliza_ali@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:norliza_ali@schools.gov.sg">norliza_ali@schools.gov.sg</a>
+              text-decoration: underline;">norliza_ali@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -300,14 +369,14 @@ third_nav_title: Our People
         outline: 0px;
         padding: 0px 15px 15px 0px;
         vertical-align: top;">
-      <img style="margin: 0px 10px 0px 0px;
+      <img src="/images/Mother_Tongue/Xiao%20Yan%20Fei.jpeg" alt="Xiao Yan Fei.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
           outline: 0px;
           padding: 0px;
           border: none;
           max-width: 100%;
           float: left;
           width: 114px;
-          height: 145px;" class="ive_eobj_left" alt="Xiao Yan Fei.jpg" src="/images/Mother_Tongue/Xiao%20Yan%20Fei.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+          height: 145px;"><br style="margin: 0px; outline: 0px; padding: 0px">
     </td>
     <td style="margin: 0px;
         outline: 0px;
@@ -352,11 +421,11 @@ third_nav_title: Our People
           font-family: Helvetica, sans-serif;
           font-size: 17px;
           font-weight: 400;">
-        Email:<span>&nbsp;</span><a style="margin: 0px;
+        Email:<span>&nbsp;</span><a href="mailto:xiao_yanfei@schools.gov.sg" target="" style="margin: 0px;
             outline: 0px;
             padding: 0px;
             color: rgb(42, 103, 183);
-            text-decoration: underline;" target="" href="mailto:xiao_yanfei@schools.gov.sg">xiao_yanfei@schools.gov.sg</a>
+            text-decoration: underline;">xiao_yanfei@schools.gov.sg</a>
       </div>
     </td>
   </tr>
@@ -365,14 +434,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/aiman_1.jpg" alt="sl_a_lady.png" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 112px;
-            height: 143px;" class="ive_eobj_left" alt="sl_a_lady.png" src="/images/Mother_Tongue/aiman_1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 143px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -417,11 +486,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:aiman_khursedah_begam@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:aiman_khursedah_begam@schools.gov.sg">aiman_khursedah_begam@schools.gov.sg</a>
+              text-decoration: underline;">aiman_khursedah_begam@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -430,14 +499,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Ang%20Koon%20Yong.jpeg" alt="Ang Koon Yong.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 112px;
-            height: 141px;" class="ive_eobj_left" alt="Ang Koon Yong.jpg" src="/images/Mother_Tongue/Ang%20Koon%20Yong.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -482,11 +551,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:ang_koon_yong@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:ang_koon_yong@schools.gov.sg">ang_koon_yong@schools.gov.sg</a>
+              text-decoration: underline;">ang_koon_yong@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -495,14 +564,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Effendy%20Bin%20Ahmadi.jpeg" alt="Effendy Bin Ahmadi.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 110px;
-            height: 149px;" class="ive_eobj_left" alt="Effendy Bin Ahmadi.jpg" src="/images/Mother_Tongue/Effendy%20Bin%20Ahmadi.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 149px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -547,11 +616,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:effendy_ahmadi@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:effendy_ahmadi@schools.gov.sg">effendy_ahmadi@schools.gov.sg</a>
+              text-decoration: underline;">effendy_ahmadi@schools.gov.sg</a>
         </div>
       </td>
     </tr> 
@@ -560,14 +629,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Guan%20Jing%20web.jpeg" alt="Guan Jing web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 110px;
-            height: 153px;" class="ive_eobj_left" alt="Guan Jing web.jpg" src="/images/Mother_Tongue/Guan%20Jing%20web.jpeg">
+            height: 153px;">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -612,11 +681,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:guan_jing@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:guan_jing@schools.gov.sg">guan_jing@schools.gov.sg</a>
+              text-decoration: underline;">guan_jing@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -625,14 +694,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Janice%20Low%20Earn%20Qing.jpeg" alt="Janice Low Earn Qing.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 111px;
-            height: 140px;" class="ive_eobj_left" alt="Janice Low Earn Qing.jpg" src="/images/Mother_Tongue/Janice%20Low%20Earn%20Qing.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 140px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -677,11 +746,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:janice_low_earn_qing@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:janice_low_earn_qing@schools.gov.sg">janice_low_earn_qing@schools.gov.sg</a>
+              text-decoration: underline;">janice_low_earn_qing@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -690,14 +759,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Koh%20Cher%20Yee.jpeg" alt="Koh Cher Yee.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 115px;
-            height: 137px;" class="ive_eobj_left" alt="Koh Cher Yee.jpg" src="/images/Mother_Tongue/Koh%20Cher%20Yee.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 137px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -742,11 +811,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:koh_cher_yee@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:koh_cher_yee@schools.gov.sg">koh_cher_yee@schools.gov.sg</a>
+              text-decoration: underline;">koh_cher_yee@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -755,14 +824,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Lim%20Kok%20Chong.jpeg" alt="Lim Kok Chong.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 154px;" class="ive_eobj_left" alt="Lim Kok Chong.jpg" src="/images/Mother_Tongue/Lim%20Kok%20Chong.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 154px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -807,11 +876,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:lim_kok_chong@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:lim_kok_chong@schools.gov.sg">lim_kok_chong@schools.gov.sg</a>
+              text-decoration: underline;">lim_kok_chong@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -820,14 +889,14 @@ third_nav_title: Our People
         outline: 0px;
         padding: 0px 15px 15px 0px;
         vertical-align: top;">
-      <img style="margin: 0px 10px 0px 0px;
+      <img src="/images/Mother_Tongue/ng_keng_kiat.jpg" alt="siaw pey chin.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
           outline: 0px;
           padding: 0px;
           border: none;
           max-width: 100%;
           float: left;
           width: 114px;
-          height: 142px;" class="ive_eobj_left" alt="siaw pey chin.jpg" src="/images/Mother_Tongue/ng_keng_kiat.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+          height: 142px;"><br style="margin: 0px; outline: 0px; padding: 0px">
     </td>
     <td style="margin: 0px;
         outline: 0px;
@@ -872,11 +941,11 @@ third_nav_title: Our People
           font-family: Helvetica, sans-serif;
           font-size: 17px;
           font-weight: 400;">
-        Email:<span>&nbsp;</span><a style="margin: 0px;
+        Email:<span>&nbsp;</span><a href="mailto:siaw_pey_shin@schools.gov.sg" target="" style="margin: 0px;
             outline: 0px;
             padding: 0px;
             color: rgb(42, 103, 183);
-            text-decoration: underline;" target="" href="mailto:siaw_pey_shin@schools.gov.sg">Ng_Keng_Kiat@schools.gov.sg</a>
+            text-decoration: underline;">Ng_Keng_Kiat@schools.gov.sg</a>
       </div>
     </td>
   </tr>
@@ -885,14 +954,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/Norain%20Binte%20Ismail.jpeg" alt="Norain Binte Ismail.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 117px;
-            height: 139px;" class="ive_eobj_left" alt="Norain Binte Ismail.jpg" src="/images/Mother_Tongue/Norain%20Binte%20Ismail.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 139px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -937,11 +1006,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:nor_ain_ismail@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:nor_ain_ismail@schools.gov.sg">nor_ain_ismail@schools.gov.sg</a>
+              text-decoration: underline;">nor_ain_ismail@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -950,14 +1019,14 @@ third_nav_title: Our People
         outline: 0px;
         padding: 0px 15px 15px 0px;
         vertical-align: top;">
-      <img style="margin: 0px 10px 0px 0px;
+      <img src="/images/Mother_Tongue/nur fatimah binte khalid.jpg" alt="pic.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
           outline: 0px;
           padding: 0px;
           border: none;
           max-width: 100%;
           float: left;
           width: 110px;
-          height: 149px;" class="ive_eobj_left" alt="pic.jpg" src="/images/Mother_Tongue/nur fatimah binte khalid.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+          height: 149px;"><br style="margin: 0px; outline: 0px; padding: 0px">
     </td>
     <td style="margin: 0px;
         outline: 0px;
@@ -1002,11 +1071,11 @@ third_nav_title: Our People
           font-family: Helvetica, sans-serif;
           font-size: 17px;
           font-weight: 400;">
-        Email:<span>&nbsp;</span><a style="margin: 0px;
+        Email:<span>&nbsp;</span><a href="mailto:Nur_Fatimah_Khalid@schools.gov.sg" target="" style="margin: 0px;
             outline: 0px;
             padding: 0px;
             color: rgb(42, 103, 183);
-            text-decoration: underline;" target="" href="mailto:Nur_Fatimah_Khalid@schools.gov.sg">Nur_Fatimah_Khalid@schools.gov.sg</a>
+            text-decoration: underline;">Nur_Fatimah_Khalid@schools.gov.sg</a>
       </div>
     </td>
   </tr>
@@ -1015,14 +1084,14 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mother_Tongue/siaw%20pey%20chin.jpeg" alt="siaw pey chin.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 142px;" class="ive_eobj_left" alt="siaw pey chin.jpg" src="/images/Mother_Tongue/siaw%20pey%20chin.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 142px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -1067,11 +1136,11 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:siaw_pey_shin@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:siaw_pey_shin@schools.gov.sg">siaw_pey_shin@schools.gov.sg</a>
+              text-decoration: underline;">siaw_pey_shin@schools.gov.sg</a>
         </div>
       </td>
     </tr>
