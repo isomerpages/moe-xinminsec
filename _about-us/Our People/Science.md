@@ -877,7 +877,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Tan_Hui_Miang_A@schools.gov.sg">Tan_Hui_Miang_A@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:Tan_Hui_Miang_A@schools.gov.sg">tham_lai_piak@schools.gov.sg</a>
         </div>
       </td>
     </tr>
