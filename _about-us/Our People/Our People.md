@@ -190,7 +190,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Vanessa Cheng Zihui</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mrs Vanessa Cheng</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -224,7 +224,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Yiak_Zihui_Vanessa@schools.gov.sg">Yiak_Zihui_Vanessa@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:Yiak_Zihui_Vanessa@schools.gov.sg">yiak_zihui_vanessa@schools.gov.sg</a>
         </div>
       </td>
     </tr>
