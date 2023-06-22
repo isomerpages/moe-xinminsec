@@ -13,6 +13,7 @@ Timetables
 
 Quick Links
 -----------
+*   [All Ears form builder](https://forms.moe.edu.sg/)
 *   [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
 *   [Commzgate SMS](https://portal.commzgate.com/)
 *   [ICON](https://icon.moe.edu.sg/)
