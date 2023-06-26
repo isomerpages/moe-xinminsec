@@ -811,7 +811,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:lee_pei_pin_arthur@schools.gov.sg">loh_si_lan@schools.gov.sg</a>
+                text-decoration: underline;" target="" href="mailto:lee_pei_pin_arthur@schools.gov.sg">loh_si_lan_a@schools.gov.sg</a>
           </div>
         </td>
       </tr>
@@ -876,7 +876,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:Tan_Li_Meng_A@schools.gov.sg">Tan_Li_Meng_A@schools.gov.sg</a>
+                text-decoration: underline;" target="" href="mailto:Tan_Li_Meng_A@schools.gov.sg">tan_li_meng_a@schools.gov.sg</a>
           </div>
         </td>
       </tr>
@@ -941,7 +941,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:Tan_Chen_Lin_Jaime@schools.gov.sg">Tan_Chen_Lin_Jaime@schools.gov.sg</a>
+                text-decoration: underline;" target="" href="mailto:Tan_Chen_Lin_Jaime@schools.gov.sg">tan_chen_lin_jaime@schools.gov.sg</a>
           </div>
         </td>
       </tr>
