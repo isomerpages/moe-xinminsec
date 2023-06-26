@@ -1162,7 +1162,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Yee Siau Foon</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Yeo Meow Ling Doreen</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1221,7 +1221,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:yee_siau_foon@schools.gov.sg">yee_siau_foon@schools.gov.sg</a></span>
+                text-decoration: underline;" target="" href="mailto:yeo_meow_ling_doreen@schools.gov.sg">yeo_meow_ling_doreen@schools.gov.sg</a></span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
