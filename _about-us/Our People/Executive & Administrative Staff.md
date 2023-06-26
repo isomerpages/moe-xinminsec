@@ -94,7 +94,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:SIM_Yong_Meng@schools.gov.sg">SIM_Yong_Meng@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:SIM_Yong_Meng@schools.gov.sg">sim_yong_meng@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -159,7 +159,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:TENG_Leeh_Bing@schools.gov.sg">TENG_Leeh_Bing@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:TENG_Leeh_Bing@schools.gov.sg">teng_leeh_bing@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -948,7 +948,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Lim_Thiam_bee@schools.gov.sg">Lim_Thiam_bee@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:Lim_Thiam_bee@schools.gov.sg">lim_thiam_bee@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -1144,71 +1144,6 @@ third_nav_title: Our People
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;" target="" href="mailto:rajoo_tamil_manni_sivanantham@schools.gov.sg">rajoo_tamil_manni_sivanantham@schools.gov.sg</a>
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 115px;
-            height: 158px;" class="ive_eobj_left" alt="Asyraf.jpg" src="/images/EAS/Asyraf.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Asryraf<br style="margin: 0px; outline: 0px; padding: 0px"></b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Designation: Desktop Engineer
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Department: Information Technology
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:g-ncs3050sde@ncs.com.sg">g-ncs3050sde@ncs.com.sg</a>
         </div>
       </td>
     </tr>

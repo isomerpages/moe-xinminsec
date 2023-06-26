@@ -483,7 +483,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:Chang_How_Chun@schools.gov.sg">Chang_How_Chun@schools.gov.sg</a></span>
+                text-decoration: underline;" target="" href="mailto:Chang_How_Chun@schools.gov.sg">chang_how_chun@schools.gov.sg</a></span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -688,7 +688,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Lionel_Foon_koi_siong@schools.gov.sg">Lionel_Foon_koi_siong@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:Lionel_Foon_koi_siong@schools.gov.sg">lionel_foon_koi_siong@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -758,7 +758,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:Nadhrah_Zainalabiden@schools.gov.sg">Nadhrah_Zainalabiden@schools.gov.sg</a></span>
+                text-decoration: underline;" target="" href="mailto:Nadhrah_Zainalabiden@schools.gov.sg">nadhrah_zainalabiden@schools.gov.sg</a></span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -857,7 +857,7 @@ third_nav_title: Our People
             outline: 0px;
             padding: 0px;
             color: rgb(42, 103, 183);
-            text-decoration: underline;" target="" href="mailto:Nur_Ellyana_Roslan@schools.gov.sg">Nur_Ellyana_Roslan@schools.gov.sg</a>
+            text-decoration: underline;" target="" href="mailto:Nur_Ellyana_Roslan@schools.gov.sg">nur_ellyana_roslan@schools.gov.sg</a>
       </div>
     </td>
   </tr>
@@ -1030,7 +1030,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Thilagavathi_Sigamani@schools.gov.sg">Thilagavathi_Sigamani@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:Thilagavathi_Sigamani@schools.gov.sg">thilagavathi_sigamani@schools.gov.sg</a>
         </div>
       </td>
     </tr>
