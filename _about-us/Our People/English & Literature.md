@@ -1148,7 +1148,7 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 106px;
-            height: 134px;" class="ive_eobj_left" alt="YEE SIAU FOON.jpg" src="/images/English Language/YEE%20SIAU%20FOON.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 134px;" class="ive_eobj_left" alt="YEE SIAU FOON.jpg" src="/images/English Language/Doreen Yeo.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
