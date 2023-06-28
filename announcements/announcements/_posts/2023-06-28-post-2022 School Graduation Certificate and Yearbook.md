@@ -20,6 +20,6 @@ Should you require your parents or guardian to collect your certificate on your 
 Thank you.
 General Office
 <br><br>
- *only applicable for graduands who made the purchase in year 2022.
+ -<font color="red"> *</font> applicable for graduands who made the purchase in year 2022.
 <br>
 #from 9:30am to 5:30pm on 3 July 2023.
