@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Dear 2022 Graduands,
+Dear 2022 Graduands,<br>
 The above certificate and yearbook<font color="red"> *</font> are ready for collection at the General Office. 
 
 Collection Time: <br>
