@@ -4,4 +4,4 @@ permalink: /resources/students/well-being-guide/mental-health/mental-health-e-ki
 description: ""
 third_nav_title: Mental Health
 ---
-Click [here](/files/Mental%20Health%20e-kit-Dare%20to%20Share.pdf) to access Mental Health E-Kit.
+Click [here](/files/Counselling/mental%20health%20e-kit%20for%20male%20teens.pdf) to access Mental Health E-Kit.
