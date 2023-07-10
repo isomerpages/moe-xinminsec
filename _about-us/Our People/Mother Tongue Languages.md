@@ -177,7 +177,7 @@ third_nav_title: Our People
           max-width: 100%;
           float: left;
           width: 111px;
-          height: 144px;" class="ive_eobj_left" alt="Ang_yan_chee" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+          height: 144px;" class="ive_eobj_left" alt="Ang_yan_chee" src="/images/Mother_Tongue/ang_yan_chee.png"><br style="margin: 0px; outline: 0px; padding: 0px">
     </td>
     <td style="margin: 0px;
         outline: 0px;
