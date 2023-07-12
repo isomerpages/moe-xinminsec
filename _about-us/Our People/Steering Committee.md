@@ -1422,7 +1422,7 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 145px;" class="ive\_eobj\_left" alt="Low Yan Jin.jpg" src="/images/Science/tiffany_lim.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 145px;" class="ive\_eobj\_left" alt="Low Yan Jin.jpg" src="/images/Science/tiffany_lim.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
