@@ -103,7 +103,7 @@ third_nav_title: Our People
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="Low Yan Jin.jpg" class="ive\_eobj\_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Science/tiffany_lim.png" alt="Low Yan Jin.jpg" class="ive\_eobj\_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
