@@ -9,7 +9,7 @@ Timetables
 *   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&amp;ctz=Asia/Singapore)
 <!--*   [Exam Schedule](/files/Timetable/EOY_Timetable_2022_sch%20website_28Sept.pdf)-->
 *   [School Timetable](/resources/students/timetables/school-timetable) 
-*   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1GviWZeYlra1BgRd3xR9lwSSFl-U_ycNAI1TrhZOIo74/edit#gid=1319614797)
+*   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1S7lChpa_rMRRRJwkNGCqUNMqqJzcWTRenVWWpUSvCEc/edit#gid=1582931388)
 
 Quick Links
 -----------
