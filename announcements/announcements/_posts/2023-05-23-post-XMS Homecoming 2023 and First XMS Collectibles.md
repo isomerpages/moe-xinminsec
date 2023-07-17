@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Announcement%20Front%20Images/xms%20homecoming%202023.jpg)
-
-[Click here to order your XMS Collectible here](https://go.gov.sg/collectiblesorder)
+For all purchase of the collectibles, please call our General Office at +65 6288 9382 to make prior arrangement. 
+Payment is strictly by cash only. Thank you.
 ![](/images/Announcement%20Front%20Images/xinmin%20collectibles.jpg)
