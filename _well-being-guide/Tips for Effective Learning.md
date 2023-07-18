@@ -3,4 +3,4 @@ title: Tips for Effective Learning
 permalink: /resources/students/well-being-guide/tips-for-effective-learning/
 description: ""
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTO7rky0OXmyPa5lVTdnS34zA_aEhEdNbiaOvUR5Nc6iChs9sqw3ojgWtVcggpFpQ98aO3wYpnx-ETO/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRtC6tVymatCFMBlXfc7niUT_ymg_GJ0phZ2zVxsTS-g6xHNVjG5RUMf_L-nsADrmWP4s4bz8K2Ndt/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
