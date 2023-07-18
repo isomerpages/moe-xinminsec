@@ -4,7 +4,7 @@ permalink: /ccas/performing-arts/chinese-literary-drama-and-debate-society-cldds
 description: ""
 third_nav_title: Performing Arts
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSt63OMePqXEFT-x29r6ey6EEXtls6KQ7p2SDdB67ft_u8kdzdXZUxEoMUuIX29Edumed7VVl710zUc/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP9I3B70tPA2d8gi_517Nw0tBDgYOwsrXNF1j9oxef5_Qmfvn37aMyDFbzBHuvHzSSwfzj6Wnn4oS9/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="860" height="569" allowfullscreen="true"></iframe>
 
 Since its establishment in 2004, the Chinese Literary, Drama and Debate Society (CLDDS) has been upholding its aims of disseminating culture and increasing students’ level of interest in Chinese. Xinmin Chinese Opera Troupe has been invited to perform in numerous countries, thus allowing students to showcase their talents. The Chinese Opera Troupe was unable to conduct activities as usual as COVID-19 loomed. Community engagements such as visits to Sengkang Community Hospital and the Chingay Procession were cancelled along with our usual face-to-face trainings. However, these obstacles did not put us down and we decided to conduct online trainings focusing on Chinese Opera history and enrichment instead. In the online sessions, students got to learn the different classic roles in Chinese Opera and were even able to practice a few moves under the supervision of the coaches! CLDDS will continue to work towards its aims and provide more opportunities for students to develop their talents.
 
