@@ -268,8 +268,8 @@ third_nav_title: Our Stakeholders
               display: block;
               background-color: initial;
               text-align: left;
-              width: 124px;
-              height: 175px;" class="ive_eobj_center" alt="Agnes Liu Hui Jin.png" src="/images/Agnes%20Liu%20Hui%20Jin.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b>
+              width: 144px;
+              height: 175px;" class="ive_eobj_center" alt="PSG%206.jpeg" src="/images/PSG%206.jpeg"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
