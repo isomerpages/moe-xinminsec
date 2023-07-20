@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Staff.md
       - Students.md
       - School.md
