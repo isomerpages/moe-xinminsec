@@ -23,7 +23,7 @@ In doing so, students are encouraged to be an active and reflective contributor 
 
 | |  |
 | -------- | -------- |
-| Text     | Text     | 
-| -------- | -------- |
-| Sec 1 XinminCares: Students underwent an ageing simulation to make sense of some difficulties the elderly may have in their daily activities.   | Sec 1 XinminCares: Students underwent an ageing simulation to make sense of some difficulties the elderly may have in their daily activities.   | 
-
+| ![](/images/Xinmincare1.jpeg)| ![](/images/Xinmincare2.jpeg) |
+| Sec 1 XinminCares: Students underwent an ageing simulation to make sense of some difficulties the elderly may have in their daily activities.   | Sec 1 XinminCares: Students underwent an ageing simulation to make sense of some difficulties the elderly may have in their daily activities.   |
+| ![](/images/Xinmincare5.jpeg)| ![](/images/Xinmincare6.jpeg) |
+| Sec 2 XinminCares: Students picking litter around the Hougang community. They were tasked to understand more about the littering issue around the community: where are the places that are usually littered? What are the common types of littered items?   | Sec 2 XinminCares: As an extension of their learning from the littering issue in the community, a class of students followed the footsteps of cleaning workers in the school to understand the challenges of keeping the school environment conducive.  |
