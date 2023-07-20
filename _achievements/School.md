@@ -2,7 +2,6 @@
 title: School
 permalink: /news/achievements/school/
 description: ""
-third_nav_title: Achievements
 ---
 <p style="float:right; margin: 0 10px 0px 0">
 <img src="/images/BPA-Student-All-Round%20Development.jpeg" alt="Student-All-Round Development" style="width:120px"></p>
@@ -23,7 +22,3 @@ Teaching and Learning is the core of what we do as educators and in Xinmin Secon
 <strong>Staff Wellbeing</strong><br>We believe that the wellbeing of our staff is vital to our success. We ensure that they supported and appreciated for their contributions. This inspires our staff to be more productive and add to a positive overall work environment</p>
 
 <br>
-
-  
-
-  

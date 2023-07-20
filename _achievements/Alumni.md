@@ -2,7 +2,6 @@
 title: Alumni
 permalink: /news/achievements/alumni/
 description: ""
-third_nav_title: Achievements
 ---
 **<u>Military/Police</u>** <br>
 Vincent Goh Cheng Feng: Officer, Ministry of Defence, 2009-, Singapore Armed Forces Merit Scholarship holder
@@ -17,7 +16,7 @@ Sanva Saephan: Business Development Manager, KP Company Limited, Laos, 2016-
 
   
 
-**<u>Arts & Entertainment</u>** <br>
+**<u>Arts &amp; Entertainment</u>** <br>
 Choo Keng Kwang: Prominent pioneer oil painting local artist <br>
 Dan Kwoh: Artistic Director of dACADEMY Singapore <br>
 Huang Shinan: Prominent actor in Mediacorp <br>
