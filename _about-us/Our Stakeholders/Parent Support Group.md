@@ -307,8 +307,8 @@ third_nav_title: Our Stakeholders
               display: block;
               background-color: initial;
               text-align: left;
-              width: 117px;
-              height: 165px;" class="ive_eobj_center" alt="Pang Siong Loon.png" src="/images/Pang%20Siong%20Loon.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b>
+              width: 175px;
+              height: 165px;" class="ive_eobj_center" alt="PSG%207.png" src="/images/PSG%207.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 2 Level Coordinator</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -319,7 +319,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Pang Siong Loon
+          Ms Aniza Aquavella
         </div>
       </td>
       <td style="margin: 0px;
