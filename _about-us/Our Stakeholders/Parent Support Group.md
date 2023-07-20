@@ -175,8 +175,8 @@ third_nav_title: Our Stakeholders
               max-width: 100%;
               clear: both;
               display: block;
-              width: 116px;
-              height: 164px;" class="ive_eobj_center" alt="Mr Yeo Chor Seng.jpg" src="/images/Mr%20Yeo%20Chor%20Seng.jpeg">
+              width: 136px;
+              height: 164px;" class="ive_eobj_center" alt="PSG%204.jpeg" src="/images/PSG%204.jpeg">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -187,7 +187,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Treasurer/Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -198,7 +198,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Yeo Chor Seng
+          Ms Doreen Yuen
         </div>
       </td>
       <td style="margin: 0px;
