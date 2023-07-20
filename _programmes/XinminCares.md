@@ -28,4 +28,4 @@ In doing so, students are encouraged to be an active and reflective contributor 
 | ![](/images/Xinmincare5.jpeg)| ![](/images/Xinmincare6.jpeg) |
 | **Sec 2 XinminCares:** <br>Students picking litter around the Hougang community. They were tasked to understand more about the littering issue around the community: where are the places that are usually littered? What are the common types of littered items?   | **Sec 2 XinminCares:** <br>As an extension of their learning from the littering issue in the community, a class of students followed the footsteps of cleaning workers in the school to understand the challenges of keeping the school environment conducive.  |
 | ![](/images/Xinmincare7.jpeg)| |
-| **Sec 2 XinminCares:** <br>Sec 2 XinminCares: Students tied one of their arms to the table for 20 minutes to simulate the corporeal experiences of a person undergoing kidney dialysis.?   |  |
+| **Sec 2 XinminCares:** <br>Sec 2 XinminCares: Students tied one of their arms to the table for 20 minutes to simulate the corporeal experiences of a person undergoing kidney dialysis.   |  |
