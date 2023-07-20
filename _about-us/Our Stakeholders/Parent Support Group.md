@@ -232,7 +232,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 160px;
-              height: 169px;" class="ive_eobj_center" alt="Choo Thiam Siew.png" src="/images/PSG%205.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 169px;" class="ive_eobj_center" alt="PSG%205.png" src="/images/PSG%205.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 1 Level Coordinatorr<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -243,7 +243,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Choo Thiam Siew
+          Ms May Chong
         </div>
       </td>
       <td style="margin: 0px;
