@@ -6,7 +6,7 @@ third_nav_title: Our Stakeholders
 ---
 ![Parent Support Group](/images/PAX.png)
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -32,7 +32,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;" class="ive_eobj_center ives_tab_kosong">
+    width: 840px;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -48,7 +48,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/PSG%201.png" alt="Chua Kee Teang.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -58,7 +58,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 145px;
-              height: 176px;" class="ive_eobj_center" alt="Chua Kee Teang.png" src="/images/PSG%201.png"><b style="margin: 0px; outline: 0px; padding: 0px">Chairperson</b>
+              height: 176px;"><b style="margin: 0px; outline: 0px; padding: 0px">Chairperson</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -85,7 +85,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/PSG%202.png" alt="PSG%202.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -95,7 +95,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 131px;
-              height: 171px;" class="ive_eobj_center" alt="PSG%202.png" src="/images/PSG%202.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice Chairperson</b>
+              height: 171px;"><b style="margin: 0px; outline: 0px; padding: 0px">Vice Chairperson</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -130,7 +130,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/PSG%203.png" alt="PSG%203.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -140,7 +140,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 130px;
-              height: 169px;" class="ive_eobj_center" alt="PSG%203.png" src="/images/PSG%203.png"><b style="margin: 0px; outline: 0px; padding: 0px">Treasurer/Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 169px;"><b style="margin: 0px; outline: 0px; padding: 0px">Treasurer/Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -168,7 +168,7 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <img style="margin: auto;
+          <img src="/images/PSG%204.jpeg" alt="PSG%204.jpeg" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -176,7 +176,7 @@ third_nav_title: Our Stakeholders
               clear: both;
               display: block;
               width: 136px;
-              height: 164px;" class="ive_eobj_center" alt="PSG%204.jpeg" src="/images/PSG%204.jpeg">
+              height: 164px;">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -222,7 +222,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/PSG%205.png" alt="PSG%205.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -232,7 +232,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 160px;
-              height: 169px;" class="ive_eobj_center" alt="PSG%205.png" src="/images/PSG%205.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 1 Level Coordinatorr<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 169px;"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 1 Level Coordinatorr<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -259,7 +259,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/PSG%206.jpeg" alt="PSG%206.jpeg" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -269,7 +269,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 144px;
-              height: 175px;" class="ive_eobj_center" alt="PSG%206.jpeg" src="/images/PSG%206.jpeg"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 1 Level Coordinator</b>
+              height: 175px;"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 1 Level Coordinator</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -298,7 +298,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/PSG%207.png" alt="PSG%207.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -308,7 +308,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 175px;
-              height: 165px;" class="ive_eobj_center" alt="PSG%207.png" src="/images/PSG%207.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 2 Level Coordinator</b>
+              height: 165px;"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 2 Level Coordinator</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -335,7 +335,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/PSG%208.jpeg" alt="PSG%208.jpeg" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -344,8 +344,8 @@ third_nav_title: Our Stakeholders
               display: block;
               background-color: initial;
               text-align: left;
-              width: 118px;
-              height: 166px;" class="ive_eobj_center" alt="Toh Quok Hua.png" src="/images/Toh%20Quok%20Hua.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b>
+              width: 148px;
+              height: 166px;"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 2 Level Coordinator</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -356,7 +356,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Toh Quok Hua
+          Mr Thong Kwok Wah
         </div>
       </td>
       <td style="margin: 0px;
@@ -380,7 +380,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/Jonathan%20Yuan.png" alt="Jonathan Yuan.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -390,7 +390,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 129px;
-              height: 167px;" class="ive_eobj_center" alt="Jonathan Yuan.png" src="/images/Jonathan%20Yuan.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 167px;"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -427,7 +427,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/Lim%20Ee%20Hong.png" alt="Lim Ee Hong.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -437,7 +437,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 122px;
-              height: 173px;" class="ive_eobj_center" alt="Lim Ee Hong.png" src="/images/Lim%20Ee%20Hong.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 173px;"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -464,7 +464,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/Tan%20Beng%20Hwee.png" alt="Tan Beng Hwee.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -474,7 +474,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 123px;
-              height: 173px;" class="ive_eobj_center" alt="Tan Beng Hwee.png" src="/images/Tan%20Beng%20Hwee.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 173px;"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -501,7 +501,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/Tan%20Cheng%20Kwee.png" alt="Tan Cheng Kwee.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -511,7 +511,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 131px;
-              height: 174px;" class="ive_eobj_center" alt="Tan Cheng Kwee.png" src="/images/Tan%20Cheng%20Kwee.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b>
+              height: 174px;"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -548,7 +548,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="margin: auto;
+          <img src="/images/Chua%20Chee%20Seng.png" alt="Chua Chee Seng.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -558,7 +558,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 126px;
-              height: 178px;" class="ive_eobj_center" alt="Chua Chee Seng.png" src="/images/Chua%20Chee%20Seng.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 178px;"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
