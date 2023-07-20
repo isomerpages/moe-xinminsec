@@ -231,8 +231,8 @@ third_nav_title: Our Stakeholders
               display: block;
               background-color: initial;
               text-align: left;
-              width: 120px;
-              height: 169px;" class="ive_eobj_center" alt="Choo Thiam Siew.png" src="/images/Choo%20Thiam%20Siew.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              width: 160px;
+              height: 169px;" class="ive_eobj_center" alt="Choo Thiam Siew.png" src="/images/PSG%205.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
