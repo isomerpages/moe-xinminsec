@@ -380,7 +380,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Jonathan%20Yuan.png" alt="Jonathan Yuan.png" class="ive_eobj_center" style="margin: auto;
+          <img src="/images/PSG%209.png" alt="Jonathan Yuan.png" class="ive_eobj_center" style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -390,7 +390,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 129px;
-              height: 167px;"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 167px;"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 3 Level Coordinator</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -401,7 +401,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Yuan ZhenJun Jonathan
+          Ms Jacqueline Ee
         </div>
       </td>
     </tr>
