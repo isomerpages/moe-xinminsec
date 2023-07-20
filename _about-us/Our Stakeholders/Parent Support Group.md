@@ -140,7 +140,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 130px;
-              height: 169px;" class="ive_eobj_center" alt="PSG%203.png" src="/images/PSG%203.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Chairman</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 169px;" class="ive_eobj_center" alt="PSG%203.png" src="/images/PSG%203.png"><b style="margin: 0px; outline: 0px; padding: 0px">Treasurer/Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -151,7 +151,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Phua Soon Yew
+          Ms Rebecca Tee
         </div>
       </td>
     </tr>
