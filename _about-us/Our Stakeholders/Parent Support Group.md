@@ -94,8 +94,8 @@ third_nav_title: Our Stakeholders
               display: block;
               background-color: initial;
               text-align: left;
-              width: 121px;
-              height: 171px;" class="ive_eobj_center" alt="Wee Kim Chye.png" src="/images/Wee%20Kim%20Chye.png"><b style="margin: 0px; outline: 0px; padding: 0px">Chairman</b>
+              width: 131px;
+              height: 171px;" class="ive_eobj_center" alt="PSG%202.png" src="/images/PSG%202.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice Chairperson</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -106,7 +106,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Wee Kim Chye
+          Ms Joanna Lye
         </div>
       </td>
       <td style="margin: 0px;
@@ -139,8 +139,8 @@ third_nav_title: Our Stakeholders
               display: block;
               background-color: initial;
               text-align: left;
-              width: 120px;
-              height: 169px;" class="ive_eobj_center" alt="Phua Soon Yew.png" src="/images/Phua%20Soon%20Yew.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Chairman</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              width: 130px;
+              height: 169px;" class="ive_eobj_center" alt="PSG%203.png" src="/images/PSG%203.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Chairman</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
