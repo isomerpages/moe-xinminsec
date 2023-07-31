@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-*Updated as of 28 June 2023*
+*Updated as of 31 July 2023*
 
-[4E5N Prelim Timetable 2023](/files/Prelim%20Exams/4e5n_prelim_timetable_2023_revised_27%20june.pdf)
+[4E5N Prelim Examination Timetable 2023](/files/Prelim%20Exams/4e5n_prelim_timetable_2023_v4_25%20july.pdf)
 
 [4NA Prelim Examination Timetable 2023](/files/Prelim%20Exams/4na_prelim_timetable_2023.pdf)
 
