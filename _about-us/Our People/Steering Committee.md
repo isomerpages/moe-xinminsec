@@ -1868,7 +1868,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:TENG_Leeh_Bing@schools.gov.sg">teng_leeh_bing@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:Adriana_Ting_Siew_Lin@schools.gov.sg">Adriana_Ting_Siew_Lin@schools.gov.sg</a>
         </div>
       </td>
     </tr>
