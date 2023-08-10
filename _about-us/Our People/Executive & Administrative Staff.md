@@ -955,7 +955,7 @@ third_nav_title: Our People
 		 <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px px px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -964,7 +964,7 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 122px;" class="ive_eobj_left" alt="Aryani Bte Abdul Rahman.jpg" src="/images/EAS/Nur_Hidayah_Binte_Ridzuan.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 122px;" class="ive_eobj_left" alt="Aryani Bte Abdul Rahman.jpg" src="/images/EAS/nur_hidayah_binte_ridzuan1.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
