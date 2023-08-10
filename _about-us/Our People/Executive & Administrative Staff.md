@@ -364,7 +364,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -432,7 +432,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -497,7 +497,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -562,7 +562,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -627,7 +627,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -692,7 +692,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
