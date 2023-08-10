@@ -661,7 +661,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Technical Support Officer
+          Designation: School Laboratory Technician
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -726,7 +726,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Technical Support Officer
+          Designation: School Laboratory Technician
         </div>
         <div style="margin: 0px;
             outline: 0px;
