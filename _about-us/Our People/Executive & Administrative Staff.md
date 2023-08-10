@@ -330,7 +330,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Management Support Officer&nbsp;
+          Designation: Corporate Support Officer&nbsp;
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -364,7 +364,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -398,7 +398,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Management Support Officer&nbsp;
+          Designation: Corporate Support Officer&nbsp;
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -432,7 +432,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -466,7 +466,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Management Support Officer
+          Designation: Corporate Support Officer
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -497,7 +497,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -531,7 +531,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Management Support Officer
+          Designation: Corporate Support Officer
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -562,7 +562,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -627,7 +627,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -661,7 +661,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Technical Support Officer
+          Designation: School Laboratory Technician
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -692,7 +692,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -726,7 +726,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Technical Support Officer
+          Designation: School Laboratory Technician
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -794,7 +794,7 @@ third_nav_title: Our People
           <span style="margin: 0px;
               outline: 0px;
               padding: 0px;
-              background-color: initial;">Designation: Technical Support Officer</span><br style="margin: 0px; outline: 0px; padding: 0px">
+              background-color: initial;">Designation: Education Workshop Instructor</span><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -825,7 +825,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -890,7 +890,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -952,75 +952,10 @@ third_nav_title: Our People
         </div>
       </td>
     </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 113px;
-            height: 143px;" class="ive_eobj_left" alt="Morier Angelia Dorothy.jpg" src="/images/EAS/Morier%20Angelia%20Dorothy.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mdm Morier Angelia Dorothy</b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Designation: Operations Support Officer
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Department: Operations
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:morier_angelia_dorothy@schools.gov.sg">morier_angelia_dorothy@schools.gov.sg</a>
-        </div>
-      </td>
-    </tr>
 		 <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px px px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -1029,7 +964,7 @@ third_nav_title: Our People
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 122px;" class="ive_eobj_left" alt="Aryani Bte Abdul Rahman.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 122px;" class="ive_eobj_left" alt="Aryani Bte Abdul Rahman.jpg" src="/images/EAS/nur_hidayah_binte_ridzuan1.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -1150,7 +1085,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -1215,7 +1150,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
         <td style="margin: 0px;
             outline: 0px;
-            padding: 0px 15px 15px 0px;
+            padding: 0px 7px 15px 0px;
             vertical-align: top;">
           <img style="margin: 0px 10px 0px 0px;
               outline: 0px;
@@ -1280,7 +1215,7 @@ third_nav_title: Our People
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px 7px 15px 0px;
           vertical-align: top;">
         <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
