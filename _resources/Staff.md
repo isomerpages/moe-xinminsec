@@ -36,7 +36,7 @@ MOE Links (Intranet)
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 *   [School Cockpit (Admin and Reports)](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
-*   [School cockpit (Result Entry)](https://schoolcockpit.moe.gov.sg/academic)
+*   [School Cockpit (Result Entry)](https://schoolcockpit.moe.gov.sg/academic)
 
 
 
