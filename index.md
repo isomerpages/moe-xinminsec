@@ -4,7 +4,7 @@ title: Xinmin Secondary School
 description: Xinmin Secondary School
 image: /images/xinmin logo.png
 permalink: /
-notification: test
+notification: ""
 sections:
   - hero:
       background: /images/xinminsec.gif
