@@ -1,7 +1,7 @@
 ---
 title: End Of Year examination 2023 schedules
 permalink: /announcements/announcements/eoy2023/
-date: 2023-08-28
+date: 2023-08-29
 layout: post
 description: ""
 image: ""
