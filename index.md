@@ -20,8 +20,6 @@ sections:
           url: /resources/staff/
   - infopic:
       title: Open House 2023
-      button: Click here
-      url: www.google.com
       alt: Image alt text
       image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
   - infopic:
