@@ -23,6 +23,7 @@ sections:
       button: Click here
       url: www.google.com
       alt: Image alt text
+      image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
