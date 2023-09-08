@@ -22,6 +22,7 @@ sections:
       title: Open House 2023
       alt: Image alt text
       image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
+      description: 11 Nov 2023, Saturday, 8 am to 12:30 pm
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
