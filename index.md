@@ -19,6 +19,11 @@ sections:
           description: Staff
           url: /resources/staff/
   - infopic:
+      title: Open House 2023
+      button: Click here
+      url: www.google.com
+      alt: Image alt text
+  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have A question?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
