@@ -2,6 +2,7 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
+      - Quick Links.md
       - Academic Matters/.keep
       - Academic Matters/Booklists.md
       - Academic Matters/Bookshop and Uniform Supplier.md
