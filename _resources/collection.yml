@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - For Students and Parents/For Students and Parents.md
+      - For Students and Parents/Quick Links.md
       - For Students and Parents/.keep
       - Parents.md
       - Staff.md
