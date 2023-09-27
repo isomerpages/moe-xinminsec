@@ -14,3 +14,6 @@ Timetables
 *   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1S7lChpa_rMRRRJwkNGCqUNMqqJzcWTRenVWWpUSvCEc/edit#gid=1582931388)
 
 
+Booklists
+--------
+*   [Booklists](/resources/students/school-resources/bookshop-and-uniform-supplier)
