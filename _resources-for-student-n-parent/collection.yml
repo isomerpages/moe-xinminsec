@@ -2,5 +2,6 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
+      - Bookshop and Uniform Supplier.md
       - Academic Matters/Booklists.md
       - Academic Matters/.keep
