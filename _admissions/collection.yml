@@ -1,5 +1,4 @@
 collections:
   admissions:
     output: true
-    order:
-      - Subject Combination 2024.md
+    order: []
