@@ -2,5 +2,6 @@ collections:
   our-school:
     output: true
     order:
+      - School History.md
       - Contact Us.md
       - Principal's Foreword.md
