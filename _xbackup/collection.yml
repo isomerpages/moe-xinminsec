@@ -1,4 +1,4 @@
 collections:
-  backup:
+  xbackup:
     output: true
     order: []
