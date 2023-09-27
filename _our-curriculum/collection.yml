@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - The Xinmin Learning Experience.md
+      - Key Approaches/RefleXions@Xinmin.md
       - Key Approaches/.keep
