@@ -12,5 +12,5 @@ links:
     collection: achievements
   - title: Admissions
     collection: admissions
-  - title: Have A Question?
-    url: https://go.ask.gov.sg/xms
+  - title: Resources
+    collection: resources
