@@ -1,5 +1,4 @@
 collections:
   for-students-and-parents:
     output: true
-    order:
-      - Pastoral Matters/.keep
+    order: []
