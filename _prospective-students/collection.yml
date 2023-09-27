@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Student Resources/Local Transfer Admission.md
       - Student Resources/International Student Admission.md
       - Student Resources/.keep
       - Direct School Admission.md
