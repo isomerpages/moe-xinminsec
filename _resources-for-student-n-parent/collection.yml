@@ -2,4 +2,4 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
-      - Quick Links/.keep
+      - Academic Matters/.keep
