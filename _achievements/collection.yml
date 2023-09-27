@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Stakeholders.md
       - Alumni.md
       - Staff.md
       - Students.md
