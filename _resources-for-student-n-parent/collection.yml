@@ -2,5 +2,4 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
-      - Academic Matters/Booklists.md
       - Academic Matters/.keep
