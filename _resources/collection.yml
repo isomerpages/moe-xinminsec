@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
+      - For Students and Parents/.keep
+      - For Students and Parents/Quick Links.md
       - For Students and Parents/Academic Matters.md
       - For Students and Parents/Backup.md
-      - For Students and Parents/Quick Links.md
-      - For Students and Parents/.keep
       - Parents.md
       - Staff.md
