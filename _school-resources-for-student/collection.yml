@@ -1,5 +1,4 @@
 collections:
   school-resources-for-student:
     output: true
-    order:
-      - School Rules and Regulations.md
+    order: []
