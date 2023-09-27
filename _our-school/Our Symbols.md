@@ -30,19 +30,7 @@ The 3 figures represent the close parthership between school, home and the commu
 Our School Song
 ---------------
 
-#### Our School Song (In Hanyu Pinyin) <br>
-Xin Min Xin Min <br>
-wo men yao zuo she hui de zhu ren <br>
-wo men yao zuo shi dai de ming deng <br>
-bu du si shu shou nao bing yong <br>
-yao xue yao zuo ji zhi ji xing <br>
-Xin Min Xin Min <br>
-wo men yao you ke xue de tou nao <br>
-wo men yao you chuang zao de jing shen <br>
-wei le ren ai wei le xin yi <br>
-wei le zi you wei le he ping <br>
-Xin Min Xin Min
-
+![](/images/School%20Song%20Lyrics/school%20song%20lyrics.png)
   
 
 #### Our School Song's Translation
