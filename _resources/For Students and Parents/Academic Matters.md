@@ -16,7 +16,7 @@ Timetables
 
 Booklists
 --------
-*   [Booklists](/resources/students/school-resources/bookshop-and-uniform-supplier)
+*   [Booklists](/resources/students/school-resources/booklists/)
 
 
 Assessment
