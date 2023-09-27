@@ -1,5 +1,5 @@
 collections:
-  about-us1:
+  about-school:
     output: true
     order:
       - Our Vision, Mission and Values.md
