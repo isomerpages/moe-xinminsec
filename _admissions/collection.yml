@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - International Student Admission.md
       - Local Transfer Admission.md
       - Returning Singaporean Admission.md
       - Subject Combination 2024.md
