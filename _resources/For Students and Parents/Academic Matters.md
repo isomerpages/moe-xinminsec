@@ -26,3 +26,8 @@ Assessment
 *   [Criteria for Promotion](/resources/students/assessment/criteria-for-promotion/)
 *  [End Of Year Examination Topics and Formats](/resources/students/assessment/end-of-year-examination-topics-and-formats/)
 *   [Instructions to Candidates](/resources/students/assessment/instructions-to-candidates/)
+
+
+Bookshop and Uniform Supplier
+----------
+*   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
