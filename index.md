@@ -8,16 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/xinminsec.gif
-      key_highlights:
-        - title: Resources
-          description: Students
-          url: /resources/students/
-        - title: Resources
-          description: Parents
-          url: /resources/parents/
-        - title: Resources
-          description: Staff
-          url: /resources/staff/
   - infopic:
       title: Open House 2023
       alt: Image alt text
