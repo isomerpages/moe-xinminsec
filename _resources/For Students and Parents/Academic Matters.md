@@ -4,3 +4,13 @@ permalink: /resources/for-students-and-parents/academic-matters/
 description: ""
 third_nav_title: For Students and Parents
 ---
+Timetables
+----------
+
+*   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&ctz=Asia/Singapore)
+*   [Home Based Lesson Scheduler (Upper Sec)](https://docs.google.com/spreadsheets/d/1x1Cezpsez216UctPwE2lLGUA4oqZyoGbWNltjtOAcDs/edit?usp=sharing)
+*   [Home Based Lesson Scheduler (Lower Sec)](https://docs.google.com/spreadsheets/d/1HHoS_7IaTD-gqG91jqGgc60Ehn3MhNJgcfSlF7uHAAs/edit?usp=sharing)
+*   [School Timetable](/resources/students/timetables/school-timetable/)
+*   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1S7lChpa_rMRRRJwkNGCqUNMqqJzcWTRenVWWpUSvCEc/edit#gid=1582931388)
+
+
