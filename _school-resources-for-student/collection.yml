@@ -1,5 +1,5 @@
 collections:
-  school-resources-for-students:
+  school-resources-for-student:
     output: true
     order:
       - Attire & Grooming.md
