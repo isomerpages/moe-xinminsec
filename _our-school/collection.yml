@@ -2,11 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - Contact Us.md
       - Principal's Foreword.md
-      - School History.md
       - Our Vision, Mission and Values.md
       - Our Symbols.md
+      - School History.md
       - Our People/.keep
       - Our People/Our People.md
       - Our People/Steering Committee.md
@@ -28,3 +27,4 @@ collections:
       - Our Stakeholders/School's Advisory Committee.md
       - Our Stakeholders/Alumni Executive Committee.md
       - Our Stakeholders/Parent Support Group.md
+      - Contact Us.md
