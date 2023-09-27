@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Foreword.md
       - Our Vision, Mission and Values.md
       - Our Symbols.md
       - School History.md
