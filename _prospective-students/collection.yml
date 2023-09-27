@@ -2,12 +2,12 @@ collections:
   prospective-students:
     output: true
     order:
+      - Prospectus.md
+      - 360 Campus Tour.md
+      - Secondary 1 Posting.md
+      - Direct School Admission.md
+      - Student Resources/.keep
       - Student Resources/Subject Combination 2024.md
       - Student Resources/Returning Singaporean Admission.md
       - Student Resources/Local Transfer Admission.md
       - Student Resources/International Student Admission.md
-      - Student Resources/.keep
-      - Direct School Admission.md
-      - Secondary 1 Posting.md
-      - 360 Campus Tour.md
-      - Prospectus.md
