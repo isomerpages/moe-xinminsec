@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Pastoral Matters/.keep
+      - Academic Matters/Bookshop and Uniform Supplier.md
       - Academic Matters/.keep
