@@ -2,4 +2,5 @@ collections:
   prospective-students:
     output: true
     order:
+      - 360 Campus Tour.md
       - Prospectus.md
