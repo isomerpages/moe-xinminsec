@@ -15,7 +15,6 @@ Timetables
 
 Booklists
 ----------
-_Updated as of 20/12/2022_<br>
 
 **<u>Sec 1</u>**  
 [Sec 1 Express.pdf](/files/Booklist/2023/Sec%201%20Express.pdf)<br>
