@@ -2,11 +2,11 @@ collections:
   resources:
     output: true
     order:
-      - Staff/Quick Links.md
-      - Staff/.keep
       - For Students and Parents/.keep
       - For Students and Parents/Quick Links.md
       - For Students and Parents/Academic Matters.md
       - For Students and Parents/Pastoral Matters.md
       - For Students and Parents/Helpdesk.md
       - Staff.md
+      - Staff/.keep
+      - Staff/Quick Links.md
