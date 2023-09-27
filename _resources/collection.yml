@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - For Students and Parents/.keep
-      - For Students and Parents.md
       - Parents.md
       - Staff.md
