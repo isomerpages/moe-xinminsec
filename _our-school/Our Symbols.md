@@ -32,6 +32,8 @@ Our School Song
 
 ![](/images/School%20Song%20Lyrics/school%20song%20lyrics.png)
   
+Click [here] to listen
+
 
 #### Our School Song's Translation
 
