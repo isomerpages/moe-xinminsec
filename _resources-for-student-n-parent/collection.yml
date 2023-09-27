@@ -2,4 +2,5 @@ collections:
   resources-for-student-n-parent:
     output: true
     order:
+      - Pastoral Matters/.keep
       - Academic Matters/.keep
