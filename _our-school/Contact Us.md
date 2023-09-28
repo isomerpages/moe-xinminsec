@@ -12,9 +12,7 @@ Singapore 538 789 <br>
 School Code: 3050 <br>
 Tel:(+65) 6288 9382 <br>
 Fax:(+65) 6385 1068 <br>
-
 <br>
-
 **To Get Here...**
 
 ![school map](/images/school_map%20latest.jpeg)
