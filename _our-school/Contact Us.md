@@ -13,12 +13,6 @@ School Code: 3050 <br>
 Tel:(+65) 6288 9382 <br>
 Fax:(+65) 6385 1068 <br>
 
-**Have a question?**  
-Ask and get answered on our [Q&amp;A Page](https://go.ask.gov.sg/scss)
-<br>
-<span style="color:#999999"><em>Powered by:
-<br><img src="/images/logo-askgov.png" style="width:15%;float:left">
-	
 <br>
 
 **To Get Here...**
@@ -40,4 +34,4 @@ From CTE, exit at Ang Mo Kio Ave 3 leading towards Hougang Ave 2. Turn left into
 
   
 
-Alternatively, you can click on "[gothere.sg](http://gothere.sg/)" for direction from origin to Xinmin Secondary School.</em></span>
+Alternatively, you can click on "[gothere.sg](http://gothere.sg/)" for direction from origin to Xinmin Secondary School.
