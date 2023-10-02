@@ -37,7 +37,7 @@ Technology can be powerful in the Humanities classroom as it allows students to 
 | Geography student goes on a virtual learning journey to experience a volcanic eruption     | History students engaged in role-play and using an online tool to share findings     | Social Studies students learning about political cartoons through SLS and getting immediate feedback Live     |
 
 
-***Experiential Learning*** <br>
+<br>***Experiential Learning*** <br>
 We want students to see the Humanities in action! From Lower to Upper Sec, students are brought out of the classroom to examine real-world artefacts and data to conclude with findings to an inquiry question of their curiosity. From farming technology to museum-based learning, students have ample opportunities to explore the world around them with the Humanities lens.
 
 | || |
@@ -46,7 +46,7 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
 | Lower Sec students enjoying freshly grown vegetables on their visit to Kok Fah Farm      | Sec 2 student examining a school monument to determine its significance in Xinmin’s history   | Sec 3 student exploring the gallery at HDB to investigate accessibility for citizens   |
 
 
-**Talent Development in the Humanities** <br>
+<br>**Talent Development in the Humanities** <br>
 We recognise and value the talent students may have in the Humanities and we seek to nurture this talent with the hope that these students are inspired to pursue an education or career path in the Humanities. These are some opportunities we curate for our students to hone their talent.
 
 
