@@ -14,7 +14,7 @@ sections:
           url: /about-us/principals-message/
         - title: Our Curriculum
           description: ""
-          url: ""
+          url: /our-curriculum/the-xinmin-learning-experience/
         - title: Prospective Students
           description: ""
           url: ""
