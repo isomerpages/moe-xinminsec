@@ -61,4 +61,11 @@ We recognise and value the talent students may have in the Humanities and we see
 | || |
 | -------- | -------- | -------- |
 | ![](/images/Humanities/Department_programmes/humanities_5.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_6.jpeg)  |
-| Catholic High School Humanities Exchange   | ASRJC Arts Symposium  | 
+| Catholic High School Humanities Exchange   | ASRJC Arts Symposium  |
+
+
+*Competitions*
+| || |
+| -------- | -------- | -------- |
+| ![](/images/Humanities/Department_programmes/humanities_8.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_2.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_9.jpeg)   |
+| VJC Singapore Model Cabinet   | NUS Geography Challenge   | Istana Heritage Gallery Challenge (3rd Place)  |
