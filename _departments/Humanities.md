@@ -55,3 +55,10 @@ We recognise and value the talent students may have in the Humanities and we see
 | -------- | -------- | -------- |
 | ![](/images/Humanities/Department_programmes/humanities_8.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_2.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_9.jpeg)   |
 | Heritage Ambassador documenting an oral account for school heritage     | Students debating societal issues in the Xinmin Model Parliament   | Visit to Treatsure to learn about how to manage food waste with technology   |
+
+
+*Seminars*
+| || |
+| -------- | -------- | -------- |
+| ![](/images/Humanities/Department_programmes/humanities_8.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_2.jpeg)   |
+| Catholic High School Humanities Exchange   | ASRJC Arts Symposium  | 
