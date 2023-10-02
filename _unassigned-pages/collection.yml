@@ -1,0 +1,4 @@
+collections:
+  unassigned-pages:
+    output: true
+    order: []
