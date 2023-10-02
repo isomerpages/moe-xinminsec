@@ -17,7 +17,7 @@ sections:
           url: /our-curriculum/the-xinmin-learning-experience/
         - title: Prospective Students
           description: ""
-          url: ""
+          url: /about-us/prospectus/
         - title: Resources
           description: ""
           url: ""
