@@ -1,4 +1,5 @@
 collections:
   unassigned-pages:
     output: true
-    order: []
+    order:
+      - Full SBB.md
