@@ -67,5 +67,5 @@ We recognise and value the talent students may have in the Humanities and we see
 *Competitions*
 | || |
 | -------- | -------- | -------- |
-| ![](/images/Humanities/Department_programmes/humanities_8.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_2.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_9.jpeg)   |
+| ![](/images/Humanities/Department_programmes/humanities_1.jpeg)  | ![](/images/Humanities/Department_programmes/geog%20challenge.jpg) | ![](/images/Humanities/Department_programmes/humanities_4.jpeg)   |
 | VJC Singapore Model Cabinet   | NUS Geography Challenge   | Istana Heritage Gallery Challenge (3rd Place)  |
