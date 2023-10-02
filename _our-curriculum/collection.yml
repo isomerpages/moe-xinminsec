@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Learning/.keep
       - The Xinmin Learning Experience.md
       - Key Approaches/RefleXions@Xinmin.md
       - Key Approaches/.keep
