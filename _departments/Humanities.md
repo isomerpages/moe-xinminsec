@@ -34,3 +34,13 @@ Technology can be powerful in the Humanities classroom as it allows students to 
 **Talent Development in the Humanities** <br>
 We recognise and value the talent students may have in the Humanities and we seek to nurture this talent with the hope that these students are inspired to pursue an education or career path in the Humanities. These are some opportunities we curate for our students to hone their talent.
 
+Programmes
+
+
+| || |
+| -------- | -------- | -------- |
+| ![](/images/Humanities/Department_programmes/humanities_8.jpeg)    |  ![](/images/Humanities/Department_programmes/humanities_2.jpeg)    | ![](/images/Humanities/Department_programmes/humanities_9.jpeg)     |
+| Text     | Text     | Text     |
+
+
+
