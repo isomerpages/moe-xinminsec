@@ -20,7 +20,7 @@ sections:
           url: /about-us/prospectus/
         - title: Resources
           description: ""
-          url: ""
+          url: /resources/for-students-and-parents/quick-links/
   - infopic:
       title: Open House 2023
       alt: Image alt text
