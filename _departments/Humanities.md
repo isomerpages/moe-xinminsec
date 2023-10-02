@@ -30,12 +30,15 @@ img {
 **_Use of E-Pedagogy for Active Learning_** <br>
 Technology can be powerful in the Humanities classroom as it allows students to tap on multi-modal presentations of information, including current articles, statistical data and videos. It also creates opportunities for students to enjoy an out-of-classroom experience through virtual learning. In facilitating the inquiry approach, students also harness the affordances of technology to collaborate with peers, present findings and interact with teachers for more tailored feedback.
 
-
-**Talent Development in the Humanities** <br>
-We recognise and value the talent students may have in the Humanities and we seek to nurture this talent with the hope that these students are inspired to pursue an education or career path in the Humanities. These are some opportunities we curate for our students to hone their talent.
-
 *Programmes*
 | || |
 | -------- | -------- | -------- |
 | ![](/images/Humanities/Department_programmes/geog%20student%20on%20virtual%20lj.jpg)   | ![](/images/Humanities/Department_programmes/history%20students%20engaged%20in%20role%20play.jpg)    | ![](/images/Humanities/Department_programmes/ss%20students%20learning%20about%20political%20cartoon.jpg)   |
 | Geography student goes on a virtual learning journey to experience a volcanic eruption     | History students engaged in role-play and using an online tool to share findings     | Social Studies students learning about political cartoons through SLS and getting immediate feedback Live     |
+
+
+***Experiential Learning*** <br>
+We want students to see the Humanities in action! From Lower to Upper Sec, students are brought out of the classroom to examine real-world artefacts and data to conclude with findings to an inquiry question of their curiosity. From farming technology to museum-based learning, students have ample opportunities to explore the world around them with the Humanities lens.
+
+**Talent Development in the Humanities** <br>
+We recognise and value the talent students may have in the Humanities and we seek to nurture this talent with the hope that these students are inspired to pursue an education or career path in the Humanities. These are some opportunities we curate for our students to hone their talent.
