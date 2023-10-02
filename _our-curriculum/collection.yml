@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities/.keep
-      - Student Development/.keep
-      - Academic Learning/.keep
       - The Xinmin Learning Experience.md
-      - Key Approaches/RefleXions@Xinmin.md
       - Key Approaches/.keep
+      - Key Approaches/RefleXions@Xinmin.md
+      - Academic Learning/.keep
+      - Student Development/.keep
+      - Co Curricular Activities/.keep
