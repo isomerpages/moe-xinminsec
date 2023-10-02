@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our School
           description: ""
-          url: ""
+          url: /about-us/principals-message/
         - title: Our Curriculum
           description: ""
           url: ""
