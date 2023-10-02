@@ -40,7 +40,4 @@ Programmes
 | || |
 | -------- | -------- | -------- |
 | ![](/images/Humanities/Department_programmes/humanities_8.jpeg)    |  ![](/images/Humanities/Department_programmes/humanities_2.jpeg)    | ![](/images/Humanities/Department_programmes/humanities_9.jpeg)     |
-| Text     | Text     | Text     |
-
-
-
+| Geography student goes on a virtual learning journey to experience a volcanic eruption     | History students engaged in role-play and using an online tool to share findings     | Social Studies students learning about political cartoons through SLS and getting immediate feedback Live     |
