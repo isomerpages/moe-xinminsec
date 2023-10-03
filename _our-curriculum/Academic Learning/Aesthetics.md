@@ -4,13 +4,15 @@ permalink: /departments/arts-education/aesthetics/
 description: ""
 third_nav_title: Academic Learning
 ---
-**Aesthetics Department vision** <br>
+Aesthetics Department vision
+------------------
 * To develop inquisitiveness towards the Arts
 * To develop student voice and choice through the Arts.
 * To advocate appreciation and enjoyment for the Arts across cultures and perspectives.
 * To develop the values of Respect, Responsibility and Resilience through the Arts.  
 
-**Belief** <br>
+Belief
+------------------
 Every Xinmin student should be able to appreciate the Arts, develop through the Arts and contribute actively through the Arts.
 
 Approaches
