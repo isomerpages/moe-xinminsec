@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The Xinmin Learning Experience.md
+      - Key Approaches/Talent Development Approach.md
       - Key Approaches/XinminCares.md
       - Key Approaches/.keep
       - Key Approaches/RefleXions@Xinmin.md
