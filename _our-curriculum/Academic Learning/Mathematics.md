@@ -4,7 +4,7 @@ permalink: /departments/mathematics/
 description: ""
 third_nav_title: Academic Learning
 ---
-Our Mission
+Our Belief
 -----------
 
 ![Think-Connect-Reason](/images/Think-Connect-Reason.png)
@@ -15,21 +15,6 @@ Approaches
 **_Learning Experiences_**
 
 We believe that by helping students connect their conceptual understanding to authentic real-world problems, it will spark off their curiosity in the subject and elicit the joy of learning. Real world authentic tasks are infused in our day-to-day classrooms to develop critical and inventive thinking skills. Some of these tasks include bringing students out of the classrooms to investigate and record findings within the school compound and for them to draw relevance of mathematical problems to familiar environment and context. Students are also encouraged to work in a collaborative setting or to share their findings of these learning experiences with their peers which help enhance their reasoning and communication skills. 
-
-  
-
-Our Mission -----------
-![Think-Connect-Reason](/images/Think-Connect-Reason.png) Approaches ----------
-**_Learning Experiences_** We believe that by helping students connect their
-conceptual understanding to authentic real-world problems, it will spark off
-their curiosity in the subject and elicit the joy of learning. Real world
-authentic tasks are infused in our day-to-day classrooms to develop critical and
-inventive thinking skills. Some of these tasks include bringing students out of
-the classrooms to investigate and record findings within the school compound and
-for them to draw relevance of mathematical problems to familiar environment and
-context. Students are also encouraged to work in a collaborative setting or to
-share their findings of these learning experiences with their peers which help
-enhance their reasoning and communication skills.
 
 <br>
 <table style="margin: auto;
@@ -62,19 +47,8 @@ enhance their reasoning and communication skills.
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;">
+            text-align: left;">
         Students using a clinometer to measure the angle of elevation of an emergency exit of a school block. This measurement can then be used to calculate the height of the emergency exit. 
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-        Students applying concepts of map scales to calculate the actual distance between school and the nearby neighbourhood hawker center.
         </div>
       </td>
       <td style="margin: 0px;
@@ -98,19 +72,8 @@ enhance their reasoning and communication skills.
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;">
-        Students engaging in a collaborative task and consolidating their learning on SLS platform.
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          nearby neighbourhood hawker center.
+            text-align: left;">
+        Students applying concepts of map scales to calculate the actual distance between school and the nearby neighbourhood hawker center.
         </div>
       </td>
       <td style="margin: 0px;
@@ -134,9 +97,8 @@ enhance their reasoning and communication skills.
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;">
-          Students engaging in a collaborative task and consolidating their
-          learning on SLS platform.
+            text-align: left;">
+        Students engaging in a collaborative task and consolidating their learning on SLS platform.
         </div>
       </td>
     </tr>
