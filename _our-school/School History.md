@@ -100,6 +100,9 @@ In was during Mdm Liew’s tenure that Xinmin organised the 1st Secondary School
 
 Under Mdm Liew’s leadership, Xinmin received the Outstanding Development Award for Character Development for its innovative and exemplary approaches to character development, and continued to be ranked a Band 1 school.
 
+Chapter 6: The way forward to holistic education, enhanced by technology
+-------------------------------------------------------------------
+
 第一章：一切从敢于梦想起步
 -------------
 
