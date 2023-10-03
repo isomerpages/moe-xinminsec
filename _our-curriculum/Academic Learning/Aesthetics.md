@@ -197,6 +197,3 @@ Students develop as reflective critical thinkers through:
 * Application of their learning towards expressing themselves creatively.
 * Reviewing and responding to Art form exposure programmes/learning journeys.
 * Peer evaluation
-
-  
-
