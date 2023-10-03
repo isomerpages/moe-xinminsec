@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Stakeholders.md
-      - Nutrition and Food Science.md
       - Design and Technology.md
       - Blended Learning.md
       - Drama.md
