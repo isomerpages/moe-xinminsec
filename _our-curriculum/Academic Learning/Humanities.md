@@ -32,10 +32,94 @@ img {
 Technology can be powerful in the Humanities classroom as it allows students to tap on multi-modal presentations of information, including current articles, statistical data and videos. It also creates opportunities for students to enjoy an out-of-classroom experience through virtual learning. In facilitating the inquiry approach, students also harness the affordances of technology to collaborate with peers, present findings and interact with teachers for more tailored feedback.
 
 *Programmes*
-| || |
-| -------- | -------- | -------- |
-| ![](/images/Humanities/Department_programmes/geog%20student%20on%20virtual%20lj.jpg)   | ![](/images/Humanities/Department_programmes/history%20students%20engaged%20in%20role%20play.jpg)    | ![](/images/Humanities/Department_programmes/ss%20students%20learning%20about%20political%20cartoon.jpg)   |
-| Geography student goes on a virtual learning journey to experience a volcanic eruption     | History students engaged in role-play and using an online tool to share findings     | Social Studies students learning about political cartoons through SLS and getting immediate feedback Live     |
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/geog%20student%20on%20virtual%20lj.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+        <br>Geography student goes on a virtual learning journey to experience a volcanic eruption
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Humanities/Department_programmes/history%20students%20engaged%20in%20role%20play.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+        <br>History students engaged in role-play and using an online tool to share findings
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 376px;
+            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Humanities/Department_programmes/ss%20students%20learning%20about%20political%20cartoon.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+        <br>Social Studies students learning about political cartoons through SLS and getting immediate feedback Live
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <br>***Experiential Learning*** <br>
