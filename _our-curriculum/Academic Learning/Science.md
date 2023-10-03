@@ -86,6 +86,8 @@ Our upper secondary students conducting a scientific experiment and explaining t
     </tr>
   </tbody>
 </table>
+
+Our students learning about the soilless cultivation of vegetables and its benefits in the lower secondary science curriculum
 <table style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -114,7 +116,7 @@ Our upper secondary students conducting a scientific experiment and explaining t
 
 
 
-Our students learning about the soilless cultivation of vegetables and its benefits in the lower secondary science curriculum
+
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
