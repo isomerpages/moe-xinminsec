@@ -181,7 +181,12 @@ Sharing their Art presentations with their peers and the wider community is also
 
   
 
-At Upper Secondary, students get to experience outdoor drawing and visit museums, as a crucial part of their learning. ‘Let’s Talk About Art’ is a component in which students will build on their observational drawing skills, talk about artworks, explore themes, and engage in critical thinking.
+**Cultivate** <br>
+Arts Education in Xinmin believes strongly in cultivating a love for the arts whilst building up student character. Deeply rooted with an objective of providing students with 21st Century Competencies, the programme is grounded on producing students who actively work on being resilient, responsible and respectful individuals.
+
+All Arts Education programmes focus on students exercising self-directedness in their creative process which tests their resilience and responsibility towards the task. Being allowed to take ownership of their work comes with them showing strong character to follow through to their presentations. Teachers facilitate lessons with the development of student character in mind as they reflect not just about the lessons, process and learning but also about both their and their peer’s contribution.
+
+Above all, the programme is inclusive for all students and aims towards students enjoying the different arts opportunities afforded to them. Students may not leave Xinmin as practitioners or artistes but we aim towards students who see the joy, beauty and developmental opportunities in the Arts 😊
 
   
 
