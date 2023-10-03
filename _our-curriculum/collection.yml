@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Our CCA.md
       - The Xinmin Learning Experience.md
       - Key Approaches/.keep
       - Key Approaches/Talent Development Approach.md
@@ -23,8 +22,9 @@ collections:
       - Academic Learning/Physical Education.md
       - Academic Learning/Science.md
       - Academic Learning/Technology and Business.md
+      - Student Development/.keep
       - Student Development/Total Curriculum Map and Level Themes.md
       - Student Development/Character and Citizenship Education.md
-      - Student Development/.keep
-      - Co Curricular Activities/test.md
       - Co Curricular Activities/.keep
+      - Co Curricular Activities/test.md
+      - Our CCA.md
