@@ -145,11 +145,63 @@ The sensemaking does not stop there with skills and knowledge utilised across su
 
   
 
-Museum-based learning is also an integral part of Secondary Two curriculum. They will learn about local artists and how art tells us stories with relevance to the world we live in. Students will learn about Art History Timeline, doodle on famous artists’ styles and also investigate how the perception of Art has evolved together with the world.  
+Sharing their Art presentations with their peers and the wider community is also highly encouraged and gives students a massive sense of pride in whatever they do. Students are given the opportunity to showcase their artistic talents to students of Xinmin through hallway exhibitions as well as through platforms like school major events such as Speech Day, Xinmin Arts Week and Homecoming. Recently, students got their pieces featured in the Alumni Exhibition that was open to the public. This gave the students a sense of pride in their work!
 
-  
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 246px; height: 184px;" class="ive_eobj_center" alt="Visual Art_8.jpg" src="/images/Visual%20Art_8.jpeg"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 246px; height: 184px;" class="ive_eobj_center" alt="Visual Art_9.jpg" src="/images/Visual%20Art_9.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 275px; height: 367px;" class="ive_eobj_center" alt="Visual Art_10.jpg" src="/images/Visual%20Art_10.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 241px; height: 184px;" class="ive_eobj_center" alt="Visual Art_11.jpg" src="/images/Visual%20Art_11.jpeg"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 283px; height: 184px;" class="ive_eobj_center" alt="Visual Art_12.jpg" src="/images/Visual%20Art_12.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 209px; height: 367px;" class="ive_eobj_center" alt="Visual Art_13.jpg" src="/images/Visual%20Art_13.jpeg"></td></tr></tbody></table>
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Arts_Education/Department_programmes/aesthetics_3a.png">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_3b.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 376px;
+            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_3c.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
   
 
