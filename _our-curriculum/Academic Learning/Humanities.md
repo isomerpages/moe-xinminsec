@@ -22,7 +22,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Inquiry%20cycle%20diagram.png" alt="Inquiry cycle diagram" style="width:50%;">  
+<img style="width:50%;" alt="Inquiry cycle diagram" src="/images/Inquiry%20cycle%20diagram.png">  
   
 
 
@@ -32,20 +32,20 @@ img {
 Technology can be powerful in the Humanities classroom as it allows students to tap on multi-modal presentations of information, including current articles, statistical data and videos. It also creates opportunities for students to enjoy an out-of-classroom experience through virtual learning. In facilitating the inquiry approach, students also harness the affordances of technology to collaborate with peers, present findings and interact with teachers for more tailored feedback.
 
 *Programmes*
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/geog%20student%20on%20virtual%20lj.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -53,7 +53,7 @@ Technology can be powerful in the Humanities classroom as it allows students to 
             clear: both;
             display: block;
             width: 240px;
-            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/geog%20student%20on%20virtual%20lj.jpg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -70,7 +70,7 @@ Technology can be powerful in the Humanities classroom as it allows students to 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/history%20students%20engaged%20in%20role%20play.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -78,7 +78,7 @@ Technology can be powerful in the Humanities classroom as it allows students to 
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Humanities/Department_programmes/history%20students%20engaged%20in%20role%20play.jpg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -95,7 +95,7 @@ Technology can be powerful in the Humanities classroom as it allows students to 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/ss%20students%20learning%20about%20political%20cartoon.jpg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -103,7 +103,7 @@ Technology can be powerful in the Humanities classroom as it allows students to 
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Humanities/Department_programmes/ss%20students%20learning%20about%20political%20cartoon.jpg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -125,20 +125,20 @@ Technology can be powerful in the Humanities classroom as it allows students to 
 <br>***Experiential Learning*** <br>
 We want students to see the Humanities in action! From Lower to Upper Sec, students are brought out of the classroom to examine real-world artefacts and data to conclude with findings to an inquiry question of their curiosity. From farming technology to museum-based learning, students have ample opportunities to explore the world around them with the Humanities lens.
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/humanities_3.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -146,7 +146,7 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
             clear: both;
             display: block;
             width: 240px;
-            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_3.jpeg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -164,7 +164,7 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/sec%202%20student%20examining%20school%20monument.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -172,7 +172,7 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Humanities/Department_programmes/sec%202%20student%20examining%20school%20monument.jpg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -190,7 +190,7 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/humanities_7.jpeg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -198,7 +198,7 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Humanities/Department_programmes/humanities_7.jpeg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -222,28 +222,20 @@ We recognise and value the talent students may have in the Humanities and we see
 
 
 *Programmes*
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;
-            width: 240px;
-            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_8.jpeg">
+        <img src="/images/Humanities/Department_programmes/humanities_8.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=&quot;100%&quot;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -261,15 +253,7 @@ We recognise and value the talent students may have in the Humanities and we see
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;
-            width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Humanities/Department_programmes/humanities_2.jpeg">
+        <img src="/images/Humanities/Department_programmes/humanities_2.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=&quot;100%&quot;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -287,7 +271,7 @@ We recognise and value the talent students may have in the Humanities and we see
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/humanities_9.jpeg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -295,7 +279,7 @@ We recognise and value the talent students may have in the Humanities and we see
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Humanities/Department_programmes/humanities_9.jpeg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -318,28 +302,20 @@ We recognise and value the talent students may have in the Humanities and we see
 
 *Seminars*
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;
-            width: 240px;
-            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_5.jpeg">
+        <img src="/images/Humanities/Department_programmes/humanities_5.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=&quot;100%&quot;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -357,7 +333,7 @@ We recognise and value the talent students may have in the Humanities and we see
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Humanities/Department_programmes/humanities_6.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -365,7 +341,7 @@ We recognise and value the talent students may have in the Humanities and we see
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Humanities/Department_programmes/humanities_6.jpeg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -385,7 +361,85 @@ We recognise and value the talent students may have in the Humanities and we see
 
 
 *Competitions*
-| || |
-| -------- | -------- | -------- |
-| ![](/images/Humanities/Department_programmes/humanities_1.jpeg)  | ![](/images/Humanities/Department_programmes/geog%20challenge.jpg) | ![](/images/Humanities/Department_programmes/humanities_4.jpeg)   |
-| VJC Singapore Model Cabinet   | NUS Geography Challenge   | Istana Heritage Gallery Challenge (3rd Place)  |
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Humanities/Department_programmes/humanities_1.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          VJC Singapore Model Cabinet
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Humanities/Department_programmes/geog%20challenge.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          NUS Geography Challenge
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Humanities/Department_programmes/humanities_4.jpeg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 376px;
+            height: 236px;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Istana Heritage Gallery Challenge (3rd Place)
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
