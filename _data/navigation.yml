@@ -10,3 +10,12 @@ links:
     collection: resources
   - title: Prospective Students
     collection: prospective-students
+  - title: Our Curriculum 1
+    url: /our-curriculum/the-xinmin-learning-experience/
+    sublinks:
+      - title: The Xinmin Learning Experience
+        url: /our-curriculum/the-xinmin-learning-experience/
+      - title: Key Approaches
+        url: /our-curriculum/key-approaches/talent-development/
+      - title: Our Curricular Activities
+        url: /ccas/cca-information/
