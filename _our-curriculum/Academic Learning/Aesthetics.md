@@ -30,14 +30,63 @@ Students also have opportunities to sample the cultural offerings from around th
 The sensemaking does not stop there with skills and knowledge utilised across subjects. Students develop their awareness of the world around them and learn more about what makes Singapore unique through an exploration that encompasses Music, Art and Drama. Soundscapes from Music lessons are utilised to create performances in RefleXions that are heavily influenced by the perspectives explored in Art lessons! Through RefleXions, students use Drama as a means to evaluate decision making in their daily lives and how they can best negotiate building relationships with friends, family and the wider community.
 
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 262px; height: 194px;" class="ive_eobj_center" alt="Visual Art_1.jpg" src="/images/Visual%20Art_1.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Student goes online to look at artist references</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 424px; height: 194px;" class="ive_eobj_center" alt="Visual Art_2.png" width="100%" src="/images/Visual%20Art_2.png"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Student showcases works and personal response in shared google slides</div></td></tr></tbody></table>
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Arts_Education/Department_programmes/aesthetics_1a.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_1b.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 376px;
+            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_1c.jpg">       
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**_Experiential Learning_** <br>
-At Lower Secondary, Secondary One students participate in group project and engage in fun facilitation of games or activities. Through card games, students will learn about strategic game play, sketching techniques, colour theory, conceptual and visual design.
 
-  
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 390px; height: 139px;" class="ive_eobj_center" alt="Visual Art_3.jpg" src="/images/Visual%20Art_3.jpeg"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 390px; height: 135px;" class="ive_eobj_center" alt="Visual Art_4.jpg" src="/images/Visual%20Art_4.jpeg"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 390px; height: 132px;" class="ive_eobj_center" alt="Visual Art_5.jpg" src="/images/Visual%20Art_5.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Secondary One card game design. They get to play their&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">peers’ card game after the final deck is completed.</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 303px; height: 405px;" class="ive_eobj_center" alt="Visual Art_6.jpg" width="100%" src="/images/Visual%20Art_6.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Students get to play actual card games before designing their own&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">version of card deck.</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 303px; height: 405px;" class="ive_eobj_center" alt="Visual Art_7.jpg" width="100%" src="/images/Visual%20Art_7.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Student facilitating a game of<span>&nbsp;</span><i style="margin: 0px; outline: 0px; padding: 0px;">Werewolves</i>, while narrating a&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">short story, with the rule of no peeking.</div></td></tr></tbody></table>
 
   
 
