@@ -2,6 +2,5 @@ collections:
   departments:
     output: true
     order:
-      - Design and Technology.md
       - Nutrition and Food Science.md
       - Character and Citizenship Education.md
