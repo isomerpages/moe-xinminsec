@@ -190,7 +190,7 @@ Above all, the programme is inclusive for all students and aims towards students
 
 **Inquiry-based Learning** <br>
 **Developing Curious Learners** <br>
-Reflective thinking is encouraged across all art-forms with teachers actively facilitating students’ responses to the various stimuli they are provided. Students are curious learners and critical thinkers as they make connections between the art-forms and the world around them.
+Reflective thinking is encouraged across all art-forms with teachers actively facilitating students’ responses to the various stimuli they are provided. Students are curious learners and critical thinkers as they make connections between the art-forms and the world around them.<br><br>
 Students develop as reflective critical thinkers through:
 * Analysing the possibilities offered in the world around them.
 * Exploring and exchanging perspectives and ideas.
