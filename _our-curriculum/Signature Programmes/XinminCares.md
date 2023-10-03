@@ -4,10 +4,6 @@ permalink: /programmes/xinmincares/
 description: ""
 third_nav_title: Signature Programmes
 ---
-_Updated on 18th October 2021_
-
-  
-
 The XinminCares Programme is our signature Values-In-Action (VIA) programme in the Character and Citizenship Education curriculum. Through XinminCares, we hope to develop every Xinmin student into a compassionate contributor who respects diverse perspectives and needs of different individuals and recognises his/her ability in addressing issues in our community.
 
   
