@@ -31,3 +31,8 @@ Assessment
 Bookshop and Uniform Supplier
 ----------
 *   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-supplier)
+
+
+Personal Digital Learning Programme (PDLP) 
+----------
+*   [PDLP Site](https://sites.google.com/xinminss.edu.sg/ndlpxmss/pdlpxinmin?authuser=2)
