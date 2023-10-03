@@ -31,7 +31,7 @@ A peek into the classroom….
 
 Ever have such thoughts in your mind? This is sensory evaluation! In FCE, the Secondary Two students have the opportunity to participate in a station-based activity to find out who has the best sense of taste and sense of smell among them. There are four stations which require students to taste different food items based on triangle test1, ranking test2 and rating test3 and identifying different ingredients in the mysterious cups4. The teachers have planned for this activity to engage the students and connect their learning from textbook content to real-life experience. 
 
-Station 1: Triangle test 
+Station 1: Triangle test <br>
 Aim: To find out the odd sample among three cornflake samples.
 
 
@@ -69,6 +69,8 @@ Aim: To find out the odd sample among three cornflake samples.
   </tbody>
 </table>
 
+Station 2: Ranking test <br>
+Aim: To rank the lime juice samples based on level of sourness.
 
   
 
