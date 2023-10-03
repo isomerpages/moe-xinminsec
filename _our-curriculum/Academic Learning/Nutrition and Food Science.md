@@ -7,12 +7,12 @@ third_nav_title: Academic Learning
 Nutrition and Food Science (Lower Secondary)
 --------------------------------------------
 
-Through Nutrition and Food Science&nbsp;(NFS), we aim to equip students with knowledge about dietary health, so that they learn about the benefits of a balanced meal and could be more discerning in choosing nutritious food for good health. Students will also learn food management and culinary skills in order to be self-sufficient in planning and preparing healthy meals for themselves and their families. At the same time, students will learn basic principles of consumer education to manage their resources and understand consumer rights and responsibilities.&nbsp;  
+Through Food and Consumer Education (FCE), we aim to equip students with knowledge about dietary health, so that they learn about the benefits of a balanced meal and could be more discerning in choosing nutritious food for good health. Students will also learn food management and culinary skills in order to be self-sufficient in planning and preparing healthy meals for themselves and their families. At the same time, students will learn basic principles of consumer education to manage their resources and understand consumer rights and responsibilities. 
 
 Nutrition and Food Science (Upper Secondary)
 --------------------------------------------
 
-In Nutrition and Food Science&nbsp;(NFS), we aim to develop students’ understanding of the concepts of nutrition and meal planning. Students also learn the principles of food science, and more advanced knowledge and skills to make informed decisions concerning food and nutrition.
+In Nutrition and Food Science (NFS), we aim to develop students’ understanding of the concepts of nutrition and meal planning. Students also learn the principles of food science, and more advanced knowledge and skills to make informed decisions concerning food and nutrition.
 
 A peek into the classroom…
 --------------------------
