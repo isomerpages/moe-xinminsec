@@ -1,5 +1,0 @@
-collections:
-  academic-departments:
-    output: true
-    order:
-      - Aesthetics.md
