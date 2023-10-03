@@ -1,7 +1,0 @@
-collections:
-  our-co-curricular-activities:
-    output: true
-    order:
-      - Test group 1/test1.md
-      - Test group 1/.keep
-      - test.md
