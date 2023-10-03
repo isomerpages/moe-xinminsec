@@ -12,8 +12,7 @@ Our Belief
 Approaches
 ----------
 
-**_Learning Experiences_**
-
+**_Learning Experiences_**<br>
 We believe that by helping students connect their conceptual understanding to authentic real-world problems, it will spark off their curiosity in the subject and elicit the joy of learning. Real world authentic tasks are infused in our day-to-day classrooms to develop critical and inventive thinking skills. Some of these tasks include bringing students out of the classrooms to investigate and record findings within the school compound and for them to draw relevance of mathematical problems to familiar environment and context. Students are also encouraged to work in a collaborative setting or to share their findings of these learning experiences with their peers which help enhance their reasoning and communication skills. 
 
 <br>
@@ -48,7 +47,7 @@ We believe that by helping students connect their conceptual understanding to au
             font-size: 17px;
             font-weight: 400;
             text-align: left;">
-        Students using a clinometer to measure the angle of elevation of an emergency exit of a school block. This measurement can then be used to calculate the height of the emergency exit. 
+       <br> Students using a clinometer to measure the angle of elevation of an emergency exit of a school block. This measurement can then be used to calculate the height of the emergency exit. 
         </div>
       </td>
       <td style="margin: 0px;
@@ -73,7 +72,7 @@ We believe that by helping students connect their conceptual understanding to au
             font-size: 17px;
             font-weight: 400;
             text-align: left;">
-        Students applying concepts of map scales to calculate the actual distance between school and the nearby neighbourhood hawker center.
+        <br>Students applying concepts of map scales to calculate the actual distance between school and the nearby neighbourhood hawker center.
         </div>
       </td>
       <td style="margin: 0px;
@@ -98,14 +97,14 @@ We believe that by helping students connect their conceptual understanding to au
             font-size: 17px;
             font-weight: 400;
             text-align: left;">
-        Students engaging in a collaborative task and consolidating their learning on SLS platform.
+       <br> Students engaging in a collaborative task and consolidating their learning on SLS platform.
         </div>
       </td>
     </tr>
   </tbody>
 </table>
 
-**_Active Learning through ICT-Infused Lessons_** The use of technology is used
+**_Active Learning through ICT-Infused Lessons_** <br>The use of technology is used
 to maximise students’ learning by emphasizing positive students’ interactions
 and student’s agency. E-learning platforms such as SLS and Google Classroom
 encourage both self-directed and collaborative learning. Students are able to
