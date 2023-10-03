@@ -2,4 +2,5 @@ collections:
   our-co-curricular-activities:
     output: true
     order:
+      - Test group 1/.keep
       - test.md
