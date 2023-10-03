@@ -84,13 +84,15 @@ Aim: To rank the lime juice samples based on level of sourness.
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1c.jpg" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=100%;
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1c.jpg" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=50%;
             margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             clear: both;
+						width: 405px;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; height: 303px;
             display: block;">
       </td>
     </tr>
