@@ -20,6 +20,7 @@ We believe that by helping students connect their conceptual understanding to au
 
 |  |  |  |
 | -------- | -------- | -------- |
+| ![](/images/Mathematics/Department_programmes/mathematics_1a.jpg)| ![](/images/Mathematics/Department_programmes/mathematics_1b.jpg)| ![](/images/Mathematics/Department_programmes/mathematics_1c.jpg)|
 | Students using a clinometer to measure the angle of elevation of an emergency exit of a school block. This measurement can then be used to calculate the height of the emergency exit.      | Students applying concepts of map scales to calculate the actual distance between school and the nearby neighbourhood hawker center.     | Students engaging in a collaborative task and consolidating their learning on SLS platform.     |
 
 
