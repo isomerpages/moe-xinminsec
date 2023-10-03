@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:50%;" alt="Science" src="/images/Science_1.png">  
+<img src="/images/Science_1.png" alt="Science" style="width:50%;">  
   
 
 
@@ -34,26 +34,26 @@ Building on the idea that Science is relevant and useful in our daily life, we e
 
 Our lower secondary students engaging in a Think-Pair-Share activity on _The Scientific Endeavour_ (the opening chapter in secondary one Science which seeks to deepen the appreciation of the role of Science in understanding everyday phenomena) 
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_1a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_1a.jpg">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_1b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_1b.jpg">
       </td>
     </tr>
   </tbody>
@@ -62,60 +62,6 @@ Our lower secondary students engaging in a Think-Pair-Share activity on _The Sci
 
 Our upper secondary students conducting a scientific experiment and explaining the data collected and their findings to their classmates
 
-<table style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_2a.jpg">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_2b.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-Our students learning about the soilless cultivation of vegetables and its benefits in the lower secondary science curriculum
-<table style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_3a.jpg">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_3b.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-Our SBB students continuing to pursue science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject
-
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -129,13 +75,67 @@ Our SBB students continuing to pursue science as an out-of-stream subject in the
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_4a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Science/Department_programmes/science_2a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_4b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Science/Department_programmes/science_2b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Our students learning about the soilless cultivation of vegetables and its benefits in the lower secondary science curriculum
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_3a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_3b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+Our SBB students continuing to pursue science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject
+
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_4a.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_4b.jpg">
       </td>
     </tr>
   </tbody>
@@ -150,19 +150,19 @@ Our SBB students continuing to pursue science as an out-of-stream subject in the
 Talent Development
 ------------------
 
-<table class="iveo_table ives_tab_simple3" style="margin: 0px;
+<table style="margin: 0px;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     border: 1px solid rgb(170, 170, 170);
-    width: 840px;">
+    width: 840px;" class="iveo_table ives_tab_simple3">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td width="350" valign="top" style="margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 2px;
           text-align: center;
-          border: 1px solid rgb(170, 170, 170);">
+          border: 1px solid rgb(170, 170, 170);" valign="top" width="350">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -289,11 +289,11 @@ Talent Development
           </ul>
         </div>
       </td>
-      <td width="362" valign="top" style="margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 2px;
           text-align: center;
-          border: 1px solid rgb(170, 170, 170);">
+          border: 1px solid rgb(170, 170, 170);" valign="top" width="362">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -427,11 +427,11 @@ Talent Development
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td width="350" valign="top" style="margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 2px;
           text-align: center;
-          border: 1px solid rgb(170, 170, 170);">
+          border: 1px solid rgb(170, 170, 170);" valign="top" width="350">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -545,11 +545,11 @@ Talent Development
           </ul>
         </div>
       </td>
-      <td width="362" valign="top" style="margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 2px;
           text-align: center;
-          border: 1px solid rgb(170, 170, 170);">
+          border: 1px solid rgb(170, 170, 170);" valign="top" width="362">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -685,13 +685,36 @@ Talent Development
 
 
 <br>  
-
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG-20200918-WA0046.jpeg" width="100%" alt="IMG-20200918-WA0046.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 318px; height: 238px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG-20210426-WA0002.jpeg" width="100%" alt="IMG-20210426-WA0002.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 177px; height: 238px;"></td></tr></tbody></table>
-
 Our lower secondary students engaging in scientific investigations
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_5a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_5b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
   
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG-20210204-WA0015.jpeg" alt="IMG-20210204-WA0015.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 172px; height: 305px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG-20210204-WA0012.jpeg" width="100%" alt="IMG-20210204-WA0012.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 546px; height: 305px;"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 172px; height: 305px;" class="ive_eobj_center" alt="IMG-20210204-WA0015.jpg" src="/images/IMG-20210204-WA0015.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 546px; height: 305px;" class="ive_eobj_center" alt="IMG-20210204-WA0012.jpg" width="100%" src="/images/IMG-20210204-WA0012.jpeg"></td></tr></tbody></table>
 
 Our upper secondary students engaging in a virtual dialogue with scientists and presenting their innovation for a project challenge in the International Science Youth Forum (ISYF) 2021
