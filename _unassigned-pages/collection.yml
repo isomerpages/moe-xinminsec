@@ -2,7 +2,6 @@ collections:
   unassigned-pages:
     output: true
     order:
-      - Character and Citizenship Education.md
       - Nutrition and Food Science.md
       - Design and Technology.md
       - Blended Learning.md
