@@ -35,6 +35,42 @@ Station 1: Triangle test <br>
 Aim: To find out the odd sample among three cornflake samples.
 
 
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width:100%;
+            margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 405px;
+            height: 303px;" class="ive_eobj_center" alt="IMG_0034.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1a.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="IMG_0084.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1b.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Station 2: Ranking test <br>
+Aim: To rank the lime juice samples based on level of sourness.
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -48,29 +84,18 @@ Aim: To find out the odd sample among three cornflake samples.
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1a.jpg" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width:100%;
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1c.jpg" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=100%;
             margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             clear: both;
-            display: block;
-            width: 405px;
-            height: 303px;">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1b.png" width="100%" alt="IMG_0084.jpg" class="ive_eobj_center" style="width=">
+            display: block;">
       </td>
     </tr>
   </tbody>
 </table>
-
-Station 2: Ranking test <br>
-Aim: To rank the lime juice samples based on level of sourness.
 
   
 
@@ -78,7 +103,7 @@ Aim: To rank the lime juice samples based on level of sourness.
 
   
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/20210504_141313.jpeg" width="100%" alt="20210504_141313.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG-20210504-WA0010.jpeg" width="100%" alt="IMG-20210504-WA0010.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="20210504_141313.jpg" width="100%" src="/images/20210504_141313.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="IMG-20210504-WA0010.jpg" width="100%" src="/images/IMG-20210504-WA0010.jpeg"></td></tr></tbody></table>
 
   
 ![Nutrition and Food Science_1](/images/Nutrition%20and%20Food%20Science_1.png)
@@ -89,7 +114,7 @@ Aim: To rank the lime juice samples based on level of sourness.
 
   
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG_6570.jpeg" width="100%" alt="IMG_6570.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpeg" width="100%" alt="45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="IMG_6570.jpg" width="100%" src="/images/IMG_6570.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 228px; height: 303px;" class="ive_eobj_center" alt="45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpg" width="100%" src="/images/45B91975-1B70-41E2-A25A-05A790A6F947-AFD6600D-2741-4D6E-B489-D25DFB74AC6A.jpeg"></td></tr></tbody></table>
 
   
 
@@ -97,7 +122,7 @@ Aim: To rank the lime juice samples based on level of sourness.
 
   
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG_2294.jpeg" width="100%" alt="IMG_2294.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/IMG_2396.jpeg" width="100%" alt="IMG_2396.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 393px; height: 303px;"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="IMG_2294.jpg" width="100%" src="/images/IMG_2294.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 393px; height: 303px;" class="ive_eobj_center" alt="IMG_2396.jpg" width="100%" src="/images/IMG_2396.jpeg"></td></tr></tbody></table>
 
 Beyond the classroom….
 ----------------------
@@ -112,7 +137,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" alt="The Xinmin BYO Bento Challenge 2020" src="/images/7a164e51-d25f-4cbc-b002-41d426d450ec.jpeg">  
+<img src="/images/7a164e51-d25f-4cbc-b002-41d426d450ec.jpeg" alt="The Xinmin BYO Bento Challenge 2020" style="width:75%;">  
   
 
 <br>
@@ -123,7 +148,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" alt="The Xinmin BYO Bento Challenge 2020" src="/images/bb6f38b0-ef96-4ef7-af47-f3d9b0fdcc22.jpeg">  
+<img src="/images/bb6f38b0-ef96-4ef7-af47-f3d9b0fdcc22.jpeg" alt="The Xinmin BYO Bento Challenge 2020" style="width:75%;">  
   
 
 
@@ -139,7 +164,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" alt="The IgnITE Skills Challenge 2021" src="/images/xms_hello%20sunshine.jpeg">  
+<img src="/images/xms_hello%20sunshine.jpeg" alt="The IgnITE Skills Challenge 2021" style="width:75%;">  
   
 
 <br>
@@ -150,4 +175,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" alt="The IgnITE Skills Challenge 2021" src="/images/xms_sunset.jpeg">
+<img src="/images/xms_sunset.jpeg" alt="The IgnITE Skills Challenge 2021" style="width:75%;">
