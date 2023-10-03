@@ -35,20 +35,20 @@ Station 1: Triangle test <br>
 Aim: To find out the odd sample among three cornflake samples.
 
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1a.jpg" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width:100%;
+        <img style="width:100%;
             margin: auto;
             outline: 0px;
             padding: 0px;
@@ -57,13 +57,13 @@ Aim: To find out the odd sample among three cornflake samples.
             clear: both;
             display: block;
             width: 405px;
-            height: 303px;">
+            height: 303px;" class="ive_eobj_center" alt="IMG_0034.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1a.jpg">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1b.png" width="100%" alt="IMG_0084.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="IMG_0084.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1b.png">
       </td>
     </tr>
   </tbody>
@@ -71,20 +71,20 @@ Aim: To find out the odd sample among three cornflake samples.
 
 Station 2: Ranking test <br>
 Aim: To rank the lime juice samples based on level of sourness.
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=50%;
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1c.jpg" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=50%;
             margin: auto;
             outline: 0px;
             padding: 0px;
@@ -93,7 +93,7 @@ Aim: To rank the lime juice samples based on level of sourness.
             clear: both;
 						width: 405px;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; height: 303px;
-            display: block;" class="ive_eobj_center" alt="IMG_0034.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_1c.jpg">
+            display: block;">
       </td>
     </tr>
   </tbody>
@@ -101,26 +101,26 @@ Aim: To rank the lime juice samples based on level of sourness.
 
 Station 3: Rating test <br>
 Aim: To rate the raisin samples based on a 7-point Likert scale.
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_2a.png" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_2a.png">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_2b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_2b.jpg">
       </td>
     </tr>
   </tbody>
@@ -128,26 +128,26 @@ Aim: To rate the raisin samples based on a 7-point Likert scale.
 
 Station 4: Mysterious cups <br>
 Aim: To identify the ingredient hidden in each of the cups.
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_3a.jpg">
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_3a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_3b.jpg">
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_3b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
@@ -155,6 +155,32 @@ Aim: To identify the ingredient hidden in each of the cups.
 
 
 <u>Learning about food sustainability</u>
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_4a.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_4b.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -168,58 +194,58 @@ Aim: To identify the ingredient hidden in each of the cups.
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_4a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_4b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_5a.png" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
 </table>
 
-
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="IMG_0034.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_5a.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="IMG_0034.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_5b.png">
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_5b.png" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
 </table>
 
 <u>Honing their culinary skills</u>
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_6a.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_6b.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<u>Displaying their finished work</u>
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -233,14 +259,15 @@ Aim: To identify the ingredient hidden in each of the cups.
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_6a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_7a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_6b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_7b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
 </table>
+
