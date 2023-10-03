@@ -22,7 +22,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:50%;" alt="MTL Curriculum Framework" src="/images/MTL%20Curriculum%20Framework.jpeg">  
+<img src="/images/MTL%20Curriculum%20Framework.jpeg" alt="MTL Curriculum Framework" style="width:50%;">  
   
 **Feedback Literacy**<br>
 Language is an essential medium for self-reflection. With the goal of every Xinmin student becoming a proficient user in Mother Tongue Language, our teachers are equipped in the area of feedback literacy. Through careful curation of our lesson packages, students are to hone their language skills holistically, i.e listening, speaking, reading, and writing. This approach promotes greater self-directedness in learning amongst students as they are cognitively challenged during the process of reflective thinking. 
@@ -34,54 +34,6 @@ Language is an essential medium for self-reflection. With the goal of every Xinm
 **Drawing Connections and Making Sense**<br>
 To help our students possess the dispositions and language skills to take on the opportunities of the future, students are given ample opportunities to hone their Mother Tongue communication skills. Apart from the instructional programmes, the department aims to promote and strengthen our students’ sense of cultural heritage and identity through a variety of activities such as the Chinese New Year Celebration, Hari Raya Celebration, Mother Tongue Language Festival, Cultural Performance Exposure Scheme (CPES) and Culture &amp; Aesthetic Exposure Programme (CAEP).  By drawing connections with the real world, students will be able to relate better with their Mother Tongue and make sense of the importance of their cultural identity in the ever changing and shifting global landscape.
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_13.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: left;">
-          <br>
-          Learning the Chinese Festive Drums<br>二十四节令鼓 
-        </div>
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_1.jpg" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: left;">
-          <br>
-          Our students performing Traditional Chinese Opera<br>传统戏曲表演
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
 <table style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -106,6 +58,54 @@ To help our students possess the dispositions and language skills to take on the
             font-weight: 400;
             text-align: left;">
           <br>
+          Learning the Chinese Festive Drums<br>二十四节令鼓 
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_1.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Our students performing Traditional Chinese Opera<br>传统戏曲表演
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_13.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
           Learning about traditional puppetry during Overseas Immersion Programme             
           <br>
           海外浸濡活动
@@ -115,7 +115,7 @@ To help our students possess the dispositions and language skills to take on the
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Mother_Tongue/Department_programmes/mother_tongue_9.jpg">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_9.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -133,20 +133,20 @@ To help our students possess the dispositions and language skills to take on the
   </tbody>
 </table>
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_5.jpg">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_5.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -166,7 +166,7 @@ To help our students possess the dispositions and language skills to take on the
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_3.jpg">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_3.jpg" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -190,20 +190,20 @@ Talent Development
 -------
 In the effort to elevate and enhance the ability of our students, we strive to provide different platforms for students to pursue their interests, develop their strengths and showcase their talent. This includes the Budding Presenters Programme, Budding Writers Programme and Budding Journalists Programme.
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_8.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=100%">
+        <img style="width=100%" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_8.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -221,7 +221,7 @@ In the effort to elevate and enhance the ability of our students, we strive to p
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_2.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=100%">
+        <img style="width=100%" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Mother_Tongue/Department_programmes/mother_tongue_2.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -235,6 +235,59 @@ In the effort to elevate and enhance the ability of our students, we strive to p
           1st Placing at a Chinese Speech Competition
           <br>
           北区中小学华语演讲比赛
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_11.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          A dose of joy in writing - creating Chinese comics
+          <br>
+          漫画作家计划 
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_12.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Author-in-Residence Programme 
+          <br>
+          驻校作家计划
         </div>
       </td>
     </tr>
