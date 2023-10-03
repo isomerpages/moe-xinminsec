@@ -2,6 +2,7 @@ collections:
   unassigned-pages:
     output: true
     order:
+      - Drama.md
       - Music.md
       - PDLP.md
       - Full SBB.md
