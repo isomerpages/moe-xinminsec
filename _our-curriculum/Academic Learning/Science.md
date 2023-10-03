@@ -737,6 +737,3 @@ Our upper secondary students engaging in a virtual dialogue with scientists and 
     </tr>
   </tbody>
 </table>
-
-
-
