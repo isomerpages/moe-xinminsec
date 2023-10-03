@@ -15,16 +15,6 @@ To cultivate the joy of learning in Mother Tongue Language. To foster deeper con
 Approaches
 -------
 
-To develop our students to be effectively bilingual, communicate with confidence and having a global perspective that is deeply rooted in the Mother Tongue Culture.
-
-  
-
-培养学生成为一名精通双语，传承文化与传统价值观，并具有环球视野的公民。
-
-  
-
-Untuk membangunkan pelajar berdwibahasa secara berkesan, berkomunikasi dengan keyakinan diri dan berperspektif global yang berpaksikan kebudayaan bahasa Ibunda.
-
 <style>  
 img {  
   display: block;  
@@ -34,16 +24,12 @@ img {
 </style>  
 <img src="/images/MTL%20Curriculum%20Framework.jpeg" alt="MTL Curriculum Framework" style="width:50%;">  
   
+**Feedback Literacy**<br>
+Language is an essential medium for self-reflection. With the goal of every Xinmin student becoming a proficient user in Mother Tongue Language, our teachers are equipped in the area of feedback literacy. Through careful curation of our lesson packages, students are to hone their language skills holistically, i.e listening, speaking, reading, and writing. This approach promotes greater self-directedness in learning amongst students as they are cognitively challenged during the process of reflective thinking. 
 
-
-<p style="text-align:right;"><em>Extracted from MTL Syllabus Secondary 2021</em></p>
-
-Directions:
------------
-
-1.  To provide integrated, holistic and innovative programme that will instill passion in the teaching and learning of Mother Tongue Language among both teachers and students.
-2.  To forge sustainable partnership with the community in the promotion of Mother Tongue Language.
-3.  To customise programme for students of varied abilities to fulfil the objectives of an ability-driven education.
+1. To provide integrated, holistic and innovative programme that will instill passion in the teaching and learning of Mother Tongue Language among both teachers and students.
+2. To forge sustainable partnership with the community in the promotion of Mother Tongue Language.
+3. To customise programme for students of varied abilities to fulfil the objectives of an ability-driven education.
 
 Approaches:
 -----------
