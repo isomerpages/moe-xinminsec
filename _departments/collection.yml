@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Arts Education/.keep
       - Business & IT.md
       - Design and Technology.md
       - Nutrition and Food Science.md
