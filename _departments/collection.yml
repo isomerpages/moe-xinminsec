@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Business & IT.md
       - Design and Technology.md
       - Nutrition and Food Science.md
       - Character and Citizenship Education.md
