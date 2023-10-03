@@ -26,7 +26,7 @@ A peek into the classroom….
 <u>Bus Stop Activity on Sensory Evaluation</u>
 
 “I prefer Brand A biscuit because it is crispier and less salty compared to Brand B.”
-
+<br>
 “This smells familiar! I felt that I was back to my childhood.”
 
 Ever have such thoughts in your mind? This is sensory evaluation! In FCE, the Secondary Two students have the opportunity to participate in a station-based activity to find out who has the best sense of taste and sense of smell among them. There are four stations which require students to taste different food items based on triangle test1, ranking test2 and rating test3 and identifying different ingredients in the mysterious cups4. The teachers have planned for this activity to engage the students and connect their learning from textbook content to real-life experience. 
