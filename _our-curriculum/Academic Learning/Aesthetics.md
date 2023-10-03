@@ -255,3 +255,7 @@ Students develop as reflective critical thinkers through:
     </tr>
   </tbody>
 </table>
+
+**Use of E-Pedagogy for Active Learning (harnessing tech for effective T and L- work from this)**<br>
+Across all art-forms, the exchanges of videos, sound clips and the use of shared spaces facilitate live learning and discussions.  Students get to collaborate and share ideas with their peers. They also get to showcase their work to receive feedback and responses from teachers and peers.
+Students are also exposed to technology in their learning through digital art platforms on their Personal Learning Device (PLD). During Art lessons, students are guided through the intricacies of drawing via digital devices as well as the added features they can take advantage of. Collaborative portfolios parked online for peers to observe and critique work allows for Assessment for Learning. Students are also excited to create their own Artistic animations through E-platforms like the Flipaclip application.
