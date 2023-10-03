@@ -114,8 +114,7 @@ Our students learning about the soilless cultivation of vegetables and its benef
 </table>
 
 
-
-
+Our SBB students continuing to pursue science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject
 
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
@@ -147,7 +146,6 @@ Our students learning about the soilless cultivation of vegetables and its benef
 
 
 
-Our SBB students continuing to pursue science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject
 
 Talent Development
 ------------------
