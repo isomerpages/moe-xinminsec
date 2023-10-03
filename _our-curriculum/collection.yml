@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Our Co Curricular Activities/Test1.md
       - Our Co Curricular Activities/.keep
       - The Xinmin Learning Experience.md
       - Key Approaches/.keep
