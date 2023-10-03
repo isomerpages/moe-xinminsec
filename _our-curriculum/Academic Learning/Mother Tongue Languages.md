@@ -4,7 +4,7 @@ permalink: /departments/mother-tongue-languages/
 description: ""
 third_nav_title: Academic Learning
 ---
-Vision
+Belief
 ------
 
 Connected to Mother Tongue Language &amp; Culture
