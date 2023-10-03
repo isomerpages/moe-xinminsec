@@ -47,7 +47,7 @@ To help our students possess the dispositions and language skills to take on the
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_4.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_13.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -82,3 +82,71 @@ To help our students possess the dispositions and language skills to take on the
     </tr>
   </tbody>
 </table>
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_13.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Learning about traditional puppetry during Overseas Immersion Programme             
+          <br>
+          海外浸濡活动
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Mother_Tongue/Department_programmes/mother_tongue_9.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Theatrical experience with Malay Language students     
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
