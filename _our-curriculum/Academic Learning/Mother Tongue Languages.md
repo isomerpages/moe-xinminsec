@@ -7,17 +7,12 @@ third_nav_title: Academic Learning
 Belief
 ------
 
-Connected to Mother Tongue Language &amp; Culture
+乐学母语·情牵文化<br>
+Seronok belajar, Kenali budaya<br>
+To cultivate the joy of learning in Mother Tongue Language. To foster deeper connections with one's own culture and that of others.
 
-  
 
-心系母语·情牵文化
-
-  
-
-Cintai Bahasa, Kenali Budaya
-
-Mission
+Approaches
 -------
 
 To develop our students to be effectively bilingual, communicate with confidence and having a global perspective that is deeply rooted in the Mother Tongue Culture.
