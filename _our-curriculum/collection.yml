@@ -10,9 +10,6 @@ collections:
       - Signature Programmes/RefleXions@Xinmin.md
       - Signature Programmes/XinminCares.md
       - Signature Programmes/Xinmin Academy of Leaders.md
-      - Academic Learning/Technology and Business.md
-      - Academic Learning/Science.md
-      - Academic Learning/Physical Education.md
       - Academic Learning/.keep
       - Academic Learning/Lower Secondary Programme (For Sec 1 AY2024).md
       - Academic Learning/Lower Secondary Programme  (For Sec 1 and 2 AY2023).md
@@ -22,5 +19,8 @@ collections:
       - Academic Learning/Humanities.md
       - Academic Learning/Mathematics.md
       - Academic Learning/Mother Tongue Languages.md
+      - Academic Learning/Physical Education.md
+      - Academic Learning/Science.md
+      - Academic Learning/Technology and Business.md
       - Student Development/.keep
       - Co Curricular Activities/.keep
