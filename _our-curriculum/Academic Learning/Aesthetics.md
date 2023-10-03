@@ -262,3 +262,7 @@ Across all art-forms, the exchanges of videos, sound clips and the use of shared
 Students are also exposed to technology in their learning through digital art platforms on their Personal Learning Device (PLD). During Art lessons, students are guided through the intricacies of drawing via digital devices as well as the added features they can take advantage of. Collaborative portfolios parked online for peers to observe and critique work allows for Assessment for Learning. Students are also excited to create their own Artistic animations through E-platforms like the Flipaclip application.
 
 ![](/images/Arts_Education/Department_programmes/aesthetics_5a.jpg)
+
+For Music, critical thinking and reflections are done via E- platforms like Padlet as students utilise them to critique performance pieces. This allows for students to enhance their performance standards as the feedback derived assesses their learning and promotes a culture of active sharing and collaboration. At a higher level, students are even allowed to compose and mix their own pieces of music/soundscapes as they are guided through the utilisation of the online Bandlab application.
+
+In Drama lessons, students are able to record their rehearsals and review their recordings with the rubrics given. In addition, students from other groups will be able to give feedback and critique their peer’s performances on their PLDs. This would allow them to exchange thoughts and perspectives which allows them to understand different points of view.
