@@ -128,7 +128,8 @@ webpage to find out more about our four-levels mathematics academy.
 
 The use of technology is used to maximise students’ learning by emphasizing positive students’ interactions and student’s agency. E-learning platforms such as SLS and Google Classroom encourage both self-directed and collaborative learning. Students are able to acquire mathematical knowledge at their own pace and teachers are able to provide timely and more customised feedback. In addition, the use of ICT tools such as Desmos and GeoGebra promotes better visualization and deeper learning in abstract topics such as Geometry, Trigonometry and Graphs.
 
-  
+ Talent Development
+----------
 
 **_Beyond Classroom_**
 
