@@ -4,11 +4,12 @@ permalink: /departments/arts-education/aesthetics/
 description: ""
 third_nav_title: Academic Learning
 ---
-Approaches
-----------
+**Aesthetics Department vision:** <br>
+* To develop inquisitiveness towards the Arts
+* To develop student voice and choice through the Arts.
+* To advocate appreciation and enjoyment for the Arts across cultures and perspectives.
+* To develop the values of Respect, Responsibility and Resilience through the Arts.  
 
-**_Inquiry-based Learning_** <br>
-Curious learners and reflective thinkers are our objectives when we get students to investigate and make connections between the things they learnt in school with the things they observe in their surroundings. Through a series of activities such as game design, learning of colour schemes and art movement, exposure to fashion illustration etc, students experience how Art influences their daily lives and hopefully appreciates and makes sense of Art in relation with the world we live in.
 
   
 
