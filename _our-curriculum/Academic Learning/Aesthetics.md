@@ -13,6 +13,8 @@ third_nav_title: Academic Learning
 **Belief** <br>
 Every Xinmin student should be able to appreciate the Arts, develop through the Arts and contribute actively through the Arts.
 
+Approaches
+------------------
 **_Use of e-Pedagogy for Active Learning_** <br>
 Technology allows for active online learning and discussions. Students get to collaborate and share ideas with their peers. They also get to showcase their works and personal response on a common online platform. Teachers will also be able to provide timely and targeted feedback, individualised for each student.
 
