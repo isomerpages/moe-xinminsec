@@ -188,4 +188,5 @@ To help our students possess the dispositions and language skills to take on the
 
 Talent Development
 -------
+In the effort to elevate and enhance the ability of our students, we strive to provide different platforms for students to pursue their interests, develop their strengths and showcase their talent. This includes the Budding Presenters Programme, Budding Writers Programme and Budding Journalists Programme.
 
