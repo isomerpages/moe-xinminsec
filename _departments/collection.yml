@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Arts Education/Visual Art.md
       - Arts Education/Music.md
       - Arts Education/Drama.md
       - Arts Education/.keep
