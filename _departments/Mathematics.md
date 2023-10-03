@@ -41,4 +41,7 @@ To extend learning beyond textbook and classroom, we have a range of talent deve
 
 ![Math_5](/images/Math_5.png)
 
-![](/images/Math_6.jpg)
+|  |  |  |
+| -------- | -------- | -------- |
+| ![](/images/Mathematics/Department_programmes/mathematics_1a.jpg)| ![](/images/Mathematics/Department_programmes/mathematics_1b.jpg)| ![](/images/Mathematics/Department_programmes/mathematics_1c.jpg)|
+| Sec 3 students participating in the Inter-School Mathematical Modelling Challenge held by NUS at Marina Bay.       | Sec 1 students applying concepts of construction and measurements to find the seat of student A.    | In-house S1 math trail showcasing students working in groups to solve authentic mathematical questions on coordinate system and number patterns.     |
