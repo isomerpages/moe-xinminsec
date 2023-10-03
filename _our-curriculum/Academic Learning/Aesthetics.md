@@ -30,34 +30,26 @@ Students also have opportunities to sample the cultural offerings from around th
 The sensemaking does not stop there with skills and knowledge utilised across subjects. Students develop their awareness of the world around them and learn more about what makes Singapore unique through an exploration that encompasses Music, Art and Drama. Soundscapes from Music lessons are utilised to create performances in RefleXions that are heavily influenced by the perspectives explored in Art lessons! Through RefleXions, students use Drama as a means to evaluate decision making in their daily lives and how they can best negotiate building relationships with friends, family and the wider community.
 
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;
-            width: 240px;
-            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Arts_Education/Department_programmes/aesthetics_1a.jpg">
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_1a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_1b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -65,13 +57,13 @@ The sensemaking does not stop there with skills and knowledge utilised across su
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_1b.jpg">
+            height: 236px;">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_1c.jpg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -79,41 +71,33 @@ The sensemaking does not stop there with skills and knowledge utilised across su
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_1c.jpg">       
+            height: 236px;">       
       </td>
     </tr>
   </tbody>
 </table>
 
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;
-            width: 240px;
-            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Arts_Education/Department_programmes/aesthetics_2a.jpg">
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_2a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_2b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -121,13 +105,13 @@ The sensemaking does not stop there with skills and knowledge utilised across su
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_2b.jpg">
+            height: 236px;">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_2c.jpg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -135,7 +119,7 @@ The sensemaking does not stop there with skills and knowledge utilised across su
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_2c.jpg">       
+            height: 236px;">       
       </td>
     </tr>
   </tbody>
@@ -148,34 +132,26 @@ The sensemaking does not stop there with skills and knowledge utilised across su
 Sharing their Art presentations with their peers and the wider community is also highly encouraged and gives students a massive sense of pride in whatever they do. Students are given the opportunity to showcase their artistic talents to students of Xinmin through hallway exhibitions as well as through platforms like school major events such as Speech Day, Xinmin Arts Week and Homecoming. Recently, students got their pieces featured in the Alumni Exhibition that was open to the public. This gave the students a sense of pride in their work!
 
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;
-            width: 240px;
-            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Arts_Education/Department_programmes/aesthetics_3a.png">
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_3a.png" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_3b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -183,13 +159,13 @@ Sharing their Art presentations with their peers and the wider community is also
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_3b.jpg">
+            height: 236px;">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Arts_Education/Department_programmes/aesthetics_3c.jpg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -197,7 +173,7 @@ Sharing their Art presentations with their peers and the wider community is also
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Arts_Education/Department_programmes/aesthetics_3c.jpg">
+            height: 236px;">
       </td>
     </tr>
   </tbody>
@@ -209,7 +185,7 @@ At Upper Secondary, students get to experience outdoor drawing and visit museums
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 252px; height: 335px;" class="ive_eobj_center" alt="Visual Art_14.jpg" src="/images/Visual%20Art_14.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Students visiting the National Gallery of Singapore, standing atop an&nbsp;</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">art installation piece.</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 251px; height: 334px;" class="ive_eobj_center" alt="Visual Art_15.jpg" src="/images/Visual%20Art_15.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Discussing about the importance and purpose of the artwork called&nbsp;</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">National Language Class</i></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 251px; height: 335px;" class="ive_eobj_center" alt="Visual Art_16.jpg" src="/images/Visual%20Art_16.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Quick sketch of a fashion prop in an art gallery space.</span></div></td></tr></tbody></table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/Visual%20Art_14.jpeg" alt="Visual Art_14.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 252px; height: 335px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Students visiting the National Gallery of Singapore, standing atop an&nbsp;</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">art installation piece.</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/Visual%20Art_15.jpeg" alt="Visual Art_15.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 251px; height: 334px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Discussing about the importance and purpose of the artwork called&nbsp;</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><i style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">National Language Class</i></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/Visual%20Art_16.jpeg" alt="Visual Art_16.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 251px; height: 335px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Quick sketch of a fashion prop in an art gallery space.</span></div></td></tr></tbody></table>
 
 Talent Development
 ------------------
@@ -218,4 +194,4 @@ There are various and seasonal opportunities open to all students to participate
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 214px; height: 320px;" class="ive_eobj_center" alt="Visual Art_17.jpg" src="/images/Visual%20Art_17.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Art competition shortlisted entry by XOBONMAG.</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 241px; height: 148px;" class="ive_eobj_center" alt="Visual Art_18.jpg" src="/images/Visual%20Art_18.jpeg"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 241px; height: 171px;" class="ive_eobj_center" alt="Visual Art_19.jpg" src="/images/Visual%20Art_19.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Students colouring a template&nbsp;by animators where they can&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">add in more elements to the actual drawings.</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 239px; height: 320px;" class="ive_eobj_center" alt="Visual Art_20.jpg" src="/images/Visual%20Art_20.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Each frame drawing is coloured by&nbsp;students in preparation for&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">NDP lyrical music&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">video for 2021.</div></td></tr></tbody></table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/Visual%20Art_17.jpeg" alt="Visual Art_17.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 214px; height: 320px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Art competition shortlisted entry by XOBONMAG.</span></div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/Visual%20Art_18.jpeg" alt="Visual Art_18.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 241px; height: 148px;"><img src="/images/Visual%20Art_19.jpeg" alt="Visual Art_19.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 241px; height: 171px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Students colouring a template&nbsp;by animators where they can&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">add in more elements to the actual drawings.</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/Visual%20Art_20.jpeg" alt="Visual Art_20.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 239px; height: 320px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Each frame drawing is coloured by&nbsp;students in preparation for&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">NDP lyrical music&nbsp;</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">video for 2021.</div></td></tr></tbody></table>
