@@ -2,6 +2,7 @@ collections:
   unassigned-pages:
     output: true
     order:
+      - Design and Technology.md
       - Blended Learning.md
       - Drama.md
       - Music.md
