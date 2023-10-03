@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Talent Development Approach.md
       - Coding@Xinmin.md
       - Student Leadership Academy.md
       - Blended Learning.md
