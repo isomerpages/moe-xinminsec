@@ -125,10 +125,96 @@ Technology can be powerful in the Humanities classroom as it allows students to 
 <br>***Experiential Learning*** <br>
 We want students to see the Humanities in action! From Lower to Upper Sec, students are brought out of the classroom to examine real-world artefacts and data to conclude with findings to an inquiry question of their curiosity. From farming technology to museum-based learning, students have ample opportunities to explore the world around them with the Humanities lens.
 
-| || |
-| -------- | -------- | -------- |
-|  ![](/images/Humanities/Department_programmes/humanities_3.jpeg) | ![](/images/Humanities/Department_programmes/sec%202%20student%20examining%20school%20monument.jpg)   | ![](/images/Humanities/Department_programmes/humanities_7.jpeg)  |
-| Lower Sec students enjoying freshly grown vegetables on their visit to Kok Fah Farm      | Sec 2 student examining a school monument to determine its significance in Xinmin’s history   | Sec 3 student exploring the gallery at HDB to investigate accessibility for citizens   |
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_3.jpeg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+        <br>
+        Lower Sec students enjoying freshly grown vegetables on their visit to Kok Fah Farm 
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Humanities/Department_programmes/sec%202%20student%20examining%20school%20monument.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+        <br>
+        Sec 2 student examining a school monument to determine its significance in Xinmin’s history
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 376px;
+            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Humanities/Department_programmes/humanities_7.jpeg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+        <br>
+        Sec 3 student exploring the gallery at HDB to investigate accessibility for citizens
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <br>**Talent Development in the Humanities** <br>
