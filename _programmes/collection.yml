@@ -1,5 +1,4 @@
 collections:
   programmes:
     output: true
-    order:
-      - Blended Learning.md
+    order: []
