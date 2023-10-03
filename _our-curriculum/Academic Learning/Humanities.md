@@ -317,10 +317,71 @@ We recognise and value the talent students may have in the Humanities and we see
 
 
 *Seminars*
-| || |
-| -------- | -------- | -------- |
-| ![](/images/Humanities/Department_programmes/humanities_5.jpeg)   | ![](/images/Humanities/Department_programmes/humanities_6.jpeg)  |
-| Catholic High School Humanities Exchange   | ASRJC Arts Symposium  |
+
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_5.jpeg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Catholic High School Humanities Exchange
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Humanities/Department_programmes/humanities_6.jpeg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+        <br>
+        ASRJC Arts Symposium
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 *Competitions*
