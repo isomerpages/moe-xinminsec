@@ -15,7 +15,7 @@ Every Xinmin student should be able to appreciate the Arts, develop through the 
 
 Approaches
 ------------------
-**_Use of e-Pedagogy for Active Learning_** <br>
+**Create** <br>
 Technology allows for active online learning and discussions. Students get to collaborate and share ideas with their peers. They also get to showcase their works and personal response on a common online platform. Teachers will also be able to provide timely and targeted feedback, individualised for each student.
 
   
