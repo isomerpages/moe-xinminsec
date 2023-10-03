@@ -18,10 +18,22 @@ Approaches
 --------------------------
 The inquiry-based learning model5 for teaching FCE and NFS is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involved them in their own learning.
 
+![](/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_8a.png)
 
+A peek into the classroom….
+--------------------------
   
+<u>Bus Stop Activity on Sensory Evaluation</u>
 
-  
+“I prefer Brand A biscuit because it is crispier and less salty compared to Brand B.”
+
+“This smells familiar! I felt that I was back to my childhood.”
+
+Ever have such thoughts in your mind? This is sensory evaluation! In FCE, the Secondary Two students have the opportunity to participate in a station-based activity to find out who has the best sense of taste and sense of smell among them. There are four stations which require students to taste different food items based on triangle test1, ranking test2 and rating test3 and identifying different ingredients in the mysterious cups4. The teachers have planned for this activity to engage the students and connect their learning from textbook content to real-life experience. 
+
+Station 1: Triangle test 
+Aim: To find out the odd sample among three cornflake samples.
+
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 405px; height: 303px;" class="ive_eobj_center" alt="IMG_0034.jpg" width="100%" src="/images/IMG_0034.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 225px; height: 303px;" class="ive_eobj_center" alt="IMG_0084.jpg" width="100%" src="/images/IMG_0084.jpeg"></td></tr></tbody></table>
 
