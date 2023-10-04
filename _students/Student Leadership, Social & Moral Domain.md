@@ -3,7 +3,8 @@ title: Student Leadership, Social & Moral Domain
 permalink: /news/achievements/students/student-leadership-social-moral-domain/
 description: ""
 ---
-#### Uniformed Groups
+## Year 2023 <br>
+#### Uniformed Groups<br>
 **Boys’ Brigade**<br>
 J M Fraser Award for Excellence – High Distinction (previously known as Gold)
 
