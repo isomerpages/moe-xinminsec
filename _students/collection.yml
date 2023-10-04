@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Leadership Social Moral/.keep
+      - Physical/Physical.md
       - Physical/.keep
       - Aesthetics/.keep
       - Aesthetics/2023.md
