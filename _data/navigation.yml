@@ -23,3 +23,6 @@ links:
     collection: resources
   - title: Prospective Students
     collection: prospective-students
+  - title: Our Achievements
+    url: /permalink
+    sublinks: []
