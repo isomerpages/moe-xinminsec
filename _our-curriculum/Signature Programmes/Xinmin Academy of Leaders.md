@@ -23,4 +23,5 @@ We believe that students’ leadership qualities are also developed through thei
 
 Development Modules
 -------
-**Xinmin Academy of Leaders level 2 Module:**
+**Xinmin Academy of Leaders level 2 Module:**<br>
+**Leadership Adventure Camp**: An authentic student leadership experience that is run by student leaders for future leaders, our signature Leadership Adventure Camp develops our leaders in authentic outdoor settings. Through outdoor campsite activities that include High Elements, Low Elements, Kayaking and Trekking students develop resilience, purposefulness and stronger communication skills whilst always being aware of their peers and surroundings. 
