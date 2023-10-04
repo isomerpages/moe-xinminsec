@@ -4,7 +4,7 @@ permalink: /students/leadership-social-moral/2023/
 description: ""
 third_nav_title: Leadership Social Moral
 ---
-#### Uniformed Groups Company Recognition 2023
+#### Uniformed Groups Company Recognition
 
 **Boys’ Brigade**<br>
 J M Fraser Award for Excellence – High Distinction (previously known as Gold)
@@ -21,7 +21,7 @@ Unit Recognition – Gold
 **St John Brigade**<br>
 SJB Corps Achievement Award – Gold
 
-#### Clubs and Societies 
+#### Clubs and Societies
 **Debate**<br>
 Singapore Secondary School Debate Championship 2023 - Quarterfinals round, 9th and 11th Overall Best Speaker<br>
 Mid Year Debate Invitationals 2023: 1st Runner Up (Overall), 3rd, 8th and 16th Best Overall Speakers
