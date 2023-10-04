@@ -15,3 +15,7 @@ In Xinmin, students are empowered to take ownership in their learning. Our Acade
 We strive towards leaders who lead with a heart; being self-aware and mindful of those around them whilst displaying moral courage with the school’s core values in mind. Students develop resilience, a stronger purpose to serve as a leader and communication skills through our multi-tiered developmental programme.
 
 ![](/images/Xinmin%20Academy%20of%20Leaders/x_a_l_1.jpg)
+
+Academy Development Modules and Opportunities
+-------
+We believe that students’ leadership qualities are also developed through their daily activities and interactions. Through the suite of leadership programmes and opportunities offered in our Student Leadership Academy, our students leave as individuals who display Awareness, Moral Courage, Resilience, Purpose and Confidence in Communicating:
