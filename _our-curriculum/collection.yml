@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Departments/.keep
       - The Xinmin Learning Experience.md
       - Key Approaches/.keep
       - Key Approaches/Talent Development Approach.md
