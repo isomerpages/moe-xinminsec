@@ -51,8 +51,7 @@ Students are expected to assist with media duties.<br>
 
 **Instagram**<br>
 Photo Department:<br>
-https://www.instagram.com/xmsmcphotodept/<br><br>
+https://www.instagram.com/xmsmcphotodept/<br>
 
 Video Department:<br>
 https://instagram.com/xms_videodept/<br>
-
