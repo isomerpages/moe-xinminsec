@@ -2,4 +2,5 @@ collections:
   key-approaches:
     output: true
     order:
+      - Signature Programmes/Xinmin Academy of Leaders.md
       - Signature Programmes/.keep
