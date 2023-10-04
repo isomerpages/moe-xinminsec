@@ -36,23 +36,23 @@ Xinmin Art Club is not just a club; it's a vibrant community where ideas are sha
 Join us on our artistic journey at XAC, where creativity knows no limits, and learning is a lifelong adventure. Together, we explore, create, and inspire!
 
 **Activities**
-1. Art Club Camp
-2. Batik Painting, Linoprinting Workshop
-3. Artwork at Serangoon Public Library
-4. Values In Action/ Art Sharing with Primary Schools and Sparkletots
-5. Pottery workshop
-6. Learning journey to Singapore Tyler Print Institute
-7. SYF Illuminate!
-8. Art competitions 
-9. Digital drawing with various apps
-10. In-house makers arts program
-11. Upcycling competition for secondary 1
-12. Plank Art with community
-13. Metal tooling workshop
-14. Tenth Kao International Environment Painting Contest for Children –‘Together, We are Eco-friendly’
-15. Museum Visit to National Gallery Singapore Open House, Art Club Booth
-16. CCA Orientation Booth
-17. Physical training/bonding sessions on every first week of the month
+a) Art Club Camp<br>
+b) Batik Painting, Linoprinting Workshop<br>
+c) Artwork at Serangoon Public Library<br>
+d) Values In Action/ Art Sharing with Primary Schools and Sparkletots<br>
+e) Pottery workshop<br>
+f) Learning journey to Singapore Tyler Print Institute<br>
+g) SYF Illuminate!<br>
+h) Art competitions <br>
+i) Digital drawing with various apps<br>
+j) In-house makers arts program<br>
+k) Upcycling competition for secondary 1<br>
+l) Plank Art with community<br>
+m) Metal tooling workshop<br>
+n) Tenth Kao International Environment Painting Contest for Children –‘Together, We are Eco-friendly’<br>
+o) Museum Visit to National Gallery Singapore Open House, Art Club Booth<br>
+p) CCA Orientation Booth<br>
+q) Physical training/bonding sessions on every first week of the month<br>
 
 **Accomplishments**<br>
 a) Arts sharing with PCF Sparkletots Hougang (term 2)<br>
