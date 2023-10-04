@@ -22,7 +22,7 @@ Shooting – Air Pistol (National)<br>
 B Division Boys – 11th<br>
 B Division Girls – 5th<br>
 
-**76th&nbsp;Speech Day**
+**76th&nbsp;Speech Day**<br>
 Yap Fun Hong Award for Sports and Outdoor Education – Koh Jin Jia Gerald, Nicole Ng
 
 **Inter-School Bouldering Championships - Rockclimbing CCA**<br>
