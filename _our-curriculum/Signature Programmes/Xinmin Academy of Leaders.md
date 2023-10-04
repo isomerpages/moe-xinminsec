@@ -26,6 +26,31 @@ Development Modules:
 **Xinmin Academy of Leaders level 2 Module:**<br>
 **Leadership Adventure Camp**: An authentic student leadership experience that is run by student leaders for future leaders, our signature Leadership Adventure Camp develops our leaders in authentic outdoor settings. Through outdoor campsite activities that include High Elements, Low Elements, Kayaking and Trekking students develop resilience, purposefulness and stronger communication skills whilst always being aware of their peers and surroundings.
 
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Xinmin Academy of Leaders/x_a_l_3a.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+      <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Xinmin Academy of Leaders/x_a_l_3b.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -39,17 +64,19 @@ Development Modules:
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Xinmin Academy of Leaders/x_a_l_3a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-      <img src="/images/Xinmin Academy of Leaders/x_a_l_3b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Xinmin Academy of Leaders/x_a_l_3c.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
 </table>
+
+Xinmin Academy of Leaders level 3 Module:
+-------
+**Facilitation and Communication**: Students learn core facilitation skills and grow as confident communicators. Students are given a structured approach towards being facilitators and get to apply it through activities initiated during the module.
+
+Xinmin Academy of Leaders Level 4 Module:
+-------
+**Creating Lasting Change**: Students are encouraged to leave a lasting legacy as leaders in this module that facilitates student proposals geared towards bettering the school experience for the student body. Peers Support Champions, CCA leaders, Class Committee Members and Student Councilors come together to brainstorm and understand the core processes towards building a legacy.
 
 <table style="margin: auto;
     outline: 0px;
@@ -64,19 +91,23 @@ Development Modules:
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Xinmin Academy of Leaders/x_a_l_3c.jpg">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Xinmin Academy of Leaders/x_a_l_4a.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+      <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Xinmin Academy of Leaders/x_a_l_4b.jpg">
       </td>
     </tr>
   </tbody>
 </table>
 
-Xinmin Academy of Leaders level 3 Module:
+Xinmin Student Council:
 -------
-**Facilitation and Communication**: Students learn core facilitation skills and grow as confident communicators. Students are given a structured approach towards being facilitators and get to apply it through activities initiated during the module.
+![](/images/Xinmin%20Academy%20of%20Leaders/x_a_l_4c.jpg)
 
-Xinmin Academy of Leaders Level 4 Module:
--------
-**Creating Lasting Change**: Students are encouraged to leave a lasting legacy as leaders in this module that facilitates student proposals geared towards bettering the school experience for the student body. Peers Support Champions, CCA leaders, Class Committee Members and Student Councilors come together to brainstorm and understand the core processes towards building a legacy.
+Xinmin Student Council are the caring responsible and adaptable leaders determined to serve the school and the community. The Council consists of 4 sub-committees that best suit the passion of our leaders in Events and Initiatives, Welfare and Feedback, Mentoring and Public Relations. With a core motto to lead, listen and learn, the Xinmin Student Council takes ownership of core school events like All Staff Day and the Secondary 1 Orientation whilst also initiating proposals and ideas for the welfare of the student body. The Xinmin Student Council leads the way in mentoring budding leaders of Xinmin and are ever-ready to be there to support Xinmin and keep the spirit alive!
 
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
@@ -91,20 +122,14 @@ Xinmin Academy of Leaders Level 4 Module:
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Xinmin Academy of Leaders/x_a_l_4a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Xinmin Academy of Leaders/x_a_l_5a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-      <img src="/images/Xinmin Academy of Leaders/x_a_l_4b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      <img src="/images/Xinmin Academy of Leaders/x_a_l_5b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
 </table>
-
-Xinmin Student Council:
--------
-![](/images/Xinmin%20Academy%20of%20Leaders/x_a_l_4c.jpg)
-
-Xinmin Student Council are the caring responsible and adaptable leaders determined to serve the school and the community. The Council consists of 4 sub-committees that best suit the passion of our leaders in Events and Initiatives, Welfare and Feedback, Mentoring and Public Relations. With a core motto to lead, listen and learn, the Xinmin Student Council takes ownership of core school events like All Staff Day and the Secondary 1 Orientation whilst also initiating proposals and ideas for the welfare of the student body. The Xinmin Student Council leads the way in mentoring budding leaders of Xinmin and are ever-ready to be there to support Xinmin and keep the spirit alive!
