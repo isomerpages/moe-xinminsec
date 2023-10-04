@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/BB.jpeg" alt="Boys' Brigade" style="width:90%;">  
+<img src="/images/CCAs/Boys_brigade/boysbrigade.jpg" alt="Boys' Brigade" style="width:90%;">  
   
 
 
