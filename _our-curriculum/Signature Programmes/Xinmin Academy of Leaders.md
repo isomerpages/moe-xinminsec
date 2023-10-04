@@ -4,7 +4,7 @@ permalink: /programmes/student-leadership-academy/
 description: ""
 third_nav_title: Signature Programmes
 ---
-Philosophy and Desired Outcomes of XAL:
+Our Beliefs and Desired Outcomes:
 -------
 
 
