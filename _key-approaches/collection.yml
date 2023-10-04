@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - XinminCares.md
+      - Signature Programmes/Coding@Xinmin.md
       - Signature Programmes/RefleXions@Xinmin.md
       - Signature Programmes/Xinmin Academy of Leaders.md
       - Signature Programmes/.keep
