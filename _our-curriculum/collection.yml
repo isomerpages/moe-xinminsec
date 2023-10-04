@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The Xinmin Learning Experience.md
-      - Key Approaches/.keep
       - Academic Departments/.keep
       - Academic Departments/Aesthetics.md
       - Academic Departments/English & Literature.md
