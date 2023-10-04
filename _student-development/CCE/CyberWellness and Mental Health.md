@@ -4,8 +4,6 @@ permalink: /student-development/cce/cyberwellness-and-mental-health/
 description: ""
 third_nav_title: CCE
 ---
-Cyber Wellness 
---------------------------
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviours and awareness of how to protect oneself in the cyberspace. 
 
 The focus of CW is on guiding our students to be responsible digital learners. The curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.
