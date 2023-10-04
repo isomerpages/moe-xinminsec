@@ -51,24 +51,6 @@ Development Modules:
   </tbody>
 </table>
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Xinmin Academy of Leaders/x_a_l_3c.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 Xinmin Academy of Leaders level 3 Module:
 -------
