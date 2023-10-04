@@ -142,9 +142,11 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
     </tr>
   </tbody>
 </table>
- 
 
-**2)  Personal Responsibility In Daily Effort (P.R.I.D.E):**
+![](/images/Physical_Education/Department_programmes/physical_education_1e.jpg)
+ (Above): One of the winners of our inter – class competition
+
+**2)  Personal Responsibility In Daily Effort (P.R.I.D.E):**<br>
 The P.R.I.D.E programme is for overweight students and serves to imbue in them the value of leading a healthy lifestyle. Where possible, the PE teacher-student ratio is intentionally kept low to provide them with greater attention during workout sessions. Games are a key feature with the emphasis on enjoying physical activity and never weight loss. Non-overweight students are invited to participate in PRIDE games to promote social bonding and interaction with their friends while encouraging them to enjoy games. Overweight students are assessed quarterly on three physical activity stations and their results are communicated to them to serve as feedback for further improvement. More importantly, their results are not benchmarked against any standards, such as NAPFA, to motivate students in enjoying physical activity instead of focusing on weight loss. The emphasis is always on improvement rather than success or failure.
 
   
