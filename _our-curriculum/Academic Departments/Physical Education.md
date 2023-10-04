@@ -13,20 +13,20 @@ Belief:
 
 **1)  PE lessons and Inter – Class Games:**<br>
 The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physical Health and Fitness, Outdoor Education and First Aid/CPR/AED.  The PE teachers use a wide range of approaches to engage our students. The games concept approach lends itself well to bring about tactical awareness in games. Experiential learning guides our outdoor education modules and E – pedagogy, in particular video analysis, facilitates our students to improve their skills and techniques in games and in the fitness modules. The annual Inter – Class Games for every level provides an opportunity for our students to apply the knowledge and skills they have gained in an authentic, competitive setting. 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_1a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="margin: auto;
+        <img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -34,7 +34,7 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
             clear: both;
             display: block;
             width: 240px;
-            height: 236px;">
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Physical_Education/Department_programmes/physical_education_1a.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -52,7 +52,7 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_1b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
+        <img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -60,7 +60,7 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;">
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Physical_Education/Department_programmes/physical_education_1b.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -78,20 +78,20 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
   </tbody>
 </table>
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_1c.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="margin: auto;
+        <img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -99,7 +99,7 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
             clear: both;
             display: block;
             width: 240px;
-            height: 236px;">
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Physical_Education/Department_programmes/physical_education_1c.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -117,7 +117,7 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_1d.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
+        <img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -125,7 +125,7 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;">
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Physical_Education/Department_programmes/physical_education_1d.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -149,20 +149,20 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
 **2)  Personal Responsibility In Daily Effort (P.R.I.D.E):**<br>
 The P.R.I.D.E programme is for overweight students and serves to imbue in them the value of leading a healthy lifestyle. Where possible, the PE teacher-student ratio is intentionally kept low to provide them with greater attention during workout sessions. Games are a key feature with the emphasis on enjoying physical activity and never weight loss. Non-overweight students are invited to participate in PRIDE games to promote social bonding and interaction with their friends while encouraging them to enjoy games. Overweight students are assessed quarterly on three physical activity stations and their results are communicated to them to serve as feedback for further improvement. More importantly, their results are not benchmarked against any standards, such as NAPFA, to motivate students in enjoying physical activity instead of focusing on weight loss. The emphasis is always on improvement rather than success or failure.
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_2a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Physical_Education/Department_programmes/physical_education_2a.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -180,7 +180,7 @@ The P.R.I.D.E programme is for overweight students and serves to imbue in them t
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_2b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
+        <img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -188,7 +188,7 @@ The P.R.I.D.E programme is for overweight students and serves to imbue in them t
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;">
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Physical_Education/Department_programmes/physical_education_2b.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -212,20 +212,20 @@ The P.R.I.D.E programme is for overweight students and serves to imbue in them t
 
 The Cross-Country meet and Inter – CCA Carnival are biennial mass events that alternate every year. Our Cross - Country is conducted at Sengkang Riverside Park and students can choose to run competitively or simply take a leisure walk. The Inter – CCA Carnival is conducted in school and is a platform for CCAs to compete against one another. Both events are organized by students, for the students and this provides an opportunity for them to pick up organizational and leadership skills. 
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Physical_Education/Department_programmes/physical_education_3a.jpg">
+        <img src="/images/Physical_Education/Department_programmes/physical_education_3a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -243,7 +243,7 @@ The Cross-Country meet and Inter – CCA Carnival are biennial mass events that 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Physical_Education/Department_programmes/physical_education_3b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -251,7 +251,7 @@ The Cross-Country meet and Inter – CCA Carnival are biennial mass events that 
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Physical_Education/Department_programmes/physical_education_3b.jpg">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -309,15 +309,13 @@ The School Sports Partnership (SSP) provides an opportunity for passionate stude
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_5.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
+        <img src="/images/Physical_Education/Department_programmes/physical_education_5.jpg" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             clear: both;
-            display: block;
-            width: 318px;
-            height: 236px;">
+            display: block;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -334,3 +332,4 @@ The School Sports Partnership (SSP) provides an opportunity for passionate stude
     </tr>
   </tbody>
 </table>
+
