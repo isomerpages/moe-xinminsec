@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Total Curriculum Map and Level Themes.md
-      - CCE/Xinmin Change Initiator.md
-      - CCE/Overseas Service Learning.md
-      - CCE/National Education.md
-      - CCE/Education and Career Guidance.md
-      - CCE/CyberWellness and Mental Health.md
       - CCE/.keep
+      - CCE/CyberWellness and Mental Health.md
+      - CCE/Education and Career Guidance.md
+      - CCE/National Education.md
+      - CCE/Overseas Service Learning.md
+      - CCE/Xinmin Change Initiator.md
