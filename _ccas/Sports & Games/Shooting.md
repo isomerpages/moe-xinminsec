@@ -4,7 +4,7 @@ permalink: /ccas/sports-n-games/shooting/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img style="width: 90%" alt="Shooting" src="/images/Shooting_2021.jpeg">
+<img style="width: 90%" alt="Shooting" src="/images/CCAs/Shooting/shooting.png">
 
 The Xinmin Shooting Team was set up in 2004 to kindle students’ interest in 10m
 air rifle and air pistol shooting. In shooting, mental fortitude and physical
