@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Total Curriculum Map and Level Themes.md
+      - CCE/Education and Career Guidance.md
       - CCE/CyberWellness and Mental Health.md
       - CCE/.keep
