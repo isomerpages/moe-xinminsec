@@ -38,3 +38,9 @@ Through XinminCares, our students are encouraged to be active and reflective con
 In our XinminCares sessions, the class got to engage in activities that helped us understand elderly citizens better. My most memorable experience of that was when we visited the nursing home near our school and spent time with the elderly residents there. It was heartwarming, to listen to and interact with them. This experience taught me how to communicate and understand them better and throughout all the sessions, I realised the importance of respecting and valuing the elderly in our society. (by Jacinth Soon, 106)
 Having the opportunity to collaborate with NKF was truly a memorable journey as it urged us to understand more about the life of an NKF patient and what they have to go through in their daily life. Xinmincares also helped us learn various ways to support patients and how to prevent kidney failure for ourselves. This year’s XinminCares has definitely taught us many different values that will stick with us for life!! (by Mathilda Goh, 205)
 Talking to the seniors at Thye Hua Kwan taught me the importance of treasuring life, staying positive and how everyone deserves someone to talk to. (by Lim Zhining, 101)
+
+![](/images/XinminCares/students'%20reflection.jpg)<br>
+![](/images/XinminCares/xmcares%20write-up%201.png)<br>
+![](/images/XinminCares/xmcares%20write-up%202.png)<br>
+![](/images/XinminCares/xmcares%20write-up%203.png)<br>
+![](/images/XinminCares/xmcares%20write-up%204.png)
