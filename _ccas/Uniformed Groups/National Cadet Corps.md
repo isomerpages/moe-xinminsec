@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/NCC.jpeg" alt="NCC" style="width:90%;">  
+<img src="/images/CCAs/Ncc/n_c_c_1.jpg" alt="NCC" style="width:90%;">  
   
-</body>
+
 
 The Xinmin National Cadet Corps (NCC) is a dynamic and rugged CCA. There are ample opportunities for cadets to participate in a wide range of activities. Leadership programmes are also in place to groom promising cadets to be future leaders. Activities are conducted at both school and HQ levels. Through these activities, Xinmin NCC seeks to nurture cadets into resilient, disciplined, committed, and responsible individuals.
 
