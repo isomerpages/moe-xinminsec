@@ -4,7 +4,7 @@ permalink: /students/leadership-social-moral/2023/
 description: ""
 third_nav_title: Leadership Social Moral
 ---
-#### Uniformed Groups Company Recognition
+#### Uniformed Groups Company Recognition 2023
 
 **Boys’ Brigade**<br>
 J M Fraser Award for Excellence – High Distinction (previously known as Gold)
