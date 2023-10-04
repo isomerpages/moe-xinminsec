@@ -12,6 +12,7 @@ To develop in our students a love for play, to equip them with the knowledge and
 Sports and Games in Xinmin:
 --------
 
+
 We want to inspire our students about the possibilities brought about by Science and encourage them to pursue Science as an area of further study or work. We engage students in relevant and meaningful science learning experiences that helps them appreciate how science and technology has the potential to improve lives. In doing so, we also help our students keep an open mind about Science as being useful for their daily lives and a viable profession that serves the good of society. 
 
 Innovate:
