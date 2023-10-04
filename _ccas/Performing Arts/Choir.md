@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Choir.jpeg" alt="Choir" style="width:90%;">  
+<img src="/images/CCAs/Choir/2023/choir_2023.jpg" alt="Choir" style="width:90%;">  
   
 
   
