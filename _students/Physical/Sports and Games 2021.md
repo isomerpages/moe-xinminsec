@@ -24,9 +24,3 @@ B Division Girls – 5th<br>
 
 **76th&nbsp;Speech Day**<br>
 Yap Fun Hong Award for Sports and Outdoor Education – Koh Jin Jia Gerald, Nicole Ng
-
-**Inter-School Bouldering Championships - Rockclimbing CCA**<br>
-B Division Boys – 3rd<br>
-B Division Girls – 2nd<br>
-C Division Boys – 2nd<br>
-C Division Girls – Champions<br>
