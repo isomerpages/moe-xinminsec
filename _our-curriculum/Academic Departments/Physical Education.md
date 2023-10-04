@@ -6,8 +6,10 @@ third_nav_title: Academic Departments
 ---
 Belief:
 -------
+To develop in our students a love for play, to equip them with the knowledge and skills to pursue an active lifestyle and to use PE and sports as a vehicle to instill the values of respect, resilience and responsibility.
 
-**<u>Sports and Games in Xinmin</u>**  
+Sports and Games in Xinmin
+-------
 
   
 
