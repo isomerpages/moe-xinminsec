@@ -11,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Debate.jpeg" alt="Debate" style="width:90%;">  
+<img src="/images/CCAs/Debate/debate.jpg" alt="Debate" style="width:90%;">  
   
-</body>
+
 
 The Xinmin Debate Club encourages its members to think critically and intelligently on a given issue, develop an informed opinion and to express that opinion in a clear and persuasive manner. Students are involved in friendly as well as national competitions.
 
@@ -34,7 +34,7 @@ These are the competitions which the debaters took part in this year, running th
   
 
 **CCA Achievements**  <br>
-XMS Debate Club has participated in multiple competitions including the National Singapore Secondary Schools Debating Championships and have even competed against international opponents at the WoLCe World Inter-School Debating Competition. 
+XMS Debate Club has participated in multiple competitions including the National Singapore Secondary Schools Debating Championships and have even competed against international opponents at the WoLCe World Inter-School Debating Competition.&nbsp;
 
   
 
@@ -49,7 +49,7 @@ Aside from simply taking part in competitions, the club seeks to foster an attit
 **Teachers-in-charge** <br>
 Mr Harvinder Singh <br>
 Ms Nanthini Gunasekaran <br>
-Ms Nadhrah Zainalabiden 
+Ms Nadhrah Zainalabiden&nbsp;
 
 **Debate CCA Leaders** <br>
 Vanessa Tjia (Chairperson) <br>
