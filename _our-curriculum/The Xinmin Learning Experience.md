@@ -3,22 +3,22 @@ title: The Xinmin Learning Experience
 permalink: /our-curriculum/the-xinmin-learning-experience/
 description: ""
 ---
-Vision, Mission and Values
+Our Vision
 --------------------------
-
-### Our Vision
 
 Leading Hearts Leading Minds
 
   
 
-### Our Mission
+Our Mission
+--------------------------
 
 To develop every Xinmin student to be a curious learner, a compassionate contributor and a confident leader.
 
   
 
-### Our Values
+Our Values
+--------------------------
 
 <table class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 840px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="278" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Value</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Definition</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="278" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Respect</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Believes in his own self-worth and the intrinsic worth of all people<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="278" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Responsibility</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Recognizes that he has a duty to himself, his family, community, nation and the world, and fulfils his responsibilities with love and commitment.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="278" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">Resilience</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="818" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Possesses emotional strength and perseveres in the face of challenges while manifesting courage, optimism, adaptability and resourcefulness in the process<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
