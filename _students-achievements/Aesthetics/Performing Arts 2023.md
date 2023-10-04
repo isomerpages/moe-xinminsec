@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 ---
 #### Performing Arts
-**<u>Singapore Youth Festival Arts Presentation 2023**</u><br><br>
+<u>**Singapore Youth Festival Arts Presentation 2023**</u><br><br>
 **Chinese Dance**<br>
 Distinction
 
