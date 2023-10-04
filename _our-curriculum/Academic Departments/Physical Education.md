@@ -208,15 +208,11 @@ The P.R.I.D.E programme is for overweight students and serves to imbue in them t
 
 
 
-**3) Cross – Country (Xinathon)/Night – to – day Run:**
+**3) Cross – Country/Inter – CCA Carnival**
+
+The Cross-Country meet and Inter – CCA Carnival are biennial mass events that alternate every year. Our Cross - Country is conducted at Sengkang Riverside Park and students can choose to run competitively or simply take a leisure walk. The Inter – CCA Carnival is conducted in school and is a platform for CCAs to compete against one another. Both events are organized by students, for the students and this provides an opportunity for them to pick up organizational and leadership skills. 
 
   
-
-The Cross-Country meet (Xinathon) and Night-to-Day Run are biennial mass events that alternate every year. Xinathon is conducted at Sengkang Riverside Park and students can choose to run competitively or simply take a leisure walk. The Night – to – Day Run is conducted in school and culminates in students staying overnight in school with activities planned for them. Both events are organized by students, for the students and this provides an opportunity for them to pick up organizational and leadership skills.&nbsp;
-
-  
-
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/PE_7.jpeg" alt="PE_7.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 257px; height: 257px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Xinmin Cross – Country aka Xinathon</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img src="/images/PE_8.jpeg" alt="PE_8.jpg" class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 343px; height: 257px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Xinmin 75<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>Anniversary Virtual Run</div></td></tr></tbody></table>
 
   
 
