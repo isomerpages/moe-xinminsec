@@ -24,7 +24,7 @@ B Division Girls – 5th
 
 
 
-**Inter-School Bouldering Championships 2023 - Rockclimbing CCA**<br>
+**Inter-School Bouldering Championships - Rockclimbing CCA**<br>
 B Division Boys – 3rd<br>
 B Division Girls – 2nd<br>
 C Division Boys – 2nd<br>
