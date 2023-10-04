@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/CCAs/Floorball/floorball_1.jpg" alt="Floorball" style="width:90%;">  
+<img src="/images/CCAs/Floorball/floorball.jpg" alt="Floorball" style="width:90%;">  
   
 
   
