@@ -102,3 +102,7 @@ Xinmin Academy of Leaders Level 4 Module:
     </tr>
   </tbody>
 </table>
+
+Xinmin Student Council:
+-------
+![](/images/Xinmin%20Academy%20of%20Leaders/x_a_l_4c.jpg)
