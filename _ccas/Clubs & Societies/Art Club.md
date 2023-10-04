@@ -35,7 +35,7 @@ Xinmin Art Club is not just a club; it's a vibrant community where ideas are sha
 
 Join us on our artistic journey at XAC, where creativity knows no limits, and learning is a lifelong adventure. Together, we explore, create, and inspire!
 
-**Activities**
+**Activities**<br>
 a) Art Club Camp<br>
 b) Batik Painting, Linoprinting Workshop<br>
 c) Artwork at Serangoon Public Library<br>
