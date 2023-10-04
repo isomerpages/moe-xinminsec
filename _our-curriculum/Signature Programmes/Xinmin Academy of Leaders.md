@@ -69,3 +69,7 @@ Development Modules
     </tr>
   </tbody>
 </table>
+
+Xinmin Academy of Leaders level 3 Module
+-------
+**Facilitation and Communication**: Students learn core facilitation skills and grow as confident communicators. Students are given a structured approach towards being facilitators and get to apply it through activities initiated during the module.
