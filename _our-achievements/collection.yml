@@ -2,8 +2,8 @@ collections:
   our-achievements:
     output: true
     order:
-      - Student/Aesthetics.md
-      - Student/.keep
       - School.md
       - Staff.md
+      - Student/.keep
+      - Student/Aesthetics.md
       - Alumni.md
