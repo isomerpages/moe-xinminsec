@@ -4,8 +4,6 @@ permalink: /our-curriculum/key-approaches/talent-development/
 description: ""
 third_nav_title: Key Approaches
 ---
-_Updated on 18th October 2021_
-
 Secondary school is a time where you discover more about yourself – your strengths, interests and potential. At Xinmin, we believe in providing you with the right environment to explore, learn and grow. A spread of different programmes and activities are specially designed for you to challenge and develop yourselves into Curious Learners, Compassionate Contributors and Confident Leaders. These programmes and learning experiences would provide you with opportunities to cultivate your interests, build on your strengths and talents, and enable you to enjoy your learning.  
 
 We urge you to fully immerse yourself in these learning experiences and seize these opportunities as they present themselves to you. Only then, can you truly discover what you can be good at, where your interests lie, and hopefully, by the end of your time in Xinmin, have some ideas about what and how you can pursue these interests at a deeper level in the next stage of your education.&nbsp;
