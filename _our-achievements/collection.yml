@@ -4,6 +4,7 @@ collections:
     order:
       - School.md
       - Staff.md
+      - Student/Physical.md
       - Student/.keep
       - Student/Aesthetics.md
       - Alumni.md
