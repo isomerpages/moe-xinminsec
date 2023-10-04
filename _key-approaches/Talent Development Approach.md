@@ -35,9 +35,7 @@ In summary, our Talent Development Framework is as follows:
 ![TD Pic](/images/TD%20Pic.png)
 
 
-You may wish to click on the following&nbsp;
-[link](/files/Talent%20Development/Xinmin%20Talent%20Development%20Catalogue%202021_1.pdf)
-&nbsp;to see the latest catalogue of Talent Development programmes we offer in Xinmin. You may also wish to check out the department pages to find out more about the talent development opportunities they provide.
+You may wish to check out the department pages to find out more about the talent development opportunities they provide.
 
   
 
