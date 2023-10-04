@@ -1,5 +1,5 @@
 collections:
-  students:
+  students-achievements:
     output: true
     order:
       - Aesthetics/.keep
