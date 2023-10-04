@@ -4,6 +4,7 @@ collections:
     order:
       - School.md
       - Staff.md
+      - Student/Student Leadership, Social & Moral Domain.md
       - Student/Physical.md
       - Student/.keep
       - Student/Aesthetics.md
