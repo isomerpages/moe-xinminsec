@@ -62,3 +62,10 @@ Our school strongly believes in the importance of positive peer influence where 
     </tr>
   </tbody>
 </table>
+
+Mental Health
+--------------------------
+
+Mental health is a state of mental well-being that enables people to cope with the stresses of life, realise their abilities, learn well, work well and contribute to their community. To strengthen students’ mental well-being, they need to be equipped with knowledge and skills to manage their thoughts and feelings, build their resilience, and resolve their challenges.
+Through CCE lessons, assembly talks and sharing by students, students will learn strategies to overcome their social emotional problems and seek help when they need to. Our Class Committee members will also go through peer support trainings, which will allow them to better support their peers proactively.
+
