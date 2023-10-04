@@ -106,3 +106,5 @@ Xinmin Academy of Leaders Level 4 Module:
 Xinmin Student Council:
 -------
 ![](/images/Xinmin%20Academy%20of%20Leaders/x_a_l_4c.jpg)
+
+Xinmin Student Council are the caring responsible and adaptable leaders determined to serve the school and the community. The Council consists of 4 sub-committees that best suit the passion of our leaders in Events and Initiatives, Welfare and Feedback, Mentoring and Public Relations. With a core motto to lead, listen and learn, the Xinmin Student Council takes ownership of core school events like All Staff Day and the Secondary 1 Orientation whilst also initiating proposals and ideas for the welfare of the student body. The Xinmin Student Council leads the way in mentoring budding leaders of Xinmin and are ever-ready to be there to support Xinmin and keep the spirit alive!
