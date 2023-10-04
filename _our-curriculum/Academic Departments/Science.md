@@ -4,25 +4,12 @@ permalink: /departments/science/
 description: ""
 third_nav_title: Academic Departments
 ---
-In a world where scientific and technological advancements pervade all aspects of our lives, we want our students to inquire, innovate and be inspired about Science, for life and society. 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img style="width:50%;" alt="Science" src="/images/Science_1.png">  
-  
-
-
-Inquire:
+Belief:
 --------
 
-In a world where information is readily available, our students need to be able to critically weigh alternatives and evaluate claims that are related to their lives based on scientific evidence, and suspend judgement where evidence is lacking. 
+To develop in our students a love for play, to equip them with the knowledge and skills to pursue an active lifestyle and to use PE and sports as a vehicle to instill the values of respect, resilience and responsibility.
 
-Inspire:
+Sports and Games in Xinmin:
 --------
 
 We want to inspire our students about the possibilities brought about by Science and encourage them to pursue Science as an area of further study or work. We engage students in relevant and meaningful science learning experiences that helps them appreciate how science and technology has the potential to improve lives. In doing so, we also help our students keep an open mind about Science as being useful for their daily lives and a viable profession that serves the good of society. 
