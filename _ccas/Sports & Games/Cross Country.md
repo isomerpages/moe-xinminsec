@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 ---
 ![sd](/images/CCAs/Cross%20Country/cross-country.jpg)
-*“Run when you can, walk when you have to, crawl if you must. Just never give up!” Dean Karnazes*
+*“Run when you can, walk when you have to, crawl if you must. Just never give up!” <br>Dean Karnazes*
 
 Description
 Cross country as a CCA nurtures students’ holistic development. As they learn values and mold their character through running, students fulfill their potential and nurture passion in the sport. This transcends beyond their athletic domains into their academic pursuit with instilled discipline and resilience. Opportunities for student’s initiatives will give them ownership and self-direction as they develop their socio-emotional competencies. The team will comprise of both boys and girls to represent Xinmin Secondary School at the National School Games. Students will also be able to participate in open running events that are organized for the public.
