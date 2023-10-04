@@ -62,22 +62,19 @@ c) Avatar Art Competition<br>
 Finalists: Aura and Aaden<br>
 d) Upcycling competition for all sec 1s( Term 2)
 
-**Teachers-in-charge**
-Mr James Tan (IC)
-Ms Asniza Bte Hassan
-Mr Zhuang Haoyang
+**Teachers-in-charge**<br>
+Mr James Tan (IC)<br>
+Ms Asniza Bte Hassan<br>
+Mr Zhuang Haoyang<br>
 
-**Student Leaders**
+**Student Leaders**<br>
+**President**: Chan Xiang Lin (301, 2023)<br>
+**Vice Presidents**: Wong Kitt Yeung (305, 2023) &amp; Lim Yan Ting (306, 2023)<br>
+**Heads of Management and projects**: Koh Zhi Ming (302, 2023) &amp; Siti Nabihah Binte Mohamad Jasman (307, 2023)
 
-President: Chan Xiang Lin (301, 2023)
-Vice Presidents: Wong Kitt Yeung (305, 2023) &amp; Lim Yan Ting (306, 2023)
-Heads of Management and projects: Koh Zhi Ming (302, 2023) &amp; Siti Nabihah Binte Mohamad Jasman (307, 2023)
-
-**CCA Schedule**
-
-Wednesdays: 3:30pm to 5.30pm
+**CCA Schedule**<br>
+Wednesdays: 3:30pm to 5.30pm<br>
 Fridays: 1.30pm to 4*pm (*Timing is subject to change as per course requirements)
 
-**Instagram**
-
+**Instagram**<br>
 https://www.instagram.com/xms.artclub/
