@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 ---
 #### Performing Arts
-**<u>Singapore Youth Festival Arts Presentation 2021**</u><br>
+<u>**Singapore Youth Festival Arts Presentation 2021**</u><br>
 
 **Sustained Achievement Award for Aesthetics**<br>
 **Chinese Dance Team A**<br>
