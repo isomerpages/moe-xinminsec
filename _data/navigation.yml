@@ -18,11 +18,17 @@ links:
       - title: Our Curricular Activities
         url: /ccas/cca-information/
   - title: Our Achievements
-    collection: our-achievements
+    url: /news/achievements/school/
+    sublinks:
+      - title: School
+        url: /news/achievements/school/
+      - title: Students
+        url: /news/achievements/students/aesthetics/2023/
+      - title: Staff
+        url: /news/achievements/staff/
+      - title: Alumni
+        url: /news/achievements/alumni/
   - title: Resources
     collection: resources
   - title: Prospective Students
     collection: prospective-students
-  - title: Our Achievements
-    url: /permalink
-    sublinks: []
