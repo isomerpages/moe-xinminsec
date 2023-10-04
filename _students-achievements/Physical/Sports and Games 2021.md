@@ -4,7 +4,7 @@ permalink: /students/physical/2021/
 description: ""
 third_nav_title: Physical
 ---
-#### Sports &amp; Games 2021
+#### Sports &amp; Games
 
 
 **National School Games Badminton Zonal Competition**<br>
