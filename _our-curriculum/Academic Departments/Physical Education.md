@@ -151,11 +151,7 @@ The P.R.I.D.E programme is for overweight students and serves to imbue in them t
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 412px; height: 229px;" class="ive_eobj_center" alt="PE_5.jpg" src="/images/PE_5.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">Games sessions with non – P.R.I.D.E students</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">to promote social bonding</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 130px; height: 229px;" class="ive_eobj_center" alt="PE_6.jpg" src="/images/PE_6.jpeg"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-family: Helvetica, sans-serif; font-size: 17px; font-weight: 400; text-align: center;">P.R.I.D.E workout sessions</div></td></tr></tbody></table>
-
-  
-
-**3)&nbsp;&nbsp; &nbsp;Cross – Country (Xinathon)/Night – to – day Run:**
+**3) Cross – Country (Xinathon)/Night – to – day Run:**
 
   
 
