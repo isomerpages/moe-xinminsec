@@ -124,3 +124,5 @@ Through CCE lessons, assembly talks and sharing by students, students will learn
     </tr>
   </tbody>
 </table>
+
+[Resources for students](/files/CCE/Cyberwellness/resources%20for%20students%20(school%20website).pdf)
