@@ -4,7 +4,7 @@ permalink: /programmes/student-leadership-academy/
 description: ""
 third_nav_title: Signature Programmes
 ---
-Philosophy and Desired Outcomes of XAL
+Philosophy and Desired Outcomes of XAL:
 -------
 
 
@@ -16,12 +16,12 @@ We strive towards leaders who lead with a heart; being self-aware and mindful of
 
 ![](/images/Xinmin%20Academy%20of%20Leaders/x_a_l_1.jpg)
 
-Academy Development Modules and Opportunities
+Academy Development Modules and Opportunities:
 -------
 We believe that students’ leadership qualities are also developed through their daily activities and interactions. Through the suite of leadership programmes and opportunities offered in our Student Leadership Academy, our students leave as individuals who display Awareness, Moral Courage, Resilience, Purpose and Confidence in Communicating:
 ![](/images/Xinmin%20Academy%20of%20Leaders/x_a_l_2.png)
 
-Development Modules
+Development Modules:
 -------
 **Xinmin Academy of Leaders level 2 Module:**<br>
 **Leadership Adventure Camp**: An authentic student leadership experience that is run by student leaders for future leaders, our signature Leadership Adventure Camp develops our leaders in authentic outdoor settings. Through outdoor campsite activities that include High Elements, Low Elements, Kayaking and Trekking students develop resilience, purposefulness and stronger communication skills whilst always being aware of their peers and surroundings.
@@ -70,6 +70,11 @@ Development Modules
   </tbody>
 </table>
 
-Xinmin Academy of Leaders level 3 Module
+Xinmin Academy of Leaders level 3 Module:
 -------
 **Facilitation and Communication**: Students learn core facilitation skills and grow as confident communicators. Students are given a structured approach towards being facilitators and get to apply it through activities initiated during the module.
+
+Xinmin Academy of Leaders Level 4 Module:
+-------
+Xinmin Academy of Leaders Level 4 Module:
+Creating Lasting Change: Students are encouraged to leave a lasting legacy as leaders in this module that facilitates student proposals geared towards bettering the school experience for the student body. Peers Support Champions, CCA leaders, Class Committee Members and Student Councilors come together to brainstorm and understand the core processes towards building a legacy.
