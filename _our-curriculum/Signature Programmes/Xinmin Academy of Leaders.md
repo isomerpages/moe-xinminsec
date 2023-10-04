@@ -10,10 +10,6 @@ Philosophy and Desired Outcomes of XAL
 
 Every child can be a leader. Our Student Leadership Academy adopts a whole-school approach to provide a range of programmes and projects that will groom every student to lead hearts and minds with confidence.
 
-  
+In Xinmin, students are empowered to take ownership in their learning. Our Academy develops leaders beyond the Desired Xinmin Outcomes for Leadership through a multi-tiered programme that develops confident leaders who lead with compassion. 
 
-In Xinmin, students are empowered to take ownership in their learning. As our students learn to overcome different leadership challenges, they build problem-solving and collaboration skills that will help them create positive impact in their community. Through this process, we also hope students will get to explore and harness their strengths and talents as they hone their leadership competencies.
-
-  
-
-We believe that students’ leadership qualities are also developed through their daily activities and interactions. It is for this reason that we match all our student leaders to teacher mentors who coach them on what it means to be a well-rounded leader – to lead by example in one’s behaviour, interactions, and day-to-day activities. Through the suite of leadership programmes and opportunities offered in our Student Leadership Academy, our students leave as individuals who take initiative to lead and inspire others.
+We strive towards leaders who lead with a heart; being self-aware and mindful of those around them whilst displaying moral courage with the school’s core values in mind. Students develop resilience, a stronger purpose to serve as a leader and communication skills through our multi-tiered developmental programme.
