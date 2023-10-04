@@ -11,8 +11,7 @@ Belief:
 
   
 
-**1)&nbsp;&nbsp; &nbsp;PE lessons and Inter – Class Games:**
-
+**1)&nbsp;&nbsp; &nbsp;PE lessons and Inter – Class Games:**<br>
 The P.R.I.D.E programme is for overweight students and serves to imbue in them the value of leading a healthy lifestyle. Where possible, the PE teacher-student ratio is intentionally kept low to provide them with greater attention during workout sessions. Games are a key feature with the emphasis on enjoying physical activity and never weight loss. Non-overweight students are invited to participate in PRIDE games to promote social bonding and interaction with their friends while encouraging them to enjoy games. Overweight students are assessed quarterly on three physical activity stations and their results are communicated to them to serve as feedback for further improvement. More importantly, their results are not benchmarked against any standards, such as NAPFA, to motivate students in enjoying physical activity instead of focusing on weight loss. The emphasis is always on improvement rather than success or failure.
 
   
