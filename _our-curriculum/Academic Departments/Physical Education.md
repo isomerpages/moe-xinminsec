@@ -276,6 +276,4 @@ The Cross-Country meet and Inter – CCA Carnival are biennial mass events that 
 
 The School Sports Partnership (SSP) provides an opportunity for passionate students in Secondary 2 and 3 to further develop their knowledge and skills in football, basketball and badminton. Students hone their skills with the help of their PE teachers and ActiveSG coaches and selected students will get the opportunity to represent the school to participate in external competitions or friendly matches against other schools.  (Click on link below for 2019 Straits Times article featuring XMS – “School kids have more opportunities for participation in non-cca sports under new framework”)
 
-https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24
-  
-
+[https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24](https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24)
