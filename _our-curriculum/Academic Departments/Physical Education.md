@@ -13,6 +13,71 @@ Belief:
 
 **1)  PE lessons and Inter – Class Games:**<br>
 The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physical Health and Fitness, Outdoor Education and First Aid/CPR/AED.  The PE teachers use a wide range of approaches to engage our students. The games concept approach lends itself well to bring about tactical awareness in games. Experiential learning guides our outdoor education modules and E – pedagogy, in particular video analysis, facilitates our students to improve their skills and techniques in games and in the fitness modules. The annual Inter – Class Games for every level provides an opportunity for our students to apply the knowledge and skills they have gained in an authentic, competitive setting. 
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Physical_Education/Department_programmes/physical_education_1a.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Xinmin Outdoor Cooking Finale
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Physical_Education/Department_programmes/physical_education_1b.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          First Aid, CPR and AED lessons
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
   
 
