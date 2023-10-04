@@ -6,6 +6,7 @@ third_nav_title: Academic Departments
 ---
 In a world where scientific and technological advancements pervade all aspects of our lives, we want our students to inquire, innovate and be inspired about Science, for life and society. 
 
+![](/images/Science/Department_programmes/picture15.png)
 Inquire:
 ---------
 In a world where information is readily available, our students need to be able to critically weigh alternatives and evaluate claims that are related to their lives based on scientific evidence, and suspend judgement where evidence is lacking. 
