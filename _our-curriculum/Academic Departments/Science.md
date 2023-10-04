@@ -4,15 +4,16 @@ permalink: /departments/science/
 description: ""
 third_nav_title: Academic Departments
 ---
-Belief:
---------
+In a world where scientific and technological advancements pervade all aspects of our lives, we want our students to inquire, innovate and be inspired about Science, for life and society. 
 
-To develop in our students a love for play, to equip them with the knowledge and skills to pursue an active lifestyle and to use PE and sports as a vehicle to instill the values of respect, resilience and responsibility.
+Inquire:
+---------
+In a world where information is readily available, our students need to be able to critically weigh alternatives and evaluate claims that are related to their lives based on scientific evidence, and suspend judgement where evidence is lacking. 
 
-Sports and Games in Xinmin:
---------
-**1)	PE lessons and Inter – Class Games:**<br>
-The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physical Health and Fitness, Outdoor Education and First Aid/CPR/AED.  The PE teachers use a wide range of approaches to engage our students. The games concept approach lends itself well to bring about tactical awareness in games. Experiential learning guides our outdoor education modules and E – pedagogy, in particular video analysis, facilitates our students to improve their skills and techniques in games and in the fitness modules. The annual Inter – Class Games for every level provides an opportunity for our students to apply the knowledge and skills they have gained in an authentic, competitive setting. 
+Inspire:
+---------
+We want to inspire our students about the possibilities brought about by Science and encourage them to pursue Science as an area of further study or work. We engage students in relevant and meaningful science learning experiences that helps them appreciate how science and technology has the potential to improve lives. In doing so, we also help our students keep an open mind about Science as being useful for their daily lives and a viable profession that serves the good of society. 
+
 
 
 Innovate:
