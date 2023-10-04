@@ -12,7 +12,7 @@ Belief:
   
 
 **1)&nbsp;&nbsp; &nbsp;PE lessons and Inter – Class Games:**<br>
-The P.R.I.D.E programme is for overweight students and serves to imbue in them the value of leading a healthy lifestyle. Where possible, the PE teacher-student ratio is intentionally kept low to provide them with greater attention during workout sessions. Games are a key feature with the emphasis on enjoying physical activity and never weight loss. Non-overweight students are invited to participate in PRIDE games to promote social bonding and interaction with their friends while encouraging them to enjoy games. Overweight students are assessed quarterly on three physical activity stations and their results are communicated to them to serve as feedback for further improvement. More importantly, their results are not benchmarked against any standards, such as NAPFA, to motivate students in enjoying physical activity instead of focusing on weight loss. The emphasis is always on improvement rather than success or failure.
+The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physical Health and Fitness, Outdoor Education and First Aid/CPR/AED.  The PE teachers use a wide range of approaches to engage our students. The games concept approach lends itself well to bring about tactical awareness in games. Experiential learning guides our outdoor education modules and E – pedagogy, in particular video analysis, facilitates our students to improve their skills and techniques in games and in the fitness modules. The annual Inter – Class Games for every level provides an opportunity for our students to apply the knowledge and skills they have gained in an authentic, competitive setting. 
 
   
 
