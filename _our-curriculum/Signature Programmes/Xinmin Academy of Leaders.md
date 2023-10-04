@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Signature Programmes
 ---
 Philosophy and Desired Outcomes of XAL
-_____________________
+-------
 
 
 Every child can be a leader. Our Student Leadership Academy adopts a whole-school approach to provide a range of programmes and projects that will groom every student to lead hearts and minds with confidence.
