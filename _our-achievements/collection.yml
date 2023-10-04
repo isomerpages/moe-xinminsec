@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - School.md
-      - Students.md
       - Staff.md
       - Alumni.md
