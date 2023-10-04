@@ -4,17 +4,9 @@ permalink: /programmes/student-leadership-academy/
 description: ""
 third_nav_title: Signature Programmes
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Student%20Leadership1.jpeg" alt="Student Leadership Academy" style="width:90%;">  
-  
+Philosophy and Desired Outcomes of XAL
+_____________________
 
-  
 
 Every child can be a leader. Our Student Leadership Academy adopts a whole-school approach to provide a range of programmes and projects that will groom every student to lead hearts and minds with confidence.
 
