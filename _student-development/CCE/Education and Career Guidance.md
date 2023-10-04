@@ -34,12 +34,35 @@ At each level, the school provides relevant ECG programme to better support our 
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
         <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/ECG/ecg fair 1.jpeg">
+				 <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          ECG Fair 1
+        </div>
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-      <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/ECG/ecg fair 2.jpeg">
+      <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/ECG/ecg fair 2.jpeg"><div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          ECG Fair 2
+        </div>
       </td>
     </tr>
   </tbody>
@@ -57,13 +80,35 @@ At each level, the school provides relevant ECG programme to better support our 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/ECG/job shadowing 1.jpeg">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/ECG/job shadowing 1.jpeg"><div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Job Shadowing 1
+        </div>
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-      <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/ECG/job shadowing 2.jpeg">
+      <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/ECG/job shadowing 2.jpeg"><div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+         Job Shadowing 2
+        </div>
       </td>
     </tr>
   </tbody>
@@ -82,7 +127,18 @@ At each level, the school provides relevant ECG programme to better support our 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Cce/ECG/job shadowing 3.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Cce/ECG/job shadowing 3.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width="><div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Job Shadowing 3
+        </div>
       </td>
     </tr>
   </tbody>
@@ -100,13 +156,35 @@ At each level, the school provides relevant ECG programme to better support our 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Cce/ECG/sec 2 learning journey to future proteins.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Cce/ECG/sec 2 learning journey to future proteins.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width="><div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Sec 2 Learning Journey to Future Protein
+        </div>
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-      <img src="/images/Cce/ECG/sec 2 learning journey to filament and chips.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      <img src="/images/Cce/ECG/sec 2 learning journey to filament and chips.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width="><div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Sec 2 Learning Journey to Filament and Chips
+        </div>
       </td>
     </tr>
   </tbody>
