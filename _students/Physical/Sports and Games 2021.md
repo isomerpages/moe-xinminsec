@@ -8,19 +8,19 @@ third_nav_title: Physical
 
 
 **National School Games Badminton Zonal Competition**<br>
-B Division Girls – Champions
-B Division Boys – Top 4
-B Division Girls -3rd
+B Division Girls – Champions<br>
+B Division Boys – Top 4<br>
+B Division Girls -3rd<br>
 
 **National School Games Shooting National Competition**<br>
-Shooting – Air Rifle (National)
-B Division Boys – 5th
-Bryan Khoo – 7th in Individual Category
-B Division Girls – 6th
-Ashley Goh – 5th in Individual Category                         
-Shooting – Air Pistol (National)              
-B Division Boys – 11th   
-B Division Girls – 5th       
+Shooting – Air Rifle (National)<br>
+B Division Boys – 5th<br>
+Bryan Khoo – 7th in Individual Category<br>
+B Division Girls – 6th<br>
+Ashley Goh – 5th in Individual Category<br>
+Shooting – Air Pistol (National)<br>
+B Division Boys – 11th<br>
+B Division Girls – 5th<br>
 
 
 
