@@ -149,7 +149,71 @@ The PE curriculum in Xinmin comprises of 4 main domains: Sports and Games, Physi
 **2)  Personal Responsibility In Daily Effort (P.R.I.D.E):**<br>
 The P.R.I.D.E programme is for overweight students and serves to imbue in them the value of leading a healthy lifestyle. Where possible, the PE teacher-student ratio is intentionally kept low to provide them with greater attention during workout sessions. Games are a key feature with the emphasis on enjoying physical activity and never weight loss. Non-overweight students are invited to participate in PRIDE games to promote social bonding and interaction with their friends while encouraging them to enjoy games. Overweight students are assessed quarterly on three physical activity stations and their results are communicated to them to serve as feedback for further improvement. More importantly, their results are not benchmarked against any standards, such as NAPFA, to motivate students in enjoying physical activity instead of focusing on weight loss. The emphasis is always on improvement rather than success or failure.
 
-  
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Physical_Education/Department_programmes/physical_education_2a.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          P.R.I.D.E workout sessions
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Physical_Education/Department_programmes/physical_education_2b.jpg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Games sessions with non – P.R.I.D.E students to promote social bonding 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 **3) Cross – Country (Xinathon)/Night – to – day Run:**
 
