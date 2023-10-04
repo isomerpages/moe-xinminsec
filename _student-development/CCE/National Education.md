@@ -14,20 +14,20 @@ Our NE experience will anchor on the following 3 citizenship dispositions:
 * **A sense of hope**: Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
 In Xinmin, our NE commemorative events are led and planned by our students and strongly supported by different stakeholders of the school. For example, our school staff, alumni and parent volunteers also formed a contingent and participated in our 2023 National Day Parade! We hope that all students have a sense of shared mission to continue the legacy of our forefathers and strive for the peace and prosperity of our nation.
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Cce/National_education/ndp alumni and staff contingent.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width="> 
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/National_education/ndp alumni and staff contingent.jpeg"> 
         <div style="margin: 0px;
           outline: 0px;
           padding: 0px;
@@ -45,7 +45,7 @@ In Xinmin, our NE commemorative events are led and planned by our students and s
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-      <img src="/images/Cce/National_education/ndp alumni sharing on national service.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/National_education/ndp alumni sharing on national service.jpeg">
         <div style="margin: 0px;
           outline: 0px;
           padding: 0px;
@@ -57,6 +57,54 @@ In Xinmin, our NE commemorative events are led and planned by our students and s
           text-align: left;">
         <br>
         NDP Alumni Sharing on National Service
+      </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Cce/National_education/ndp staff contingent.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width="> 
+        <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;
+          text-align: left;">
+        <br>
+        NDP Staff Contingent
+      </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+      <img src="/images/Cce/National_education/ndp sticker designed by students.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;
+          text-align: left;">
+        <br>
+        NDP sticker designed by students
       </div>
       </td>
     </tr>
