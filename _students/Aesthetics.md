@@ -22,19 +22,3 @@ Distinction
 
 **Symphonic Band**<br>
 Distinction
-
-#### Uniformed Groups
-**Boys’ Brigade**<br>
-J M Fraser Award for Excellence – High Distinction (previously known as Gold)
-
-**Girls’ Brigade**<br>
-Company Award – Gold
-
-**National Police Cadet Corps**<br>
-Unit Overall Proficiency Award – Gold
-
-**National Cadet Corps (Land)**<br>
-Unit Recognition – Gold
-
-**St John Brigade**<br>
-SJB Corps Achievement Award – Gold
