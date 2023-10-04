@@ -23,3 +23,4 @@ We believe that students’ leadership qualities are also developed through thei
 
 Development Modules
 -------
+**Xinmin Academy of Leaders level 2 Module:**
