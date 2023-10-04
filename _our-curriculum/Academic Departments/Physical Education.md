@@ -216,7 +216,7 @@ The Cross-Country meet and Inter – CCA Carnival are biennial mass events that 
 
   
 
-**4)&nbsp;&nbsp; &nbsp;Multi – Sports Carnival:**
+**4) Multi – Sports Carnival:**
 
   
 
