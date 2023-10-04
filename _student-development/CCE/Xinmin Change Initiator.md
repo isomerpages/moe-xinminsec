@@ -12,4 +12,5 @@ For XCI, students will form their own groups and approach a local organisation o
 ![](/images/Cce/Xinmin%20Change%20Initiator/xci%20students%20presenting%20for%20go%20green%20campaign.jpeg)
 The school also provides a list of pre-existing projects/ organisations that students will be able to select from, but still come up with their own way of executing their project. This was the case with students who took part in the Go Green campaign and came up with a survey to find out how to improve on reducing plastic use for food takeaway in school.
 
+![](/images/Cce/Xinmin%20Change%20Initiator/run%20for%20inclusion.jpeg)
 In XCI, students are also able to contribute in projects initiated by our community partners. For this projects, all a student has to do is to look out for emails from various teachers-in-charge and sign up to be a volunteer for the project. These kinds of projects are often the first step for students to find out more about the communities that they feel passionate for. This year, we had students take part in Run for Inclusion, a carnival where Xinmin students partnered special needs students from AWWA School @ Napiri for a short walk/run
