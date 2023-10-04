@@ -333,3 +333,5 @@ The School Sports Partnership (SSP) provides an opportunity for passionate stude
   </tbody>
 </table>
 
+![](/images/Physical_Education/Department_programmes/physical_education_6.jpg)
+Above: Our SSP Badminton friendly match with Hwa Chong International
