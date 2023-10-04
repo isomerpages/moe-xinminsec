@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Leadership Social Moral/.keep
       - Physical/.keep
       - Aesthetics/2023.md
       - Aesthetics/.keep
