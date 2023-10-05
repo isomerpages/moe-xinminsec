@@ -12,7 +12,9 @@ The curriculum is designed to introduce students to key business concepts, with 
 
 **Our Pedagogical Approach**<br>
 In XMS , students engage in a diverse range of learning activities, including Learning Journeys, workshops, and competitions. These activities are meticulously designed to enrich their educational journey and expand the practical application of their knowledge. The primary goal is to empower students to develop 21st-century skills, particularly in the domains of information literacy and global awareness.
+
 The classes within this program seamlessly blend both online and offline components. Students are proficient in utilizing online platforms such as Classpoint, SLS, and Google Classroom to express their ideas and collaborate. Furthermore, they gain practical experience through hands-on activities like creating marketing pamphlets and participating in mini-games. These activities serve as integral aspects of their assessments, allowing them to apply their conceptual and evaluative skills effectively.
+
 An essential element of the program occurs in Secondary 4, where students are tasked with demonstrating their decision-making and information literacy prowess by curating sourced information. In Secondary 3, students have the opportunity to conduct research, assess information, and provide well-founded recommendations for improving various business aspects, focusing on a business they identify themselves. Additionally, a one-day learning journey involves simple interviews and visits to nearby malls for data collection and ground survey reports. Through these experiences, students gain exposure to current trends and innovations in the Singaporean business landscape, enhancing their understanding of the challenges local businesses encounter.
 Variety of Learning Activities
 •	Use of digital and board games
