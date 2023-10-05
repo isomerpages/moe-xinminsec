@@ -61,6 +61,31 @@ Mini Projects (Pygame) are open-ended tasks carried out as part of Secondary 3 c
 <u>GCE-N Level Computer Applications</u><br>
 Our students have been participating in the Animation and Game Making (AGM) Competition organised by the Computer Education Unit under MOE since 2018.  The objective of this competition is to create a platform for students to exhibit their work, stimulate their enthusiasm for media and game design and enhance their research abilities. Congratulations to our year’s GOLD award winner 2023.
 
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="IMG_0034.jpg" width="100%" src="/images/Computing and CPA/computing_cpa_2a.png">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="IMG_0084.jpg" width="100%" src="/images/Computing and CPA/computing_cpa_2b.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -74,13 +99,13 @@ Our students have been participating in the Animation and Game Making (AGM) Comp
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Computing and CPA/computing_cpa_2a.png" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Computing and CPA/computing_cpa_2c.png" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Computing and CPA/computing_cpa_2b.png" width="100%" alt="IMG_0084.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Computing and CPA/computing_cpa_2d.png" width="100%" alt="IMG_0084.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
