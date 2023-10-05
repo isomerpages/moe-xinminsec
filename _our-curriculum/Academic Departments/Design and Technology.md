@@ -23,3 +23,4 @@ Students will familarise themselves with Google Classroom resources and rubrics 
 * Doing 3d sketching and transferring designs to Google Sketchup (Upper Sec)
 * Google Classroom and SLS for Lesson Objects
 * Compare and contrast of similar function items.
+
