@@ -163,7 +163,7 @@ third_nav_title: Our People
         </div>
       </td>
     </tr>
-		<tr style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
@@ -289,7 +289,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:TAN_Kok_Kwang@schools.gov.sg">TAN_Kok_Kwang@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:tan_kok_kwang@schools.gov.sg">tan_kok_kwang@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -490,70 +490,70 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-    <td style="margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;">
-      <img style="margin: 0px 10px 0px 0px;
+      <td style="margin: 0px;
           outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 113px;
-          height: 160px;" class="ive_eobj_left" alt="Chua Chee Pheng Johnson.jpg" src="/images/Mathematics/Chua%20Chee%20Pheng%20Johnson.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
-    </td>
-    <td style="margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;">
-      <br style="margin: 0px; outline: 0px; padding: 0px">
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        <b style="margin: 0px; outline: 0px; padding: 0px">Mr Chua Chee Pheng Johnson</b>
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Designation: Head of Department -&nbsp;Mathematics
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Department: Mathematics
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Email:<span>&nbsp;</span><a style="margin: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
-            color: rgb(42, 103, 183);
-            text-decoration: underline;" target="" href="mailto:chua_chee_pheng_johnson@schools.gov.sg">chua_chee_pheng_johnson@schools.gov.sg</a>
-      </div>
-    </td>
-  </tr>
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 113px;
+            height: 160px;" class="ive_eobj_left" alt="Chua Chee Pheng Johnson.jpg" src="/images/Mathematics/Chua%20Chee%20Pheng%20Johnson.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Chua Chee Pheng Johnson</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Head of Department -&nbsp;Mathematics
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mathematics
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:chua_chee_pheng_johnson@schools.gov.sg">chua_chee_pheng_johnson@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -1143,74 +1143,74 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-    <td style="margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;
-        width: 120px;">
-      <img style="margin: 0px 10px 0px 0px;
+      <td style="margin: 0px;
           outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 111px;
-          height: 144px;" class="ive_eobj_left" alt="Ang_yan_chee" src="/images/Mother_Tongue/ang_yan_chee.png"><br style="margin: 0px; outline: 0px; padding: 0px">
-    </td>
-    <td style="margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;">
-      <br style="margin: 0px; outline: 0px; padding: 0px">
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        <b style="margin: 0px; outline: 0px; padding: 0px">Mdm&nbsp;</b><span style="margin: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+          width: 120px;">
+        <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
-            background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px">Ang Yan Chee</b></span>
-      </div>
-      <div style="margin: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 111px;
+            height: 144px;" class="ive_eobj_left" alt="Ang_yan_chee" src="/images/Mother_Tongue/ang_yan_chee.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
           outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Designation: Subject Head - Mother Tongue Languages
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Department: Mother Tongue Languages
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Email:<span>&nbsp;</span><a style="margin: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
-            color: rgb(42, 103, 183);
-            text-decoration: underline;" target="" href="mailto:ang_yan_chee@schools.gov.sg">ang_yan_chee@schools.gov.sg</a>
-      </div>
-    </td>
-  </tr>
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mdm&nbsp;</b><span style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px">Ang Yan Chee</b></span>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Subject Head - Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:ang_yan_chee@schools.gov.sg">ang_yan_chee@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -1471,7 +1471,7 @@ third_nav_title: Our People
                         outline: 0px;
                         padding: 0px;
                         color: rgb(42, 103, 183);
-                        text-decoration: underline;" target="" href="mailto:Tiffany_Lim@schools.gov.sg">Tiffany_Lim@schools.gov.sg</a>
+                        text-decoration: underline;" target="" href="mailto:tiffany_lim@schools.gov.sg">tiffany_lim@schools.gov.sg</a>
                   </div>
                 </div></span>
             </div></b>
@@ -1547,70 +1547,70 @@ third_nav_title: Our People
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-    <td style="margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;">
-      <img src="/images/Mathematics/Pang%20Hui%20Chin%20web.jpeg" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+      <td style="margin: 0px;
           outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 104px;
-          height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
-    </td>
-    <td style="margin: 0px;
-        outline: 0px;
-        padding: 0px 15px 15px 0px;
-        vertical-align: top;">
-      <br style="margin: 0px; outline: 0px; padding: 0px">
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        <b style="margin: 0px; outline: 0px; padding: 0px">Ms Pang Hui Chin</b>
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Designation: Subject Head - Mathematics
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Department: Mathematics
-      </div>
-      <div style="margin: 0px;
-          outline: 0px;
-          padding: 0px;
-          line-height: 24.99px;
-          color: rgb(0, 0, 0);
-          font-family: Helvetica, sans-serif;
-          font-size: 17px;
-          font-weight: 400;">
-        Email:<span>&nbsp;</span><a href="mailto:pang_hui_chin@schools.gov.sg" target="" style="margin: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Mathematics/Pang%20Hui%20Chin%20web.jpeg" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
-            color: rgb(42, 103, 183);
-            text-decoration: underline;">pang_hui_chin@schools.gov.sg</a>
-      </div>
-    </td>
-  </tr>
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 104px;
+            height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Pang Hui Chin</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Subject Head - Mathematics
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mathematics
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a href="mailto:pang_hui_chin@schools.gov.sg" target="" style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;">pang_hui_chin@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -1807,7 +1807,7 @@ third_nav_title: Our People
         </div>
       </td>
     </tr>
-		 <tr style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 0px 0px px;
@@ -1868,7 +1868,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Adriana_Ting_Siew_Lin@schools.gov.sg">Adriana_Ting_Siew_Lin@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:adriana_ting_siew_lin@schools.gov.sg">adriana_ting_siew_lin@schools.gov.sg</a>
         </div>
       </td>
     </tr>
