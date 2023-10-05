@@ -25,7 +25,8 @@ An essential element of the program occurs in Secondary 4, where students are ta
 * Practice of Assessment for Learning through SLS &amp; Google Classroom
 * In-Class immediate formative feedback through Classpoint
 * Usage of Differentiated Instructions (DI)
-* Our Approach to Talent Development
+
+**Our Approach to Talent Development**
 * Participation in competitions and learning workshops by external Organisations
 * Student Entrepreneurship Program
 * EBS Amazing Race
