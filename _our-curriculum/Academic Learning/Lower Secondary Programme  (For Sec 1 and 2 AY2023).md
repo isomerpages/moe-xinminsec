@@ -245,4 +245,4 @@ Beyond the start of Secondary 1, students may offer these subjects at more deman
 
 •	Students who were offered English, MTL, Mathematics, Science (in Secondary 1) at MDL will continue to take them at Secondary 2. Those who performed well for the Humanities in Secondary 1 will have the opportunity to offer at least History, Geography or Literature at MDL in Secondary 2. The criteria for taking Humanities at a more demanding level will be based on students' aptitude for and interest in these subjects at Secondary 1.
 
-•	Students are advised to challenge themselves and master the subjects up to the end of Secondary 2. 
+•	Students are advised to challenge themselves and master the subjects up to the end of Secondary 2.
