@@ -57,3 +57,11 @@ Students will familarise themselves with Google Classroom resources and rubrics 
 </table>
 
 ![](/images/Design_And_Technology/Department_programmes/d_n_t_1d.png)
+
+**Talent Development**<br>
+* Blending Art with Design – Using recyclable materials to create functional art pieces.
+* Varied STEM activities organised by Singapore Science Centre that has design elements e.g Satay Bridge Competition
+
+
+
+
