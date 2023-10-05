@@ -66,7 +66,7 @@ At the upper secondary levels, students in each course will offer a set of core 
     </tr>
     <tr>
       <td width="384">
-          Character &amp; Citizenship Education<br>Physical Education<br>English Language<br>Mother Tongue Languages<br>Mathematics<br><br>Science<br>- Biology/Chemistry<br>- Physics/Chemistry<br><br>Combined Humanities<br>- Social Studies/Geography<br> - Social Studies/History
+          Character &amp; Citizenship Education<br>Physical Education<br>English Language<br>Mother Tongue Languages<br>Mathematics<br>Science<br>Social Studies<br>Computer Applications
       </td>
       <td width="204">
 				- Additional Mathematics<br>- Art<br>- Design &amp; Technology<br>- Food &amp; Nutrition<br>- O-Level Drama<br>- Principles of Accounts
