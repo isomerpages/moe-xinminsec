@@ -55,3 +55,5 @@ Students will familarise themselves with Google Classroom resources and rubrics 
     </tr>
   </tbody>
 </table>
+
+![](/images/Design_And_Technology/Department_programmes/d_n_t_1d.png)
