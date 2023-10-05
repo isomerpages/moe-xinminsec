@@ -25,6 +25,43 @@ Students will familarise themselves with Google Classroom resources and rubrics 
 * Compare and contrast of similar function items.
 
 
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Design_And_Technology/Department_programmes/d_n_t_1a.png">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Design_And_Technology/Department_programmes/d_n_t_1b.png">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Design_And_Technology/Department_programmes/d_n_t_1c.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+![](/images/Design_And_Technology/Department_programmes/d_n_t_1d.png)
+
+**Talent Development**<br>
+* Blending Art with Design – Using recyclable materials to create functional art pieces.
+* Varied STEM activities organised by Singapore Science Centre that has design elements e.g Satay Bridge Competition
+
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -38,30 +75,14 @@ Students will familarise themselves with Google Classroom resources and rubrics 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_1a.png" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_2a.png" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_1b.png" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_1c.png" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_2b.png" width="100%" alt="IMG_0084.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
 </table>
-
-![](/images/Design_And_Technology/Department_programmes/d_n_t_1d.png)
-
-**Talent Development**<br>
-* Blending Art with Design – Using recyclable materials to create functional art pieces.
-* Varied STEM activities organised by Singapore Science Centre that has design elements e.g Satay Bridge Competition
-
-
-
-
