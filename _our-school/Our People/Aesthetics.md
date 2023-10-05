@@ -228,7 +228,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Hailey_Tan_hui_li@schools.gov.sg">Hailey_Tan_hui_li@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:hailey_tan_hui_li@schools.gov.sg">hailey_tan_hui_li@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -423,7 +423,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Lionel_Foon_koi_siong@schools.gov.sg">Lionel_Foon_koi_siong@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:lionel_foon_koi_siong@schools.gov.sg">lionel_foon_koi_siong@schools.gov.sg</a>
         </div>
       </td>
     </tr>
