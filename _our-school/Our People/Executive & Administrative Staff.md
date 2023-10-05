@@ -159,7 +159,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Adriana_Ting_Siew_Lin@schools.gov.sg">Adriana_Ting_Siew_Lin@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:adriana_ting_siew_lin@schools.gov.sg">adriana_ting_siew_lin@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -282,7 +282,7 @@ third_nav_title: Our People
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:Elizabeth_Margaretha@schools.gov.sg">Elizabeth_Margaretha@schools.gov.sg</a></span>
+                text-decoration: underline;" target="" href="mailto:elizabeth_margaretha@schools.gov.sg">elizabeth_margaretha@schools.gov.sg</a></span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
