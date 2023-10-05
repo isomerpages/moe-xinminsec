@@ -23,4 +23,35 @@ Students will familarise themselves with Google Classroom resources and rubrics 
 * Doing 3d sketching and transferring designs to Google Sketchup (Upper Sec)
 * Google Classroom and SLS for Lesson Objects
 * Compare and contrast of similar function items.
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_1a.png" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_1b.png" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_1c.png" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
