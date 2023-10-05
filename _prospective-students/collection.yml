@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Admissions/International Student Admission.md
       - Admissions/Local Transfer Admission.md
       - Admissions/Returning Singaporean Admission.md
       - Admissions/Direct School Admission.md
