@@ -16,17 +16,18 @@ In XMS , students engage in a diverse range of learning activities, including Le
 The classes within this program seamlessly blend both online and offline components. Students are proficient in utilizing online platforms such as Classpoint, SLS, and Google Classroom to express their ideas and collaborate. Furthermore, they gain practical experience through hands-on activities like creating marketing pamphlets and participating in mini-games. These activities serve as integral aspects of their assessments, allowing them to apply their conceptual and evaluative skills effectively.
 
 An essential element of the program occurs in Secondary 4, where students are tasked with demonstrating their decision-making and information literacy prowess by curating sourced information. In Secondary 3, students have the opportunity to conduct research, assess information, and provide well-founded recommendations for improving various business aspects, focusing on a business they identify themselves. Additionally, a one-day learning journey involves simple interviews and visits to nearby malls for data collection and ground survey reports. Through these experiences, students gain exposure to current trends and innovations in the Singaporean business landscape, enhancing their understanding of the challenges local businesses encounter.
-Variety of Learning Activities
-•	Use of digital and board games
-•	Mind-mapping of Key ideas through Journalling
-•	Observe-think-share on case studies
-•	Role-play in Scenarios
-•	Practice of Assessment for Learning through SLS &amp; Google Classroom
-•	In-Class immediate formative feedback through Classpoint
-•	Usage of Differentiated Instructions (DI)
-Our Approach to Talent Development
-•	Participation in competitions and learning workshops by external Organisations
-•	Student Entrepreneurship Program
-•	EBS Amazing Race
-•	ITE-Ignite Competition
-•	EBS Digital Tic-Tac-Toe Competition 2023
+
+**Variety of Learning Activities**<br>
+* Use of digital and board games
+* Mind-mapping of Key ideas through Journalling
+* Observe-think-share on case studies
+* Role-play in Scenarios
+* Practice of Assessment for Learning through SLS &amp; Google Classroom
+* In-Class immediate formative feedback through Classpoint
+* Usage of Differentiated Instructions (DI)
+* Our Approach to Talent Development
+* Participation in competitions and learning workshops by external Organisations
+* Student Entrepreneurship Program
+* EBS Amazing Race
+* ITE-Ignite Competition
+* EBS Digital Tic-Tac-Toe Competition 2023
