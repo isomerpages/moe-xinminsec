@@ -15,7 +15,7 @@ Through various online platforms, students will become adaptable and proficient 
 ![](/images/Computing%20and%20CPA/computing_cpa_1.png)
 
 **Computing/Computer Applications (CPA)**<br>
-Through the Computing/CPA syllabus, students will achieve the following objectives:
+Through the Computing/CPA syllabus, students will achieve the following objectives:<br>
 * Attain proficiency in utilizing a diverse range of computer application software or use programming solutions and hardware to complete tasks and convey ideas effectively.
 * Gain an understanding of the ethical, legal, and security considerations associated with the utilization of computers and information and communication technology (ICT) within society.
 * Recognize the broader societal and individual impacts of ICT, acknowledging how it influences people and communities.
