@@ -236,3 +236,5 @@ To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil and Non-T
 1.	Studied HMTL in primary school; Pass in HMTL for PSLE; and PSLE overall lower than AL16.<br><br>
 2.	Did not take HMTL in primary school; Scored AL1or 2 in MTL for PSLE; and PSLE overall lower than AL16.<br><br>
 Note: Students taking Tamil or NTIL will be taking lessons at designated schools or language centres, and not in Xinmin Secondary School.
+
+Beyond the start of Secondary 1, students may offer these subjects at more demanding level (MDL) based on their performance in school, as well as by demonstrating positive attitude towards learning. 
