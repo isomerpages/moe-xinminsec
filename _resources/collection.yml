@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Newsletters.md
       - For Students and Parents/.keep
       - For Students and Parents/Academic Matters.md
       - For Students and Parents/Quick Links.md
@@ -11,3 +10,4 @@ collections:
       - For Staff/.keep
       - For Staff/Quick Links.md
       - For Staff/Helpdesk.md
+      - Newsletters.md
