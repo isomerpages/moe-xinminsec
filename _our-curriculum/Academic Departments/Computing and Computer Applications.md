@@ -32,24 +32,24 @@ For Computer Applications:, students will learn through the following modules:
 * Digital Drawing through Inkscape
 * Microsoft Office –Powerpoint, Excel and Word
 
-Pedagogical Approach 
+**Pedagogical Approach**<br>
 In XMS, active Learning by students is encouraged. There are a variety of hands-on activities, projects, and problem-solving exercises. 
-•	Coding assignments and debugging tasks are carried out using Google Colab
-•	Lesson resources through Google Classroom/SLS with hybrid learning modes to promote self-directedness.
-•	Enhancing problem-solving ability coupled with computational thinking to real world context through newspaper clips. Students are to sieve the gist of the news and reflect how technology can help to solve an inconvenience etc. 
-•	They are then encouraged through their mini project to break down complex problems into smaller, manageable components and design algorithms to solve them. This applies into their Scratch or Python program. 
-•	Collaborative Learning: Promote collaboration among students through pair programming, group discussions, and peer code reviews. Collaboration can help students learn from each other and improve their communication skills.
-•	Assessment and Feedback: Use a variety of assessment methods and test cases that will inform the student on the quality of their coding.
-•	Variety of online Kahoot quizzes and mini-games
-•	Coding assignments that have peer evaluations, to gauge student understanding and promote critique..
-•	Reflection component after every extension activity : Encourage students to reflect on their learning experiences, the challenges they faced, and how they can apply what they've learned in their future endeavors.
+* Coding assignments and debugging tasks are carried out using Google Colab
+* Lesson resources through Google Classroom/SLS with hybrid learning modes to promote self-directedness.
+* Enhancing problem-solving ability coupled with computational thinking to real world context through newspaper clips. Students are to sieve the gist of the news and reflect how technology can help to solve an inconvenience etc. 
+* They are then encouraged through their mini project to break down complex problems into smaller, manageable components and design algorithms to solve them. This applies into their Scratch or Python program. 
+* Collaborative Learning: Promote collaboration among students through pair programming, group discussions, and peer code reviews. Collaboration can help students learn from each other and improve their communication skills.
+* Assessment and Feedback: Use a variety of assessment methods and test cases that will inform the student on the quality of their coding.
+* Variety of online Kahoot quizzes and mini-games
+* Coding assignments that have peer evaluations, to gauge student understanding and promote critique..
+* Reflection component after every extension activity : Encourage students to reflect on their learning experiences, the challenges they faced, and how they can apply what they've learned in their future endeavors.
 
 
-
-Talent Development
-GCE-O Level Computing
+**Talent Development**<br>
+<u>GCE-O Level Computing</u><br>
 Mini Projects (Pygame) are open-ended tasks carried out as part of Secondary 3 curriculum over 8 weeks. The project will be based on authentic tasks founded on real-world problems. There are 2 proposed implementations for the Mini Project, either hardware-based or software based. Students can choose to use either Halocode/Microbit microcontroller to create contraptions as a solution prototype to an identified problem in the community. Past projects include Recycling Shower for Toilet Flushes and Medicine boxes to remind Elderly. Students may also choose to use Unity or Pygame to create a gaming project that has NE themes.
-Other Competitions
+
+<u>Other Competitions</u>
 •	TP x VJC Data Science Hackathon
 •	Ngee Ann - Youth Cyber Exploration Program
 •	SIT-VJC Project Inspire Program
