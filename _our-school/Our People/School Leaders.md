@@ -289,7 +289,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:TAN_Kok_Kwang@schools.gov.sg">TAN_Kok_Kwang@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:tan_kok_kwang@schools.gov.sg">tan_kok_kwang@schools.gov.sg</a>
         </div>
       </td>
     </tr>
