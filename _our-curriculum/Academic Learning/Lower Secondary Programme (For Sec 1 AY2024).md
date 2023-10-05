@@ -166,4 +166,61 @@ Through RefleXions@Xinmin, students:<br>
 Starting from the 2024 Secondary 1 cohort, Full Subject-Based Banding (SBB) will be implemented in our secondary education system. Secondary 1 students will benefit from the Full SBB experience, which provides greater customisation and flexibility for each student’s learning.
 
 Students will be allocated a set of subjects ranging from G1 to G3 which are comparable to the respective Achievement Levels (AL). This allocation is committed by MOE’s placement branch. The guidelines below apply to English, MTL Mathematics and Science.
-
+<br><br>
+<table width="623">
+  <tbody>
+    <tr>
+      <td width="146" style="border-color: black; background-color: #bdd7ee; width: 146px">
+        <p><strong>Indicative Level of Most Subjects at Start of S1</strong></p>
+      </td>
+      <td width="146" style="border-color: black; background-color: #bdd7ee; width: 146px">
+        <p><strong>PSLE Standard Grade</strong></p>
+      </td>
+      <td width="146" style="border-color: black; background-color: #bdd7ee; width: 146px">
+        <p><strong>PSLE Foundation Grade</strong></p>
+      </td>
+      <td width="185" style="border-color: black; background-color: #bdd7ee; width: 146px">
+        <p><strong>Option to offer subject at</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="146" rowspan="2">
+        <p>G1</p>
+      </td>
+      <td width="146">
+        <p>AL 5 or better</p>
+      </td>
+      <td width="146">
+        <p>-</p>
+      </td>
+      <td width="185">
+        <p>G3 / G2</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="146">
+        <p>AL 6</p>
+      </td>
+      <td width="146">
+        <p>AL A</p>
+      </td>
+      <td width="185">
+        <p>G2</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="146">
+        <p>G2</p>
+      </td>
+      <td width="146">
+        <p>AL 5 or better</p>
+      </td>
+      <td width="146">
+        <p>-</p>
+      </td>
+      <td width="185">
+        <p>G3</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
