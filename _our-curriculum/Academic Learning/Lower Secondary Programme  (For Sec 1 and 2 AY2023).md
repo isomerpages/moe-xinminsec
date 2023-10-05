@@ -138,3 +138,24 @@ Under Full SBB, Express, N(A), and N(T) streams will be phased out from 2024 onw
     </tr>
   </tbody>
 </table>
+
+**Experiential Modules**<br>
+Beyond the core subjects and the common curriculum, Xinmin students are further exposed to two essential experiential modules to hone their 21st century skills and competencies further.
+
+•	**Coding@Xinmin**<br>
+‘If you want to uncover the secrets of the universe, or you want to pursue a career in the 21st century, basic computer programming is an essential skill to learn.’ ~ Stephen Hawkings
+
+Through Coding@Xinmin, students:<br>
+1.	Discover and develop computational thinking.<br>
+2.	Acquire fundamental programming skills and languages.<br>
+3.	Attempt challenges requiring conceptualisation and problem-solving.<br>
+4.	Learn through gamification.<br>
+
+•	**RefleXions@Xinmin**<br>
+Drama education teaches students how to communicate, how to listen, and how to be empathetic.’ ~ Andrew Lloyd Webber
+
+Through RefleXions@Xinmin, students:<br>
+1.	Gain exposure and learn to apply elements of drama skills.<br>
+2.	Acquire thinking routines that encourage critical thinking and reflection.<br>
+3.	Create original scripts and put up drama performances.<br>
+4.	Develop pre-requisites to offer Drama at upper secondary.<br>
