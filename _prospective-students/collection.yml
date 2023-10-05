@@ -2,9 +2,9 @@ collections:
   prospective-students:
     output: true
     order:
-      - Secondary 1 posting.md
       - Prospectus.md
       - 360 Campus Tour.md
+      - Secondary 1 posting.md
       - Direct School Admission.md
       - Student Resources/.keep
       - Student Resources/International Student Admission.md
