@@ -58,7 +58,7 @@ With the implementation of Full Subject Based Banding (FSBB), students can learn
 **Common Curriculum Subjects**<br>
 Under Full SBB, Express, N(A), and N(T) streams will be phased out from 2024 onwards. Currently, Xinmin students will be  placed in mixed form classes at lower secondary where they can interact with peers of different strengths and interests via the common curriculum. Differentiated instruction (D.I.), customisation and project-based learning are key levers to achieve these developmental objectives among diverse learners:
 
-<br><br>
+<br>
 <table border="1" style="border-color: black">
   <tbody>
     <tr>
@@ -159,3 +159,80 @@ Through RefleXions@Xinmin, students:<br>
 2.	Acquire thinking routines that encourage critical thinking and reflection.<br>
 3.	Create original scripts and put up drama performances.<br>
 4.	Develop pre-requisites to offer Drama at upper secondary.<br>
+
+
+### Current Secondary 1 students (In Academic Yr 2023)
+The allocation of subject/levels is provided by MOE’s placement branch based on students’ PSLE Achievement Levels (ALs). 
+
+<table border="1" style="border-color: black">
+  <tbody>
+    <tr>
+      <td width="228">
+        <p><strong>Subject</strong></p>
+      </td>
+      <td width="150">
+        <p><strong>Achievement Level</strong></p>
+      </td>
+      <td width="246">
+        <p><strong>Level at which subject can be taken</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="228">
+        <p>English</p>
+      </td>
+      <td width="150">
+        <p>AL 5</p>
+        <p>AL 6</p>
+      </td>
+      <td width="246">
+        <p>Express</p>
+        <p>Normal (Academic)</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="228">
+        <p>Mother Tongue Languages (MTL)</p>
+      </td>
+      <td width="150">
+        <p>AL 5</p>
+        <p>AL 6</p>
+      </td>
+      <td width="246">
+        <p>Express</p>
+        <p>Normal (Academic)</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="228">
+        <p>Mathematics</p>
+      </td>
+      <td width="150">
+        <p>AL 5</p>
+        <p>AL 6</p>
+      </td>
+      <td width="246">
+        <p>Express</p>
+        <p>Normal (Academic)</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="228">
+        <p>Science</p>
+      </td>
+      <td width="150">
+        <p>AL 5</p>
+        <p>AL 6</p>
+      </td>
+      <td width="246">
+        <p>Express</p>
+        <p>Normal (Academic)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil and Non-Tamil Indian Languages (NTIL), students should preferably obtain either:<br><br>
+1.	Studied HMTL in primary school; Pass in HMTL for PSLE; and PSLE overall lower than AL16.<br><br>
+2.	Did not take HMTL in primary school; Scored AL1or 2 in MTL for PSLE; and PSLE overall lower than AL16.<br><br>
+Note: Students taking Tamil or NTIL will be taking lessons at designated schools or language centres, and not in Xinmin Secondary School.
