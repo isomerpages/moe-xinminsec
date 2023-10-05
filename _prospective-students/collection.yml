@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Admissions/.keep
       - Prospectus.md
       - 360 Campus Tour.md
       - Secondary 1 posting.md
