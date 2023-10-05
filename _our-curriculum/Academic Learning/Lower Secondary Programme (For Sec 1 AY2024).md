@@ -159,3 +159,11 @@ Through RefleXions@Xinmin, students:<br>
 2.	Acquire thinking routines that encourage critical thinking and reflection.<br>
 3.	Create original scripts and put up drama performances.<br>
 4.	Develop pre-requisites to offer Drama at upper secondary.<br>
+
+
+### Secondary 1 students entering in 2024  
+
+Starting from the 2024 Secondary 1 cohort, Full Subject-Based Banding (SBB) will be implemented in our secondary education system. Secondary 1 students will benefit from the Full SBB experience, which provides greater customisation and flexibility for each student’s learning.
+
+Students will be allocated a set of subjects ranging from G1 to G3 which are comparable to the respective Achievement Levels (AL). This allocation is committed by MOE’s placement branch. The guidelines below apply to English, MTL Mathematics and Science.
+
