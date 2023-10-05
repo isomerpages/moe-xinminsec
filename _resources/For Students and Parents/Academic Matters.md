@@ -13,12 +13,6 @@ Timetables
 *   [School Timetable](/resources/students/timetables/school-timetable/)
 *   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1S7lChpa_rMRRRJwkNGCqUNMqqJzcWTRenVWWpUSvCEc/edit#gid=1582931388)
 
-
-Booklists
---------
-*   [Booklists](/resources/students/school-resources/booklists/)
-
-
 Assessment
 ----------
 
@@ -26,6 +20,10 @@ Assessment
 *   [Criteria for Promotion](/resources/students/assessment/criteria-for-promotion/)
 *  [End Of Year Examination Topics and Formats](/resources/students/assessment/end-of-year-examination-topics-and-formats/)
 *   [Instructions to Candidates](/resources/students/assessment/instructions-to-candidates/)
+
+Booklists
+--------
+*   [Booklists](/resources/students/school-resources/booklists/)
 
 
 Bookshop and Uniform Supplier
