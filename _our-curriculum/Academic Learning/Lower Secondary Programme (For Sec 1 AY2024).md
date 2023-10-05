@@ -57,4 +57,66 @@ With the implementation of Full Subject Based Banding (FSBB), students can learn
 
 
 **Common Curriculum Subjects**<br>
-Under Full SBB, Express, N(A), and N(T) streams will be phased out . Xinmin students will be placed in mixed form classes at lower secondary where they can interact with peers of different strengths and interests via the common curriculum. Differentiated instruction (D.I.), customisation and project-based learning are key levers to achieve these developmental objectives among diverse learners: 
+Under Full SBB, Express, N(A), and N(T) streams will be phased out . Xinmin students will be placed in mixed form classes at lower secondary where they can interact with peers of different strengths and interests via the common curriculum. Differentiated instruction (D.I.), customisation and project-based learning are key levers to achieve these developmental objectives among diverse learners:
+
+<table border="1" style="border-color: black;">
+<tbody>
+<tr>
+<td width="192">
+<p><strong>Subjects</strong></p>
+</td>
+<td width="432">
+<p><strong>Development objectives</strong></p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Character &amp; Citizenship Education (CCE)</p>
+</td>
+<td width="432">
+<p>Build good character, resilience and well-being, active citizenship and future readiness.</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Physical Education (PE)</p>
+</td>
+<td width="432">
+<p>Demonstrate individually and with others, the physical skills, practices and values to enjoy a lifetime of active healthy living.</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Art</p>
+</td>
+<td width="432">
+<p>Develop artistic skills and understanding through active experiences and surface different levels and aspects of artistic strengths.</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Music</p>
+<p>&nbsp;</p>
+</td>
+<td width="432">
+<p>Developing lifelong musical interest and abilities through Listening, Creating and Performing.</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Design &amp; Technology (D&amp;T)</p>
+</td>
+<td width="432">
+<p>Hone students creative and inventive thinking through design-and-make projects.</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Food &amp; Consumer Education (FCE)</p>
+</td>
+<td width="432">
+<p>Empower students to be health-conscious and discerning consumers; and enabling them to better manage their lives for the present and future.</p>
+</td>
+</tr>
+</tbody>
+</table>
