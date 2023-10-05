@@ -16,6 +16,6 @@ The Lower Secondary Programme enables Xinmin students to establish a strong foun
 ![](/images/Lower%20Sec%20Academic%20Learning/framework.jpg)
 
 Please click on the following links for more information on:
-* Lower Secondary Programme (For Secondary 1 and 2 in Academic Year 2023)
+* [Lower Secondary Programme (For Secondary 1 and 2 in Academic Year 2023)](/our-curriculum/academic-learning/lower-sec-programme-2023/)
 * [Lower Secondary Programme (For Secondary 1 in the Academic  Year 2024)](/our-curriculum/academic-learning/lower-sec-programmer-2024/)
 * Upper Secondary Programme
