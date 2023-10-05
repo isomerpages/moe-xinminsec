@@ -27,6 +27,6 @@ All our upper secondary subject combinations have been carefully designed to pre
 ![](/images/Upper%20Sec%20Academic%20Learning/express_combi_7.png)
 *The humanities elective chosen must be a different discipline from the 6th and 7th subjects below, e.g. students cannot offer “Geography” and “Social Studies / Geography Elective”.*
 
+![](/images/Upper%20Sec%20Academic%20Learning/normal_acad_combi.png)
 
-
-
+![](/images/Upper%20Sec%20Academic%20Learning/normal_tech_combi.png)
