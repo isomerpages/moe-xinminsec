@@ -32,3 +32,28 @@ An essential element of the program occurs in Secondary 4, where students are ta
 * EBS Amazing Race
 * ITE-Ignite Competition
 * EBS Digital Tic-Tac-Toe Competition 2023
+
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Elements Of Business/e_b_s_2a.png" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Elements Of Business/e_b_s_2b.png" width="100%" alt="IMG_0084.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
