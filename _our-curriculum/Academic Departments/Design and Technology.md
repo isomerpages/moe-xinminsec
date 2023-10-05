@@ -75,7 +75,7 @@ Students will familarise themselves with Google Classroom resources and rubrics 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_2a.png" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Design_And_Technology/Department_programmes/d_n_t_2c.jpeg" width="100%" alt="IMG_0034.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
