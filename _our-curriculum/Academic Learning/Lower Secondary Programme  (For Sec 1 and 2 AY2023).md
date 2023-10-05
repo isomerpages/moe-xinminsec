@@ -50,3 +50,10 @@ At the lower secondary levels, all students will offer:
     </tr>
   </tbody>
 </table>
+
+**Core Subjects**<br>
+With the implementation of Full Subject Based Banding (FSBB), students can learn the core subjects at the level that best caters to their overall strengths, interests and learning needs. Certain core subjects will be offered at a more demanding level (MDL) at three specific junctures. 
+
+
+**Common Curriculum Subjects**<br>
+Under Full SBB, Express, N(A), and N(T) streams will be phased out from 2024 onwards. Currently, Xinmin students will be  placed in mixed form classes at lower secondary where they can interact with peers of different strengths and interests via the common curriculum. Differentiated instruction (D.I.), customisation and project-based learning are key levers to achieve these developmental objectives among diverse learners: 
