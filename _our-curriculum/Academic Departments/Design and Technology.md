@@ -23,6 +23,8 @@ Students will familarise themselves with Google Classroom resources and rubrics 
 * Doing 3d sketching and transferring designs to Google Sketchup (Upper Sec)
 * Google Classroom and SLS for Lesson Objects
 * Compare and contrast of similar function items.
+
+
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -53,6 +55,3 @@ Students will familarise themselves with Google Classroom resources and rubrics 
     </tr>
   </tbody>
 </table>
-
-
-
