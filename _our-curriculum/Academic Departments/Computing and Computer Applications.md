@@ -50,11 +50,12 @@ In XMS, active Learning by students is encouraged. There are a variety of hands-
 Mini Projects (Pygame) are open-ended tasks carried out as part of Secondary 3 curriculum over 8 weeks. The project will be based on authentic tasks founded on real-world problems. There are 2 proposed implementations for the Mini Project, either hardware-based or software based. Students can choose to use either Halocode/Microbit microcontroller to create contraptions as a solution prototype to an identified problem in the community. Past projects include Recycling Shower for Toilet Flushes and Medicine boxes to remind Elderly. Students may also choose to use Unity or Pygame to create a gaming project that has NE themes.
 
 <u>Other Competitions</u>
-•	TP x VJC Data Science Hackathon
-•	Ngee Ann - Youth Cyber Exploration Program
-•	SIT-VJC Project Inspire Program
-•	DrCT/Bebras- Organised by SIMCC
-•	ORION X: Decrypted Ngee Ann Polytechnic's School of InfoComm Technology (ICT)
-•	National Software Competition 2023
-GCE-N Level Computer Applications
+* TP x VJC Data Science Hackathon
+* Ngee Ann - Youth Cyber Exploration Program
+* SIT-VJC Project Inspire Program
+* DrCT/Bebras- Organised by SIMCC
+* ORION X: Decrypted Ngee Ann Polytechnic's School of InfoComm Technology (ICT)
+* National Software Competition 2023
+
+<u>GCE-N Level Computer Applications</u><br>
 Our students have been participating in the Animation and Game Making (AGM) Competition organised by the Computer Education Unit under MOE since 2018.  The objective of this competition is to create a platform for students to exhibit their work, stimulate their enthusiasm for media and game design and enhance their research abilities. Congratulations to our year’s GOLD award winner 2023.
