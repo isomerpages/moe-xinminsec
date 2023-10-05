@@ -224,3 +224,10 @@ Students will be allocated a set of subjects ranging from G1 to G3 which are com
     </tr>
   </tbody>
 </table>
+
+To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil and Non-Tamil Indian Languages (NTIL), students should preferably obtain either:<br>1.	Gain exposure and learn to apply elements of drama skills.<br>
+2.	Acquire thinking routines that encourage critical thinking and reflection.<br>
+
+Note: Students taking Tamil or NTIL will be taking lessons at designated schools or language centres, and not in Xinmin Secondary School.
+
+Beyond the start of Secondary 1, students may offer these subjects at more demanding level (MDL) based on their performance in school, as well as by demonstrating positive attitude towards learning. 
