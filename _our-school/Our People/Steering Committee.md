@@ -680,7 +680,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:[Li\_Jiaying@schools.gov.sg](mailto:Li_Jiaying@schools.gov.sg)">Li_Jiaying@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:[Li\_Jiaying@schools.gov.sg](mailto:li_jiaying@schools.gov.sg)">li_jiaying@schools.gov.sg</a>
         </div>
       </td>
     </tr>
