@@ -14,5 +14,4 @@ description: ""
 
 If you or someone you know is being bullied, do not be afraid to speak up. You can report the bullying to your Form Teachers or through this EXIT form (QR code below):
 
-![](/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_5.png)
-
+![](/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_5_1.png)
