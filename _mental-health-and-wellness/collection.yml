@@ -2,6 +2,7 @@ collections:
   mental-health-and-wellness:
     output: true
     order:
+      - Helplines and Support.md
       - Mental Resilience.md
       - Self care.md
       - Stress Management.md
