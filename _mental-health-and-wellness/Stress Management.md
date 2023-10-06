@@ -18,5 +18,5 @@ Since it is not entirely possible to cut out all forms of stress from our lives,
 
 **<u>Self-help tools</u>**:<br>
 * [Stress Management Tool](https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Coping-With-Stress-Adults#self-assessment-home)<br>
-* Coping with stress
+* [Coping with stress](https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/coping-with-stress-youths#home)
 * 101 ways to cope with stress
