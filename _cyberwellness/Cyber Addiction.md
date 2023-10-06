@@ -9,7 +9,7 @@ Online activities are enjoyable, so it is easy to spend long hours on the comput
 
 However, when any activity becomes the major focus of your life, sometimes to the point where it starts to harm you physically, mentally or socially, you may be suffering from an addiction problem.
 
-Signs and symptoms of excessive internet use/gaming:
+**Signs and symptoms of excessive internet use/gaming**:
 * You have problems reducing your use of the Internet;
 * You crave spending more time on your digital device;
 * You become aggressive, depressed or irritable without your digital device;
@@ -43,5 +43,3 @@ o	Poor performance in school
 Self-help tools:
 •	https://www.healthhub.sg/live-healthy/178/stuckintheweb
 •	https://familiesforlife.sg/discover-an-article/Pages/Dealing-with-Cyber-Addiction.aspx
-
-
