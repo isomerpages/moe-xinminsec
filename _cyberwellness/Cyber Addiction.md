@@ -45,5 +45,5 @@ However, when any activity becomes the major focus of your life, sometimes to th
 
 **<u>Self-help tools:</u>**
 
-* https://www.healthhub.sg/live-healthy/178/stuckintheweb
-* https://familiesforlife.sg/discover-an-article/Pages/Dealing-with-Cyber-Addiction.aspx
+* [https://www.healthhub.sg/live-healthy/178/stuckintheweb](https://www.healthhub.sg/live-healthy/178/stuckintheweb)
+* [https://familiesforlife.sg/discover-an-article/Pages/Dealing-with-Cyber-Addiction.aspx](https://familiesforlife.sg/discover-an-article/Pages/Dealing-with-Cyber-Addiction.aspx)
