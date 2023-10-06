@@ -11,6 +11,5 @@ description: ""
 Use the **S.U.R. E framework** to determine the credibility of the sources.
 ![](/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_8.png)
 
-**Self-help tools:**<br>
+**<u>Self-help tools</u>:**<br>
 * https://www.betterinternet.sg/-/media/BIC-2020/Learn/Online-Impersonation/ONLINE-IMPERSONATION-ENGLISH.pdf
-
