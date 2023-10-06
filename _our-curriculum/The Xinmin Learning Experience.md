@@ -6,15 +6,7 @@ description: ""
 Our Learning Experience Framework
 ---------------------------------
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Learning%20Experience%20Framework.jpeg" alt="Learning Experience Framework" style="width:80%;">  
-  
+![](/images/Lower%20Sec%20Academic%20Learning/framework_3.png)
 
 
 The components of the framework are described as follows
