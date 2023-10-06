@@ -17,7 +17,7 @@ Here are some useful tools, websites and helplines:
 * [Belle, the Beyond the Label helpbot](https://www.ncss.gov.sg/our-initiatives/beyond-the-label/belle-beyond-the-label-helpbot)
 * [Mental health e-kit](https://www.xinminsec.moe.edu.sg/files/Counselling/mental%20health%20e-kit%20for%20male%20teens.pdf)
 * [https://www.healthhub.sg/programmes/186/MindSG/Discover](https://www.healthhub.sg/programmes/186/MindSG/Discover)
-* [https://www.limitless.sg/facts](https://www.limitless.sg/facts) https://www.limitless.sg/facts
+* [https://www.limitless.sg/facts](https://www.limitless.sg/facts)
 
 ![](/images/Well%20Being%20Guide/Mental%20Health%20and%20Wellness/mental_health_10.png)
 
