@@ -14,7 +14,7 @@ Below is a roadmap to guide you.
 
 Here are some useful tools, websites and helplines:
 * [Mindline](https://www.mindline.sg/)
-* Belle, the Beyond the Label helpbot
+* [Belle, the Beyond the Label helpbot](https://www.ncss.gov.sg/our-initiatives/beyond-the-label/belle-beyond-the-label-helpbot)
 * Mental health e-kit
 * https://www.healthhub.sg/programmes/186/MindSG/Discover
 * https://www.limitless.sg/facts
