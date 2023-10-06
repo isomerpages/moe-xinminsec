@@ -254,11 +254,6 @@ The Cross-Country meet and Inter – CCA Carnival are biennial mass events that 
   </tbody>
 </table>
 
-**4) Multi – Sports Carnival:**
-
-
-The School Sports Partnership (SSP) provides an opportunity for passionate students in Secondary 2 and 3 to further develop their knowledge and skills in football, basketball and badminton. Students hone their skills with the help of their PE teachers and ActiveSG coaches and selected students will get the opportunity to represent the school to participate in external competitions or friendly matches against other schools.  (Click on [link](https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24](https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24) to view)
-
 
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
@@ -365,7 +360,13 @@ The School Sports Partnership (SSP) provides an opportunity for passionate stude
 </table>
 
 ![](/images/Physical_Education/Department_programmes/physical_education_6c.jpg)
-Non-Rockclimbing CCA students participating in a Bouldering competition at the Inter – CCA Carnival. 
+Non-Rockclimbing CCA students participating in a Bouldering competition at the Inter – CCA Carnival. <br><br>
+**4) Multi – Sports Carnival:**
+
+
+The School Sports Partnership (SSP) provides an opportunity for passionate students in Secondary 2 and 3 to further develop their knowledge and skills in football, basketball and badminton. Students hone their skills with the help of their PE teachers and ActiveSG coaches and selected students will get the opportunity to represent the school to participate in external competitions or friendly matches against other schools.  (Click on [link](https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24](https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24) to view)
+
+
 
 ![](/images/Physical_Education/Department_programmes/physical_education_6.jpg)
 Above: Our SSP Badminton friendly match with Hwa Chong International
