@@ -120,7 +120,7 @@ description: ""
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Ximeetbot-Matchmaking Free Slots with Ease</p></td><td width="183" valign="top" style="width:137.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Mr Lee Foo Yong</p><p class="MsoNormal">Mr Tan Joo Chen, Terry</p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Mr Lee Foo Yong</p><br>Mr Tan Joo Chen, Terry</td></tr></tbody></table>
 
 **Academy Awards for Professional Development 2022**
 
