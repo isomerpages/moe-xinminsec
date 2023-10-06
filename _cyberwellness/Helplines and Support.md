@@ -13,4 +13,4 @@ Here are some useful websites and helplines:
 * https://www.csa.gov.sg/gosafeonline
 * https://www.healthhub.sg/programmes/186/MindSG/Caring-For-Ourselves/Learning-About-Cyber-Wellness-Teens#home
 
-
+![](/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_9.png)
