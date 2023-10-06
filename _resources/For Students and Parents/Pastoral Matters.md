@@ -16,7 +16,7 @@ Well-Being Guide
 *   [Education & Career Guidance](/files/Counselling/Xinmin%202021%20CAA120421.pdf)
 *  [Helplines](/resources/students/well-being-guide/mental-health/helplines/)  
 *   [Managing Stress](/files/Counselling/101%20ways%20to%20Cope%20with%20Stress-R3.pdf)
-*  [Mental Health](/resources/students/well-being-guide/mental-health/101-ways-to-cope-with-stress/)
+*  [Mental Health and Wellness](/resources/students/well-being-guide/mental-health/101-ways-to-cope-with-stress/)
 
 *   [School Counselling](/resources/students/well-being-guide/school-counselling/)
 *  [Tips for Effective Learning](/resources/students/well-being-guide/tips-for-effective-learning/)
