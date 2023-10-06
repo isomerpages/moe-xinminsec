@@ -13,10 +13,8 @@ Well-Being Guide
 ----------------
 
 *   [Cyber Wellness](https://drive.google.com/file/d/11uxMXxLACqCiZ1BCL5gUBjq-laxrYbR6/view)
-*   [Education & Career Guidance](/files/Counselling/Xinmin%202021%20CAA120421.pdf)
-*  [Helplines](/resources/students/well-being-guide/mental-health/helplines/)  
-*   [Managing Stress](/files/Counselling/101%20ways%20to%20Cope%20with%20Stress-R3.pdf)
 *  [Mental Health and Wellness](/well-being-guide/mental-health-and-wellness/)
-
-*   [School Counselling](/resources/students/well-being-guide/school-counselling/)
+*   [Education & Career Guidance](/files/Counselling/Xinmin%202021%20CAA120421.pdf)
 *  [Tips for Effective Learning](/resources/students/well-being-guide/tips-for-effective-learning/)
+*   [Managing Stress](/files/Counselling/101%20ways%20to%20Cope%20with%20Stress-R3.pdf)
+*   [School Counselling](/resources/students/well-being-guide/school-counselling/)
