@@ -23,20 +23,20 @@ Student Development Experiences (SDEs) are programmes and activities that contri
 
 Some of the SDEs in Xinmin Secondary School include experiences in Co-Curricular Activities (CCA), Education and Career Guidance (ECG) Experiences, National Education (NE) Commemorative Days and our signature VIA programme, XinminCares.
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;">
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Cce/Cce/cce_1a.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/Cce/cce_1a.jpeg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -54,7 +54,7 @@ Some of the SDEs in Xinmin Secondary School include experiences in Co-Curricular
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Cce/Cce/cce_1b.jpeg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/Cce/cce_1b.jpeg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -72,20 +72,20 @@ Some of the SDEs in Xinmin Secondary School include experiences in Co-Curricular
   </tbody>
 </table>
 
-<table style="margin: auto;
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
     clear: both;
     border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+    table-layout: fixed;">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/Cce/cce_1c.jpeg">
+        <img src="/images/Cce/Cce/cce_1c.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -103,7 +103,7 @@ Some of the SDEs in Xinmin Secondary School include experiences in Co-Curricular
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: auto;
+        <img src="/images/Cce/Cce/empty_1.png" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -111,7 +111,7 @@ Some of the SDEs in Xinmin Secondary School include experiences in Co-Curricular
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/Cce/empty_1.png">
+            height: 236px;">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -136,7 +136,6 @@ In addition to creating student voice, dialogue also provides opportunities for 
 
 **Student-Centric Pedagogy**  
 The use of instructional and facilitation strategies such as circle structure, four corners, freeze frame, hot seat, round table, role-play, debate etc, promotes students’ voice and empowers students to express their views during CCE lessons. Through the interaction, it also strengthens both teacher-student relationships and student-student relationships.
-
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -150,7 +149,57 @@ The use of instructional and facilitation strategies such as circle structure, f
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Cce/Cce/cce_2c.png" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Cce/Cce/cce_2a.jpeg" alt="Math_1.jpg" class="ive_eobj_center" style="width:">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          ‘Four Corners’ being used as a facilitation strategy to discover multiple perspectives in the lesson on overcoming stereotypes lesson
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Cce/Cce/cce_2b.png" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width:">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Students engaging in role-play and making use of online tool to rationalise and share their perspectives
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/Cce/cce_2c.png">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -168,7 +217,7 @@ The use of instructional and facilitation strategies such as circle structure, f
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Cce/Cce/empty_1.png" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
+        <img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -176,7 +225,7 @@ The use of instructional and facilitation strategies such as circle structure, f
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;">
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/Cce/empty_1.png">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
