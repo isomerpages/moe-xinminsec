@@ -4,15 +4,8 @@ permalink: /ccas/sports-n-games/volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/vb.jpeg" alt="Volleyball" style="width:90%;">  
-  
+
+  ![](/images/CCAs/Volleyball/volleyball_2023.jpeg)
 Dedication, determination and drive remain the hallmarks of the Xinmin Volleyball teams. These values permeate all levels from coaches, teachers to individual players in each team. As a community, we strive for sports excellence with a spirit of friendship, solidarity and fair play.
 
 Over the years, we continue to hone our sporting skills and have exhibited all the above stated traits. While winning is one of the objectives in any competition, our teachers and coaches firmly believe that it is far more important to develop the right values and character in our players.
