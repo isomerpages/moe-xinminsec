@@ -11,7 +11,7 @@ Our Learning Experience Framework
 
 The components of the framework are described as follows
 
-1.  At the heart of the Xinmin Learning Experience Framework is our school vision –&nbsp;**_Leading Hearts, Leading Minds_**. This provides the anchor to remind us that all that we do in the school is aimed at achieving our vision. One should note the ‘R’ in our school vision has a ‘3’ included in superscript (i.e., R3). The R3&nbsp;represents our school values, namely:
+At the heart of the Xinmin Learning Experience Framework is our school vision –&nbsp;**_Leading Hearts, Leading Minds_**. This provides the anchor to remind us that all that we do in the school is aimed at achieving our vision. One should note the ‘R’ in our school vision has a ‘3’ included in superscript (i.e., R3). The R3&nbsp;represents our school values, namely:
 
 
 *   **Respect**&nbsp;– Having the belief in one’s self-worth and also the intrinsic worth of all people;
@@ -23,7 +23,7 @@ The components of the framework are described as follows
 *   **Resilience**&nbsp;– Possessing emotional strength and perseverance in the face of challenges while demonstrating courage, optimism, adaptability and resourcefulness in the process.
 
 
-2.  The next ring shows the Desired Xinmin Outcomes (DXOs) which articulate what we aim to develop in our students in their 4-5 years in the school. In summary, we would like every student to graduate from Xinmin as a Curious Learner, a Compassionate Contributor and a Confident Leader. The three broad outcomes are described as follows:
+The next ring shows the Desired Xinmin Outcomes (DXOs) which articulate what we aim to develop in our students in their 4-5 years in the school. In summary, we would like every student to graduate from Xinmin as a Curious Learner, a Compassionate Contributor and a Confident Leader. The three broad outcomes are described as follows:
 
 *   **Curious Learner**<br>
 We want our students to be inquisitive about the world, desiring to seek new knowledge and generate novel ideas or solutions to problems. We want them to be self-directed and motivated, and take ownership of their learning. The ability and motivation to learn throughout their lives would empower our students to seize the multiple opportunities available to them in the future.  
@@ -58,7 +58,7 @@ We want our students to be able to communicate effectively to influence and pers
 
   
 
-3.  The third ring describes our approach in designing learning experiences for our students that would facilitate the achievement of our DXOs. These learning experiences could be broadly categories as follows:
+The third ring describes our approach in designing learning experiences for our students that would facilitate the achievement of our DXOs. These learning experiences could be broadly categories as follows:
 
   
 
@@ -134,4 +134,4 @@ The ability and motivation to learn throughout their lives would allow our stude
 
   
 
-4.  The fourth ring of the framework describes the programmes offered in our school, in which we design learning experiences for our students to develop the DXOs. Some of these programmes are common experiences that all Xinmin students go through, namely (i) Co-Curricular Activities; (ii) XinminCares; (iii) Character &amp; Citizenship Education; and (iv) Student Leadership. As far as possible, we give our students the autonomy to choose programmes that would cater to their interests, strengths and aspirations. Therefore, it would be the case that students would experience the other programmes somewhat differently, to varying degrees.
+The fourth ring of the framework describes the programmes offered in our school, in which we design learning experiences for our students to develop the DXOs. Some of these programmes are common experiences that all Xinmin students go through, namely (i) Co-Curricular Activities; (ii) XinminCares; (iii) Character &amp; Citizenship Education; and (iv) Student Leadership. As far as possible, we give our students the autonomy to choose programmes that would cater to their interests, strengths and aspirations. Therefore, it would be the case that students would experience the other programmes somewhat differently, to varying degrees.
