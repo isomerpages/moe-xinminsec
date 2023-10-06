@@ -1,4 +1,5 @@
 collections:
   mental-health-and-wellness:
     output: true
-    order: []
+    order:
+      - Mental Health & Wellness.md
