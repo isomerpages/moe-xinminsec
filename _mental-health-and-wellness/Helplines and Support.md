@@ -13,7 +13,7 @@ Below is a roadmap to guide you.
 ![](/images/Well%20Being%20Guide/Mental%20Health%20and%20Wellness/mental_health_9.png)
 
 Here are some useful tools, websites and helplines:
-* Mindline
+* [Mindline](https://www.mindline.sg/)
 * Belle, the Beyond the Label helpbot
 * Mental health e-kit
 * https://www.healthhub.sg/programmes/186/MindSG/Discover
