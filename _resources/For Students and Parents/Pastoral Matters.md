@@ -12,8 +12,8 @@ Rules and Regulations
 Well-Being Guide
 ----------------
 
-*   [Cyber Wellness](https://drive.google.com/file/d/11uxMXxLACqCiZ1BCL5gUBjq-laxrYbR6/view)
-*  [Mental Health and Wellness](/well-being-guide/mental-health-and-wellness/)
+*   [Cyber Wellness](/cyberwellness/cyberwellness/)
+*  [Mental Health and Wellness](/mental-health-and-wellness/mental-health-and-wellness/)
 *   [Education & Career Guidance](/files/Counselling/Xinmin%202021%20CAA120421.pdf)
 *  [Tips for Effective Learning](/resources/students/well-being-guide/tips-for-effective-learning/)
 *   [School Counselling](/resources/students/well-being-guide/school-counselling/)
