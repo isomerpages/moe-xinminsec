@@ -3,6 +3,7 @@ title: Cyber Wellness
 permalink: /cyberwellness/cyberwellness/
 description: ""
 ---
+## Cyber wellness
 Cyber wellness is the positive well-being of internet users as we navigate cyberspace. It focuses on equipping netizens like us with the knowledge and skills to harness the power of technology for positive purposes and to maintain a safe and positive presence in cyberspace. It also seeks to shape us as responsible users of the internet.<br>
 
 There are **<u>3 Cyber Wellness key messages</u>**:
