@@ -15,7 +15,7 @@ Below is a roadmap to guide you.
 Here are some useful tools, websites and helplines:
 * [Mindline](https://www.mindline.sg/)
 * [Belle, the Beyond the Label helpbot](https://www.ncss.gov.sg/our-initiatives/beyond-the-label/belle-beyond-the-label-helpbot)
-* [Mental health e-kit](https://xinminsec-moe-edu-sg-admin.cwp.sg/qql/slot/u505/Students/Stress%20Management%20Info/Mental%20Health%20e-kit-Dare%20to%20Share.pdf)
+* [Mental health e-kit](https://www.xinminsec.moe.edu.sg/files/Counselling/mental%20health%20e-kit%20for%20male%20teens.pdf)
 * [https://www.healthhub.sg/programmes/186/MindSG/Discover](https://www.healthhub.sg/programmes/186/MindSG/Discover)
 * [https://www.limitless.sg/facts](https://www.limitless.sg/facts) https://www.limitless.sg/facts
 
