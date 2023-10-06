@@ -43,6 +43,7 @@ However, when any activity becomes the major focus of your life, sometimes to th
 * Social awkwardness
 * Poor performance in school
 
-Self-help tools:
-•	https://www.healthhub.sg/live-healthy/178/stuckintheweb
-•	https://familiesforlife.sg/discover-an-article/Pages/Dealing-with-Cyber-Addiction.aspx
+**<u>Self-help tools:</u>**
+
+* https://www.healthhub.sg/live-healthy/178/stuckintheweb
+* https://familiesforlife.sg/discover-an-article/Pages/Dealing-with-Cyber-Addiction.aspx
