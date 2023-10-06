@@ -127,7 +127,7 @@ description: ""
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="155" valign="top" style="width:116.5pt;border:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><b>Award Category</b></p></td><td width="144" valign="top" style="width:108.0pt;border:solid windowtext 1.0pt;
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><b>Awardees</b></p></td></tr><tr style="mso-yfti-irow:1"><td width="155" valign="top" style="width:116.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><a name="_Hlk147485103">Associate Award</a></p></td><td width="144" valign="top" style="width:108.0pt;border-top:none;border-left:
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Associate Award</p></td><td width="144" valign="top" style="width:108.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Ms Lim Tze Ting</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td width="155" valign="top" style="width:116.5pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Associate Award</p></td><td width="144" valign="top" style="width:108.0pt;border-top:none;border-left:
