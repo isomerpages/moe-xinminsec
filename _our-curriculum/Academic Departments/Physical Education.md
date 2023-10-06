@@ -154,6 +154,8 @@ The P.R.I.D.E programme is for overweight students and serves to imbue in them t
 ![](/images/Physical_Education/Department_programmes/physical_education_2b.jpg)
 Games sessions with non – P.R.I.D.E students to promote social bonding <br>
 
+![](/images/Physical_Education/Department_programmes/physical_education_2c.jpg)
+
 
 **3) Cross – Country/Inter – CCA Carnival**
 
