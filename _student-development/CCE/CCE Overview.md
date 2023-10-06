@@ -23,7 +23,71 @@ Student Development Experiences (SDEs) are programmes and activities that contri
 
 Some of the SDEs in Xinmin Secondary School include experiences in Co-Curricular Activities (CCA), Education and Career Guidance (ECG) Experiences, National Education (NE) Commemorative Days and our signature VIA programme, XinminCares.
 
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 845.325px; margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0px 15px 15px 0px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 276px; display: block; margin: auto; width: 222px; outline: 0px; padding: 0px; border: none; clear: both;" src="https://www.xinminsec.moe.edu.sg/images/CCE_1.jpeg" alt="CCE_1.jpg" class="ive_eobj_center"><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">A Sec 3 student receiving his NRIC as part of a citizenship lesson</div></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0px 15px 15px 0px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 276px; display: block; margin: auto; width: 368px; outline: 0px; padding: 0px; border: none; clear: both;" src="https://www.xinminsec.moe.edu.sg/images/CCE_2.jpeg" width="100%" alt="CCE_2.jpg" class="ive_eobj_center"><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">Students embarking on a VIA project about littering in our environment as&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">part of XinminCares</div></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0px 15px 15px 0px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 276px; display: block; margin: auto; width: 206px; outline: 0px; padding: 0px; border: none; clear: both;" src="https://www.xinminsec.moe.edu.sg/images/CCE_3.jpeg" alt="CCE_3.jpg" class="ive_eobj_center"><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">Students writing words of encouragement for migrant&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">workers during a&nbsp;lesson&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">about their struggles&nbsp;during&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">Circuit Breaker</div></td></tr></tbody></table>
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Student Development/CCE/cce_1a.jpeg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          A Sec 3 student receiving his NRIC as part of a citizenship lesson
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Student Development/CCE/cce_1b.jpeg">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Students embarking on a VIA project about littering in our environment as part of XinminCares
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 Approaches
 ----------
