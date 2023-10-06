@@ -2,5 +2,6 @@ collections:
   cyberwellness:
     output: true
     order:
+      - Cyber Addiction.md
       - Cyber Wellness.md
       - Cyber Bullying.md
