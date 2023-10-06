@@ -5,7 +5,7 @@ description: ""
 ---
 Our Vision
 --------------------------
-Leading Hearts Leading Minds
+Leading Hearts, Leading Minds
 
 Our Mission
 --------------------------
