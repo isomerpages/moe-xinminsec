@@ -11,15 +11,10 @@ Our Learning Experience Framework
 
 The components of the framework are described as follows
 
-  
-
 1.  At the heart of the Xinmin Learning Experience Framework is our school vision –&nbsp;**_Leading Hearts, Leading Minds_**. This provides the anchor to remind us that all that we do in the school is aimed at achieving our vision. One should note the ‘R’ in our school vision has a ‘3’ included in superscript (i.e., R3). The R3&nbsp;represents our school values, namely:
 
-  
 
 *   **Respect**&nbsp;– Having the belief in one’s self-worth and also the intrinsic worth of all people;
-
-  
 
 *   **Responsibility**&nbsp;– Recognising that one has a duty to himself, his family, community, nation and the world, and fulfils his responsibilities with love and commitment; and
 
@@ -30,8 +25,7 @@ The components of the framework are described as follows
 
 2.  The next ring shows the Desired Xinmin Outcomes (DXOs) which articulate what we aim to develop in our students in their 4-5 years in the school. In summary, we would like every student to graduate from Xinmin as a Curious Learner, a Compassionate Contributor and a Confident Leader. The three broad outcomes are described as follows:
 
-*   **Curious Learner**
-
+*   **Curious Learner**<br>
 We want our students to be inquisitive about the world, desiring to seek new knowledge and generate novel ideas or solutions to problems. We want them to be self-directed and motivated, and take ownership of their learning. The ability and motivation to learn throughout their lives would empower our students to seize the multiple opportunities available to them in the future.  
 
   
