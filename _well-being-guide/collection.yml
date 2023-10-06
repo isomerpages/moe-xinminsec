@@ -2,7 +2,6 @@ collections:
   well-being-guide:
     output: true
     order:
-      - Mental Health and Wellness.md
       - What is REACH ?.md
       - Mental Health/.keep
       - Mental Health/Helplines.md
