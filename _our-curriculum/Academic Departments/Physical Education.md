@@ -286,7 +286,7 @@ The Cross-Country meet and Inter – CCA Carnival are biennial mass events that 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_6d.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Physical_Education/Department_programmes/physical_education_6d_1.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
