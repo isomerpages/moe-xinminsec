@@ -12,7 +12,7 @@ Computing/CPA will foster our students the necessary digital literacies, whilst 
 
 Through various online platforms, students will become adaptable and proficient in many digital tools that can later be applied in different fields. This not only opens up diverse career opportunities but also instills ethical awareness. With extensive hands-on experience, our students will enjoy applying their new found skills through many challenges competitions.
 
-![](/images/Computing%20and%20CPA/computing_cpa_1.png)
+![](/images/Computing%20and%20CPA/computing_cpa_2.png)
 
 **Computing/Computer Applications (CPA)**<br>
 Through the Computing/CPA syllabus, students will achieve the following objectives:<br>
