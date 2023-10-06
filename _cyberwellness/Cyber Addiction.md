@@ -20,25 +20,28 @@ However, when any activity becomes the major focus of your life, sometimes to th
 * You don’t do your school/work;
 * You are absent from school or work.
 
-Consequences of excessive internet use/gaming:
-•	Physical
-o	Migraines
-o	Sleep disturbance
-o	Backaches
-o	Eating irregularities
-o	Poor personal hygiene
-•	Psychological
-o	Inattention
-o	Aggression
-o	Restlessness and irritability
-o	Preoccupation with games even when not playing
-o	Loss of interest in other activities
-•	Social
-o	You neglect personal relationships
-o	Isolation from family and friends
-o	Difficulties in engaging in real world communication
-o	Social awkwardness
-o	Poor performance in school
+**Consequences of excessive internet use/gaming:** <br>
+**<u>Physical</u>**
+* Migraines
+* Sleep disturbance
+* Backaches
+* Eating irregularities
+* Poor personal hygiene
+
+**<u>Psychological</u>**
+
+* Inattention
+* Aggression
+* Restlessness and irritability
+* Preoccupation with games even when not playing
+* Loss of interest in other activities
+
+**<u>Social</u>**
+* You neglect personal relationships
+* Isolation from family and friends
+* Difficulties in engaging in real world communication
+* Social awkwardness
+* Poor performance in school
 
 Self-help tools:
 •	https://www.healthhub.sg/live-healthy/178/stuckintheweb
