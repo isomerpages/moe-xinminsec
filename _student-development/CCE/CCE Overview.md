@@ -137,4 +137,66 @@ In addition to creating student voice, dialogue also provides opportunities for 
 **Student-Centric Pedagogy**  
 The use of instructional and facilitation strategies such as circle structure, four corners, freeze frame, hot seat, round table, role-play, debate etc, promotes students’ voice and empowers students to express their views during CCE lessons. Through the interaction, it also strengthens both teacher-student relationships and student-student relationships.
 
-<table style="box-sizing: inherit; font-family: Lato, sans-serif; border-collapse: collapse; border-spacing: 0px; width: 845.325px; margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><tr style="box-sizing: inherit; font-family: Lato, sans-serif; margin: 0px; outline: 0px; padding: 0px;"><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0px 15px 15px 0px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 276px; display: block; margin: auto; width: 370px; outline: 0px; padding: 0px; border: none; clear: both;" src="https://www.xinminsec.moe.edu.sg/images/CCE_4.jpeg" alt="CCE_4.jpg" class="ive_eobj_center"><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">‘Four Corners’ being used as a facilitation strategy to discover&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">multiple perspectives in the&nbsp;lesson on overcoming&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">stereotypes lesson</div></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0px 15px 15px 0px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 276px; display: block; margin: auto; width: 340px; outline: 0px; padding: 0px; border: none; clear: both;" src="https://www.xinminsec.moe.edu.sg/images/CCE_5.png" width="100%" alt="CCE_5.png" class="ive_eobj_center"><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">Students engaging in role-play&nbsp;and making use of&nbsp;online tool to&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">rationalise&nbsp;and&nbsp;share their&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">perspectives</div></td><td style="box-sizing: inherit; font-family: Lato, sans-serif; padding: 0px 15px 15px 0px; text-align: left; vertical-align: top; border: 0px solid rgb(214, 214, 214); margin: 0px; outline: 0px;"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 273px; display: block; margin: auto; width: 279px; outline: 0px; padding: 0px; border: none; clear: both;" src="https://www.xinminsec.moe.edu.sg/images/CCE_6.png" alt="CCE_6.png" class="ive_eobj_center"><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">Eliciting opinions about mental&nbsp;health using Menti as a&nbsp;lead-up&nbsp;to&nbsp;a&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">discussion about&nbsp;help seeking&nbsp;</div><div style="box-sizing: inherit; font-family: Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px; line-height: 24.99px; color: rgb(0, 0, 0); font-size: 17px; font-weight: 400; text-align: center;">and resilience</div></td></tr></tbody></table>
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 240px;
+            height: 236px;" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Cce/Cce/cce_2c.png">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+          Eliciting opinions about mental health using Menti as a lead-up to a discussion about help seeking and resilience
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            width: 318px;
+            height: 236px;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Cce/Cce/empty_1.png">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: left;">
+          <br>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
