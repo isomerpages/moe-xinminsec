@@ -46,6 +46,9 @@ Ms Nadhrah Zainalabiden <br>
 **Student Leaders**<br>
 Andrea Mok Kai Ting (304, 2023) - Chairperson<br>
 Karina Astari Widiyantomo (302, 2023) - Vice-Chairperson<br>
+Chong Jing Ying (301, 2023)- Head of Welfare<br>
+Vansh Veer (305, 2023)- Head of Knowledge Management<br>
+
 
 **CCA Schedule**<br>
 Wednesdays: 3.45pm to 6pm<br>
