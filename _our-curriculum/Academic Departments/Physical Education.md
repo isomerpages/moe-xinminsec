@@ -343,7 +343,7 @@ Non-Rockclimbing CCA students participating in a Bouldering competition at the I
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_5.jpg" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
+        <img src="/images/Physical_Education/Department_programmes/physical_education_6a.jpg" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -360,7 +360,7 @@ Non-Rockclimbing CCA students participating in a Bouldering competition at the I
             font-weight: 400;
             text-align: left;">
           <br>
-          XMS SSP basketball girls learning new strategies from their coach.
+          SSP soccer students going through their drills. 
         </div>
       </td>
     </tr>
