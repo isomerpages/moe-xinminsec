@@ -27,11 +27,8 @@ The components of the framework are described as follows
 
 *   **Resilience**&nbsp;– Possessing emotional strength and perseverance in the face of challenges while demonstrating courage, optimism, adaptability and resourcefulness in the process.
 
-  
 
 2.  The next ring shows the Desired Xinmin Outcomes (DXOs) which articulate what we aim to develop in our students in their 4-5 years in the school. In summary, we would like every student to graduate from Xinmin as a Curious Learner, a Compassionate Contributor and a Confident Leader. The three broad outcomes are described as follows:
-
-  
 
 *   **Curious Learner**
 
