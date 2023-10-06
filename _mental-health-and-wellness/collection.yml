@@ -2,4 +2,5 @@ collections:
   mental-health-and-wellness:
     output: true
     order:
+      - Stress Management.md
       - Mental Health & Wellness.md
