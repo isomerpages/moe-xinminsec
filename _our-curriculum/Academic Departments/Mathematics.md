@@ -115,9 +115,9 @@ The use of technology is used to maximise students’ learning by emphasizing po
 **_Beyond Classroom_**<br>
 To extend learning beyond textbook and classroom, we have a range of talent development programmes tailored for our students who express keen interest and passion for the subject. Refer to the talent development programme webpage to find out more about our four-levels mathematics academy.
 
-![Math_4](/images/Math_4.jpeg)
+![](/images/Mathematics/Department_programmes/mathematics_2.png)
 
-![Math_5](/images/Math_5.png)
+![](/images/Mathematics/Department_programmes/mathematics_3.png)
 
 <table style="margin: auto;
     outline: 0px;
