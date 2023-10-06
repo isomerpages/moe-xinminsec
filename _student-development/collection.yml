@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - Total Curriculum Map and Level Themes.md
+      - Total Curriculum Plan and Level Themes.md
       - CCE/.keep
       - CCE/CyberWellness and Mental Health.md
       - CCE/Education and Career Guidance.md
