@@ -18,7 +18,7 @@ Dedication, determination and drive remain the hallmarks of the Xinmin Volleybal
 Over the years, we continue to hone our sporting skills and have exhibited all the above stated traits. While winning is one of the objectives in any competition, our teachers and coaches firmly believe that it is far more important to develop the right values and character in our players.
 
 **Accomplishments**<br>
-Achievements for 2019 (To be bolded)<br>
+Achievements for 2019<br>
 North Zone Inter-school Volleyball Championship:<br>
 B Div Boys: 2nd<br>
 B Div Girls: 2nd<br>
