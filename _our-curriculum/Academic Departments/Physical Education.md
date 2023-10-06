@@ -370,6 +370,6 @@ Non-Rockclimbing CCA students participating in a Bouldering competition at the I
 
 
 ![](/images/Physical_Education/Department_programmes/physical_education_5.jpg)
-
+XMS SSP basketball girls learning new strategies from their coach. <br><br>
 ![](/images/Physical_Education/Department_programmes/physical_education_6.jpg)
 Above: Our SSP Badminton friendly match with Hwa Chong International
