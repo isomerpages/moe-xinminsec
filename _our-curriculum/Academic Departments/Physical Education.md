@@ -268,61 +268,6 @@ The Cross-Country meet and Inter – CCA Carnival are biennial mass events that 
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_4.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: left;">
-          <br>
-          Our ActiveSG coach together with Mr Ganesan coaching football.
-        </div>
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Physical_Education/Department_programmes/physical_education_5.jpg" alt="Math_2.jpg" class="ive_eobj_center" style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: left;">
-          <br>
-          XMS SSP basketball girls learning new strategies from their coach.
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
         <img src="/images/Physical_Education/Department_programmes/physical_education_3b.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
@@ -366,7 +311,7 @@ Non-Rockclimbing CCA students participating in a Bouldering competition at the I
 
 The School Sports Partnership (SSP) provides an opportunity for passionate students in Secondary 2 and 3 to further develop their knowledge and skills in football, basketball and badminton. Students hone their skills with the help of their PE teachers and ActiveSG coaches and selected students will get the opportunity to represent the school to participate in external competitions or friendly matches against other schools.  (Click on [link](https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24](https://www.straitstimes.com/sport/schools/schools-kids-have-more-opportunities-for-participation-in-non-cca-sports-under-new?xtor=CS3-18&amp;utm_source=STiPhone&amp;utm_medium=share&amp;utm_term=2019-08-07%2012%3A08%3A24) to view)
 
-
+![](/images/Physical_Education/Department_programmes/physical_education_5.jpg)
 
 ![](/images/Physical_Education/Department_programmes/physical_education_6.jpg)
 Above: Our SSP Badminton friendly match with Hwa Chong International
