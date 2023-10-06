@@ -14,4 +14,9 @@ Since it is not entirely possible to cut out all forms of stress from our lives,
 
 ![](/images/Well%20Being%20Guide/Mental%20Health%20and%20Wellness/mental_health_2.png)
 
+![](/images/Well%20Being%20Guide/Mental%20Health%20and%20Wellness/mental_health_3.png)
 
+**<u>Self-help tools</u>**:<br>
+* Stress self-assessment tool
+* Coping with stress
+* 101 ways to cope with stress
