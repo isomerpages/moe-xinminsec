@@ -104,25 +104,6 @@ We believe that by helping students connect their conceptual understanding to au
   </tbody>
 </table>
 
-**_Active Learning through ICT-Infused Lessons_** <br>The use of technology is used
-to maximise students’ learning by emphasizing positive students’ interactions
-and student’s agency. E-learning platforms such as SLS and Google Classroom
-encourage both self-directed and collaborative learning. Students are able to
-acquire mathematical knowledge at their own pace and teachers are able to
-provide timely and more customised feedback. In addition, the use of ICT tools
-such as Desmos and GeoGebra promotes better visualization and deeper learning in
-abstract topics such as Geometry, Trigonometry and Graphs. **_Beyond
-Classroom_** To extend learning beyond textbook and classroom, we have a range
-of talent development programmes tailored for our students who express keen
-interest and passion for the subject. Refer to the talent development programme
-webpage to find out more about our four-levels mathematics academy.
-![Math_4](/images/Math_4.jpeg) ![Math_5](/images/Math_5.png)
-![](/images/Math_6.jpg)
-
-
-
-
-  
 
 **_Active Learning through ICT-Infused Lessons_**
 
