@@ -13,4 +13,4 @@ In Xinmin Secondary School, we believe in the holistic development of our studen
 
 Each level theme is also aligned to our school’s vision and is further defined by desired outcomes that we hope our students achieve so that they can embrace the future with confidence and optimism.
 
-![](/images/Cce/Total%20Curriculum/table_2.png)
+![](/images/Cce/Total%20Curriculum/table_3.png)
