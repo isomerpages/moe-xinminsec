@@ -7,7 +7,7 @@ Total Curriculum Plan and Level Themes
 ------
 
 
-In Xinmin Secondary School, we believe in the holistic development of our students into curious learners, confident leaders and compassionate contributors. We adopt a thematic approach that is age-appropriate and developmentally progressive so that our students can navigate their years in Xinmin successfully.
+Our Total Curriculum Plan sets the direction for the implementation of the curriculum and co-curriculum to develop our students into **curious learners, confident leaders and compassionate contributors**. We adopt a thematic approach that is age-appropriate and developmentally progressive so that our students can navigate their years in Xinmin successfully
 
 ![](/images/Cce/Total%20Curriculum/level%20themes_image.png)
 
