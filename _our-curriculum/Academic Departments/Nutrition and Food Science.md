@@ -15,20 +15,17 @@ In Nutrition and Food Science (NFS), we aim to develop students’ understanding
 
 Approaches
 --------------------------
-The inquiry-based learning model5 for teaching FCE and NFS is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involved them in their own learning.
+The inquiry-based learning model for teaching FCE and NFS is a cyclical process where students’ engagement with a question or topic leads to intellectual exploration. This eventually leads to an explanation of the feature or process in the question and further leads to the application of their ideas. This process develops the students’ understanding and involved them in their own learning.
 
 ![](/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_8a.png)
 
-A peek into the classroom….
---------------------------
-  
-<u>Bus Stop Activity on Sensory Evaluation</u>
+<u>An Inquiry Activity on Sensory Evaluation</u>
 
 “I prefer Brand A biscuit because it is crispier and less salty compared to Brand B.”
 <br>
 “This smells familiar! I felt that I was back to my childhood.”
 
-Ever have such thoughts in your mind? This is sensory evaluation! In FCE, the Secondary Two students have the opportunity to participate in a station-based activity to find out who has the best sense of taste and sense of smell among them. There are four stations which require students to taste different food items based on triangle test1, ranking test2 and rating test3 and identifying different ingredients in the mysterious cups4. The teachers have planned for this activity to engage the students and connect their learning from textbook content to real-life experience. 
+Ever have such thoughts in your mind? This is sensory evaluation! In FCE, the Secondary Two students have the opportunity to participate in a station-based activity to find out who has the best sense of taste and sense of smell among them. There are four stations which require students to taste different food items based on triangle test1, ranking test2 and rating test3 and identifying different ingredients in the mysterious cups4. The teachers have designed this inquiry based activity to develop the curious learner and help our students connect the learning between textbook content and real-life experiences. 
 
 Station 1: Triangle test <br>
 Aim: To find out the odd sample among three cornflake samples.
