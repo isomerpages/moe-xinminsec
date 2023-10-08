@@ -641,6 +641,8 @@ Talent Development
   </tbody>
 </table>
 
+<br>
+
 
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
