@@ -798,4 +798,55 @@ Our upper secondary students engaging in a virtual dialogue with scientists and 
     </tr>
   </tbody>
 </table>
-Our upper secondary students engaging in a virtual dialogue with scientists and presenting their innovation for a project challenge in the International Science Youth Forum (ISYF)<br><br>
+Our upper secondary students engaging in a virtual dialogue with scientists and presenting their innovation for a project challenge in the International Science Youth Forum (ISYF)<br><br><br>
+
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_9a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_9b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_9c.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_9d.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+Our upper secondary students getting through to the Semi Finals of the National STEM Championship
