@@ -66,19 +66,19 @@ Our students learning about the soilless cultivation of vegetables and its benef
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_2a.jpg">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_4a.jpg">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_2b.jpg">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_4b.jpg">
       </td>
     </tr>
   </tbody>
 </table>
 
-Our students learning about the soilless cultivation of vegetables and its benefits in the lower secondary science curriculum
+Our SBB students continuing to pursue Science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject.
 <table style="margin: auto;
     outline: 0px;
     padding: 0px;
