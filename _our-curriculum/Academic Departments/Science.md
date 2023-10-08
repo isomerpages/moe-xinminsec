@@ -798,3 +798,4 @@ Our upper secondary students engaging in a virtual dialogue with scientists and 
     </tr>
   </tbody>
 </table>
+Our upper secondary students engaging in a virtual dialogue with scientists and presenting their innovation for a project challenge in the International Science Youth Forum (ISYF)
