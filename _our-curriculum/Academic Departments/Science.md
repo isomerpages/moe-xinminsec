@@ -38,20 +38,20 @@ Our lower secondary students engaging in a Think-Pair-Share activity on _The Sci
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_1a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Science/Department_programmes/science_3a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_1b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Science/Department_programmes/science_3b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
       </td>
     </tr>
   </tbody>
 </table>
 
 
-Our upper secondary students conducting a scientific experiment and explaining the data collected and their findings to their classmates
+Our students learning about the soilless cultivation of vegetables and its benefits in the lower secondary Science curriculum
 
 <table style="margin: auto;
     outline: 0px;
