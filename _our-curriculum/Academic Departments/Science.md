@@ -494,16 +494,16 @@ Talent Development
             text-align: left;">
           <ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px">
             <li style="margin: 0px; outline: 0px; padding: 0px">
-                Talks by / Dialogues with scientists / researchers
+               Singapore Junior Chemistry Olympiad
             </li>
             <li style="margin: 0px; outline: 0px; padding: 0px">
               <span style="margin: 0px;
                   outline: 0px;
                   padding: 0px;
-                  background-color: initial;">Science Buskers Festival</span><br style="margin: 0px; outline: 0px; padding: 0px">
+                  background-color: initial;">Singapore Junior Physics Olympiad</span><br style="margin: 0px; outline: 0px; padding: 0px">
             </li>
             <li style="margin: 0px; outline: 0px; padding: 0px">
-                Singapore Science and Engineering Fair (Junior Scientists Category)
+               Singapore Junior Biology Olympiad
             </li>
           </ul>
         </div>
