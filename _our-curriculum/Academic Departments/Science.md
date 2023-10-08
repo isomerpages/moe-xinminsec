@@ -370,13 +370,16 @@ Talent Development
               <span style="margin: 0px;
                   outline: 0px;
                   padding: 0px;
-                  background-color: initial;">Singapore Junior Chemistry Olympiad</span>
+                  background-color: initial;">Science Buskers Festival</span>
             </li>
             <li style="margin: 0px; outline: 0px; padding: 0px">
-                Singapore Junior Physics Olympiad
+                The National Science Challenge
             </li>
             <li style="margin: 0px; outline: 0px; padding: 0px">
-                Singapore Junior Biology Olympiad
+                A*STAR VJC Science Fair
+            </li>
+						<li style="margin: 0px; outline: 0px; padding: 0px">
+                SIT VJC INSPIRE Challenge
             </li>
             <span style="margin: 0px;
                 outline: 0px;
