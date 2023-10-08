@@ -657,13 +657,38 @@ Talent Development
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_4a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Science/Department_programmes/science_7a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_4b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Science/Department_programmes/science_7b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_7c.jpg">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_7d.jpg">
       </td>
     </tr>
   </tbody>
