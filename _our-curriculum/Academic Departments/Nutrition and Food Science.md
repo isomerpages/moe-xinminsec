@@ -229,13 +229,13 @@ Aim: To identify the ingredient hidden in each of the cups.
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_6a.jpg">
+        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_5a1.jpg">
       </td>
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_6b.jpg">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Food_And_Nutrition/Department_programmes/nutrition_and_food_science_5b1.jpg">
       </td>
     </tr>
   </tbody>
