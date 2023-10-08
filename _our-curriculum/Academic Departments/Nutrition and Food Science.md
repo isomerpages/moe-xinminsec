@@ -6,7 +6,6 @@ third_nav_title: Academic Departments
 ---
 Nutrition and Food Science (Lower Secondary)
 --------------------------------------------
-
 Through Food and Consumer Education (FCE), we aim to equip students with knowledge about dietary health, so that they learn about the benefits of a balanced meal and could be more discerning in choosing nutritious food for good health. Students will also learn food management and culinary skills in order to be self-sufficient in planning and preparing healthy meals for themselves and their families. At the same time, students will learn basic principles of consumer education to manage their resources and understand consumer rights and responsibilities. 
 
 Nutrition and Food Science (Upper Secondary)
