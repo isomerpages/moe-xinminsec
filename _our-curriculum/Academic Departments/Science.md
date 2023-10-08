@@ -771,9 +771,9 @@ Our lower secondary students engaging in scientific investigations
 </table>
 
 ![](/images/Science/Department_programmes/science_8c.jpg)
-
+Our lower secondary students participating in the A*STAR-VJC Science Fair 
 Our upper secondary students engaging in a virtual dialogue with scientists and presenting their innovation for a project challenge in the International Science Youth Forum (ISYF) 2021
-
+<br>
   <table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
     outline: 0px;
     padding: 0px;
