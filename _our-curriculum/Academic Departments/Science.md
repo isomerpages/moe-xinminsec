@@ -743,18 +743,8 @@ Talent Development
     </tr>
   </tbody>
 </table>
-
-
-  
-
-
-
-
-
-
-
-<br>  
 Our lower secondary students engaging in scientific investigations
+<br><br><br>
 <table style="margin: auto;
     outline: 0px;
     padding: 0px;
