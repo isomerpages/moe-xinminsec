@@ -629,11 +629,8 @@ Talent Development
             text-align: left;">
           <ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px">
             <li style="margin: 0px; outline: 0px; padding: 0px">
-                The National Science Challenge<br style="margin: 0px; outline: 0px; padding: 0px">
-            </li>
-            <li style="margin: 0px; outline: 0px; padding: 0px">
                 The International Science Youth Forum
-              </li>
+						</li>
             <li style="margin: 0px; outline: 0px; padding: 0px">
                 CRADLΣ's Research and Development Experience Programme
               </li>
