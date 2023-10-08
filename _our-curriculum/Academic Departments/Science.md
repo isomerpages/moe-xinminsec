@@ -107,37 +107,6 @@ Our SBB students continuing to pursue Science as an out-of-stream subject in the
 
 Our SBB students continuing to pursue science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject
 
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_4a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Science/Department_programmes/science_4b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-  
-
-
-
-
 Talent Development
 ------------------
 
@@ -671,6 +640,38 @@ Talent Development
     </tr>
   </tbody>
 </table>
+
+
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_4a.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/Department_programmes/science_4b.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+  
+
+
+
 
 
 
