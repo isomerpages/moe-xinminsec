@@ -131,7 +131,7 @@ Goh Tong Pak
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/Alumni Executive Committee/蔡 纪 典_4.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/Alumni Executive Committee/蔡 纪 典_4.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -142,7 +142,8 @@ Goh Tong Pak
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Soh Eng Cher
+          蔡纪典<br>
+Chua Kee Teang
         </div>
       </td>
     </tr>
