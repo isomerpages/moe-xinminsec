@@ -1101,7 +1101,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1136,7 +1136,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br></b>
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
