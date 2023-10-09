@@ -56,7 +56,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">Advisor</b>
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -67,7 +67,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-					陈顺惠校长<br>
+          陈顺惠校长<br>
           Mr Tan Soon Hui (Principal)
         </div>
       </td>
@@ -95,7 +95,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Advisor</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -107,7 +107,7 @@ third_nav_title: Our Stakeholders
             font-weight: 400;
             text-align: center;">
           吴中博<br>
-Goh Tong Pak
+          Goh Tong Pak
         </div>
       </td>
       <td style="margin: 0px;
@@ -131,7 +131,7 @@ Goh Tong Pak
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/蔡 纪 典_4.png"><b style="margin: 0px; outline: 0px; padding: 0px">Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/蔡 纪 典_4.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -143,11 +143,11 @@ Goh Tong Pak
             font-weight: 400;
             text-align: center;">
           蔡纪典<br>
-Chua Kee Teang
+          Chua Kee Teang
         </div>
       </td>
     </tr>
-		<tr style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
@@ -161,7 +161,7 @@ Chua Kee Teang
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/郭 明 忠_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">Advisor</b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/郭 明 忠_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -173,7 +173,7 @@ Chua Kee Teang
             font-weight: 400;
             text-align: center;">
           郭明忠博士<br>
-Dr. George Quek Meng Tong
+          Dr. George Quek Meng Tong
         </div>
       </td>
       <td style="margin: 0px;
@@ -208,7 +208,7 @@ Dr. George Quek Meng Tong
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">会长/President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -219,7 +219,8 @@ Dr. George Quek Meng Tong
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Lee Peng Koon
+          郭文发<br>
+          Kwek Boo Watt
         </div>
       </td>
       <td style="margin: 0px;
@@ -253,7 +254,7 @@ Dr. George Quek Meng Tong
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长/Vice President</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -264,11 +265,12 @@ Dr. George Quek Meng Tong
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Soh Eng Cher
+        王全炮<br>
+        Ong Chuan Pau        
         </div>
       </td>
     </tr>
-		<tr style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
@@ -292,7 +294,7 @@ Dr. George Quek Meng Tong
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">Culture &amp; Education</b>
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长/Vice President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -303,7 +305,8 @@ Dr. George Quek Meng Tong
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Goh Song Chay Eric
+        陈楚华<br>
+        Tan Chor Wah        
         </div>
       </td>
       <td style="margin: 0px;
