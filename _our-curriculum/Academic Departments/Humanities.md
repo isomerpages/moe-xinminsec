@@ -409,11 +409,7 @@ We recognise and value the talent students may have in the Humanities and we see
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/Humanities/Department_programmes/humanities_4.jpeg">
-        <div style="width=">
-          <br>
-          Istana Heritage Gallery Challenge (3rd Place)
-        </div>
+            height: 236px;" class="ive_eobj_center" alt="Math_3.jpg" width="100%" src="/images/empty_generic.png">
       </td>
     </tr>
   </tbody>
