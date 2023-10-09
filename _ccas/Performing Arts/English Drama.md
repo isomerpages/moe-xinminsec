@@ -19,38 +19,24 @@ The year began promisingly as preparations for the biannual Singapore Youth Fest
 
 This thus marked the end of our beloved Secondary 4 Drama Club members’ journeys with us. A humble farewell of food, heartfelt letters and video compilations were brought out to wish them the best for their future endeavours. For the rest of the year, we continued to play bonding games, as well as activities which upped our repertoire of theatrical techniques, such as improvisation exercises, as well as learning more about naturalism and other varying types and methods of theatre. We aim to build a strong ensemble of performers, both in terms of skills as well as teamwork, and this goal will remain for as long as the Xinmin English Drama Club remains. And with that, “Drama, that’s a wrap!” 
 
+**Accomplishments**<br>
+SYF Accomplishment Awards (For both team A and B)
 
-  
+**Teachers-in-charge**<br>
+Mdm Norliza Ali (Overall Teacher-in-Charge)<br>
+Mdm Abeyegoonesekara Rebecca<br>
+Mrs Lee Lu May<br>
 
-**Teachers-in-charge**  <br>
-Mdm Norliza Ali (IC) <br>
-Mdm Rebecca Abey <br>
-Ms Lee Lu May
+**Student Leaders**<br>
+President: Chong Yu Heng Dylan (304)<br>
+Vice Presidents: Ashley Wu Yun-Chen (302), Nicholas Loh Kai Yi (304)<br>
+Head of Welfare and VIA: Kitlyn Woo Yern Yu (304)<br>
+Head of Discipline and Upper Sec Head: Lim Xuan Justine (303)<br>
+Head of Logistics: Mong Chong Ren (305)<br>
 
-  
+**CCA Schedule**<br>
+Wednesday - 1530h-1800h<br>
+Friday - 1400h-1700h<br>
 
-**Student Committee** <br>
-President: Tan Yi Shi (301) <br>
-Vice-President: Ian Tan (308) <br>
-Discipline: Sreejeet Roy (304) <br>
-Admin: Elicia Ng (305) <br>
-Welfare: Avina Ong (307)
-
-  
-
-**CCA Schedule** <br>
-Every Wednesday - 3.30 - 6.00pm<br>
-Every Friday - 2.00 - 5.00pm
-  
-
-**CCA Achievement** <br>
-* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2017 <br>
-* Most Creative Play Award in Singapore Youth Festival 2018 Celebrations <br>
-* Outstanding Performance in Creativity, Teamwork and Performance Structure for the Play! in Singapore Youth Festival 2019 Celebrations <br>
-* Attained a Certificate of Accomplishment in Singapore Youth Festival (SYF) 2019 <br>
-* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2021 <br>
-* Attained a Certificate of Recognition of Participation Singapore Youth Festival (SYF) 2021
-
-  
-
-[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
+**Instagram**<br>
+https://instagram.com/xinmindrama
