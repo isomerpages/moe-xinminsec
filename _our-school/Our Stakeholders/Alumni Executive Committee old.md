@@ -445,15 +445,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Lee%20Peng%20Koon.png" alt="Lee Peng Koon.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/刘 慧 瑾_2.png" alt="Lee Peng Koon.png" class="ive_eobj_center" style="width:"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -500,17 +492,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/Soh%20Eng%20Cher.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副 秘书<br>Vice Honorary Secretary</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/Alumni Executive Committee/苏 应 芝_1.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="width:"><b style="margin: 0px; outline: 0px; padding: 0px">副 秘书<br>Vice Honorary Secretary</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -546,17 +528,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Neo%20Lee%20Cheok.png" alt="Neo Lee Cheok.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副秘书<br>Vice Honorary Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <img src="/images/Alumni Executive Committee/白 晓 青_1.png" alt="Neo Lee Cheok.png" class="ive_eobj_center" style="width:"><b style="margin: 0px; outline: 0px; padding: 0px">副秘书<br>Vice Honorary Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
