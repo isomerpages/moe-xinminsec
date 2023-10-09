@@ -165,51 +165,6 @@ third_nav_title: Our Stakeholders
             color: rgb(0, 0, 0);
             font-family: Helvetica, sans-serif;
             font-size: 17px;
-            font-weight: 400;">
-          <img style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              width: 116px;
-              height: 164px;" class="ive_eobj_center" alt="Mr Yeo Chor Seng.jpg" src="/images/Mr%20Yeo%20Chor%20Seng.jpeg">
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Committee Member</b><br style="margin: 0px; outline: 0px; padding: 0px">
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          Mr Yeo Chor Seng
-        </div>
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
             font-weight: 400;"></div>
         <div style="margin: 0px;
             outline: 0px;
@@ -281,6 +236,51 @@ third_nav_title: Our Stakeholders
           Ms Liu Hui Chen Agnes
         </div>
       </td>
+      <td style="margin: 0px;
+      outline: 0px;
+      padding: 0px 15px 15px 0px;
+      vertical-align: top;">
+    <div style="margin: 0px;
+        outline: 0px;
+        padding: 0px;
+        line-height: 24.99px;
+        color: rgb(0, 0, 0);
+        font-family: Helvetica, sans-serif;
+        font-size: 17px;
+        font-weight: 400;"></div>
+    <div style="margin: 0px;
+        outline: 0px;
+        padding: 0px;
+        line-height: 24.99px;
+        color: rgb(0, 0, 0);
+        font-family: Helvetica, sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        text-align: center;">
+      <img style="margin: auto;
+          outline: 0px;
+          padding: 0px;
+          border: none;
+          max-width: 100%;
+          clear: both;
+          display: block;
+          background-color: initial;
+          text-align: left;
+          width: 126px;
+          height: 178px;" class="ive_eobj_center" alt="Chua Chee Seng.png" src="/images/Chua%20Chee%20Seng.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+    </div>
+    <div style="margin: 0px;
+        outline: 0px;
+        padding: 0px;
+        line-height: 24.99px;
+        color: rgb(0, 0, 0);
+        font-family: Helvetica, sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        text-align: center;">
+      Mr Chua Chee Seng&nbsp;
+    </div>
+  </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -521,53 +521,6 @@ third_nav_title: Our Stakeholders
             font-weight: 400;
             text-align: center;">
           Mr Tan Cheng Kwee
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;"></div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          <img style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 126px;
-              height: 178px;" class="ive_eobj_center" alt="Chua Chee Seng.png" src="/images/Chua%20Chee%20Seng.png"><b style="margin: 0px; outline: 0px; padding: 0px">Committee Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          Mr Chua Chee Seng&nbsp;
         </div>
       </td>
     </tr>
