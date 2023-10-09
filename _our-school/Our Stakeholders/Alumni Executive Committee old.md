@@ -292,6 +292,136 @@ third_nav_title: Our Stakeholders
         </div>
       </td>
     </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">Culture &amp; Education</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          Mr Goh Song Chay Eric
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          Mr Lee Peng Koon
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b><br style="margin: 0px; outline: 0px; padding: 0px">
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          Mr Soh Eng Cher
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
