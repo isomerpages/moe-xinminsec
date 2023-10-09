@@ -162,7 +162,20 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
         Sec 2 student examining a school monument to determine its significance in Xinmin’s history
         </div>
       </td>
-      <td style="margin: 0px;
+    </tr>
+  </tbody>
+</table>
+
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+         <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
@@ -179,6 +192,12 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
         <br>
         Sec 3 student exploring the gallery at HDB to investigate accessibility for citizens
         </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/empty_generic_png">
       </td>
     </tr>
   </tbody>
