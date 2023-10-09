@@ -11,17 +11,14 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Drama.jpeg" alt="English Drama" style="width:90%;">  
-  
-</body>
-
-The Xinmin English Drama Club aims to groom a troupe of talented and confident young performers through a series of tailored programmes and the guidance of experienced instructors. Students are provided with a platform to showcase their artistic potential and are awarded with opportunities to excel in various aspects of drama. They can demonstrate their creativity by contributing on-stage and off-stage in areas including acting, stage management, directing, writing, planning events and creating stage props and costumes. Through weekly training sessions and various internal and external performances, students can uncover their own hidden talents in acting, develop their voices and gain confidence in expressing themselves. And most of all, forged close bonds as a result of many hours of training and collaboration as a team.
-
+<img src="/images/Drama.jpeg" alt="English Drama" style="width:90%;">  
   
 
-Our students devised, and staged three productions entitled, ‘Lao Jiu’, ‘No Parking on Odd Days’ and ‘Error 404’ at our annual Drama Night. The original production, ‘Error 404’ was written and directed by our very own Sec 4 Drama members, Aqiel, Ryan and Nargis. 
 
-Most importantly, English Drama is a place where ideas are shared and friendships are forged.
+The year began promisingly as preparations for the biannual Singapore Youth Festival started. After months of tiring yet passion-filled preparations, both teams put on their best for their performance. Despite the news of only attaining Accomplishment this year for both plays, it did not hinder us from putting forth our best for Sights of Xinmin, where we performed our SYF pieces for the school. Come the day of our performance, both acts were met with warm and emotional cheers from the audience, providing the Drama Club with a boost of morale. 
+
+This thus marked the end of our beloved Secondary 4 Drama Club members’ journeys with us. A humble farewell of food, heartfelt letters and video compilations were brought out to wish them the best for their future endeavours. For the rest of the year, we continued to play bonding games, as well as activities which upped our repertoire of theatrical techniques, such as improvisation exercises, as well as learning more about naturalism and other varying types and methods of theatre. We aim to build a strong ensemble of performers, both in terms of skills as well as teamwork, and this goal will remain for as long as the Xinmin English Drama Club remains. And with that, “Drama, that’s a wrap!” 
+
 
   
 
