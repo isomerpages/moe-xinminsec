@@ -920,3 +920,157 @@ third_nav_title: Our Stakeholders
     </tr>
   </tbody>
 </table>
+<hr><table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica, sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    orphans: 2;
+    text-align: left;
+    text-transform: none;
+    white-space: normal;
+    widows: 2;
+    word-spacing: 0px;
+    -webkit-text-stroke-width: 0px;
+    background-color: rgb(255, 255, 255);
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+        <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Tan%20You%20Liang.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          彭祥隆<br>
+          Pang Siong Loon
+        </div>
+      </td>
+      <td style="margin: 0px;
+        outline: 0px;
+        padding: 0px 15px 15px 0px;
+        vertical-align: top;">
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;
+          text-align: center;">
+        <img style="margin: auto;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            clear: both;
+            display: block;
+            background-color: initial;
+            text-align: left;
+            width: 135px;
+            height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;
+          text-align: center;">
+        苏应芝<br>
+        Soh Eng Cher
+      </div>
+    </td>
+    <td style="margin: 0px;
+      outline: 0px;
+      padding: 0px 15px 15px 0px;
+      vertical-align: top;">
+    <div style="margin: 0px;
+        outline: 0px;
+        padding: 0px;
+        line-height: 24.99px;
+        color: rgb(0, 0, 0);
+        font-family: Helvetica, sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        text-align: center;">
+      <img style="margin: auto;
+          outline: 0px;
+          padding: 0px;
+          border: none;
+          max-width: 100%;
+          clear: both;
+          display: block;
+          background-color: initial;
+          text-align: left;
+          width: 135px;
+          height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
+    </div>
+    <div style="margin: 0px;
+        outline: 0px;
+        padding: 0px;
+        line-height: 24.99px;
+        color: rgb(0, 0, 0);
+        font-family: Helvetica, sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        text-align: center;">
+      白晓青<br>
+      Peh Seow Cheng
+    </div>
+  </td>
+    </tr>
+  </tbody>
+</table>
