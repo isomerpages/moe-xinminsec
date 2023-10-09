@@ -92,7 +92,7 @@ third_nav_title: Our Stakeholders
               clear: both;
               display: block;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -103,7 +103,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -114,7 +114,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Lee Peng Koon
+          吴中博<br>
+Goh Tong Pak
         </div>
       </td>
       <td style="margin: 0px;
