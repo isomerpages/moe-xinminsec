@@ -295,4 +295,6 @@ The Academy Awards for Professional Development are given by Academy of Singapor
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Low Yan Jin</span></p></td></tr></tbody></table>
-
+	
+**Our Schools, Our Stories Photo &amp; Video Contest**<br>
+Our Schools, Our Stories" Photo &amp; Video Contest is an annual contest and exhibition organised by MOE that showcases the fascinating stories of everyday school life — through the eyes of our teachers, students and staff.
