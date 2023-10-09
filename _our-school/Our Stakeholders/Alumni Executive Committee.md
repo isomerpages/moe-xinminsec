@@ -4,9 +4,7 @@ permalink: /about-us/our-stakeholders/alumni-executive-committee/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-<table
-  style="
-    margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -32,23 +30,14 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;
-  "
-  class="ive_eobj_center ives_tab_kosong"
->
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -56,12 +45,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -71,18 +56,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Goh Song Chay Eric.png"
-            src="/images/Goh%20Song%20Chay%20Eric.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Culture &amp; Education</b
-          >
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">Culture &amp; Education</b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -90,23 +66,15 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Goh Song Chay Eric
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -114,12 +82,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -127,18 +91,9 @@ third_nav_title: Our Stakeholders
               clear: both;
               display: block;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Lee Peng Koon.png"
-            src="/images/Lee%20Peng%20Koon.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            ><br style="margin: 0px; outline: 0px; padding: 0px"
-          /></b>
+              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -146,16 +101,10 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"
-            >Vice-Culture &amp; Education</b
-          >
+            text-align: center;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -163,23 +112,23 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Lee Peng Koon
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -187,25 +136,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-          "
-        ></div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;
-          "
-        >
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b
-          ><img
-            style="
-              margin: auto;
+            text-align: center;">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -215,18 +147,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Soh Eng Cher.png"
-            src="/images/Soh%20Eng%20Cher.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Vice-Culture &amp; Education</b
-          ><br style="margin: 0px; outline: 0px; padding: 0px" />
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -234,25 +157,155 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
+          Mr Soh Eng Cher
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">Culture &amp; Education</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          Mr Goh Song Chay Eric
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          Mr Lee Peng Koon
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b><br style="margin: 0px; outline: 0px; padding: 0px">
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
           Mr Soh Eng Cher
         </div>
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -260,24 +313,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-          "
-        ></div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -287,17 +324,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Neo Lee Cheok.png"
-            src="/images/Neo%20Lee%20Cheok.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px">Recreation</b
-          ><br style="margin: 0px; outline: 0px; padding: 0px" />
+              height: 190px;" class="ive_eobj_center" alt="Neo Lee Cheok.png" src="/images/Neo%20Lee%20Cheok.png"><b style="margin: 0px; outline: 0px; padding: 0px">Recreation</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -305,23 +334,23 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Neo Lee Cheok
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -329,24 +358,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-          "
-        ></div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -356,18 +369,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Goh Peng Wah.png"
-            src="/images/Goh%20Peng%20Wah.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Vice-Recreation<br style="margin: 0px; outline: 0px; padding: 0px"
-          /></b>
+              height: 190px;" class="ive_eobj_center" alt="Goh Peng Wah.png" src="/images/Goh%20Peng%20Wah.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Recreation<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -375,23 +379,15 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mdm Goh Peng Wah
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -399,12 +395,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -414,18 +406,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Sandy Chew See See.png"
-            src="/images/Sandy%20Chew%20See%20See.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Vice-Recreation</b
-          ><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Sandy Chew See See.png" src="/images/Sandy%20Chew%20See%20See.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Recreation</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -433,25 +416,17 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Ms Sandy Chew See See
         </div>
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -459,12 +434,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -474,18 +445,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Chan Guang Kee.png"
-            src="/images/Chan%20Guang%20Kee.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Welfare &amp; Contact</b
-          >
+              height: 190px;" class="ive_eobj_center" alt="Chan Guang Kee.png" src="/images/Chan%20Guang%20Kee.png"><b style="margin: 0px; outline: 0px; padding: 0px">Welfare &amp; Contact</b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -493,23 +455,15 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Chan Guang Kee
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -517,12 +471,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -532,18 +482,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Chua Shi Yong.png"
-            src="/images/Chua%20Shi%20Yong.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Vice-Welfare &amp; Contact</b
-          ><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Chua Shi Yong.png" src="/images/Chua%20Shi%20Yong.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Welfare &amp; Contact</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -551,23 +492,23 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Chua Shi Yong
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -575,24 +516,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-          "
-        ></div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -602,17 +527,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Lee Yoon Thee.png"
-            src="/images/Lee%20Yoon%20Thee.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px">Sports</b
-          ><br style="margin: 0px; outline: 0px; padding: 0px" />
+              height: 190px;" class="ive_eobj_center" alt="Lee Yoon Thee.png" src="/images/Lee%20Yoon%20Thee.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sports</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -620,25 +537,25 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Lee Yoon Thee
         </div>
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -646,24 +563,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-          "
-        ></div>
-        <div
-          style="
-            margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -673,18 +574,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Tan You Liang.png"
-            src="/images/Tan%20You%20Liang.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Vice-Sports<br style="margin: 0px; outline: 0px; padding: 0px"
-          /></b>
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Tan%20You%20Liang.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Sports<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -692,23 +584,15 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Tan You Liang
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -716,12 +600,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -731,18 +611,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Chong Koh Eng.png"
-            src="/images/Chong%20Koh%20Eng.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Vice-Sports<br style="margin: 0px; outline: 0px; padding: 0px"
-          /></b>
+              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Sports<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -750,23 +621,15 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Chong Koh Eng
         </div>
       </td>
-      <td
-        style="
-          margin: 0px;
+      <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
-          vertical-align: top;
-        "
-      >
-        <div
-          style="
-            margin: 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -774,12 +637,8 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
-          <img
-            style="
-              margin: auto;
+            text-align: center;">
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -789,18 +648,9 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;
-            "
-            class="ive_eobj_center"
-            alt="Teu Gee Sing.png"
-            src="/images/Teu%20Gee%20Sing.png"
-          /><b style="margin: 0px; outline: 0px; padding: 0px"
-            >Internal Audit</b
-          >
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px">Internal Audit</b>
         </div>
-        <div
-          style="
-            margin: 0px;
+        <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
             line-height: 24.99px;
@@ -808,9 +658,7 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;
-          "
-        >
+            text-align: center;">
           Mr Teu Gee Sing
         </div>
       </td>
