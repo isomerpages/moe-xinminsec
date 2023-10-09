@@ -4,7 +4,6 @@ permalink: /about-us/our-stakeholders/alumni-executive-committee-old/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-
 <table style="margin: auto;
     outline: 0px;
     padding: 0px;
@@ -269,6 +268,7 @@ third_nav_title: Our Stakeholders
     </tr>
   </tbody>
 </table>
+<hr>
 <table style="margin: auto;
     outline: 0px;
     padding: 0px;
