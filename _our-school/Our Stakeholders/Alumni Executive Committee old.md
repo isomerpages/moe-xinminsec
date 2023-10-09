@@ -597,17 +597,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Goh%20Peng%20Wah.png" alt="Goh Peng Wah.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">财政<br>Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/彭 祥 隆_1.png" alt="Goh Peng Wah.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">财政<br>Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -635,17 +625,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Sandy%20Chew%20See%20See.png" alt="Sandy Chew See See.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副财政<br>Vice Honorary Treasurer</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/徐 丽 真_1.png" alt="Sandy Chew See See.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副财政<br>Vice Honorary Treasurer</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -681,17 +661,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Neo Lee Cheok.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"></b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <img src="/images/empty_generic.png" alt="Neo Lee Cheok.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px"></b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
