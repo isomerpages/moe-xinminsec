@@ -1803,7 +1803,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:adriana_ting_siew_lin@schools.gov.sg">-</a>
+              text-decoration: underline;" target="" href="mailto:soh_fong_lian@schools.gov.sg">soh_fong_lian@schools.gov.sg</a>
         </div>
       </td>
     </tr>
