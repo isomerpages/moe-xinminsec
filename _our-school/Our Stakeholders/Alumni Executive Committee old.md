@@ -1108,17 +1108,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Chong%20Koh%20Eng.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">统筹事务组<br>General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/梁 美 石_1.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">统筹事务组<br>General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1146,17 +1136,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Teu%20Gee%20Sing.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating</b>
+          <img src="/images/Alumni Executive Committee/锺 可 英_1.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1192,17 +1172,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Tan%20You%20Liang.png" alt="Tan You Liang.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/陈 宥 良_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1263,17 +1233,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Chong%20Koh%20Eng.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/陈 芬 兰_1.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1412,17 +1372,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Teu%20Gee%20Sing.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">文教组<br>Cultural and Educational</b>
+          <img src="/images/Alumni Executive Committee/李 炳 坤_1.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">文教组<br>Cultural and Educational</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1458,17 +1408,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Tan%20You%20Liang.png" alt="Tan You Liang.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副文教组<br>Vice Cultural and Educational<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/黄 金 荣_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副文教组<br>Vice Cultural and Educational<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
