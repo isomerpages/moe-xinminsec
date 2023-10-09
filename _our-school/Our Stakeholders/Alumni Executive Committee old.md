@@ -4,7 +4,7 @@ permalink: /about-us/our-stakeholders/alumni-executive-committee-old/
 description: ""
 third_nav_title: Our Stakeholders
 ---
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -30,7 +30,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -46,7 +46,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Goh%20Song%20Chay%20Eric.png" alt="Goh Song Chay Eric.png" class="ive_eobj_center" style="margin: auto;
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -56,7 +56,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -84,7 +84,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/吴 中 博_1.png" alt="Lee Peng Koon.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Alumni Executive Committee/吴 中 博_1.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -131,7 +131,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/Alumni Executive Committee/蔡 纪 典_4.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/蔡 纪 典_4.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -161,7 +161,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/郭 明 忠_1.png" alt="Goh Song Chay Eric.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/郭 明 忠_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -189,7 +189,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Lee Peng Koon.png" class="ive_eobj_center" style="margin: auto;
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -197,7 +197,7 @@ third_nav_title: Our Stakeholders
               clear: both;
               display: block;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -241,7 +241,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/empty_generic.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="margin: auto;
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -251,7 +251,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -267,7 +267,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -293,7 +293,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -309,7 +309,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/郭 文 发_1.png" alt="Lee Peng Koon.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Alumni Executive Committee/郭 文 发_1.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -356,7 +356,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/Alumni Executive Committee/王 全 炮_1.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/王 全 炮_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -384,7 +384,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/陈 楚 华_1.png" alt="Goh Song Chay Eric.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/陈 楚 华_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -403,7 +403,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -429,7 +429,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -445,7 +445,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/刘 慧 瑾_2.png" alt="Lee Peng Koon.png" class="ive_eobj_center" style="width:"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width:" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Alumni Executive Committee/刘 慧 瑾_2.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -492,7 +492,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img src="/images/Alumni Executive Committee/苏 应 芝_1.png" alt="Soh Eng Cher.png" class="ive_eobj_center" style="width:"><b style="margin: 0px; outline: 0px; padding: 0px">副 秘书<br>Vice Honorary Secretary</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width:" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/苏 应 芝_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副 秘书<br>Vice Honorary Secretary</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -528,7 +528,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/白 晓 青_1.png" alt="Neo Lee Cheok.png" class="ive_eobj_center" style="width:"><b style="margin: 0px; outline: 0px; padding: 0px">副秘书<br>Vice Honorary Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <img style="width:" class="ive_eobj_center" alt="Neo Lee Cheok.png" src="/images/Alumni Executive Committee/白 晓 青_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副秘书<br>Vice Honorary Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -547,7 +547,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -573,7 +573,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -597,7 +597,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/彭 祥 隆_1.png" alt="Goh Peng Wah.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">财政<br>Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Peng Wah.png" src="/images/Alumni Executive Committee/彭 祥 隆_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">财政<br>Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -625,7 +625,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/徐 丽 真_1.png" alt="Sandy Chew See See.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副财政<br>Vice Honorary Treasurer</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Sandy Chew See See.png" src="/images/Alumni Executive Committee/徐 丽 真_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副财政<br>Vice Honorary Treasurer</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -661,7 +661,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Neo Lee Cheok.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px"></b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <img style="width=" class="ive_eobj_center" alt="Neo Lee Cheok.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -677,7 +677,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -703,7 +703,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -719,7 +719,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/郭 文 发_1.png" alt="Chan Guang Kee.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
+          <img style="width=" class="ive_eobj_center" alt="Chan Guang Kee.png" src="/images/Alumni Executive Committee/郭 文 发_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -747,7 +747,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/陈 楚 华_1.png" alt="Chua Shi Yong.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Chua Shi Yong.png" src="/images/Alumni Executive Committee/陈 楚 华_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -783,7 +783,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/刘 慧 瑾_2.png" alt="Lee Yoon Thee.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <img style="width=" class="ive_eobj_center" alt="Lee Yoon Thee.png" src="/images/Alumni Executive Committee/刘 慧 瑾_2.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -802,7 +802,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -828,7 +828,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -852,7 +852,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/彭 祥 隆_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Alumni Executive Committee/彭 祥 隆_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -880,7 +880,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/苏 应 芝_1.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Alumni Executive Committee/苏 应 芝_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -908,7 +908,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/白 晓 青_1.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
+          <img style="width=" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Alumni Executive Committee/白 晓 青_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -927,7 +927,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -953,7 +953,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -977,7 +977,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/徐 丽 真_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Alumni Executive Committee/徐 丽 真_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1005,7 +1005,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="margin: auto;
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -1015,7 +1015,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1040,7 +1040,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="margin: auto;
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -1050,7 +1050,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1066,7 +1066,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -1092,7 +1092,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -1108,7 +1108,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/梁 美 石_1.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">统筹事务组<br>General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Alumni Executive Committee/梁 美 石_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">统筹事务组<br>General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1136,7 +1136,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/锺 可 英_1.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating</b>
+          <img style="width=" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Alumni Executive Committee/锺 可 英_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1172,7 +1172,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/陈 宥 良_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Alumni Executive Committee/陈 宥 良_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1191,7 +1191,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -1217,7 +1217,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -1233,7 +1233,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/陈 芬 兰_1.png" alt="Chong Koh Eng.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Alumni Executive Committee/陈 芬 兰_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1261,7 +1261,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="margin: auto;
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -1271,7 +1271,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1304,7 +1304,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Tan You Liang.png" class="ive_eobj_center" style="margin: auto;
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -1314,7 +1314,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1330,7 +1330,7 @@ third_nav_title: Our Stakeholders
   </tbody>
 </table>
 <hr>
-<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+<table style="margin: auto;
     outline: 0px;
     padding: 0px;
     border-collapse: collapse;
@@ -1356,7 +1356,7 @@ third_nav_title: Our Stakeholders
     text-decoration-thickness: initial;
     text-decoration-style: initial;
     text-decoration-color: initial;
-    width: 840px;">
+    width: 840px;" class="ive_eobj_center ives_tab_kosong">
   <tbody style="margin: 0px; outline: 0px; padding: 0px">
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
@@ -1372,7 +1372,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/李 炳 坤_1.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">文教组<br>Cultural and Educational</b>
+          <img style="width=" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Alumni Executive Committee/李 炳 坤_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">文教组<br>Cultural and Educational</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1408,7 +1408,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/黄 金 荣_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副文教组<br>Vice Cultural and Educational<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Alumni Executive Committee/黄 金 荣_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副文教组<br>Vice Cultural and Educational<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1444,7 +1444,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/empty_generic.png" alt="Tan You Liang.png" class="ive_eobj_center" style="margin: auto;
+          <img style="margin: auto;
               outline: 0px;
               padding: 0px;
               border: none;
@@ -1454,7 +1454,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1469,3 +1469,135 @@ third_nav_title: Our Stakeholders
     </tr>
   </tbody>
 </table>
+<hr>
+<table class="ive_eobj_center ives_tab_kosong" style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica, sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    orphans: 2;
+    text-align: left;
+    text-transform: none;
+    white-space: normal;
+    widows: 2;
+    word-spacing: 0px;
+    -webkit-text-stroke-width: 0px;
+    background-color: rgb(255, 255, 255);
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    width: 840px;">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+        <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img src="/images/Alumni Executive Committee/蔡 懿 坤_1.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">康乐组<br>Recreational</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+        蔡懿坤<br>
+        Chua Ee Koon        
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img src="/images/Alumni Executive Committee/周 思 思_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副康乐组<br>Vice Recreational<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+        周思思<br>
+        Sandy Chew See See
+        </div>
+      </td><td style="margin: 0px;
+        outline: 0px;
+        padding: 0px 15px 15px 0px;
+        vertical-align: top;">
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;"></div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;
+          text-align: center;">
+        <img src="/images/Alumni Executive Committee/吴 平 华_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副康乐组<br>Vice Recreational</b>
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;
+          text-align: center;">吴平华<br>
+      Goh Peng Wah      
+      </div>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
