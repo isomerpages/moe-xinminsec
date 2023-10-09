@@ -6,7 +6,7 @@ description: ""
 Our Learning Experience Framework
 ---------------------------------
 
-![](/images/Lower%20Sec%20Academic%20Learning/framework_3.png)
+![](/images/Lower%20Sec%20Academic%20Learning/learning%20experience%20framework2.png)
 
 
 The components of the framework are described as follows
