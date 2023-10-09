@@ -366,32 +366,6 @@ We recognise and value the talent students may have in the Humanities and we see
           NUS Geography Challenge
         </div>
       </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Humanities/Department_programmes/humanities_4.jpeg" width="100%" alt="Math_3.jpg" class="ive_eobj_center" style="margin: auto;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            clear: both;
-            display: block;
-            width: 376px;
-            height: 236px;">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: left;">
-          <br>
-          Istana Heritage Gallery Challenge (3rd Place)
-        </div>
-      </td>
     </tr>
   </tbody>
 </table>
