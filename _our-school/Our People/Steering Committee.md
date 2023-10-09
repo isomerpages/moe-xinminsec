@@ -1779,7 +1779,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Operations Manager
+          Designation: Administration Manager
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1803,7 +1803,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:adriana_ting_siew_lin@schools.gov.sg">adriana_ting_siew_lin@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:adriana_ting_siew_lin@schools.gov.sg">-</a>
         </div>
       </td>
     </tr>
