@@ -12,9 +12,6 @@ img {
 }  
 </style>  
 <img src="/images/ChineseDance.jpeg" alt="Chinese Dance" style="width:90%;">  
-  
-
-
 <p style="text-align:center;"><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p>
 
 The Xinmin Chinese Dance Troupe was established in 1995. In 1999, the girls participated in the Singapore Youth Festival (SYF) Central Judging and were awarded a Silver medal. In 2001, they participated in the SYF again and clinched the Gold award.
@@ -23,405 +20,38 @@ The troupe was awarded the Gold Award again in the SYF in 2003 and 2005. The yea
 
 Despite the 2021 SYF Arts Presentation being filled with challenges posed by COVID-19, there were new opportunities that arose out of it. We had the opportunity to present two performances, 牧歌and 繁花 on stage and gave younger dancers a chance to perform and learn on a larger platform. The dancers worked as a team to overcome the challenges and succeeded in attaining a Certificate of Distinction and Certificate of Accomplishment respectively. In 2023, the dance troupe performed a dance item titled 春语 and attained a Certificate of Distinction.
 
-The dancers were honoured to be invited to perform at the SYF Opening Ceremony in 2012 and at the opening of the Arts Education Conference - Asia Pacific Symposium on Music Education on 17 July 2013 at Republic Polytechnic.  Their performances were well-received by the audience. In 2016, they were invited to perform at a National Day Dinner where Prime Minister Lee Hsien Loong was the Guest of Honour. In addition, the dancers performed at the Esplanade Outdoor Theatre in 2016 and 2017, as part of the SYF Youth Celebrations. In 2022, the dancers were invited to perform at the Ang Mo Kio−Hougang National Day dinner
+The dancers were honoured to be invited to perform at a National Day Dinner in 2016 where Prime Minister Lee Hsien Loong was the Guest of Honour. In addition, the dancers also performed at the Esplanade Outdoor Theatre in 2016 and 2017, as part of the SYF Youth Celebrations. In 2022, the dancers were invited to perform at the Ang Mo Kio−Hougang National Day dinner and a group of dancers participated in the D:2 Dance Competition. In 2023, the Xinmin Chinese Dance team was invited to perform at the Chinese Dance Fiesta organised by the Singapore Chinese Dance Theatre and their performance was well-received by the audience. 
 
+**Accomplishments**<br>
+Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2019<br>
+Attained Certificate of Distinction and Certificate of Accomplishment in Singapore Youth Festival (SYF) 2021<br>
+Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2023<br>
 
-
-
-**Teacher-in-charge** <br>
-Ms Emily Lim Xin Yi (IC) <br>
+**Teachers-in-charge**<br>
+Ms Emily Lim Xin Yi (IC)<br>
 Ms Izyan Ayuni bte Azmi<br>
-Ms Wan Shi Ting
+Ms Wan Shi Ting<br>
 
-  
+**Student Leaders**<br>
+Shirlyn Chng (308, 2023) - President<br>
+Brianne Boo (303, 2023) - Vice-President (Admin)<br>
+Charmaine Ong (305, 2023) - Vice-President (Technique)<br>
+Chin Kai Yan (309, 2023) - Vice-President (Discipline)<br>
+Goh Yi Xuan (304, 2023) - S3 2023/ S4 2024 Level Leader<br> 
+Jez Quah (303, 2023), Ning Hin Suan (208, 2023) - S2 2023/ S3 2024 Level Leaders <br>
+Sophia Tan (202, 2023), Deanna Kweh (206, 2023) - S1 2023/ S2 2024 Level Leaders <br>
+Christalia Tay (204, 2023), Cai Yun En (208, 2023) - S1 2024 Level Leaders <br>
+Shirlyn Goh (302, 2023) - Logistics Head<br>
+Chan Hui Qi (302, 2023) - Logistics Vice-Head<br>
+Loh Wan Ning (302, 2023), Charis Ong (203, 2023), Sun Yifei (204, 2023), Choo Jing Han (205, 2023) - Logistics Members<br>
+Chen Lexi (303, 2023), Giselle Low (307, 2023) - Publicity Head<br>
+Wong Li Wen (302, 2023), Ibelle Chin (307, 2023), Megan Lim (208, 2023) - Publicity Assistants<br>
 
-**Exco for Chinese Dance (2022 − 2023)**
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse;
-    border: none;
-    mso-border-alt: solid windowtext 0.5pt;
-    mso-yfti-tbllook: 1184;
-    mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;">
-  <tbody>
-    <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">President
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-left: none;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Tang Wai Sum Kate (405)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 1">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Vice-Presidents
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Sammi Chong (401), Wong Jia Qian (404)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 2">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Upper Secondary Year Head
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Ong Jia Rui Rise (406)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 3">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Lower Secondary Year Head
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Chloe Tea Yu Qing (405)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 4">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Logistics Team
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Lee Jia Xuan (401) [Head of Logistics]
-          </span>
-        </p>
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Chng Shirlyn (308)
-          </span>
-        </p>
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Goh Kar Wen, Shirlyn (302)
-          </span>
-        </p>
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Loh Wan Ning (302)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 5">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Publicity Team
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Denyse Chua (405) [Head of Publicity]
-          </span>
-        </p>
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Lim Sian Ting (405)
-          </span>
-        </p>
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Cheryl Lee Jia Hui (301)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 6">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">S3 2022/ S4 2023 Level Leader
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Carrie Ang Yi Jing (402)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 7">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">S2 2022/ S3 2023 Level Leader
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Quah Xuan Yi Edyth (402)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 8">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">S1 2022/ S2 2023 Level Leaders
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Chin Kai Yan (309), Jez Quah Xuan Ci (303)
-          </span>
-        </p>
-      </td>
-    </tr>
-    <tr style="mso-yfti-irow: 9; mso-yfti-lastrow: yes">
-      <td width="312" valign="top" style="width: 233.75pt;
-          border: solid windowtext 1pt;
-          border-top: none;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">S1 2023 Level Leaders
-          </span>
-        </p>
-      </td>
-      <td width="312" valign="top" style="width: 233.75pt;
-          border-top: none;
-          border-left: none;
-          border-bottom: solid windowtext 1pt;
-          border-right: solid windowtext 1pt;
-          mso-border-top-alt: solid windowtext 0.5pt;
-          mso-border-left-alt: solid windowtext 0.5pt;
-          mso-border-alt: solid windowtext 0.5pt;
-          padding: 0cm 5.4pt 0cm 5.4pt;">
-        <p class="MsoNormal" style="margin-bottom: 0cm; line-height: 18.75pt">
-          <span style="font-size: 13pt;
-              font-family: 'Helvetica', sans-serif;
-              mso-fareast-font-family: 'Times New Roman';
-              color: black;">Chan Hui Qi (302), Charmaine Ong Shi Ru (305)
-          </span>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**CCA Schedule**<br>
+Mondays: 3.15pm to 6.30pm<br>
+Fridays: 1.45pm to 5pm<br>
+Extra practices on Wednesdays, 3.30pm to 5.30pm, will be conducted prior to competitions and performances.<br>
+Students may require up to 20 minutes after end of session to clean the dance room, to cool down and to change out of dance practice attire.
 
-  
-
-**CCA Schedule** <br>
-_Mondays: 3.15pm to 6.30pm_<br>
-_Fridays: 1.45pm to 5pm_<br>
-_Extra practices on Wednesdays, 3.30pm to 5.30pm, will be conducted prior to competitions and performances._<br>
-_Students may require up to 20 minutes after end of session to clean the dance room, to cool down and to change out of dance practice attire._
-
-
-  
-
-**CCA Achievement** <br>
-* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2019<br>
-* Attained Certificate of Distinction and Certificate of Accomplishment in Singapore Youth Festival (SYF) 2021<br>
-* Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2023 
-
-
-  
-
-[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
+**Instagram**<br>
+https://www.instagram.com/xms.chinesedance/

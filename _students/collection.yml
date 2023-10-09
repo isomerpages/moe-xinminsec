@@ -1,7 +1,0 @@
-collections:
-  students:
-    output: true
-    order:
-      - Aesthetics.md
-      - Physical.md
-      - Student Leadership, Social & Moral Domain.md

@@ -1,0 +1,10 @@
+collections:
+  key-approaches:
+    output: true
+    order:
+      - Talent Development Approach.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Coding@Xinmin.md
+      - Signature Programmes/RefleXions@Xinmin.md
+      - Signature Programmes/Xinmin Academy of Leaders.md
+      - Signature Programmes/XinminCares.md

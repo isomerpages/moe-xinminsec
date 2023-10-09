@@ -7,29 +7,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/xinminsec.gif
+      background: /images/Banner/xinminsec_5.gif
       key_highlights:
+        - title: Our School
+          description: ""
+          url: /about-us/principals-message/
+        - title: Our Curriculum
+          description: ""
+          url: /our-curriculum/the-xinmin-learning-experience/
+        - title: Prospective Students
+          description: ""
+          url: /about-us/prospectus/
         - title: Resources
-          description: Students
-          url: /resources/students/
-        - title: Resources
-          description: Parents
-          url: /resources/parents/
-        - title: Resources
-          description: Staff
-          url: /resources/staff/
+          description: ""
+          url: /resources/for-students-and-parents/quick-links/
   - infopic:
       title: Open House 2023
       alt: Image alt text
       image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
       description: 11 Nov 2023, Saturday, 8 am to 12:30 pm
-  - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: Have A question?
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://go.ask.gov.sg/xms
-      image: /images/xms-askgov.png
-      alt: Image alt text
   - resources:
       title: Announcements
       button: More Posts

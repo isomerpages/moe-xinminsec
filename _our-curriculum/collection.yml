@@ -1,0 +1,22 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - The Xinmin Learning Experience.md
+      - Academic Learning/.keep
+      - Academic Learning/Academic Learning.md
+      - Academic Learning/Lower Secondary Programme  (For Sec 1 and 2 AY2023).md
+      - Academic Learning/Lower Secondary Programme (For Sec 1 AY2024).md
+      - Academic Learning/Upper Secondary Programme.md
+      - Academic Departments/.keep
+      - Academic Departments/Aesthetics.md
+      - Academic Departments/Computing and Computer Applications.md
+      - Academic Departments/Design and Technology.md
+      - Academic Departments/English & Literature.md
+      - Academic Departments/Humanities.md
+      - Academic Departments/Mathematics.md
+      - Academic Departments/Mother Tongue Languages.md
+      - Academic Departments/Nutrition and Food Science.md
+      - Academic Departments/Physical Education.md
+      - Academic Departments/Science.md
+      - Academic Departments/Technology and Business.md

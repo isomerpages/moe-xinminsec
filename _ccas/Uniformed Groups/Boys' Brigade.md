@@ -11,54 +11,50 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/BB.jpeg" alt="Boys' Brigade" style="width:90%;">  
+<img src="/images/CCAs/Boys_brigade/boysbrigade.jpg" alt="Boys' Brigade" style="width:90%;">  
   
-
-
 The Boys’ Brigade (BB) seeks to promote habits of obedience, reverence, discipline and self-respect through engaging boys in adventure and various badge-work activities such as kayaking, navigation and drills. Boys also learn important life skills such as first aid and field cooking. Most importantly, the values of caring for others and serving the community are also emphasized as the boys are given leadership roles and take on active roles to mentor and guide their juniors.
 
-  
+**Accomplishments**<br>
+CCA Achievements:<br>
+JM Fraser Award for Excellence (Year of Assessment 2022) – High Distinction<br>
+Character Quest 2023 – Silver Honour Roll<br>
+BB Blaze 2023 – Gold Honour Roll<br><br>
+Founder's Award Recipients:<br>
+WO Saw Yu Xi Owen (404) <br>
+WO Brayden Chong (409) <br>
+SSG Ngang Xue Jian (402) <br>
 
-**The BB 45th Officers and Primers**
+**Teachers-in-charge**<br>
+Ms Tiffany Lim (IC)<br>
+Mr Winston Bay<br>
 
-|  |  | 
-| -------- | -------- | 
-| Captain     | LTA Kenric Seah     | 
-| Teacher-In-Charge    |   Mr Winston Bay | 
-| Teacher-In-Charge    | Ms Tiffany Lim    | 
-|  Officer  |   2LT Bernard Soon  | 
-|  Officer  |   2LT Terence Loke   | 
-|  Officer  |   2LT  Nelson Fong | 
-|  Officer  |   2LT  John Low | 
-| Adult Volunteer    | Mr Liu Hongyou     | 
-| Adult Volunteer     | Mr Marcus Ee     | 
-| Adult Volunteer     | Mr Tea Yan Xin  | 
-| Primer (Platoon Commander 1)     | CLT Zavier Phoo  | 
-| Primer (Platoon Commander 1)     | CLT Lee Jia Heng | 
-| Primer (Platoon Commander 2)     | SCL Lenox Lim  | 
-| Primer (Platoon Commander 2)     | SCL Hayward Tan | 
-| Primer (Platoon Commander 3)     | SCL Henry Tay  | 
-| Primer (Platoon Commander 3)     | CLT David Soon  | 
-| Primer (Platoon Commander 4)     | Mr Kow Jia Liang  | 
+The BB 45th Officers and Primers<br>
+Captain LTA Kenric Seah<br>
+Officer 2LT Bernard Soon<br>
+Officer 2LT Terence Loke<br>
+Officer OCT Nelson Fong<br>
+Officer OCT John Low<br>
+Adult Volunteer Mr Liu Hongyou<br>
+Adult Volunteer Mr Marcus Ee<br>
+Adult Volunteer Mr Tea Yan Xin<br>
+Adult Volunteer Mr Kow Jia Liang<br>
+Primer (Platoon Commander 1) CLT Zavier Phoo<br>
+Primer (Platoon Commander 1) CLT Lee Jia Heng<br>
+Primer (Platoon Commander 2) SCL Lenox Lim<br>
+Primer (Platoon Commander 2) SCL Hayward Tan<br>
+Primer (Platoon Commander 3) CLT David Soon<br>
 
-**The 2022/2023 BB 45th Council**
+**Student Leaders**<br>
+The 2023/2024 BB45th Council<br>
+Company Sergeant Major - SGT Phong Kai Tong (301, 2023)<br>
+Assistant Company Sergeant Major - SGT Sim Xiang Zhi Riley (303, 2023)<br>
+Quartermaster - SGT Lek Wei Shan (303, 2023)<br>
+Assistant Quartermaster - SGT Nigel Foo Celiang (309, 2023)<br>
 
-|  |  | 
-| -------- | -------- | 
-| Company Sergeant Major     | WO Saw Yu Xi Owen (404)     | 
-| Assistant Company Sergeant Major     | SSG Ngang Xue Jian (402)    | 
-| Quartermaster    | WO Brayden Chong (409)   | 
-| Assistant Quartermaster     | SSG Zave Wee (402)    | 
+**CCA Schedule**<br>
+Fridays: 2:00 pm to 4:00 pm<br>
+Saturdays: 7:30 am to 12:30 pm<br>
 
-
-**CCA Schedule**
-<br>Fridays:  1:30 pm to 3:45 pm<br>
-Saturdays: 7:30 am to 12:30 pm
-
-**CCA Achievement**<br>
-JM Fraser Award for Excellence (Year of Assessment 2022) – High Distinction <br>
-Character Quest 2022 – 5th position<br>
-BB Blaze 2023 – 8th position <br>
-
-
-[How to apply for Direct School Admission](/resources/students/admissions/direct-school-admission)
+**Instagram**<br>
+https://www.instagram.com/bb45th/

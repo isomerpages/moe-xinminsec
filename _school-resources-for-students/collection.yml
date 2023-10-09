@@ -1,8 +1,0 @@
-collections:
-  school-resources-for-students:
-    output: true
-    order:
-      - Attire & Grooming.md
-      - Booklists.md
-      - Bookshop and Uniform Supplier.md
-      - School Rules and Regulations.md

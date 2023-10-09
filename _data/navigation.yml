@@ -1,16 +1,25 @@
 logo: /images/xinmin logo.png
 links:
-  - title: About Us
-    collection: about-us
-  - title: Departments
-    collection: departments
-  - title: CCAs
-    collection: ccas
-  - title: Programmes
-    collection: programmes
-  - title: Achievements
-    collection: achievements
-  - title: Admissions
-    collection: admissions
-  - title: Have A Question?
-    url: https://go.ask.gov.sg/xms
+  - title: Our School
+    collection: our-school
+  - title: Our Curriculum
+    url: /our-curriculum/the-xinmin-learning-experience/
+    sublinks:
+      - title: The Xinmin Learning Experience
+        url: /our-curriculum/the-xinmin-learning-experience/
+      - title: Key Approaches
+        url: /key-approaches/talent-development/
+      - title: Academic Learning
+        url: /our-curriculum/academic-learning/academic-learning/
+      - title: Academic Departments
+        url: /departments/arts-education/aesthetics/
+      - title: Student Development
+        url: /student-development/total-curriculum-map-level-themes/
+      - title: Co-Curricular Activities
+        url: /ccas/cca-information/
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Resources
+    collection: resources
+  - title: Prospective Students
+    collection: prospective-students
