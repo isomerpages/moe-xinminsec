@@ -384,17 +384,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Goh%20Song%20Chay%20Eric.png" alt="Goh Song Chay Eric.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
+          <img src="/images/Alumni Executive Committee/陈 楚 华_1.png" alt="Goh Song Chay Eric.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
