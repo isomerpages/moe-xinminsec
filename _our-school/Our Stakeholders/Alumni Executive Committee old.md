@@ -330,7 +330,7 @@ third_nav_title: Our Stakeholders
               clear: both;
               display: block;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -341,7 +341,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">秘书/Honorary Secretary</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -352,7 +352,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Lee Peng Koon
+        刘慧瑾<br>
+        Agnes Liu Hui Chen        
         </div>
       </td>
       <td style="margin: 0px;
@@ -386,7 +387,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Culture &amp; Education</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副 秘书/Vice Honorary Secretary</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -397,7 +398,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Soh Eng Cher
+        苏应芝<br>
+        Soh Eng Cher
         </div>
       </td>
     </tr>
@@ -433,7 +435,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Neo Lee Cheok.png" src="/images/Neo%20Lee%20Cheok.png"><b style="margin: 0px; outline: 0px; padding: 0px">Recreation</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 190px;" class="ive_eobj_center" alt="Neo Lee Cheok.png" src="/images/Neo%20Lee%20Cheok.png"><b style="margin: 0px; outline: 0px; padding: 0px">副秘书/Vice Honorary Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -444,7 +446,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Neo Lee Cheok
+        白晓青<br>
+        Peh Seow Cheng        
         </div>
       </td>
       <td style="margin: 0px;
