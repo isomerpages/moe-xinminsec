@@ -197,7 +197,7 @@ We want students to see the Humanities in action! From Lower to Upper Sec, stude
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/empty_generic_png">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/empty_generic.png">
       </td>
     </tr>
   </tbody>
