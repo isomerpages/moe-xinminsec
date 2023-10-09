@@ -197,7 +197,7 @@ third_nav_title: Our Stakeholders
               clear: both;
               display: block;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Lee%20Peng%20Koon.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -254,7 +254,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长/Vice President</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长/Vice President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
