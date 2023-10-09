@@ -3,22 +3,15 @@ title: Staff
 permalink: /news/achievements/staff/
 description: ""
 ---
-#### Staff Achievements 2023
+#### Staff Achievements
  
- **National Day Awards 2023**
+ **a) National Day Awards 2023**
 
-<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p class="MsoNormal"><b>Award Category</b></p></td><td style="width:128.7pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p class="MsoNormal"><b>Awardees</b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:136.3pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p class="MsoNormal">The Commendation Medal</p></td><td style="width:128.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p class="MsoNormal">Mdm Norliza Bte Ali</p></td></tr><tr style="mso-yfti-irow:2;height:12.95pt"><td style="width:136.3pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:12.95pt" valign="top" width="182"><p class="MsoNormal">The Long Service Medal</p></td><td style="width:128.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:12.95pt" valign="top" width="172"><p class="MsoNormal">Mr Singh Hardev</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p class="MsoNormal">The Long Service Medal</p></td><td style="width:128.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p class="MsoNormal">Ms Ng Lee Hua</p></td></tr></tbody></table>
+**National Day Awards**<br>
+The Singapore National Day Awards are a means of recognizing various forms of merit and service to Singapore. <br>
+*	The Commendation Medal: This Medal is awarded to individuals who has distinguished himself through commendable performance and conduct, or significant efficiency, competence, and devotion to duty.  
+*	The Long Service Medal: This Medal is awarded to any person who is of irreproachable character and whom the President is satisfied has completed at least 25 years of service to the nation.  
+
 
 **MOE Service Excellence Award 2023**
 
