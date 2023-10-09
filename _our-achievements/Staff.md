@@ -126,3 +126,8 @@ The COVID-19 Resilience Medal is to recognise the substantive contributions of t
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Lim Boon Ping</span></p></td></tr></tbody></table>
+	
+**(b)	MOE Awards**
+
+**MOE Innergy Awards** <br>
+The MOE Innergy Awards are given out to recognise school-based innovations in the education service.
