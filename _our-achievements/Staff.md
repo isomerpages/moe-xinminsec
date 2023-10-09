@@ -244,7 +244,7 @@ The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognizes sta
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mdm Rajoo Tamil Manni</span></p></td></tr></tbody></table>
 	
-**<u>Outstanding Contribution Awards<u>**<br>
+**<u>Outstanding Contribution Awards</u>**<br>
 The Outstanding Contribution Awards are given by MOE in recognition of significant value-added contributions made by individual staff and teams in schools. 
 
 
@@ -307,7 +307,7 @@ The Outstanding Contribution Awards are given by MOE in recognition of significa
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Tan Joo Chen, Terry</span></p></td></tr></tbody></table>
 	
-**Academy Awards for Professional Development**<br>
+**<u>Academy Awards for Professional Development</u>**<br>
 The Academy Awards for Professional Development are given by Academy of Singapore Teachers to recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.
 
 
@@ -339,7 +339,7 @@ The Academy Awards for Professional Development are given by Academy of Singapor
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Low Yan Jin</span></p></td></tr></tbody></table>
 	
-**Our Schools, Our Stories Photo &amp; Video Contest**<br>
+**<u>Our Schools, Our Stories Photo &amp; Video Contest</u>**<br>
 Our Schools, Our Stories" Photo &amp; Video Contest is an annual contest and exhibition organised by MOE that showcases the fascinating stories of everyday school life — through the eyes of our teachers, students and staff.
 
 
@@ -384,7 +384,7 @@ Our Schools, Our Stories" Photo &amp; Video Contest is an annual contest and exh
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Peter Ho Siang Teng</span></p></td></tr></tbody></table>
 	
 	
-**Singapore Learning Designers Circle Badges**<br>
+**<u>Singapore Learning Designers Circle Badges</u>**<br>
 The Singapore Learning Designers Circle (SgLDC) is an online networked learning community to provide educators in Singapore a safe space to collectively inquire into the use of technology in education
 
 
@@ -411,4 +411,4 @@ The Singapore Learning Designers Circle (SgLDC) is an online networked learning 
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Latifah Bte Abdul Latiff</span></p></td></tr></tbody></table></u></u>
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Latifah Bte Abdul Latiff</span></p></td></tr></tbody></table>
