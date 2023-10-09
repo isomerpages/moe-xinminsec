@@ -908,17 +908,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Teu%20Gee%20Sing.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
+          <img src="/images/Alumni Executive Committee/白 晓 青_1.png" alt="Teu Gee Sing.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -987,17 +977,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Tan%20You%20Liang.png" alt="Tan You Liang.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/徐 丽 真_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
