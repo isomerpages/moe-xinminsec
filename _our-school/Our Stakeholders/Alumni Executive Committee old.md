@@ -56,7 +56,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b>
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -95,7 +95,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -131,7 +131,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/蔡 纪 典_4.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/蔡 纪 典_4.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -161,7 +161,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/郭 明 忠_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问/Advisor</b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/郭 明 忠_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -208,7 +208,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">会长/President</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">会长<br>President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -254,7 +254,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长/Vice President</b>
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -265,8 +265,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-        王全炮<br>
-        Ong Chuan Pau        
+          王全炮<br>
+          Ong Chuan Pau
         </div>
       </td>
     </tr>
@@ -294,7 +294,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长/Vice President</b>
+              height: 190px;" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Goh%20Song%20Chay%20Eric.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -305,8 +305,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-        陈楚华<br>
-        Tan Chor Wah        
+          陈楚华<br>
+          Tan Chor Wah
         </div>
       </td>
       <td style="margin: 0px;
@@ -341,7 +341,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">秘书/Honorary Secretary</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">秘书<br>Honorary Secretary</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -352,8 +352,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-        刘慧瑾<br>
-        Agnes Liu Hui Chen        
+          刘慧瑾<br>
+          Agnes Liu Hui Chen
         </div>
       </td>
       <td style="margin: 0px;
@@ -387,7 +387,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副 秘书/Vice Honorary Secretary</b>
+              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Soh%20Eng%20Cher.png"><b style="margin: 0px; outline: 0px; padding: 0px">副 秘书<br>Vice Honorary Secretary</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -398,8 +398,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-        苏应芝<br>
-        Soh Eng Cher
+          苏应芝<br>
+          Soh Eng Cher
         </div>
       </td>
     </tr>
@@ -435,7 +435,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Neo Lee Cheok.png" src="/images/Neo%20Lee%20Cheok.png"><b style="margin: 0px; outline: 0px; padding: 0px">副秘书/Vice Honorary Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 190px;" class="ive_eobj_center" alt="Neo Lee Cheok.png" src="/images/Neo%20Lee%20Cheok.png"><b style="margin: 0px; outline: 0px; padding: 0px">副秘书<br>Vice Honorary Secretary</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -446,8 +446,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-        白晓青<br>
-        Peh Seow Cheng        
+          白晓青<br>
+          Peh Seow Cheng
         </div>
       </td>
       <td style="margin: 0px;
@@ -481,7 +481,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Goh Peng Wah.png" src="/images/Goh%20Peng%20Wah.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Recreation<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Goh Peng Wah.png" src="/images/Goh%20Peng%20Wah.png"><b style="margin: 0px; outline: 0px; padding: 0px">财政<br>Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -492,7 +492,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mdm Goh Peng Wah
+        彭祥隆<br>
+        Pang Siong Loon
         </div>
       </td>
       <td style="margin: 0px;
@@ -518,7 +519,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Sandy Chew See See.png" src="/images/Sandy%20Chew%20See%20See.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Recreation</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Sandy Chew See See.png" src="/images/Sandy%20Chew%20See%20See.png"><b style="margin: 0px; outline: 0px; padding: 0px">副财政<br>Vice Honorary Treasurer</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -529,7 +530,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Ms Sandy Chew See See
+        徐丽真<br>
+        Jessie Chee Lee Chin        
         </div>
       </td>
     </tr>
