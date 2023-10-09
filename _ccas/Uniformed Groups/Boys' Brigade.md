@@ -33,8 +33,8 @@ The BB 45th Officers and Primers<br>
 Captain LTA Kenric Seah<br>
 Officer 2LT Bernard Soon<br>
 Officer 2LT Terence Loke<br>
-Officer 2LT Nelson Fong<br>
-Officer 2LT John Low<br>
+Officer OCT Nelson Fong<br>
+Officer OCT John Low<br>
 Adult Volunteer Mr Liu Hongyou<br>
 Adult Volunteer Mr Marcus Ee<br>
 Adult Volunteer Mr Tea Yan Xin<br>
@@ -58,4 +58,3 @@ Saturdays: 7:30 am to 12:30 pm<br>
 
 **Instagram**<br>
 https://www.instagram.com/bb45th/
-
