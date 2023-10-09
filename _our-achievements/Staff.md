@@ -263,3 +263,7 @@ The Outstanding Contribution Awards are given by MOE in recognition of significa
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Tan Joo Chen, Terry</span></p></td></tr></tbody></table>
+	
+**Academy Awards for Professional Development**<br>
+The Academy Awards for Professional Development are given by Academy of Singapore Teachers to recognise and affirm the efforts of officers in the education service and partners in education for their contributions to the professional development of the teaching fraternity.
+
