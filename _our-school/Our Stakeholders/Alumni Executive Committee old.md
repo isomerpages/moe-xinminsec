@@ -765,6 +765,7 @@ third_nav_title: Our Stakeholders
     </tr>
   </tbody>
 </table>
+<hr>
 <table style="margin: auto;
     outline: 0px;
     padding: 0px;
