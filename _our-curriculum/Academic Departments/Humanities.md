@@ -235,7 +235,20 @@ We recognise and value the talent students may have in the Humanities and we see
           Students debating societal issues in the Xinmin Model Parliament
         </div>
       </td>
-      <td style="margin: 0px;
+    </tr>
+  </tbody>
+</table>
+
+<table style="margin: auto;
+    outline: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+    clear: both;
+    border: 1px solid transparent;
+    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
+  <tbody style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
@@ -261,9 +274,16 @@ We recognise and value the talent students may have in the Humanities and we see
           Visit to Treatsure to learn about how to manage food waste with technology 
         </div>
       </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="width=&quot;100%&quot;" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/empty_generic.png">
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
