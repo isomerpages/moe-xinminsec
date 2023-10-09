@@ -306,7 +306,7 @@ In the effort to elevate and enhance the ability of our students, we strive to p
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_14.png" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_15.png" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
