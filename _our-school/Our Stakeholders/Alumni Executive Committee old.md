@@ -719,17 +719,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Chan%20Guang%20Kee.png" alt="Chan Guang Kee.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
+          <img src="/images/Alumni Executive Committee/郭 文 发_1.png" alt="Chan Guang Kee.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -757,17 +747,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Chua%20Shi%20Yong.png" alt="Chua Shi Yong.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/陈 楚 华_1.png" alt="Chua Shi Yong.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -803,17 +783,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Lee%20Yoon%20Thee.png" alt="Lee Yoon Thee.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <img src="/images/Alumni Executive Committee/刘 慧 瑾_2.png" alt="Lee Yoon Thee.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -882,17 +852,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Tan%20You%20Liang.png" alt="Tan You Liang.png" class="ive_eobj_center" style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/彭 祥 隆_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
