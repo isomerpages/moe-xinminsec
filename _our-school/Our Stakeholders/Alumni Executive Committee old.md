@@ -492,8 +492,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-        彭祥隆<br>
-        Pang Siong Loon
+          彭祥隆<br>
+          Pang Siong Loon
         </div>
       </td>
       <td style="margin: 0px;
@@ -530,8 +530,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-        徐丽真<br>
-        Jessie Chee Lee Chin        
+          徐丽真<br>
+          Jessie Chee Lee Chin
         </div>
       </td>
     </tr>
@@ -559,7 +559,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Chan Guang Kee.png" src="/images/Chan%20Guang%20Kee.png"><b style="margin: 0px; outline: 0px; padding: 0px">Welfare &amp; Contact</b>
+              height: 190px;" class="ive_eobj_center" alt="Chan Guang Kee.png" src="/images/Chan%20Guang%20Kee.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -570,7 +570,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Chan Guang Kee
+          郭文发<br>
+          Kwek Boo Watt
         </div>
       </td>
       <td style="margin: 0px;
@@ -596,7 +597,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Chua Shi Yong.png" src="/images/Chua%20Shi%20Yong.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Welfare &amp; Contact</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Chua Shi Yong.png" src="/images/Chua%20Shi%20Yong.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -607,7 +608,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Chua Shi Yong
+          陈楚华<br>
+          Tan Chor Wah
         </div>
       </td>
       <td style="margin: 0px;
@@ -641,7 +643,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Lee Yoon Thee.png" src="/images/Lee%20Yoon%20Thee.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sports</b><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 190px;" class="ive_eobj_center" alt="Lee Yoon Thee.png" src="/images/Lee%20Yoon%20Thee.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -652,7 +654,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Lee Yoon Thee
+          刘慧瑾<br>
+          Agnes Liu Hui Chen
         </div>
       </td>
     </tr>
@@ -688,7 +691,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Tan%20You%20Liang.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Sports<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Tan%20You%20Liang.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -699,7 +702,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Tan You Liang
+          彭祥隆<br>
+          Pang Siong Loon
         </div>
       </td>
       <td style="margin: 0px;
@@ -725,7 +729,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice-Sports<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -736,7 +740,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Chong Koh Eng
+          苏应芝<br>
+          Soh Eng Cher
         </div>
       </td>
       <td style="margin: 0px;
@@ -762,7 +767,7 @@ third_nav_title: Our Stakeholders
               background-color: initial;
               text-align: left;
               width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px">Internal Audit</b>
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -773,8 +778,375 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Teu Gee Sing
+          白晓青<br>
+          Peh Seow Cheng
         </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Tan%20You%20Liang.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          徐丽真<br>
+          Jessie Chee Lee Chin
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px">统筹事务组<br>General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          梁美石<br>
+          Eddie Neo Lee Cheok
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          锺可英<br>
+          Chong Koh Eng
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Tan%20You%20Liang.png"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          陈宥良<br>
+          Tan Yew Lian
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px">副统筹事务组<br>Vice General Affair Coordinating<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          陈芬兰<br>
+          Tan Koon Lan
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px">文教组<br>Cultural and Educational</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          李炳坤<br>
+          Lee Peng Koon
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;"></div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/Tan%20You%20Liang.png"><b style="margin: 0px; outline: 0px; padding: 0px">副文教组<br>Vice Cultural and Educational<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          黄金荣<br>
+          Ng Kim Yong
+        </div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Chong Koh Eng.png" src="/images/Chong%20Koh%20Eng.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;"></div>
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;">
+          <img style="margin: auto;
+              outline: 0px;
+              padding: 0px;
+              border: none;
+              max-width: 100%;
+              clear: both;
+              display: block;
+              background-color: initial;
+              text-align: left;
+              width: 135px;
+              height: 190px;" class="ive_eobj_center" alt="Teu Gee Sing.png" src="/images/Teu%20Gee%20Sing.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;
+            text-align: center;"></div>
       </td>
     </tr>
   </tbody>
