@@ -67,7 +67,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          Mr Goh Song Chay Eric
+					陈顺惠校长<br>
+          Mr Tan Soon Hui (Principal)
         </div>
       </td>
       <td style="margin: 0px;
