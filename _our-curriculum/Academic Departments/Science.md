@@ -78,33 +78,6 @@ Our students learning about the soilless cultivation of vegetables and its benef
   </tbody>
 </table>
 
-Our SBB students continuing to pursue Science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject.
-<table style="margin: auto;
-    outline: 0px;
-    padding: 0px;
-    border-collapse: collapse;
-    clear: both;
-    border: 1px solid transparent;
-    table-layout: fixed;" class="ive_eobj_center ives_tab_kosong">
-  <tbody style="margin: 0px; outline: 0px; padding: 0px">
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_1.jpg" src="/images/Science/Department_programmes/science_3a.jpg">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" width="100%" src="/images/Science/Department_programmes/science_3b.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 Our SBB students continuing to pursue science as an out-of-stream subject in the upper secondary curriculum to develop their passion in the subject
 
 Talent Development
