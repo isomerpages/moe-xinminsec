@@ -86,7 +86,7 @@ Co-Captains: Lee Jia Jun (301, 2023) &amp; Choong Kang Rui (304, 2023)<br>
 Publicity Head: Neo Zhi Kai, Jovan (305, 2023)<br>
 
 **CCA Schedule**<br>
-![](/images/CCAs/Volleyball/schedule.png)<br>
+![](/images/CCAs/Volleyball/schedule1.png)<br>
 
 **Instagram**<br>
 https://www.instagram.com/xmsvolleyball/
