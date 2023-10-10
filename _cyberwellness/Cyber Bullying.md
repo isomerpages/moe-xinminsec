@@ -12,6 +12,6 @@ description: ""
 
 ![](/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_4.png)
 
-If you or someone you know is being bullied, do not be afraid to speak up. You can report the bullying to your Form Teachers or through this EXIT form (QR code below):
+If you or someone you know is being bullied, do not be afraid to speak up. You can report the bullying to your Form Teachers or through this Exit form (QR code below):
 
 ![](/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_5_1.png)
