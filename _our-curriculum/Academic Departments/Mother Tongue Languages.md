@@ -27,9 +27,6 @@ img {
 **Feedback Literacy**<br>
 Language is an essential medium for self-reflection. With the goal of every Xinmin student becoming a proficient user in Mother Tongue Language, our teachers are equipped in the area of feedback literacy. Through careful curation of our lesson packages, students are to hone their language skills holistically, i.e listening, speaking, reading, and writing. This approach promotes greater self-directedness in learning amongst students as they are cognitively challenged during the process of reflective thinking. 
 
-1. To provide integrated, holistic and innovative programme that will instill passion in the teaching and learning of Mother Tongue Language among both teachers and students.
-2. To forge sustainable partnership with the community in the promotion of Mother Tongue Language.
-3. To customise programme for students of varied abilities to fulfil the objectives of an ability-driven education.
 
 **Drawing Connections and Making Sense**<br>
 To help our students possess the dispositions and language skills to take on the opportunities of the future, students are given ample opportunities to hone their Mother Tongue communication skills. Apart from the instructional programmes, the department aims to promote and strengthen our students’ sense of cultural heritage and identity through a variety of activities such as the Chinese New Year Celebration, Hari Raya Celebration, Mother Tongue Language Festival, Cultural Performance Exposure Scheme (CPES) and Culture &amp; Aesthetic Exposure Programme (CAEP).  By drawing connections with the real world, students will be able to relate better with their Mother Tongue and make sense of the importance of their cultural identity in the ever changing and shifting global landscape.
@@ -47,7 +44,7 @@ To help our students possess the dispositions and language skills to take on the
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_4.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_16.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -166,7 +163,7 @@ To help our students possess the dispositions and language skills to take on the
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_3.jpg">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_17.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -203,7 +200,7 @@ In the effort to elevate and enhance the ability of our students, we strive to p
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_8.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=100%">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_18.jpg" alt="Math_1.jpg" class="ive_eobj_center" style="width=100%">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
@@ -221,7 +218,7 @@ In the effort to elevate and enhance the ability of our students, we strive to p
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_2.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=100%">
+        <img src="/images/Mother_Tongue/Department_programmes/mother_tongue_19.jpg" width="100%" alt="Math_2.jpg" class="ive_eobj_center" style="width=100%">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
