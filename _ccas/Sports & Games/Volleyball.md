@@ -4,14 +4,13 @@ permalink: /ccas/sports-n-games/volleyball/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-  ![](/images/CCAs/Volleyball/volleyball_2023.jpeg)
+![](/images/CCAs/Volleyball/volleyball_2023.jpeg)
 Dedication, determination and drive remain the hallmarks of the Xinmin Volleyball teams. These values permeate all levels from coaches, teachers to individual players in each team. As a community, we strive for sports excellence with a spirit of friendship, solidarity and fair play.
 
 Over the years, we continue to hone our sporting skills and have exhibited all the above stated traits. While winning is one of the objectives in any competition, our teachers and coaches firmly believe that it is far more important to develop the right values and character in our players.
 
 **Accomplishments**<br>
-Achievements for 2019<br>
+**Achievements for 2019**<br>
 North Zone Inter-school Volleyball Championship:<br>
 B Div Boys: 2nd<br>
 B Div Girls: 2nd<br>
@@ -87,7 +86,7 @@ Co-Captains: Lee Jia Jun (301, 2023) &amp; Choong Kang Rui (304, 2023)<br>
 Publicity Head: Neo Zhi Kai, Jovan (305, 2023)<br>
 
 **CCA Schedule**<br>
-![](/images/CCAs/Volleyball/schedule.png)<br>
+![](/images/CCAs/Volleyball/schedule1.png)<br>
 
 **Instagram**<br>
 https://www.instagram.com/xmsvolleyball/
