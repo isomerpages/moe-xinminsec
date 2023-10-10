@@ -163,7 +163,7 @@ To help our students possess the dispositions and language skills to take on the
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_3.jpg">
+        <img style="width=" class="ive_eobj_center" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_17.jpg">
         <div style="margin: 0px;
             outline: 0px;
             padding: 0px;
