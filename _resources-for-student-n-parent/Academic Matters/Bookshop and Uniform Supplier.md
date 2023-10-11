@@ -30,7 +30,7 @@ Blk 4012 Ang Mo Kio Ave 10
 Singapore 569628  
 Tel:  64563198 <br>
 Fax: 63862407  
-Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
+Website:&nbsp; Support Centre: https://bit.ly/JSFSUPPORT
 
   
 
