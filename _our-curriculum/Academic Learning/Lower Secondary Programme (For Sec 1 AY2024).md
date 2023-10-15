@@ -225,8 +225,10 @@ Students will be allocated a set of subjects ranging from G1 to G3 which are com
   </tbody>
 </table>
 
-To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil and Non-Tamil Indian Languages (NTIL), students should preferably obtain either:<br>1.	Gain exposure and learn to apply elements of drama skills.<br>
-2.	Acquire thinking routines that encourage critical thinking and reflection.<br>
+To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil and Non-Tamil Indian Languages (NTIL), students should preferably obtain either:<br>
+1.	An overall PSLE Score of 8 or better.<br>
+2.	An overall PSLE Score of 9 to 14 and get AL1 or AL2 in MTL, or Distinction or Merit in HMTL.
+
 
 Note: Students taking Tamil or NTIL will be taking lessons at designated schools or language centres, and not in Xinmin Secondary School.
 
