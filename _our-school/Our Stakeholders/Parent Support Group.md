@@ -179,7 +179,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Alumni Executive Committee/郭 文 发_1.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/PAX/elaine_teo_1.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -190,7 +190,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">会长<br>President</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Sec 1 Level Coordinator</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -200,9 +200,7 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;">
-          郭文发<br>
-          Kwek Boo Watt
+            text-align: center;">Ms Elaine Teo
         </div>
       </td>
       <td style="margin: 0px;
@@ -226,7 +224,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/王 全 炮_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/PAX/joyce_chan_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 1 Level Coordinator</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -236,9 +234,7 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;">
-          王全炮<br>
-          Ong Chuan Pau
+            text-align: center;">Ms Joyce Chan
         </div>
       </td>
       <td style="margin: 0px;
@@ -254,7 +250,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/陈 楚 华_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副会长<br>Vice President</b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/generic_empty.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -265,8 +261,6 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          陈楚华<br>
-          Tan Chor Wah
         </div>
       </td>
     </tr>
@@ -617,7 +611,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Chua Shi Yong.png" src="/images/Alumni Executive Committee/陈 楚 华_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Chua Shi Yong.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px">秘书处<br>The Secretariat</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -2119,7 +2113,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br></b>
+          <img style="width=" class="ive_eobj_center" alt="Tan You Liang.png" src="/images/PAX/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"><br></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
