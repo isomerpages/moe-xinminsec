@@ -250,7 +250,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/generic_empty.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/PAX/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
