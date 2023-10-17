@@ -2062,7 +2062,7 @@ Ong Chuan Pau
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img src="/images/Alumni Executive Committee/黄 金 荣_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">增补理事<br>Vice Co-opted Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img src="/images/Alumni Executive Committee/黄 金 荣_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">增补理事<br>Co-opted Member<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -2097,7 +2097,7 @@ Ong Chuan Pau
           font-size: 17px;
           font-weight: 400;
           text-align: center;">
-        <img src="/images/Alumni Executive Committee/白 永 祥_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">增补理事<br>Vice Co-opted Member</b>
+        <img src="/images/Alumni Executive Committee/白 永 祥_1.png" alt="Tan You Liang.png" class="ive_eobj_center" style="width="><b style="margin: 0px; outline: 0px; padding: 0px">增补理事<br>Co-opted Member</b>
       </div>
       <div style="margin: 0px;
           outline: 0px;
