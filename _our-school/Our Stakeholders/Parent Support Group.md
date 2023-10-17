@@ -73,7 +73,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/Alumni Executive Committee/吴 中 博_1.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/PAX/david_ng_1.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -84,7 +84,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Vice Chairperson</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -95,8 +95,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          吴中博<br>
-          Goh Tong Pak
+          Mr David Ng
         </div>
       </td>
       <td style="margin: 0px;
@@ -120,7 +119,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/Alumni Executive Committee/蔡 纪 典_4.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b><br style="margin: 0px; outline: 0px; padding: 0px">
+          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="width=" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/PAX/joy_kim_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">Vice Chairperson</b><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -131,126 +130,8 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          蔡纪典<br>
-          Chua Kee Teang
+        Ms Joy Kim
         </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Goh Song Chay Eric.png" src="/images/Alumni Executive Committee/郭 明 忠_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">顾问<br>Advisor</b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          郭明忠博士<br>
-          Dr. George Quek Meng Tong
-        </div>
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          <img style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Lee Peng Koon.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;"></div>
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;"></div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;">
-          <b style="margin: 0px; outline: 0px; padding: 0px"></b><img style="margin: auto;
-              outline: 0px;
-              padding: 0px;
-              border: none;
-              max-width: 100%;
-              clear: both;
-              display: block;
-              background-color: initial;
-              text-align: left;
-              width: 135px;
-              height: 190px;" class="ive_eobj_center" alt="Soh Eng Cher.png" src="/images/empty_generic.png"><b style="margin: 0px; outline: 0px; padding: 0px"></b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;
-            text-align: center;"></div>
       </td>
     </tr>
   </tbody>
