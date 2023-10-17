@@ -456,7 +456,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Goh Peng Wah.png" src="/images/Alumni Executive Committee/彭 祥 隆_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">财政<br>Honorary Treasurer<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Goh Peng Wah.png" src="/images/PAX/alice_wong_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 3 Level Coordinator<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -467,8 +467,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          彭祥隆<br>
-          Pang Siong Loon
+        Ms Alice Wong
         </div>
       </td>
       <td style="margin: 0px;
@@ -484,7 +483,7 @@ third_nav_title: Our Stakeholders
             font-size: 17px;
             font-weight: 400;
             text-align: center;">
-          <img style="width=" class="ive_eobj_center" alt="Sandy Chew See See.png" src="/images/Alumni Executive Committee/徐 丽 真_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">副财政<br>Vice Honorary Treasurer</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <img style="width=" class="ive_eobj_center" alt="Sandy Chew See See.png" src="/images/PAX/catherine_low_1.png"><b style="margin: 0px; outline: 0px; padding: 0px">Sec 3 Level Coordinator</b><b style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -494,9 +493,7 @@ third_nav_title: Our Stakeholders
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;
-            text-align: center;">
-          徐丽真<br>
-          Jessie Chee Lee Chin
+            text-align: center;">Ms Catherine Low
         </div>
       </td>
       <td style="margin: 0px;
