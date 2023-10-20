@@ -30,7 +30,6 @@ sections:
       button: Click to find out more!
       url: /events/open-house-2023/
   - infopic:
-      title: Open House Programme
       id: infopic
       image: /images/Announcement Front Images/open house poster 1.jpg
       alt: Image alt text
