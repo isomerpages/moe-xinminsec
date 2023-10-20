@@ -29,10 +29,6 @@ sections:
         fun-filled activities!
       button: Click to find out more!
       url: /events/open-house-2023/
-  - infopic:
-      id: infopic
-      image: /images/Announcement Front Images/open house poster 1.jpg
-      alt: Image alt text
   - resources:
       title: Announcements
       button: More Posts
