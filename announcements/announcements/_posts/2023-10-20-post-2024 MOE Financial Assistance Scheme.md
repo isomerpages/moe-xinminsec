@@ -43,7 +43,9 @@ If your child is currently a ComCare recipient, he/she will be auto-granted with
 
 For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for 2024 MOE FAS pamphlets.
 
-If you wish to know more about MOE FAS may visit MOE website at [https://www.moe.gov.sg/financialmatters/financial-assistance.](https://www.moe.gov.sg/financialmatters/financial-assistance.)
+If you wish to know more about MOE FAS may visit MOE website at [https://www.moe.gov.sg/financialmatters/financial-assistance.](https://www.moe.gov.sg/financial-matters/financial-assistance)
+
+
 
 Singaporean students who do not meet the eligibility criteria for MOE FAS may also apply for School-based FAS via the MOE FAS application. Approval will be granted on a case-to-case basis.
 
