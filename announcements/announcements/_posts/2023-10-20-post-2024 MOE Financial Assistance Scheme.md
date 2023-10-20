@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Parents / Guardians,<br>
+Dear Parents / Guardians,<br><br>
 Application for the 2024 MOE Financial Assistance Scheme is now open.
 
   
