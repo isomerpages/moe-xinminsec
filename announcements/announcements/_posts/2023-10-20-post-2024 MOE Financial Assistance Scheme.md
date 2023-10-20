@@ -29,13 +29,12 @@ img {
 Alternatively, you may also obtain the application forms at our General Office, or download via [here](/files/MOE%20FAS/2024/2024%20moe%20fas%20application%20form.pdf).
 
 
-**Families under the below listed household members are required to apply via&nbsp;hardcopy forms:**  
-
+**Families under the below listed household members are required to apply via hardcopy forms:**
 a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>
-b. family with more than 5 children in GGAS_<br>
-c. family with more than 4 unmarried children not in GGAS<br>
+b. family with more than 6 children in GGAS<br>
+c. family with more than 5 unmarried children not in GGAS*<br>
 d. family with more than 3 grandparents in the household<br>
-<small><em>[GGAS : Government and Government-Aided Schools\]</em></small>
+*[GGAS : Government and Government-Aided Schools]*
 
 ### For year 2023 Secondary One Students
 
