@@ -25,9 +25,8 @@ sections:
       title: Open House 2023
       alt: Image alt text
       image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
-      description: >
-        Greetings to P6 graduates of 2023! Join us for a morning of fun-filled
-        activities! 
+      description: Greetings to P6 graduates of 2023! Join us for a morning of
+        fun-filled activities!
       button: Click to find out more!
       url: /events/open-house-2023/
   - resources:
