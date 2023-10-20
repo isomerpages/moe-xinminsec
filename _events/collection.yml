@@ -1,0 +1,5 @@
+collections:
+  events:
+    output: true
+    order:
+      - Open House 2023.md
