@@ -34,9 +34,18 @@ a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins a
 b. family with more than 6 children in GGAS<br>
 c. family with more than 5 unmarried children not in GGAS*<br>
 d. family with more than 3 grandparents in the household<br>
-[*GGAS : Government and Government-Aided Schools]<br>
+*[GGAS : Government and Government-Aided Schools]*
 
 
+Application forms must be completed and submitted together with the required supporting documents by **<u>Friday, 10th November 2023</u>**. This is to ensure that our FAS students receive their school uniform and textbooks by December 2023, before the start of the new school term on 2 January 2024.
+
+If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2024. Please contact the school at 6288 9382 to enquire on your MOE FAS auto grant status.
+
+For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for 2024 MOE FAS pamphlets.
+
+If you wish to know more about MOE FAS may visit MOE website at https://www.moe.gov.sg/financialmatters/financial-assistance.
+
+Singaporean students who do not meet the eligibility criteria for MOE FAS may also apply for School-based FAS via the MOE FAS application. Approval will be granted on a case-to-case basis.
 
 Thank you. <br>
 General Office
