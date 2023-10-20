@@ -36,30 +36,14 @@ c. family with more than 5 unmarried children not in GGAS*<br>
 d. family with more than 3 grandparents in the household<br>
 *[GGAS : Government and Government-Aided Schools]*
 
-### For year 2023 Secondary One Students
 
-Application forms should be completed and submitted with the supporting documents by Friday,&nbsp;**23 December 2022**. This is to ensure that our approved MOE FAS applications for Secondary One to receive their school uniform and textbooks before the new school term commences on Tuesday, 3 January 2023.
+Application forms must be completed and submitted together with the required supporting documents by **<u>Friday, 10th November 2023</u>**. This is to ensure that our FAS students receive their school uniform and textbooks by December 2023, before the start of the new school term on 2 January 2024.
 
-For MOE FAS applications&nbsp;**approved by respective primary schools, or their siblings’ schools**, please click the below link or scan the QR code to submit the approval letter for our processing.
+If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2024. Please contact the school at 6288 9382 to enquire on your MOE FAS auto grant status.
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/MOE%20FAS/MOE_FAS_Sec1_2023.png" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:38%;">  
+For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for 2024 MOE FAS pamphlets
 
-<p style="text-align:center;"><a href="https://go.gov.sg/s1-moefas">https://go.gov.sg/s1-moefas</a></p>
-
-If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2023.&nbsp;Please contact the school at&nbsp;6288 9382 to enquire on your MOE FAS auto grant status.
-
-
-For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for ‘2023 MOE FAS pamphlet 4L Revised Income Criteria’.<br>
-[2023 MOE FAS pamphlet 4L Revised Income Criteria](/files/MOE%20FAS/2023%20MOE%20FAS%20pamphlet%204L%20-%20Revised%20Income%20Criteria%20Final_compressed.pdf)
-
-If you wish to know more about MOE FAS may visit MOE website at&nbsp;[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance).
+If you wish to know more about MOE FAS may visit MOE website at https://www.moe.gov.sg/financialmatters/financial-assistance.
 
 Singaporean students who do not meet the eligibility criteria for MOE FAS may also apply for School-based FAS via the MOE FAS application. Approval will be granted on a case-to-case basis.
 
