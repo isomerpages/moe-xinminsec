@@ -29,4 +29,4 @@ From CTE, exit at Ang Mo Kio Ave 3 leading towards Hougang Ave 2. Turn left into
 	
 Alternatively, you can click on "[gothere.sg](http://gothere.sg/)" for direction from origin to Xinmin Secondary School.
 
-[Reflection Theatre Booking Form](/files/Reflection%20Theatre/rt%20booking%20form.pdf)
+Click [here](/files/Reflection%20Theatre/rt%20booking%20form.pdf) to download the Reflection Theatre Booking Form
