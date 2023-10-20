@@ -24,9 +24,10 @@ img {
 </style>  
 <img src="/images/Picture1.jpeg" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:40%;">  
   
-
-
 <p style="text-align:center;"><a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></p>
+
+Alternatively, you may also obtain the application forms at our General Office, or download via [here](/files/MOE%20FAS/2024/2024%20moe%20fas%20application%20form.pdf).
+
 
 **Families under the below listed household members are required to apply via&nbsp;hardcopy forms:**  
 
