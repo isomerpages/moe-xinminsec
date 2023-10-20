@@ -47,7 +47,11 @@ If you wish to know more about MOE FAS may visit MOE website at https://www.moe.
 
 Singaporean students who do not meet the eligibility criteria for MOE FAS may also apply for School-based FAS via the MOE FAS application. Approval will be granted on a case-to-case basis.
 
-Thank you. <br>
-General Office
+[2024_moe fas pamphet el.pdf](/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20el.pdf)<br>
+[2024_moe fas pamphet cl.pdf](/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20cl.pdf)<br>
+[2024_moe fas pamphet ml.pdf](/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20ml.pdf)<br>
+[2024_moe fas pamphet tl.pdf](/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20tl.pdf)
 
+Thank you. <br>
+General Office<br>
 Xinmin Secondary School
