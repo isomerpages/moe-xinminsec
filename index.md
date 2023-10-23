@@ -25,7 +25,7 @@ sections:
       title: Open House 2023
       alt: Image alt text
       image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
-      description: Greetings to P6 graduates of 2023!
+      description: Greetings to parents and P6 graduates of 2023!
   - resources:
       title: Announcements
       button: More Posts
