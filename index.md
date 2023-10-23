@@ -26,6 +26,11 @@ sections:
       alt: Image alt text
       image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
       description: Greetings to parents and P6 graduates of 2023!
+  - infopic:
+      id: infopic
+      description: Join us for a morning of fun-filled activities to get to know
+        Xinmin as a home that prepares our students for the future!
+      image: /images/Announcement Front Images/open house poster 1.jpg
   - resources:
       title: Announcements
       button: More Posts
