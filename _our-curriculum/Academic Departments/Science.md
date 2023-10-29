@@ -82,7 +82,7 @@ Our SBB students continuing to pursue science as an out-of-stream subject in the
 
 Talent Development
 ------------------
-![](/images/Science/Department_programmes/science_table.png)
+![](/images/Science/Department_programmes/science_table1.png)
 
 
 
