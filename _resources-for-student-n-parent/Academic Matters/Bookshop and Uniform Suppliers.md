@@ -24,13 +24,13 @@ E-mail: order@cascoedusupply.com.sg<br>
 Please contact the General Office at 6288 9382 if you require further assistance.  
 ### B) Uniform Supplier Information
 
-Jeep Sing Fashion  
-Blk 4012 Ang Mo Kio Ave 10  
-#01-08/09 Techplace 1  
-Singapore 569628  
-Tel:  64563198 <br>
-Fax: 63862407  
-Website:&nbsp; Support Centre: https://bit.ly/JSFSUPPORT
+Jeep Sing Fashion<br>
+Blk 4012 Ang Mo Kio Ave 10<br>
+#01-08/09 Techplace 1<br>
+Singapore 569628<br>
+Tel: 31636074<br>
+Fax: 63862407<br>
+Support Centre: https://bit.ly/JSFSUPPORT<br>
 
   
 
