@@ -6,12 +6,12 @@ third_nav_title: Academic Matters
 ---
 ### A) BookShop Supplier Information  
 
-Casco Publications Pte Ltd <br>
-c/o Xinmin Secondary School <br>
-11 Hougang Avenue 8 <br>
-Singapore 538789 <br>
-Tel: 63877804 <br>
-E-mail:&nbsp;[casco@singnet.com.sg](mailto:casco@singnet.com.sg)
+Casco Publications Pte Ltd<br>
+c/o Xinmin Secondary School<br>
+11 Hougang Avenue 8<br>
+Singapore 538789<br>
+Tel: 63877804<br>
+E-mail: order@cascoedusupply.com.sg<br>
 
   
 
