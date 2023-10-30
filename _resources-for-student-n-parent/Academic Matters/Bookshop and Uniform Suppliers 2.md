@@ -40,5 +40,5 @@ In view of the current pandemic, we do not allow walk-in to our retail outlet or
 
 To avoid disappointment, bookings have to make 2 days in advance before your actual day of collection at our retail outlet.
 
-There will be strictly **<u>NO trying of uniforms</u>** allowed at our outlet due to hygiene reasons during this crucial period. Instead, parents are advised to bring down their child’s best-fitted garment to compare with our standard uniform sizes for best uniform fitting.
+There will be strictly **<u>NO trying of uniforms</u>** allowed at our outlet due to hygiene reasons during this crucial period. Instead, parents are advised to bring down their child’s best-fitted garment to compare with our standard uniform sizes for best uniform fitting.<br><br>
 [EOY Xinmin Sec Uniform Sales Schedule](/files/Uniforms/eoy%20xinmin%20sec%20uniform%20sales%20schedule.pdf)
