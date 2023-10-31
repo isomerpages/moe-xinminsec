@@ -28,7 +28,7 @@ Booklists
 
 Bookshop and Uniform Supplier
 ----------
-*   [Bookshop and Uniform Supplier](/resources-for-student-n-parent/academic-matters/booking-and-uniform-suppliers-3/)
+*   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-suppliers/)
 
 
 Personal Digital Learning Programme (PDLP) 
