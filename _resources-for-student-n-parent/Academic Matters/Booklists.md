@@ -9,7 +9,7 @@ _Updated as of 31/10/2023_<br>
 **<u>Sec 1</u>**  
 
 
-**<u>Sec 2</u>** <br>1
+**<u>Sec 2</u>** <br>
 [Sec 2 Express](/files/Booklist/2024/2024%20sec%202%20express.pdf)<br>
 [Sec 2 Normal Academic](/files/Booklist/2024/2024%20sec%202%20normal%20academic.pdf)<br>
 [Sec 2 Normal Technical](/files/Booklist/2024/2024%20sec%202%20normal%20technical.pdf)
