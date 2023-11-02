@@ -27,7 +27,7 @@ Blk 4012 Ang Mo Kio Ave 10<br>
 Singapore 569628<br>
 Tel: 31636074<br>
 Fax: 63862407<br>
-Support Centre:  [https://bit.ly/JSFSUPPORT](https://bit.ly/JSFSUPPORT)https://bit.ly/JSFSUPPORT  <br>
+Support Centre:  [https://bit.ly/JSFSUPPORT](https://bit.ly/JSFSUPPORT) <br>
 
 ![](/images/Bookshop%20and%20Uniform%20Suppliers/books2.png)
 
