@@ -16,7 +16,7 @@ E-mail: order@cascoedusupply.com.sg<br>
 ![](/images/Bookshop%20and%20Uniform%20Suppliers/books1.png)
 
 **Quick Link**:<br>
-To Order online:	xmss.cascoedusupply.com.sg<br>
+To Order online:	[xmss.cascoedusupply.com.sg](xmss.cascoedusupply.com.sg)<br>
 To Book a slot:		https://go.gov.sg/s1textbk-uniform 	(For 2024 Sec 1 only)
 
 ### B)  Uniform Supplier Information
