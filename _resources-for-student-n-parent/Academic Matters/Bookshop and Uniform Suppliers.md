@@ -3,6 +3,7 @@ title: Bookshop and Uniform Suppliers
 permalink: /resources/students/school-resources/bookshop-and-uniform-suppliers/
 description: ""
 third_nav_title: Academic Matters
+variant: markdown
 ---
 ### A) BookShop Supplier Information  
 
@@ -11,7 +12,8 @@ c/o Xinmin Secondary School<br>
 11 Hougang Avenue 8<br>
 Singapore 538789<br>
 Tel: 63877804<br>
-E-mail: order@cascoedusupply.com.sg<br>
+For General Enquiries: [info@cascoedusupply.com.sg](info@cascoedusupply.com.sg)<br>
+For Year-End Orders: [order@cascoedusupply.com.sg](order@cascoedusupply.com.sg)
 
 ![](/images/Bookshop%20and%20Uniform%20Suppliers/books1.png)
 
