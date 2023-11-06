@@ -17,6 +17,10 @@ For Year-End Orders: [order@cascoedusupply.com.sg](order@cascoedusupply.com.sg)
 
 ![](/images/Bookshop%20and%20Uniform%20Suppliers/books1.png)
 
+**Important:-**<br>
+**Please do not purchase any textbooks or uniform if you are applying for 2024 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.**
+
+
 **Quick Link**:<br>
 To Order online:	[xmss.cascoedusupply.com.sg](https://cascoedusupply.com.sg/?schoolid=114)<br>
 To Book a slot:		[https://go.gov.sg/s1textbk-uniform](https://go.gov.sg/s1textbk-uniform) 	(For 2024 Sec 1 only)
@@ -32,6 +36,10 @@ Fax: 63862407<br>
 Support Centre:  [https://bit.ly/JSFSUPPORT](https://bit.ly/JSFSUPPORT) <br>
 
 ![](/images/Bookshop%20and%20Uniform%20Suppliers/books2.png)
+
+**Please do not purchase any textbooks or uniform if you are applying for 2024 Financial Assistance Scheme with the school. 
+We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.**
+
 **Quick Link**:<br>
 To Book a slot:		[https://go.gov.sg/s1textbk-uniform](https://go.gov.sg/s1textbk-uniform)	(For 2024 Sec 1 only)
 
