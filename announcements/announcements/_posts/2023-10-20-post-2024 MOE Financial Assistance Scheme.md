@@ -50,7 +50,7 @@ If you wish to know more about MOE FAS may visit MOE website at [https://www.moe
 
 Singaporean students who do not meet the eligibility criteria for MOE FAS may also apply for School-based FAS via the MOE FAS application. Approval will be granted on a case-to-case basis.
 
-Important:- 
+**Important:-**<br>
 Please do not purchase any textbooks or uniform if you are applying for 2024 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.
 
 [2024_moe fas pamphet el.pdf](/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20el.pdf)<br>
