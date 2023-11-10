@@ -14,7 +14,7 @@ variant: markdown
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form] 
+* [Application Form](/files/Announcements/School%20Canteen%20Advertisement/Application_Form__BF7__2018_.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
