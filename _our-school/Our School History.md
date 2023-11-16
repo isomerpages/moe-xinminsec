@@ -58,7 +58,7 @@ In 1986, Mr Teo Ting Kok assumed the role of Principal and worked to raise the l
 Chapter 4: The turning point of Xinmin’s history
 ------------------------------------------------
 
-In 1991, when Mr Goh was asked to lead a school, he requested to be posted to his alma mater, Xinmin Secondary School. His decision touched the hearts of many teachers.
+In 1991, when Mr Goh Tong Pak was asked to lead a school, he requested to be posted to his alma mater, Xinmin Secondary School. His decision touched the hearts of many teachers.
 
   
 
