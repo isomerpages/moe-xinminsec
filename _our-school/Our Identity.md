@@ -2,8 +2,15 @@
 title: Our Identity
 permalink: /about-us/school-crest-song-n-creed/
 description: ""
-variant: tiptap
+variant: markdown
 ---
+Our School Motto
+----------------
+
+
+坚韧不拔，殷勤为众<br>
+Steadfast in Spirit, Diligence in Service
+
 Our School Crest
 ----------------
 
