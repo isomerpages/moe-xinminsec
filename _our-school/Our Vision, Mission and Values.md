@@ -26,7 +26,7 @@ Our Values
 Desired Xinmin Outcomes
 -----------------------
 
-**Every Xinmin student a Curious Learner**
+**Every Xinmin Student a Curious Learner**
 
 ![Every Xinmin Student a Curious Learner](https://www.xinminsec.moe.edu.sg/images/pic1.png)
 
@@ -37,7 +37,7 @@ Desired Xinmin Outcomes
 | **Flexibility &amp; Adaptability**     | is open to adopt different ideas and viewpoints.<br>is able to adjust to new conditions by generating new ideas and exploring different pathways.   |
 | **Critical Thinking**     |uses evidence to support his or her views, and draws logical conclusions.<br>makes informed decisions after considering various options.<br>suspends judgment to reassess conclusions when presented with alternative viewpoints.    |
 
-**Every Xinmin student a Compassionate Contributor**
+**Every Xinmin Student a Compassionate Contributor**
 
 ![Every Xinmin Student a Compassionate Contributor](https://www.xinminsec.moe.edu.sg/images/pic2.png)
 
@@ -48,7 +48,7 @@ Desired Xinmin Outcomes
 | **Gratitude**     | recognises how others have supported him or her.<br>is committed to serve others and give back to society. |
 | **Moral Courage**     |does what is right even when it is difficult.<br>stands up for others.    |
 
-**Every Xinmin student a Confident Leader**
+**Every Xinmin Student a Confident Leader**
 
 ![Every Xinmin Student a Confident Leader](https://www.xinminsec.moe.edu.sg/images/pic3.png)
 
