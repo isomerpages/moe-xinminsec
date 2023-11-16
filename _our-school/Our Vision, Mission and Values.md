@@ -2,6 +2,7 @@
 title: Our Vision, Mission and Values
 permalink: /about-us/school-information/
 description: ""
+variant: markdown
 ---
 Our Vision
 --------------------------
@@ -27,7 +28,7 @@ Desired Xinmin Outcomes
 
 **Every Xinmin student a Curious Learner**
 
-![Every Xinmin student a Curious Learner](https://www.xinminsec.moe.edu.sg/images/pic1.png)
+![Every Xinmin Student a Curious Learner](https://www.xinminsec.moe.edu.sg/images/pic1.png)
 
 |  |   |
 | -------- | -------- |
@@ -38,7 +39,7 @@ Desired Xinmin Outcomes
 
 **Every Xinmin student a Compassionate Contributor**
 
-![Every Xinmin student a Compassionate Contributor](https://www.xinminsec.moe.edu.sg/images/pic2.png)
+![Every Xinmin Student a Compassionate Contributor](https://www.xinminsec.moe.edu.sg/images/pic2.png)
 
 |  |   |
 | -------- | -------- |
@@ -49,7 +50,7 @@ Desired Xinmin Outcomes
 
 **Every Xinmin student a Confident Leader**
 
-![Every Xinmin student a Confident Leader](https://www.xinminsec.moe.edu.sg/images/pic3.png)
+![Every Xinmin Student a Confident Leader](https://www.xinminsec.moe.edu.sg/images/pic3.png)
 
 
 |  |   |
