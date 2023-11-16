@@ -91,11 +91,11 @@ During Mrs Low’s leadership, Xinmin achieved many awards, including the School
 
   
 
-In 2006, Mdm Liew Wei Li (formerly Special Assistant to Director-General of Education) took over the helm of leadership from Mrs Low as the Principal of Xinmin Secondary School. Her direction was for Xinmin to be a Finishing School for Leaders, who, equipped with the necessary Attitudes, Skills and Knowledge (ASK) become change leaders with a heart. Together with the staff, she focused on quality teaching and learning, and created opportunities for the students to excel holistically.
+In 2006, Mdm Liew Wei Li (formerly Special Assistant to Director-General of Education) took over the helm of leadership from Mrs Low as the Principal of Xinmin Secondary School. Her direction was for Xinmin to be a Finishing School for Leaders, who, equipped with the necessary Attitudes, Skills and Knowledge (ASK), become change leaders with a heart. Together with the staff, she focused on quality teaching and learning, and created opportunities for the students to excel holistically.
 
   
 
-In was during Mdm Liew’s tenure that Xinmin organised the 1st Secondary Schools Mother Tongue Teachers and Students Symposium in 2008, and the 1st Science and Technology Symposium in 2009. She also initiated the building of the Performing Arts Centre to recognise the talents in the performing arts groups.
+It was during Mdm Liew’s tenure that Xinmin organised the 1st Secondary Schools Mother Tongue Teachers and Students Symposium in 2008, and the 1st Science and Technology Symposium in 2009. She also initiated the building of the Creative Arts Complex to recognise the talents in the performing arts groups.
 
   
 
@@ -208,7 +208,7 @@ This was also the time when initiatives from the Ministry were introduced to all
 
   
 
-在刘校长任期内，新民中学母语部门在2008年组织筹备了第一届“中学华文与马来文研讨会”；2009年，新民中学科学部门组织筹备了第一届“科技研讨会”。为了使表演艺术团体充分发挥才能，她还发起了建设表演艺术中心的项目。
+在刘校长任期内，新民中学母语部门在2008年组织筹备了第一届“中学华文与马来文研讨会”；2009年，新民中学科学部门组织筹备了第一届“科技研讨会”。为了使表演艺术团体充分发挥才能，她还发起了建设创意艺术中心的的项目。
 
 
 第六章：通往结合科技的全面教育之路
