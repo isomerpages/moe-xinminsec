@@ -2,6 +2,7 @@
 title: Our School History
 permalink: /about-us/school-history/
 description: ""
+variant: markdown
 ---
 Chapter 1: It all started with a bold dream
 -------------------------------------------
@@ -48,7 +49,7 @@ Mr Chew’s next task proved equally demanding. As Singapore was undergoing many
 
   
 
-Thankfully, Sin Min’s new status as a government school revitalised the school. Mr Chew continued to lead the school and became the longest serving Principal of Sin Min High School. Given that even his children were educated at Sin Min, it is no surprise that his love for the school has deep roots. Until today, Mr Chew continues to serve in Xinmin Secondary’s School Advisory Committee as an Advisor, and visits the school regularly, especially to grace its special occasions.
+Thankfully, Sin Min’s new status as a government school revitalised the school. Mr Chew continued to lead the school and became the longest serving Principal of Sin Min High School. Given that even his children were educated at Sin Min, it is no surprise that his love for the school has deep roots.
 
   
 
