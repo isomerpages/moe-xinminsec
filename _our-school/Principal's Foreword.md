@@ -2,7 +2,7 @@
 title: Principal's Foreword
 permalink: /about-us/principals-foreword/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ![](/images/Ps%20Foreword%20Banner%20Photo.jpg)
 
@@ -14,7 +14,8 @@ As an autonomous school, we develop our students holistically and cultivate thei
 	
 * Coding@Xinmin, focusing on computational thinking and design thinking;
 * RefleXions@Xinmin, developing empathy and collaboration skills;
-* XinminCares, fostering civic character and the will to act; and
+* Xinmin Academy of Leaders, honing leadership competencies and confidence; and
+* XinminCares, fostering civic character and the will to act.
 * the Student Leadership Academy, honing leadership competencies and confidence.
 
 <p style="text-align:justify">
@@ -24,8 +25,8 @@ Xinmin is blessed with a team of caring teachers and allied educators committed 
 <p style="text-align:justify">
 We welcome you to join us – as students, parents, and partners – on this special journey together!</p>
 
-Principal <br>
 Mr Tan Soon Hui<br><br>
+Principal
 新民中学是一所优秀的学府，着力于将新民学子培育为孜孜不倦的学者，仁心仁德的贡献者以及信心十足的领袖。新民中学于1945年创校，在引导学生为将来做准备的同时，我校不忘初衷，仍然秉持着创校人办校的精神，继续为教育做出贡献。新民的教育理念以互敬互重, 尽心尽责与坚韧不拔为核心价值观。我校着力培育有领袖之德，领袖之智的学生。与此同时，我校也根据大环境的转变，与时并进，不仅更新全面课程，也设计能培养21世纪技能与素质的学习体验。<br>
 
 身为一所自治学校，为了让新民学子全面发展，培养各项才能，新民中学在推行全国课程的同时，也精心设计了不同的特色项目。新民的特色项目包括：<br>
