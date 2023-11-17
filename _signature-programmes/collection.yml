@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - RefleXions@Xinmin.md
       - Coding@Xinmin.md
