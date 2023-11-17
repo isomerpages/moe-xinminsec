@@ -16,7 +16,6 @@ As an autonomous school, we develop our students holistically and cultivate thei
 * RefleXions@Xinmin, developing empathy and collaboration skills;
 * Xinmin Academy of Leaders, honing leadership competencies and confidence; and
 * XinminCares, fostering civic character and the will to act.
-* the Student Leadership Academy, honing leadership competencies and confidence.
 
 <p style="text-align:justify">
 The academic subjects, co-curricular programmes, and signature programmes form our school’s total curriculum that we provide for every Xinmin student entrusted to us. The total curriculum is augmented by the Xinmin Talent Development Approach, through which opportunities for students to develop their talents are organised along five domains – cognitive, aesthetics, psychomotor, community, and leadership – to empower every Xinmin student to soar.</p>
