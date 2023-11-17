@@ -1439,18 +1439,16 @@ variant: markdown
             font-size: 17px;
             font-weight: 400;">
           <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lim Mei Yin, Tiffany
-            <div style="margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                line-height: 24.99px;
-                color: rgb(0, 0, 0);
-                font-family: Helvetica, sans-serif;
-                font-size: 17px;
-                font-weight: 400;">
-              Designation:&nbsp;<span style="margin: 0px;
-                  outline: 0px;
-                  padding: 0px;
-                  background-color: initial;">Assistant Year Head - Sec 2
+              <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Assistant Year Head - Sec 2
+        </div>
                 <div style="margin: 0px;
                     outline: 0px;
                     padding: 0px;
@@ -1474,9 +1472,9 @@ variant: markdown
                         color: rgb(42, 103, 183);
                         text-decoration: underline;" target="" href="mailto:tiffany_lim@schools.gov.sg">tiffany_lim@schools.gov.sg</a>
                   </div>
-                </div></span>
-            </div></b>
-        </div>
+                </div>
+            </b></div>
+        
       </td>
     </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
