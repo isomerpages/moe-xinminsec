@@ -3,11 +3,12 @@ title: CCE Overview
 permalink: /student-development/cce/cce-overview/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 Belief
 ------
 
-Xinmin Secondary School believes in developing Curious Learners and Compassionate Contributor. The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame and is anchored on the school’s values of Respect, Responsibility and Resilience.
+Xinmin Secondary School believes in developing Curious Learners and Compassionate Contributors. The design of the school’s CCE Curriculum takes reference from MOE’s CCE 2021 Curriculum Frame and is anchored on the school’s values of Respect, Responsibility and Resilience.
 
 Curriculum
 ----------
