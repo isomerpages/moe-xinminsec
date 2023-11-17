@@ -2,8 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Talent Development Approach.md
       - The Xinmin Learning Experience.md
+      - Talent Development Approach.md
       - Academic Learning/.keep
       - Academic Learning/Academic Learning.md
       - Academic Learning/Lower Secondary Programme  (For Sec 1 and 2 AY2023).md
