@@ -45,39 +45,3 @@ From Term 3 of 2021, Blended Learning will be a feature of every secondary stude
 One feature of Blended Learning is Student-Initiated Learning or SIL for short. SIL is a dedicated time during your HBL for you to explore your personal interests, both within and outside of the curriculum. It also provides you with a good opportunity to learn to be an independent, passionate and lifelong learner.&nbsp;
 
 You may wish to spend the time set aside for SIL to explore and further develop your talents. To support you in this, the school will provide you with some suggestions and resources. However, you may also wish to decide on the area of interest you want to explore and delve deeper in.
-
-  
-
-## Our Xinmin Talents
-
-<u>Alton Lee (401, 2020)</u>
-
-Alton has always been very interested in Science and we encouraged him to engage in various enrichment opportunities in the subject. Building on the Level 1 programmes we offer all students as part of their lower secondary Science curriculum, we encouraged Alton to take part in the Science Busker's festival, where he explored the effect of heat in creating convection currents through the use of emptied tea-bags.
-
-  
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/TD2.jpeg" alt="Talent Development" style="width:175px"></p>
-<p style="text-align:justify">
-Encouraged by this experience, Alton then participated in the International Student Science Festival, submitting a poster on his research in converting light energy to electrical energy using chlorophyll from plants. </p>
-
-<br>
-
-<p style="float:left; margin: 0 10px 0px 0">
-<img src="/images/TD3.jpeg" alt="Talent Development" style="width:175px"></p>
-<p style="text-align:justify">
-Alton subsequently, signed up for the CRADLE programme co-organised by Science Centre Singapore and MOE, in which he created a drone (quadcopter) under the mentorship of Mr Edmund Khee, a scientist from Science Centre Singapore. It is noteworthy that, for this project, Alton also drew on what he learnt from Coding@Xinmin. </p>
-
- 
-<p style="text-align:justify">
-While Alton is doing his post-secondary education in Yishun Innova Junior College, he remains actively involved in pursuing Science research, and has been selected into NTU’s Nanyang Research Programme (NRP) since the beginning of 2021. He is currently doing a research on remote sensing (using UAVs) for the monitoring of water bodies in the NRP.&nbsp;</p>
-
-![Talent Development](/images/Talent%20Development.jpg)
-
-<u>Jeyvian (401, 2021)</u>
-
-Jeyvian is our current Sec 4 student offering O-level Computing. &nbsp;She started her journey in programming with Xinmin and had demonstrated strong interest in both tinkering and coding since joining the school.  
-She gathered a group of like-minded friends to form teams to participate in both MakeX and RippleX competitions and received good results for it. When asked about what she enjoyed most from the competitions, she said she enjoyed creating solutions through prototyping and also to bring her friends together to work on something through both the card-boarding and coding skills. Jeyvian also shared that she benefitted from the exposure to computational thinking and different computing languages from Coding@Xinmin and this knowledge enabled her to handle the different tasks in the competitions with ease and confidence. The design thinking and paper prototyping process also added to her confidence.
-
-Jeyvian aspires to work in cyber-related fields and is actively working towards achieving her dreams by seizing the different opportunities offered by the school to hone her skills and deepen her knowledge of programming. She is also an inspiration to her peers and her juniors, proving to them that girls can be as good as, if not even better than boys in computing!
-
-We hope you are inspired by how your seniors have seized the opportunities we provided to develop their talents and deepen their passions. So, take charge of your growth and learning, similarly seize the opportunities available to develop your talents to the fullest!
