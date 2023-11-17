@@ -23,7 +23,7 @@ Hougang Station (NE14)
 
   
 **By Car:** <br>
-From CTE, exit at Ang Mo Kio Ave 3 leading towards Hougang Ave 2. Turn left into Hougang Ave 8. After the bend, turn left into the HDB car park just before the school soccer field. School’s entrance is on the right.
+From CTE, exit at Ang Mo Kio Ave 3 leading towards Hougang Ave 2. Turn left into Hougang Ave 8. After the bend, turn left into the HDB car park just before the school soccer field. Our school entrance is on the right.
 
 
 Click [here ](/files/Reflection%20Theatre/rt%20booking%20form_1.pdf) to download the **Reflections Theatre Booking Form**.
