@@ -2,9 +2,8 @@
 title: School Timetable
 permalink: /resources/students/timetables/school-timetable/
 description: ""
+variant: markdown
 ---
-_Updated as of 18th July 2023_
-
 For classes, please click [here](https://drive.google.com/drive/folders/1yxPoY1T8elgA12x8oiZcZn9VeVB_kagY?usp=sharing)<br>
 For teachers, please click [here](https://drive.google.com/drive/folders/1kN1DwWUNpRaKb7ypW-KAfMJCepOm776v?usp=share_link)
 <br>
