@@ -71,7 +71,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Head of Department
+          Designation: Head of Department - Mother Tongue Languages
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -206,7 +206,7 @@ variant: markdown
           font-family: Helvetica, sans-serif;
           font-size: 17px;
           font-weight: 400;">
-        Designation: Subject Head
+        Designation: Subject Head - Mother Tongue Languages
       </div>
       <div style="margin: 0px;
           outline: 0px;
