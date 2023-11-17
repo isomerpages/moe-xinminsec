@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /about-us/our-people/physical-education/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table style="margin: auto;
     outline: 0px;
@@ -151,7 +152,7 @@ third_nav_title: Our People
               background-color: initial;"></span><span style="margin: 0px;
               outline: 0px;
               padding: 0px;
-              background-color: initial;">Physical Education and Humanities</span>
+              background-color: initial;">Physical Education</span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
