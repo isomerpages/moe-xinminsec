@@ -52,12 +52,10 @@ Development Modules:
 </table>
 
 
-Xinmin Academy of Leaders Level 3 Module:
--------
+**Xinmin Academy of Leaders Level 3 Module**:<br>
 **Facilitation and Communication**: Students learn core facilitation skills and grow as confident communicators. Students are given a structured approach towards being facilitators and get to apply it through activities initiated during the module.
 
-Xinmin Academy of Leaders Level 4 Module:
--------
+**Xinmin Academy of Leaders Level 4 Module:** <br>
 **Creating Lasting Change**: Students are encouraged to leave a lasting legacy as leaders in this module that facilitates student proposals geared towards bettering the school experience for the student body. Peers Support Champions, CCA leaders, Class Committee Members and Student Councilors come together to brainstorm and understand the core processes towards building a legacy.
 
 <table style="margin: auto;
