@@ -49,7 +49,7 @@ Mr Chew’s next task proved equally demanding. As Singapore was undergoing many
 
   
 
-Thankfully, Sin Min’s new status as a government school revitalised the school. Mr Chew continued to lead the school and became the longest serving Principal of Sin Min High School. Given that even his children were educated at Sin Min, it is no surprise that his love for the school has deep roots.
+Thankfully, Sin Min’s new status as a government school revitalised the school. Mr Chew continued to lead the school and became the longest serving Principal of Sin Min High School. Given that even his children were educated at Sin Min, it is no surprise that his love for the school had deep roots.
 
   
 
