@@ -3,7 +3,7 @@ title: English Language & Literature
 permalink: /about-us/our-people/english-language-n-literature/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <table style="margin: auto;
     outline: 0px;
@@ -70,7 +70,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Head of Department - English &amp; Literature
+          Designation: Head of Department - English Language &amp; Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -80,7 +80,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: English and Literature
+          Department: English Language and Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -144,7 +144,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: English and Literature
+          Department: English Language and Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -208,7 +208,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: English and Literature
+          Department: English Language and Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -336,7 +336,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: English and Literature
+          Department: English Language and Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -400,7 +400,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: English and Literature
+          Department: English Language and Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -467,7 +467,7 @@ variant: tiptap
           Department:&nbsp;<span style="margin: 0px;
               outline: 0px;
               padding: 0px;
-              background-color: initial;">English and Literature</span>
+              background-color: initial;">English Language and Literature</span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -547,7 +547,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: English and Literature
+          Department: English Language and Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -611,7 +611,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: English and Literature
+          Department: English Language and Literature
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -678,7 +678,7 @@ variant: tiptap
           Department:&nbsp;<span style="margin: 0px;
               outline: 0px;
               padding: 0px;
-              background-color: initial;">English and Literature</span>
+              background-color: initial;">English Language and Literature</span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -780,7 +780,7 @@ variant: tiptap
             background-color: initial;">Department:&nbsp;</span><span style="margin: 0px;
             outline: 0px;
             padding: 0px;
-            background-color: initial;">English and Literature</span>
+            background-color: initial;">English Language and Literature</span>
       </div>
       <div style="margin: 0px;
           outline: 0px;
@@ -869,7 +869,7 @@ variant: tiptap
               background-color: initial;">Department:&nbsp;</span><span style="margin: 0px;
               outline: 0px;
               padding: 0px;
-              background-color: initial;">English and Literature</span>
+              background-color: initial;">English Language and Literature</span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -956,7 +956,7 @@ variant: tiptap
               background-color: initial;">Department:&nbsp;</span><span style="margin: 0px;
               outline: 0px;
               padding: 0px;
-              background-color: initial;">English and Literature</span>
+              background-color: initial;">English Language and Literature</span>
         </div>
         <div style="margin: 0px;
             outline: 0px;
