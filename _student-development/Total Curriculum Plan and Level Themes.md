@@ -2,8 +2,9 @@
 title: Total Curriculum Plan and Level Themes
 permalink: /student-development/total-curriculum-map-level-themes/
 description: ""
+variant: markdown
 ---
-Total Curriculum Plan and Level Themes
+Level Themes
 ------
 
 
