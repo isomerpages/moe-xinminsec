@@ -1086,7 +1086,7 @@ variant: markdown
         </div>
       </td>
     </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 7px 15px 0px;
@@ -1098,7 +1098,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 155px;" class="ive_eobj_left" alt="Yap Hock Heng.jpg" src="/images/EAS/Yap%20Hock%20Heng.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 155px;" class="ive_eobj_left" alt="Yap Hock Heng.jpg" src="/images/sl_a_gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -1113,7 +1113,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Yap Hock Heng</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Sabda Bima Bin Sukaimi</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1151,7 +1151,7 @@ variant: markdown
         </div>
       </td>
     </tr>
-		<tr style="margin: 0px; outline: 0px; padding: 0px">
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 7px 15px 0px;
@@ -1163,7 +1163,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 155px;" class="ive_eobj_left" alt="Yap Hock Heng.jpg" src="/images/sl_a_gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 155px;" class="ive_eobj_left" alt="Yap Hock Heng.jpg" src="/images/EAS/Yap%20Hock%20Heng.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -1178,7 +1178,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Sabda Bima Bin Sukaimi</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Yap Hock Heng</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
