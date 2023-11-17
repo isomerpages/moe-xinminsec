@@ -2,12 +2,8 @@
 title: Assessment Plan
 permalink: /resources/students/assessment/assessment-plan/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-_Updated as of 04th Jan 2021_
-
-  
-
 The assessment plan for Sec 1 to Sec 3 students are as follows:
 
 <style type="text/css">
