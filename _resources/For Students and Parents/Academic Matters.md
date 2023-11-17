@@ -3,8 +3,9 @@ title: Academic Matters
 permalink: /resources/for-students-and-parents/academic-matters/
 description: ""
 third_nav_title: For Students and Parents
+variant: markdown
 ---
-Timetables
+Schedules
 ----------
 
 *   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&ctz=Asia/Singapore)
