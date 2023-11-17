@@ -93,7 +93,7 @@ third_nav_title: Students
               font-weight: 600;
               margin: 0px;
               outline: 0px;
-              padding: 0px;">Competition / Platform</b>
+              padding: 0px;">Platform</b>
         </p>
       </td>
     </tr>
