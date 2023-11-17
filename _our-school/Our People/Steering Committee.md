@@ -462,7 +462,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Head of Department -&nbsp;Mathematics
+          Designation: Head of Department
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -592,7 +592,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Head of Department -&nbsp;Mother Tongue Languages
+          Designation: Head of Department
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -853,7 +853,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Head of Department - English &amp; Literature
+          Designation: Head of Department
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1184,7 +1184,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Mother Tongue Languages
+          Designation: Subject Head
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1253,7 +1253,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Aesthetic
+          Designation: Subject Head
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1584,7 +1584,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Mathematics
+          Designation: Subject Head
         </div>
         <div style="margin: 0px;
             outline: 0px;
