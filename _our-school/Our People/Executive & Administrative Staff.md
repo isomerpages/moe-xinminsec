@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /about-us/our-people/executive-n-administrative-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table style="margin: auto;
     outline: 0px;
@@ -291,7 +292,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:@schools.gov.sg">-</a>
+              text-decoration: underline;" target="" href="mailto:@schools.gov.sg">mohamed_qabeer_sulaiman@schools.gov.sg</a>
         </div>
       </td>
     </tr>
