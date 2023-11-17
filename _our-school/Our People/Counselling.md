@@ -3,7 +3,7 @@ title: Counselling
 permalink: /about-us/our-people/counselling/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
 <table style="margin: auto;
     outline: 0px;
@@ -201,7 +201,7 @@ variant: tiptap
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Special Educational Needs Officer
+          Designation: Senior Special Educational Needs Officer
         </div>
         <div style="margin: 0px;
             outline: 0px;
