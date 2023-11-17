@@ -207,7 +207,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - PE &amp; CCA
+          Designation: Subject Head
         </div>
         <div style="margin: 0px;
             outline: 0px;
