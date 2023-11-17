@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /about-us/our-people/mathematics/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table style="margin: auto;
       outline: 0px;
@@ -70,7 +71,7 @@ third_nav_title: Our People
               font-family: Helvetica, sans-serif;
               font-size: 17px;
               font-weight: 400;">
-            Designation: Head of Department - Mathematics
+            Designation: Head of Department
           </div>
           <div style="margin: 0px;
               outline: 0px;
@@ -200,7 +201,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Mathematics
+          Designation: Subject Head
         </div>
         <div style="margin: 0px;
             outline: 0px;
