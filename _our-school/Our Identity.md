@@ -40,7 +40,6 @@ Our School Song
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_OAEmM7SlWw?si=37y2xyRL0HrwkRoP" height="315" width="560"></iframe>
   
-Click [here](https://drive.google.com/file/d/1goSDSyjUEgymQWwi6vyRIKP4oi5pJymG/view?usp=sharing) to listen
 
 
 The Student's Creed
