@@ -43,19 +43,6 @@ Our School Song
 Click [here](https://drive.google.com/file/d/1goSDSyjUEgymQWwi6vyRIKP4oi5pJymG/view?usp=sharing) to listen
 
 
-#### Our School Song's Translation
-
-Xinmin Xinmin <br>
-We want to be the master of our destiny <br>
-We want to be the beacon of our time <br>
-Not through rote learning; but through the training of a versatile mind <br>
-With keen wit and a readiness to put knowledge into practice <br>
-Xinmin Xinmin <br>
-We want to develop an analytical mind <br>
-We want to cultivate an innovative spirit <br>
-For love, integrity, freedom and peace <br>
-Xinmin Xinmin
-
 The Student's Creed
 -------------------
 
