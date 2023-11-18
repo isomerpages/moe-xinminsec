@@ -35,6 +35,7 @@ The 3 bold strokes surging forward signify our pupils embracing the future with 
 
 The 3 figures represent the close parthership between school, home and the community.
 
+
 Our School Song
 ---------------
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jeAyRTFA5Kk?si=U6h6T8chic_MCfJC" height="360" width="640"></iframe>
