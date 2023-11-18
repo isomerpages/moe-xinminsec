@@ -38,7 +38,49 @@ The 3 figures represent the close parthership between school, home and the commu
 Our School Song
 ---------------
 
-![](/images/School%20Song%20Lyrics/school_song2.jpg)
+
+新民新民  
+xīn mín xīn mín
+
+  
+我们要做社会的主人  
+wǒ mén yào zuò shè huì de zhǔ rén
+
+  
+我们要做时代的明灯  
+wǒ mén yào zuò shí dài de míng dēng
+
+  
+不读死蔬， 手脑并用  
+bù dú sǐ shū ， shǒu nǎo bìng yòng
+
+  
+要学要做即知即行  
+yào xué yào zuò jí zhī jí xíng
+
+  
+新民新民  
+xīn mín xīn mín
+
+  
+我们要有科学的头脑  
+wǒ mén yào yǒu kē xué de tóu nǎo
+
+  
+我们要有创造的精神  
+wǒ mén yào yǒu chuàng zào de jīng shén
+
+  
+为了仁爱， 为了信义  
+wéi liǎo rén ài ， wéi liǎo xìn yì
+
+  
+为了自由， 为了和平  
+wéi liǎo zì yóu ， wéi liǎo hé píng
+
+  
+新民新民  
+xīn mín xīn mín
   
 Click [here](https://drive.google.com/file/d/1goSDSyjUEgymQWwi6vyRIKP4oi5pJymG/view?usp=sharing) to listen
 
