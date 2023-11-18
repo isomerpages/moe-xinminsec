@@ -37,7 +37,7 @@ The 3 figures represent the close parthership between school, home and the commu
 
 Our School Song
 ---------------
-![](/images/School%20Song%20Lyrics/school_song_lyrics_2.png)
+![](/images/School%20Song%20Lyrics/school_song_lyrics_3.jpg)
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jeAyRTFA5Kk?si=U6h6T8chic_MCfJC" height="315" width="560"></iframe>
   
 
