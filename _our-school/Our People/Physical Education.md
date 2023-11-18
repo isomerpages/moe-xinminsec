@@ -170,6 +170,71 @@ variant: markdown
         </div>
       </td>
     </tr>
+		  <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 111px;
+            height: 143px;" class="ive_eobj_left" alt="Tan Kian Seng Jeremy.jpg" src="/images/Physical_Education/Tan%20Kian%20Seng%20Jeremy.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Tan Kian Seng Jeremy</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Assistant Year Head - Sec 1
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Physical Education
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:tan_kian_seng_jeremy@schools.gov.sg">tan_kian_seng_jeremy@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -232,71 +297,6 @@ variant: markdown
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;" target="" href="mailto:lim_yen_peng@schools.gov.sg">lim_yen_peng@schools.gov.sg</a>
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 111px;
-            height: 143px;" class="ive_eobj_left" alt="Tan Kian Seng Jeremy.jpg" src="/images/Physical_Education/Tan%20Kian%20Seng%20Jeremy.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Tan Kian Seng Jeremy</b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Designation: Assistant Year Head - Sec 1
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Department: Physical Education
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:tan_kian_seng_jeremy@schools.gov.sg">tan_kian_seng_jeremy@schools.gov.sg</a>
         </div>
       </td>
     </tr>
