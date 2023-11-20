@@ -4,24 +4,26 @@ permalink: /about-us/school-information/
 description: ""
 variant: markdown
 ---
-Our Vision
+Our Vision 愿景
 --------------------------
-Leading Hearts, Leading Minds
+Leading Hearts, Leading Minds <br>
+领袖之德，领袖之智
 
-Our Mission
+Our Mission 使命
 --------------------------
 
-To develop every Xinmin student to be a curious learner, a compassionate contributor and a confident leader.
+To develop every Xinmin student to be a curious learner, a compassionate contributor and a confident leader. <br>
+培养每一位新民学子成为孜孜不倦的学习者、仁心仁德的贡献者、信心十足的领袖者。
 
-Our Values
+Our Values 核心价值观
 --------------------------
 
 
 | Value | Definition  |
 | -------- | -------- |
-| **Respect**     | Believes in his own self-worth and the intrinsic worth of all people     |
-| **Responsibility**     | Recognizes that he has a duty to himself, his family, community, nation and the world, and fulfils his responsibilities with love and commitment.     |
-| **Resilience**     | Possesses emotional strength and perseveres in the face of challenges while manifesting courage, optimism, adaptability and resourcefulness in the process    |
+| **Respect**  <br> **互敬互重**  | Believes in his own self-worth and the intrinsic worth of all people     |
+| **Responsibility** <br>  **尽心尽责**  | Recognizes that he has a duty to himself, his family, community, nation and the world, and fulfils his responsibilities with love and commitment.     |
+| **Resilience** <br>  **坚韧不拔**  | Possesses emotional strength and perseveres in the face of challenges while manifesting courage, optimism, adaptability and resourcefulness in the process    |
 
 Desired Xinmin Outcomes
 -----------------------
