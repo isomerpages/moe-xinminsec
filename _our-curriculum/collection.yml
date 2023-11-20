@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/St John Brigade.md
       - Co Curricular Activities/.keep
       - The Xinmin Learning Experience.md
       - Talent Development Approach.md
