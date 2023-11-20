@@ -2,13 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
+      - The Xinmin Learning Experience.md
+      - Talent Development Approach.md
+      - Signature Programmes/.keep
       - Signature Programmes/XinminCares.md
       - Signature Programmes/Xinmin Academy of Leaders.md
       - Signature Programmes/RefleXions@Xinmin.md
       - Signature Programmes/Coding@Xinmin.md
-      - Signature Programmes/.keep
-      - The Xinmin Learning Experience.md
-      - Talent Development Approach.md
       - Academic Learning/.keep
       - Academic Learning/Academic Learning.md
       - Academic Learning/Lower Secondary Programme  (For Sec 1 and 2 AY2023).md
