@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/Media Club.md
       - Co Curricular Activities/Outdoor Adventure Club.md
       - Co Curricular Activities/Chinese Dance.md
       - Co Curricular Activities/Choir.md
