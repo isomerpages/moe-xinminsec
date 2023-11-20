@@ -2,6 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
-      - RefleXions@Xinmin.md
       - Xinmin Academy of Leaders.md
       - XinminCares.md
