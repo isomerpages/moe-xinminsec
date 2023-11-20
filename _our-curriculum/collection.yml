@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - The Xinmin Learning Experience.md
       - Talent Development Approach.md
       - Academic Learning/.keep
@@ -22,3 +21,4 @@ collections:
       - Academic Departments/Physical Education.md
       - Academic Departments/Science.md
       - Academic Departments/Technology and Business.md
+      - Co Curricular Activities/.keep
