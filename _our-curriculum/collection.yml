@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/English Drama.md
       - Co Curricular Activities/Guzheng Ensemble.md
       - Co Curricular Activities/Symphonic Band.md
       - Co Curricular Activities/Badminton.md
