@@ -6,13 +6,13 @@ variant: markdown
 ---
 Our Vision 愿景
 --------------------------
-Leading Hearts, Leading Minds <br>
+Leading Hearts, Leading Minds <br><br>
 领袖之德，领袖之智
 
 Our Mission 使命
 --------------------------
 
-To develop every Xinmin student to be a curious learner, a compassionate contributor and a confident leader. <br>
+To develop every Xinmin student to be a curious learner, a compassionate contributor and a confident leader. <br><br>
 培养每一位新民学子成为孜孜不倦的学习者、仁心仁德的贡献者、信心十足的领袖者。
 
 Our Values 核心价值观
