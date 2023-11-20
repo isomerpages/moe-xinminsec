@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Development/.keep
       - The Xinmin Learning Experience.md
       - Talent Development Approach.md
       - Academic Learning/.keep
