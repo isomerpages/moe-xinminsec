@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development/CyberWellness and Mental Health.md
       - Student Development/Education and Career Guidance.md
       - Student Development/National Education.md
       - Student Development/Overseas Service Learning.md
