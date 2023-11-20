@@ -7,7 +7,7 @@ variant: markdown
 Our School Motto 校训
 ----------------
 
-Steadfast in Spirit, Diligence in Service <br>
+Steadfast in Spirit, Diligence in Service <br><br>
 坚韧不拔，殷勤为众 
 
 Our School Crest
