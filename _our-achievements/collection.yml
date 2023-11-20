@@ -2,10 +2,10 @@ collections:
   our-achievements:
     output: true
     order:
+      - Students/Cognitive.md
       - Students/.keep
       - Students/Aesthetics.md
       - Students/Physical.md
       - Students/Student Leadership, Social & Moral Domain.md
       - Staff.md
       - School.md
-      - Alumni.md

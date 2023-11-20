@@ -3,8 +3,9 @@ title: Quick Links
 permalink: /resources/staff/quick-links/
 description: ""
 third_nav_title: For Staff
+variant: markdown
 ---
-Timetables
+Schedules
 ----------
 
 *   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&amp;ctz=Asia/Singapore)

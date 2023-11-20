@@ -15,12 +15,12 @@ sections:
         - title: Our Curriculum
           description: ""
           url: /our-curriculum/the-xinmin-learning-experience/
-        - title: Prospective Students
-          description: ""
-          url: /about-us/prospectus/
         - title: Resources
           description: ""
           url: /resources/for-students-and-parents/quick-links/
+        - title: Prospective Students
+          description: ""
+          url: /about-us/prospectus/
   - infopic:
       title: Open House 2023
       alt: Image alt text

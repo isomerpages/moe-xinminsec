@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /about-us/our-people/aesthetics/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table style="margin: auto;
     outline: 0px;
@@ -73,7 +74,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Aesthetic
+          Designation: Subject Head - Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -83,7 +84,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Arts Education
+          Department: Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -139,7 +140,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Teacher (Art)
+          Designation: Teacher - Art
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -149,7 +150,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Arts Education
+          Department: Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -204,7 +205,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Teacher (Art)
+          Designation: Teacher - Art
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -214,7 +215,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Arts Education (Art Coordinator)
+          Department: Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -269,7 +270,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Teacher (Art)
+          Designation: Teacher - Art
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -279,7 +280,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Arts Education
+          Department: Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -334,7 +335,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Teacher (Music)
+          Designation: Teacher - Music
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -344,7 +345,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Arts Education (Music Coordinator)
+          Department: Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -399,7 +400,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Teacher (Drama)
+          Designation: Teacher - Drama
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -409,7 +410,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Arts Education
+          Department: Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -464,7 +465,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Teacher (Music)
+          Designation: Teacher - Music
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -474,7 +475,7 @@ third_nav_title: Our People
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Arts Education
+          Department: Aesthetics
         </div>
         <div style="margin: 0px;
             outline: 0px;

@@ -2,6 +2,7 @@
 title: Our School History
 permalink: /about-us/school-history/
 description: ""
+variant: markdown
 ---
 Chapter 1: It all started with a bold dream
 -------------------------------------------
@@ -48,7 +49,7 @@ Mr Chew’s next task proved equally demanding. As Singapore was undergoing many
 
   
 
-Thankfully, Sin Min’s new status as a government school revitalised the school. Mr Chew continued to lead the school and became the longest serving Principal of Sin Min High School. Given that even his children were educated at Sin Min, it is no surprise that his love for the school has deep roots. Until today, Mr Chew continues to serve in Xinmin Secondary’s School Advisory Committee as an Advisor, and visits the school regularly, especially to grace its special occasions.
+Thankfully, Sin Min’s new status as a government school revitalised the school. Mr Chew continued to lead the school and became the longest serving Principal of Sin Min High School. Given that even his children were educated at Sin Min, it is no surprise that his love for the school had deep roots.
 
   
 
@@ -57,7 +58,7 @@ In 1986, Mr Teo Ting Kok assumed the role of Principal and worked to raise the l
 Chapter 4: The turning point of Xinmin’s history
 ------------------------------------------------
 
-In 1991, when Mr Goh was asked to lead a school, he requested to be posted to his alma mater, Xinmin Secondary School. His decision touched the hearts of many teachers.
+In 1991, when Mr Goh Tong Pak was asked to lead a school, he requested to be posted to his alma mater, Xinmin Secondary School. His decision touched the hearts of many teachers.
 
   
 
@@ -90,11 +91,11 @@ During Mrs Low’s leadership, Xinmin achieved many awards, including the School
 
   
 
-In 2006, Mdm Liew Wei Li (formerly Special Assistant to Director-General of Education) took over the helm of leadership from Mrs Low as the Principal of Xinmin Secondary School. Her direction was for Xinmin to be a Finishing School for Leaders, who, equipped with the necessary Attitudes, Skills and Knowledge (ASK) become change leaders with a heart. Together with the staff, she focused on quality teaching and learning, and created opportunities for the students to excel holistically.
+In 2006, Mdm Liew Wei Li (formerly Special Assistant to Director-General of Education) took over the helm of leadership from Mrs Low as the Principal of Xinmin Secondary School. Her direction was for Xinmin to be a Finishing School for Leaders, who, equipped with the necessary Attitudes, Skills and Knowledge (ASK), become change leaders with a heart. Together with the staff, she focused on quality teaching and learning, and created opportunities for the students to excel holistically.
 
   
 
-In was during Mdm Liew’s tenure that Xinmin organised the 1st Secondary Schools Mother Tongue Teachers and Students Symposium in 2008, and the 1st Science and Technology Symposium in 2009. She also initiated the building of the Performing Arts Centre to recognise the talents in the performing arts groups.
+It was during Mdm Liew’s tenure that Xinmin organised the 1st Secondary Schools Mother Tongue Teachers and Students Symposium in 2008, and the 1st Science and Technology Symposium in 2009. She also initiated the building of the Creative Arts Complex to recognise the talents in the performing arts groups.
 
   
 
@@ -161,7 +162,7 @@ This was also the time when initiatives from the Ministry were introduced to all
 
   
 
-新民中学转为政府学校，使它重新焕发了活力。周校长继续任职，并成为新民校史上任职时间最长的校长。周校长的子女也在新民求学，显然他对学校的爱已深深植根其中。直至今日，周炳麟先生仍在新民中学咨询委员会继续为校服务，他常回校视察，尤其当学校的重大场合时，更会应邀出席。
+新民中学转为政府学校，使它重新焕发了活力。周校长继续任职，并成为新民校史上任职时间最长的校长。周校长的子女也在新民求学，显然他对学校的爱已深深植根其中.
 
   
 
@@ -191,7 +192,7 @@ This was also the time when initiatives from the Ministry were introduced to all
 
   
 
-1999年，新民中学的全国排名跃升至第31名，2001年，新民中学成为本地第一所自治的邻里中学，并获得新加坡素质局的褒扬，跃升为一所高素质的学府。学校设计了新的校服，校训由“勤俭敏慎”改为“坚韧不拔，殷勤为众”，李校长还制定了《新民学生信约》，由此揭开了新民中学新纪元的序幕
+1999年，新民中学的全国排名跃升至第31名，2001年，新民中学成为本地第一所自治的邻里中学，并获得新加坡素质局的褒扬，跃升为一所高素质的学府。学校设计了新的校服，校训由“勤俭敏慎”改为“坚韧不拔，殷勤为众”，李校长还制定了《新民学生信约》，由此揭开了新民中学新纪元的序幕。
 
   
 
@@ -203,11 +204,11 @@ This was also the time when initiatives from the Ministry were introduced to all
 
   
 
-2007年，刘慧丽女士（前教育部提学司特别助理）接棒沈爱娜女士，继任校长。她致力于将新民打造成一所培养领袖的精修学府，学生除了应具备一名领袖必需的处事态度、工作能力与领域知识，还应有一颗时刻关怀的心。偕同全校教职工，刘校长孜孜以求高素质的教与学，并为学生追求全面卓越的发展创造机会
+2007年，刘慧丽女士（前教育部提学司特别助理）接棒沈爱娜女士，继任校长。她致力于将新民打造成一所培养领袖的精修学府，学生除了应具备一名领袖必需的处事态度、工作能力与领域知识，还应有一颗时刻关怀的心。偕同全校教职工，刘校长孜孜以求高素质的教与学，并为学生追求全面卓越的发展创造机会。
 
   
 
-在刘校长任期内，新民中学母语部门在2008年组织筹备了第一届“中学华文与马来文研讨会”；2009年，新民中学科学部门组织筹备了第一届“科技研讨会”。为了使表演艺术团体充分发挥才能，她还发起了建设表演艺术中心的项目。
+在刘校长任期内，新民中学母语部门在2008年组织筹备了第一届“中学华文与马来文研讨会”；2009年，新民中学科学部门组织筹备了第一届“科技研讨会”。为了使表演艺术团体充分发挥才能，她还发起了建设创意艺术中心的项目。
 
 
 第六章：通往结合科技的全面教育之路
@@ -220,6 +221,6 @@ This was also the time when initiatives from the Ministry were introduced to all
 
 第七章：动荡时期展现坚韧和团结，共同开启教育新篇章。
 -------------
-2020年至2021年，由于新冠病毒造成了严重冲击，这两年对于新加坡和全球来说是最具挑战的时期之一，。对新民中学而言，以往的各种活动和学校流程不得不停办或改变形式。为了确保学生的安全，新民不得不停止实体授课，转而在线上教学。大型活动、年级营会、课程辅助活动和学习之旅等都被无限期暂停。作为学校，新民尽力为学生提供优质的教育和有意义的学习体验。在陈校长的领导下，我们首次在线上举行周会。老师们群策群力，互相支持，学习如何在家中进行教学和评估。当学校重新开放时，学校领导层反复认真考虑如何确保学生安全返校。Grab@Xinmin计划应运而生，，学生可以上网向食堂摊主订餐，并由班级领袖将食物送到教室里。
+2020年至2021年，由于新冠病毒造成了严重冲击，这两年对于新加坡和全球来说是最具挑战的时期之一。对新民中学而言，以往的各种活动和学校流程不得不停办或改变形式。为了确保学生的安全，新民不得不停止实体授课，转而在线上教学。大型活动、年级营会、课程辅助活动和学习之旅等都被无限期暂停。作为学校，新民尽力为学生提供优质的教育和有意义的学习体验。在陈校长的领导下，我们首次在线上举行周会。老师们群策群力，互相支持，学习如何在家中进行教学和评估。当学校重新开放时，学校领导层反复认真考虑如何确保学生安全返校。Grab@Xinmin计划应运而生，学生可以上网向食堂摊主订餐，并由班级领袖将食物送到教室里。
 
-同时，鉴于疫情造成的阻断影响，以及在应对病毒时积累的经验，教育部推出了一系列举措，包括全国数码通识能力计划、混合式学习和全面科目编班计划。陈校长带领学校各个团队为了帮助教职工应对这些新举措，尤其在检讨教职员的培训方向以满足迫切需要方面，做好准备。。2022年，随着冠病疫情限制的解除，学校迎来了恢复了许多活动；重启越野赛跑的活动，并开展了一些新的活动，例如使用虚拟现实技术进行的虚拟学习之旅等。2023年，在世界与我国都开启了与冠病共存的新常态这一新篇章时，陈国强校长将领导全校的重任交给了陈顺惠先生。
+同时，鉴于疫情造成的阻断影响，以及在应对病毒时积累的经验，教育部推出了一系列举措，包括全国数码通识能力计划、混合式学习和全面科目编班计划。陈校长带领学校各个团队为了帮助教职工应对这些新举措，尤其在检讨教职员的培训方向以满足迫切需要方面，做好准备。2022年，随着冠病疫情限制的解除，学校迎来了恢复了许多活动；重启越野赛跑的活动，并开展了一些新的活动，例如使用虚拟现实技术进行的虚拟学习之旅等。2023年，在世界与我国都开启了与冠病共存的新常态这一新篇章时，陈国强校长将领导全校的重任交给了陈顺惠先生。

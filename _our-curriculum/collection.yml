@@ -3,6 +3,12 @@ collections:
     output: true
     order:
       - The Xinmin Learning Experience.md
+      - Talent Development Approach.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Coding@Xinmin.md
+      - Signature Programmes/RefleXions@Xinmin.md
+      - Signature Programmes/Xinmin Academy of Leaders.md
+      - Signature Programmes/XinminCares.md
       - Academic Learning/.keep
       - Academic Learning/Academic Learning.md
       - Academic Learning/Lower Secondary Programme  (For Sec 1 and 2 AY2023).md
@@ -20,3 +26,32 @@ collections:
       - Academic Departments/Physical Education.md
       - Academic Departments/Science.md
       - Academic Departments/Technology and Business.md
+      - Student Development/.keep
+      - Student Development/Level Themes.md
+      - Student Development/CCE Overview.md
+      - Student Development/CyberWellness and Mental Health.md
+      - Student Development/Education and Career Guidance.md
+      - Student Development/National Education.md
+      - Student Development/Overseas Service Learning.md
+      - Student Development/Xinmin Change Initiator.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/CCA Information.md
+      - Co Curricular Activities/Art Club.md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Boys' Brigade.md
+      - Co Curricular Activities/Chinese Dance.md
+      - Co Curricular Activities/Choir.md
+      - Co Curricular Activities/Cross Country.md
+      - Co Curricular Activities/Debate.md
+      - Co Curricular Activities/English Drama.md
+      - Co Curricular Activities/Floorball.md
+      - Co Curricular Activities/Girls' Brigade.md
+      - Co Curricular Activities/Guzheng Ensemble.md
+      - Co Curricular Activities/Media Club.md
+      - Co Curricular Activities/National Cadet Corps.md
+      - Co Curricular Activities/Outdoor Adventure Club.md
+      - Co Curricular Activities/Rockclimbing.md
+      - Co Curricular Activities/Shooting.md
+      - Co Curricular Activities/St John Brigade.md
+      - Co Curricular Activities/Symphonic Band.md
+      - Co Curricular Activities/Volleyball.md
