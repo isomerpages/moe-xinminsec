@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Xinmin Change Initiator.md
       - CCE Overview.md
       - Level Themes.md
       - CCE/.keep
