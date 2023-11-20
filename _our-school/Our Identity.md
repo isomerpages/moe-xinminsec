@@ -7,9 +7,8 @@ variant: markdown
 Our School Motto
 ----------------
 
-
-坚韧不拔，殷勤为众<br>
-Steadfast in Spirit, Diligence in Service
+Steadfast in Spirit, Diligence in Service <br>
+坚韧不拔，殷勤为众 
 
 Our School Crest
 ----------------
