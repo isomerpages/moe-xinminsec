@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/Symphonic Band.md
       - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Cross Country.md
       - Co Curricular Activities/Floorball.md
