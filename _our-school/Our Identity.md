@@ -4,7 +4,7 @@ permalink: /about-us/school-identity/
 description: ""
 variant: markdown
 ---
-Our School Motto
+Our School Motto 校训
 ----------------
 
 Steadfast in Spirit, Diligence in Service <br>
