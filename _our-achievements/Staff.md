@@ -2,10 +2,11 @@
 title: Staff
 permalink: /news/achievements/staff/
 description: ""
+variant: markdown
 ---
 #### Staff Achievements
  
- **a) National Day Awards 2023**
+ **(a) National Awards**
 
 **<u>National Day Awards</u>**<br>
 The Singapore National Day Awards are a means of recognizing various forms of merit and service to Singapore. <br>
