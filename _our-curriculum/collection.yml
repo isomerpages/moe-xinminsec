@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development/Level Themes.md
       - Student Development/CCE Overview.md
       - Student Development/CyberWellness and Mental Health.md
       - Student Development/Education and Career Guidance.md
