@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Level Themes.md
-      - CCE/CCE Overview.md
       - CCE/.keep
       - CCE/CyberWellness and Mental Health.md
       - CCE/Education and Career Guidance.md
