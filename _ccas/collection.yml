@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - CCA Information.md
       - Clubs & Societies/.keep
       - Performing Arts/.keep
       - Sports & Games/.keep
