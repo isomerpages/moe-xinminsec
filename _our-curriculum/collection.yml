@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Co Curricular Activities/Boys' Brigade.md
       - Co Curricular Activities/Girls' Brigade.md
       - Co Curricular Activities/National Cadet Corps.md
       - Co Curricular Activities/St John Brigade.md
