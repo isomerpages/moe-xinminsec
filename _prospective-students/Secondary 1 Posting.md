@@ -4,7 +4,7 @@ permalink: /prospective-students/secondary-one-posting/
 description: ""
 variant: markdown
 ---
-Procedures1
+Procedures
 -------------------------
 
 Students who have taken the PSLE are posted into schools via the Secondary One (Sec 1) Posting Exercise. School admissions are based on merit and choice of secondary school made by the individual student. Please access the [MOE website](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer) for further information and procedures.
