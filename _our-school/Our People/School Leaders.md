@@ -169,7 +169,7 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_gentleman.png" alt="Wu Danping.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/School_Leaders/Goh_Kar_Whee.jpg" alt="Wu Danping.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -211,7 +211,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Management
+          Department: School Leaders
         </div>
         <div style="margin: 0px;
             outline: 0px;

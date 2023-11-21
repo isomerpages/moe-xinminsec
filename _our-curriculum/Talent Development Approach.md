@@ -23,7 +23,7 @@ The talent development opportunities we provide in Xinmin could broadly be organ
 
 The different opportunities within each domain are further structured into four levels in accordance to Treffinger’s Levels of Service approach for talent development. Broadly speaking, Levels I and II programmes are broad-based and highly-inclusive, while Levels III and IV programmes place greater emphasis on catering to the needs and interests of smaller groups of students.
 
-The following table provides a description of each of the levels:
+Our goal is for every Xinmin student can reach at least Level 2 in all five domains when he/she graduates. The following table provides examples of the talent development opportunities available for different domains and levels:
 ![](/images/Talent%20Development/talent_development.png)
   
 
