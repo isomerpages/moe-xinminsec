@@ -20,4 +20,4 @@ As vacancies are limited, only successful candidates will be notified by the sch
 
 Direct School Admissions (DSA)
 -------------------------
-Students who would like to gain admission to the school on the basis of other talents and achievements, e.g. those in sports or arts, already have the option of an alternative admissions pathway in the form of the Direct School Admissions (DSA) Exercise which was conducted before the PSLE. More information on DSA can be found here.
+Students who would like to gain admission to the school on the basis of other talents and achievements, e.g. those in sports or arts, already have the option of an alternative admissions pathway in the form of the Direct School Admissions (DSA) Exercise which was conducted before the PSLE. More information on DSA can be found [here](https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/).
