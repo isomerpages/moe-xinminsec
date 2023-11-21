@@ -2,6 +2,7 @@
 title: The Xinmin Learning Experience
 permalink: /our-curriculum/the-xinmin-learning-experience/
 description: ""
+variant: markdown
 ---
 Our Learning Experience Framework
 ---------------------------------
@@ -9,7 +10,7 @@ Our Learning Experience Framework
 ![](/images/Lower%20Sec%20Academic%20Learning/learning%20experience%20framework2.png)
 
 
-The components of the framework are described as follows
+The components of the framework are described as follows:
 
 At the heart of the Xinmin Learning Experience Framework is our school vision –&nbsp;**_Leading Hearts, Leading Minds_**. This provides the anchor to remind us that all that we do in the school is aimed at achieving our vision. One should note the ‘R’ in our school vision has a ‘3’ included in superscript (i.e., R3). The R3&nbsp;represents our school values, namely:
 
