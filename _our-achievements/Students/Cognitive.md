@@ -148,3 +148,464 @@ third_nav_title: Students
     </tr>
   </tbody>
 </table>
+
+
+ <br>
+
+<table style="border-collapse: collapse;
+    border: none;
+    mso-border-alt: solid windowtext 0.5pt;
+    mso-yfti-tbllook: 1184;
+    mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid">
+  <tbody>
+    <tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+      <td style="width: 58.25pt;
+          border: solid windowtext 1pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="78">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <b><span style="font-family: 'Arial', sans-serif">Year</span></b>
+        </p>
+      </td>
+      <td style="width: 306pt;
+          border: solid windowtext 1pt;
+          border-left: none;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <b><span style="font-family: 'Arial', sans-serif">Competition</span></b>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border: solid windowtext 1pt;
+          border-left: none;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <b><span style="font-family: 'Arial', sans-serif">Achievement</span></b>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 1">
+      <td style="width: 58.25pt;
+          border: solid windowtext 1pt;
+          border-top: none;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" rowspan="10" width="78">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif">2023</span>
+        </p>
+      </td>
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">2023 North Zone Schools Chinese Speech Competition</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">Champion</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 2">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">ORION X: Decrypted Ngee Ann Polytechnic's School of InfoComm
+            Technology</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">Champion</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 3">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">TP x VJC Data Science Hackathon</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">Champion</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 4">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">ACJC Speech Arts (Comic Monologue</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">1<sup>st</sup> </span><span style="font-family: 'Arial', sans-serif; mso-ansi-language: EN-SG" lang="EN-SG">runner-up</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 5">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif; mso-ansi-language: EN-SG" lang="EN-SG">IMDA National Youth Tech Championship 2023</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif; mso-ansi-language: EN-SG" lang="EN-SG">1<sup>st</sup> runner-up</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 6">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif">Mid-Year Debate Invitationals 2023</span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif; mso-ansi-language: EN-SG" lang="EN-SG">1<sup>st</sup> runner-up</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 7">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif; mso-ansi-language: EN-SG" lang="EN-SG">SIT-VJC INSPIRE Challenge</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif; mso-ansi-language: EN-SG" lang="EN-SG">1<sup>st</sup> runner-up</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 8">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">Istana Heritage Challenge</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">2<sup>nd</sup> </span><span style="font-family: 'Arial', sans-serif; mso-ansi-language: EN-SG" lang="EN-SG">runner-up</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 9">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">EBS Digital Tic-Tac-Toe Competition</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">Top 3</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+    <tr style="mso-yfti-irow: 10; mso-yfti-lastrow: yes">
+      <td style="width: 306pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="408">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">Singapore Secondary Schools Debating Championships 2023</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+      <td style="width: 103.25pt;
+          border-top: none;
+          border-left: none;
+          border-bottom: solid windowtext 1pt;
+          border-right: solid windowtext 1pt;
+          mso-border-top-alt: solid windowtext 0.5pt;
+          mso-border-left-alt: solid windowtext 0.5pt;
+          mso-border-alt: solid windowtext 0.5pt;
+          padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="138">
+        <p style="margin-bottom: 0cm;
+            text-align: justify;
+            text-justify: inter-ideograph;
+            line-height: normal;" class="MsoNormal">
+          <span style="font-family: 'Arial', sans-serif;
+              mso-fareast-font-family: 'Times New Roman';
+              color: black;
+              mso-font-kerning: 0pt;
+              mso-ligatures: none;">Quarterfinalist</span><span style="font-family: 'Arial', sans-serif"></span>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
