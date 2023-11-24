@@ -10,7 +10,7 @@ variant: markdown
 
 **<u>National Day Awards</u>**<br>
 The Singapore National Day Awards are a means of recognizing various forms of merit and service to Singapore. <br>
-*	The Commendation Medal: This Medal is awarded to individuals who has distinguished himself through commendable performance and conduct, or significant efficiency, competence, and devotion to duty.  
+* The Commendation Medal: This Medal is awarded to individuals who has distinguished himself through commendable performance and conduct, or significant efficiency, competence, and devotion to duty.    
 *	The Long Service Medal: This Medal is awarded to any person who is of irreproachable character and whom the President is satisfied has completed at least 25 years of service to the nation.  
 
 
@@ -133,7 +133,6 @@ The COVID-19 Resilience Medal is to recognise the substantive contributions of t
 **<u>MOE Innergy Awards</u>** <br>
 The MOE Innergy Awards are given out to recognise school-based innovations in the education service.
 
-
 **2022**
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="523" style="width:392.2pt;border-collapse:collapse;mso-yfti-tbllook:1184;
@@ -248,6 +247,64 @@ The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognizes sta
 **<u>Outstanding Contribution Awards</u>**<br>
 The Outstanding Contribution Awards are given by MOE in recognition of significant value-added contributions made by individual staff and teams in schools. 
 
+**2023**
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Award Category</span></b></p></td><td width="268" valign="top" style="width:200.7pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Awardees</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Group</span></p></td><td width="268" valign="top" style="width:200.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Staff Well-Being Committee</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Group</span></p></td><td width="268" valign="top" style="width:200.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Publicity and Publications Committee</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Group</span></p></td><td width="268" valign="top" style="width:200.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Examination Committee</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Group</span></p></td><td width="268" valign="top" style="width:200.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Executive and Administrative Staff </span></p></td></tr><tr style="mso-yfti-irow:5"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Individual</span></p></td><td width="268" valign="top" style="width:200.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Carol Chong</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Individual</span></p></td><td width="268" valign="top" style="width:200.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Kamsani Bin Palil</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td width="182" valign="top" style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Individual</span></p></td><td width="268" valign="top" style="width:200.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Ng Lee Hua</span></p></td></tr></tbody></table>
 
 **2022**
 
@@ -320,14 +377,10 @@ The Academy Awards for Professional Development are given by Academy of Singapor
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Award Category</span></b></p></td><td style="width:108.0pt;border:solid windowtext 1.0pt;
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Awardees</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:116.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><a name="_Hlk147485103"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
-  mso-themecolor:text1">Associate Award</span></a><span style="mso-ascii-font-family:
-  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black;mso-themecolor:text1"></span></p></td><td style="width:108.0pt;border-top:none;border-left:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Awardees</span></b></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:116.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Associate Award</span></p></td><td style="width:108.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
@@ -383,7 +436,41 @@ Our Schools, Our Stories" Photo &amp; Video Contest is an annual contest and exh
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Peter Ho Siang Teng</span></p></td></tr></tbody></table>
+
+**<u>EdTech Leaders Community</u>**<br>
+The EdTech Leaders Community (ELC) is an online networked learning community for Singapore EdTech leaders to share good practices and engage in conversations on leading EdTech Integration in teaching and learning. <br>
+* EdTech Champion is awarded to ELC members who champion effective use of technology in teaching and learning through providing thought leadership and imparting knowledge and insights in webinars and Ask Me Anything About. 
+*	EdTech Explorer is awarded to ELC members who contribute to ELC through participating actively in community discussions. 
 	
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Award Category</span></b></p></td><td style="width:128.7pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Awardees</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">EdTech Champion Badge </span></p></td><td style="width:128.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Latifah Bte Abdul Latiff</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">EdTech Champion Badge</span></p></td><td style="width:128.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Lee Foo Yong  </span></p></td></tr>
+	<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">EdTech Explorer Badge</span></p></td><td style="width:128.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Lee Foo Yong  </span></p></td></tr></tbody></table>
 	
 **<u>Singapore Learning Designers Circle Badges</u>**<br>
 The Singapore Learning Designers Circle (SgLDC) is an online networked learning community to provide educators in Singapore a safe space to collectively inquire into the use of technology in education
