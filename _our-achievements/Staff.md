@@ -133,7 +133,6 @@ The COVID-19 Resilience Medal is to recognise the substantive contributions of t
 **<u>MOE Innergy Awards</u>** <br>
 The MOE Innergy Awards are given out to recognise school-based innovations in the education service.
 
-
 **2022**
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="523" style="width:392.2pt;border-collapse:collapse;mso-yfti-tbllook:1184;
