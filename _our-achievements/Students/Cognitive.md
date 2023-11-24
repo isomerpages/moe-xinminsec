@@ -42,7 +42,7 @@ third_nav_title: Students
         margin: 0px;
         outline: 0px;
         padding: 0px;">
-      <td width="78" style="box-sizing: inherit;
+      <td style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
@@ -50,7 +50,7 @@ third_nav_title: Students
           border: 1px solid #aaaaaa;
           margin: 0px;
           outline: 0px;
-          width: 108px;">
+          width: 106px;">
         <p style="box-sizing: inherit;
             font-family: Helvetica, sans-serif;
             margin: 0px 0px 10px;
@@ -70,7 +70,7 @@ third_nav_title: Students
           </strong>
         </p>
       </td>
-      <td width="174" style="box-sizing: inherit;
+      <td style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
@@ -78,7 +78,7 @@ third_nav_title: Students
           border: 1px solid #aaaaaa;
           margin: 0px;
           outline: 0px;
-          width: 235px;">
+          width: 412.234px;">
         <p style="box-sizing: inherit;
             font-family: Helvetica, sans-serif;
             margin: 0px 0px 10px;
@@ -98,7 +98,7 @@ third_nav_title: Students
           </strong>
         </p>
       </td>
-      <td width="372" style="box-sizing: inherit;
+      <td style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
@@ -106,7 +106,7 @@ third_nav_title: Students
           border: 1px solid #aaaaaa;
           margin: 0px;
           outline: 0px;
-          width: 496px;">
+          width: 303.766px;">
         <p style="box-sizing: inherit;
             font-family: Helvetica, sans-serif;
             margin: 0px 0px 10px;
@@ -132,14 +132,87 @@ third_nav_title: Students
         margin: 0px;
         outline: 0px;
         padding: 0px;">
-      <td width="78" style="box-sizing: inherit;
+      <td rowspan="10" style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
           vertical-align: top;
           border: 1px solid #aaaaaa;
           margin: 0px;
-          outline: 0px;">
+          outline: 0px;
+          width: 106px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
+        </p>
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
+        </p>
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
+        </p>
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
+        </p>
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
+        </p>
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
+        </p>
         <p style="box-sizing: inherit;
             font-family: Helvetica, sans-serif;
             margin: 0px 0px 10px;
@@ -152,15 +225,6 @@ third_nav_title: Students
             text-align: left;">
           2023
         </p>
-      </td>
-      <td width="174" style="box-sizing: inherit;
-          font-family: Lato, sans-serif;
-          padding: 2px;
-          text-align: center;
-          vertical-align: top;
-          border: 1px solid #aaaaaa;
-          margin: 0px;
-          outline: 0px;">
         <p style="box-sizing: inherit;
             font-family: Helvetica, sans-serif;
             margin: 0px 0px 10px;
@@ -171,17 +235,42 @@ third_nav_title: Students
             color: #000000;
             font-weight: 400;
             text-align: left;">
-          Singapore Youth Festival Arts Presentation
+          &nbsp;
+        </p>
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
+        </p>
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          &nbsp;
         </p>
       </td>
-      <td width="372" style="box-sizing: inherit;
+      <td style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
           vertical-align: top;
           border: 1px solid #aaaaaa;
           margin: 0px;
-          outline: 0px;">
+          outline: 0px;
+          width: 412.234px;">
         <p style="box-sizing: inherit;
             font-family: Helvetica, sans-serif;
             margin: 0px 0px 10px;
@@ -192,7 +281,29 @@ third_nav_title: Students
             color: #000000;
             font-weight: 400;
             text-align: left;">
-          Chinese Dance - Distinction
+          2023 North Zone Schools Chinese Speech Competition
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Champion
         </p>
       </td>
     </tr>
@@ -201,40 +312,455 @@ third_nav_title: Students
         margin: 0px;
         outline: 0px;
         padding: 0px;">
-      <td width="78" style="box-sizing: inherit;
+      <td style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
           vertical-align: top;
           border: 1px solid #aaaaaa;
           margin: 0px;
-          outline: 0px;">
-        &nbsp;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          ORION X: Decrypted Ngee Ann Polytechnic's School of InfoComm
+          Technology
+        </p>
       </td>
-      <td width="174" style="box-sizing: inherit;
+      <td style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
           vertical-align: top;
           border: 1px solid #aaaaaa;
           margin: 0px;
-          outline: 0px;">
-        &nbsp;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Champion
+        </p>
       </td>
-      <td width="372" style="box-sizing: inherit;
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
           font-family: Lato, sans-serif;
           padding: 2px;
           text-align: center;
           vertical-align: top;
           border: 1px solid #aaaaaa;
           margin: 0px;
-          outline: 0px;">
-        &nbsp;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          TP x VJC Data Science Hackathon
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Champion
+        </p>
+      </td>
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          ACJC Speech Arts (Comic Monologue
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          1st runner-up
+        </p>
+      </td>
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          IMDA National Youth Tech Championship 2023
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          1st runner-up
+        </p>
+      </td>
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Mid-Year Debate Invitationals 2023
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          1st runner-up
+        </p>
+      </td>
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          SIT-VJC INSPIRE Challenge
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          1st runner-up
+        </p>
+      </td>
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Istana Heritage Challenge
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          2nd&nbsp;runner-up
+        </p>
+      </td>
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          EBS Digital Tic-Tac-Toe Competition
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Top 3
+        </p>
+      </td>
+    </tr>
+    <tr style="box-sizing: inherit;
+        font-family: Lato, sans-serif;
+        margin: 0px;
+        outline: 0px;
+        padding: 0px;">
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 412.234px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Singapore Secondary Schools Debating Championships 2023
+        </p>
+      </td>
+      <td style="box-sizing: inherit;
+          font-family: Lato, sans-serif;
+          padding: 2px;
+          text-align: center;
+          vertical-align: top;
+          border: 1px solid #aaaaaa;
+          margin: 0px;
+          outline: 0px;
+          width: 303.766px;">
+        <p style="box-sizing: inherit;
+            font-family: Helvetica, sans-serif;
+            margin: 0px 0px 10px;
+            padding: 0px;
+            font-size: 17px;
+            line-height: 24.99px;
+            outline: 0px;
+            color: #000000;
+            font-weight: 400;
+            text-align: left;">
+          Quarterfinalist
+        </p>
       </td>
     </tr>
   </tbody>
 </table>
-
+<br>
 <table style="box-sizing: inherit;
     font-family: Helvetica, sans-serif;
     border-collapse: collapse;
