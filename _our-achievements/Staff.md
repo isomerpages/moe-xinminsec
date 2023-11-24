@@ -377,14 +377,10 @@ The Academy Awards for Professional Development are given by Academy of Singapor
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Award Category</span></b></p></td><td style="width:108.0pt;border:solid windowtext 1.0pt;
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
-  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Awardees</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:116.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><a name="_Hlk147485103"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:
-  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
-  mso-themecolor:text1">Associate Award</span></a><span style="mso-ascii-font-family:
-  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:black;mso-themecolor:text1"></span></p></td><td style="width:108.0pt;border-top:none;border-left:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Awardees</span></b></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:116.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="155"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Associate Award</span></p></td><td style="width:108.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="144"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
