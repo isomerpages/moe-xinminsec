@@ -288,6 +288,61 @@ At this point, students can take these subjects at MDL if they perform well for 
 	
 **<u>Secondary 1 End-of-Year</u>**<br>
 At this point, students can take these subjects at MDL if they perform well for their WAs and End-of-Year (EOY) Examination.
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:161.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="216"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#4472C4;
+  mso-themecolor:accent1;mso-font-kerning:0pt;mso-ligatures:none">Subject</span></b></p></td><td style="width:171.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="228"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#4472C4;
+  mso-themecolor:accent1;mso-font-kerning:0pt;mso-ligatures:none">Performance at EOY Examination</span></b></p></td><td style="width:134.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="180"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#4472C4;
+  mso-themecolor:accent1;mso-font-kerning:0pt;mso-ligatures:none">Level at which subject can be taken</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:16.5pt"><td style="width:161.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="216"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">English</span></p></td><td style="width:171.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" rowspan="5" width="228"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">Score for subject *overall ≥ 75%</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><i><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">*Subject overall comprises all WAs (40%) and EOY Examination (60%)</span></i></p></td><td style="width:134.75pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" rowspan="5" width="180"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">G3 [if current level is G2]</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">G2 [if current level is G1]</span></p></td></tr><tr style="mso-yfti-irow:2;height:16.5pt"><td style="width:161.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="216"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">Mother Tongue Languages (MTL)</span></p></td></tr><tr style="mso-yfti-irow:3;height:16.5pt"><td style="width:161.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="216"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">Mathematics</span></p></td></tr><tr style="mso-yfti-irow:4;height:16.5pt"><td style="width:161.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="216"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">Science</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:16.5pt"><td style="width:161.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:16.5pt" valign="top" width="216"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><i><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  mso-bidi-theme-font:minor-latin;color:#4472C4;mso-themecolor:accent1;
+  mso-font-kerning:0pt;mso-ligatures:none">*Humanities – History/Geography/Literature</span></i></p></td></tr></tbody></table>
+
+_\*Note: From 2024 onwards, students must at least offer G1 Humanities. G2 and G3 Humanities will be offered to all eligible Secondary 1 students ONLY at this point. There is no cap on the number of subjects students can take at MDL._
 ### Secondary 2 students (In Academic Year 2025)
 * The lower secondary programme spans over 2 years so students will continue the same set of subjects taken in Secondary 1. 
 
