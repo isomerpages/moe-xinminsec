@@ -3,7 +3,7 @@ title: Lower Secondary Programme (For Sec 1 AY2024)
 permalink: /our-curriculum/academic-learning/lower-sec-programme-2024/
 description: ""
 third_nav_title: Academic Learning
-variant: tiptap
+variant: markdown
 ---
 ### Lower Secondary Programme
 
@@ -233,7 +233,7 @@ To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil and Non-T
 
 Note: Students taking Tamil or NTIL will be taking lessons at designated schools or language centres, and not in Xinmin Secondary School.
 
-Beyond the start of Secondary 1, students may offer these subjects at more demanding level (MDL) based on their performance in school, as well as by demonstrating positive attitude towards learning.
+Beyond the start of Secondary 1, students may offer these subjects at more demanding level (MDL) after mid-year or end-of-year assessments in Secondary 1, based on their academic performance in school, as well as by demonstrating positive attitude towards learning. 
 
 ### Secondary 2 students (In Academic Year 2025)
 * The lower secondary programme spans over 2 years so students will continue the same set of subjects taken in Secondary 1. 
