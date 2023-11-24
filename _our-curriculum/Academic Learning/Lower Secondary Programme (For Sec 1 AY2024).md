@@ -343,6 +343,9 @@ At this point, students can take these subjects at MDL if they perform well for 
   mso-font-kerning:0pt;mso-ligatures:none">*Humanities – History/Geography/Literature</span></i></p></td></tr></tbody></table>
 
 _\*Note: From 2024 onwards, students must at least offer G1 Humanities. G2 and G3 Humanities will be offered to all eligible Secondary 1 students ONLY at this point. There is no cap on the number of subjects students can take at MDL._
+
+For more details on the lower secondary curriculum 2024, you may also refer to [MOE’s Full SBB microsite](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html).
+
 ### Secondary 2 students (In Academic Year 2025)
 * The lower secondary programme spans over 2 years so students will continue the same set of subjects taken in Secondary 1. 
 
