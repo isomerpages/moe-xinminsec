@@ -10,7 +10,7 @@ variant: markdown
 
 **<u>National Day Awards</u>**<br>
 The Singapore National Day Awards are a means of recognizing various forms of merit and service to Singapore. <br>
-*	The Commendation Medal: This Medal is awarded to individuals who has distinguished himself through commendable performance and conduct, or significant efficiency, competence, and devotion to duty.  
+* The Commendation Medal: This Medal is awarded to individuals who has distinguished himself through commendable performance and conduct, or significant efficiency, competence, and devotion to duty.    
 *	The Long Service Medal: This Medal is awarded to any person who is of irreproachable character and whom the President is satisfied has completed at least 25 years of service to the nation.  
 
 
