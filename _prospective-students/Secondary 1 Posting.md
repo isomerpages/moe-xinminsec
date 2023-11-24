@@ -16,6 +16,6 @@ Admissions through the Appeal Exercise will be based on objective and transparen
 For appeal for school transfer to Xinmin Secondary after Secondary 1 Posting Exercise, you may complete the [Secondary 1 Appeal form](https://form.gov.sg/655ef39de45d020012b44904) and submit it by **Tuesday 26 December 2023**. Late application will not be considered. As vacancies are limited, only successful candidates will be notified by the school.
 
 
-Direct School Admission (DSA)
+<!--Direct School Admission (DSA)
 -------------------------
-Students who would like to gain admission to the school on the basis of other talents and achievements, e.g. those in sports or arts, already have the option of an alternative admissions pathway in the form of the Direct School Admissions (DSA) Exercise which was conducted before the PSLE. More information on DSA can be found [here](https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/).
+Students who would like to gain admission to the school on the basis of other talents and achievements, e.g. those in sports or arts, already have the option of an alternative admissions pathway in the form of the Direct School Admissions (DSA) Exercise which was conducted before the PSLE. More information on DSA can be found [here](https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/).-->
