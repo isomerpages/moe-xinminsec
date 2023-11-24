@@ -440,7 +440,11 @@ Our Schools, Our Stories" Photo &amp; Video Contest is an annual contest and exh
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
   mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Peter Ho Siang Teng</span></p></td></tr></tbody></table>
-	
+
+**<u>EdTech Leaders Community</u>**<br>
+The EdTech Leaders Community (ELC) is an online networked learning community for Singapore EdTech leaders to share good practices and engage in conversations on leading EdTech Integration in teaching and learning. <br>
+* EdTech Champion is awarded to ELC members who champion effective use of technology in teaching and learning through providing thought leadership and imparting knowledge and insights in webinars and Ask Me Anything About. 
+*	EdTech Explorer is awarded to ELC members who contribute to ELC through participating actively in community discussions. 
 	
 **<u>Singapore Learning Designers Circle Badges</u>**<br>
 The Singapore Learning Designers Circle (SgLDC) is an online networked learning community to provide educators in Singapore a safe space to collectively inquire into the use of technology in education
