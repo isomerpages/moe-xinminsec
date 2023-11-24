@@ -446,6 +446,36 @@ The EdTech Leaders Community (ELC) is an online networked learning community for
 * EdTech Champion is awarded to ELC members who champion effective use of technology in teaching and learning through providing thought leadership and imparting knowledge and insights in webinars and Ask Me Anything About. 
 *	EdTech Explorer is awarded to ELC members who contribute to ELC through participating actively in community discussions. 
 	
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Award Category</span></b></p></td><td style="width:128.7pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><b><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Awardees</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">EdTech Champion Badge </span></p></td><td style="width:128.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Ms Latifah Bte Abdul Latiff</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">EdTech Champion Badge</span></p></td><td style="width:128.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Lee Foo Yong  </span></p></td></tr>
+	<tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:136.3pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="182"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">EdTech Explorer Badge</span></p></td><td style="width:128.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="172"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-themecolor:text1">Mr Lee Foo Yong  </span></p></td></tr></tbody></table>
+	
 **<u>Singapore Learning Designers Circle Badges</u>**<br>
 The Singapore Learning Designers Circle (SgLDC) is an online networked learning community to provide educators in Singapore a safe space to collectively inquire into the use of technology in education
 
