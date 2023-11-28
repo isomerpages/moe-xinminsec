@@ -1032,7 +1032,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 117px;
-            height: 143px;" class="ive_eobj_left" alt="Rajoo Tamilmanni.jpg" src="/images/EAS/Jenny_soh1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 143px;" class="ive_eobj_left" alt="Rajoo Tamilmanni.jpg" src="/images/EAS/Jenny_soh2.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
