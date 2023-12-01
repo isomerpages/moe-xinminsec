@@ -241,8 +241,8 @@ variant: markdown
             border: none;
             max-width: 100%;
             float: left;
-            width: 114px;
-            height: 144px;" class="ive_eobj_left" alt="Tan Chwee Choo.jpg" src="/images/EAS/Qabeer2.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            width: 110px;
+            height: 140px;" class="ive_eobj_left" alt="Tan Chwee Choo.jpg" src="/images/EAS/Qabeer2.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
