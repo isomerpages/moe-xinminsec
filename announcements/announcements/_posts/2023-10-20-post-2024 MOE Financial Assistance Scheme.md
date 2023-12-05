@@ -50,7 +50,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Picture1.jpeg" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:40%;">  
+
+<img src="/images/MOE%20FAS/moe_fas_2.png" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:40%;">  
 <p style="text-align:center;"><a href="https://go.gov.sg/s1-moefas">https://go.gov.sg/s1-moefas</a></p>
 
 If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2024. Please contact the school at 6288 9382 to enquire on your MOE FAS auto grant status.
