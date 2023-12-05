@@ -41,7 +41,7 @@ d. family with more than 3 grandparents in the household<br>
 
 Application forms should be completed and submitted with the supporting documents by **<u>Tuesday, 12 December 2023</u>**. This is to ensure that our approved MOE FAS applications for Secondary One to receive their school uniform and textbooks before the new school term commences on Tuesday, 2 January 2024.
 
-**For year 2024 Secondary One Students**
+**For year 2024 Secondary One Students**<br>
 Application forms should be completed and submitted with the supporting documents by **Tuesday, 12noon on 26 December 2023**. This is to ensure that our approved MOE FAS applications for Secondary One to receive their school uniform and textbooks before the new school term commences on Tuesday, 2 January 2024.
 
 For MOE FAS applications approved by respective primary schools, or their siblings’ schools, please click the below link or scan the QR code to submit the approval letter for our processing.
