@@ -43,6 +43,16 @@ Application forms should be completed and submitted with the supporting document
 
 For MOE FAS applications approved by respective primary schools, or their siblings’ schools, please click the below link or scan the QR code to submit the approval letter for our processing.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Picture1.jpeg" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" style="width:40%;">  
+<p style="text-align:center;"><a href="https://go.gov.sg/s1-moefas">https://go.gov.sg/s1-moefas</a></p>
+
 If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2024. Please contact the school at 6288 9382 to enquire on your MOE FAS auto grant status.
 
 For more information on the benefits provided under MOE Financial Assistance Scheme, please refer to the attachment below for 2024 MOE FAS pamphlets.
