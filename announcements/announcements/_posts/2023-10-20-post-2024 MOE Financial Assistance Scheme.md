@@ -37,8 +37,11 @@ c. family with more than 5 unmarried children not in GGAS*<br>
 d. family with more than 3 grandparents in the household<br>
 *[GGAS : Government and Government-Aided Schools]*
 
+**For year 2024 Secondary One Students**
 
 Application forms should be completed and submitted with the supporting documents by **<u>Tuesday, 12 December 2023</u>**. This is to ensure that our approved MOE FAS applications for Secondary One to receive their school uniform and textbooks before the new school term commences on Tuesday, 2 January 2024.
+
+For MOE FAS applications approved by respective primary schools, or their siblings’ schools, please click the below link or scan the QR code to submit the approval letter for our processing.
 
 If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2024. Please contact the school at 6288 9382 to enquire on your MOE FAS auto grant status.
 
