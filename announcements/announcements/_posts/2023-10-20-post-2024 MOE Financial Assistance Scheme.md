@@ -38,7 +38,7 @@ d. family with more than 3 grandparents in the household<br>
 *[GGAS : Government and Government-Aided Schools]*
 
 
-Application forms must be completed and submitted together with the required supporting documents by **<u>Tuesday, 12 December 2023</u>**. This is to ensure that our FAS students receive their school uniform and textbooks by December 2023, before the start of the new school term on 2 January 2024.
+Application forms should be completed and submitted with the supporting documents by **<u>Tuesday, 12 December 2023</u>**. This is to ensure that our approved MOE FAS applications for Secondary One to receive their school uniform and textbooks before the new school term commences on Tuesday, 2 January 2024.
 
 If your child is currently a ComCare recipient, he/she will be auto-granted with MOE FAS for academic year 2024. Please contact the school at 6288 9382 to enquire on your MOE FAS auto grant status.
 
