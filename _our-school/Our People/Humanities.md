@@ -201,7 +201,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Senior Teacher
+          Designation: Senior Teacher - Geography
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -225,7 +225,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:teo_sze_ying@schools.gov.sg">teo_sze_ying@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:tan_sheng_ting_heid@schools.gov.sg">tan_sheng_ting_heidi@schools.gov.sg</a>
         </div>
       </td>
 		</tr>-->
