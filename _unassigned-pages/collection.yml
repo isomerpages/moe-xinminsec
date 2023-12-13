@@ -2,19 +2,19 @@ collections:
   unassigned-pages:
     output: true
     order:
-      - Our People/Counselling.md
-      - Our People/Executive & Administrative Staff.md
-      - Our People/Technology and Business.md
-      - Our People/Science.md
-      - Our People/Physical Education.md
-      - Our People/Mother Tongue Languages.md
-      - Our People/Mathematics.md
-      - Our People/Humanities.md
-      - Our People/English Language & Literature.md
       - Our People/.keep
       - Our People/School Leaders.md
       - Our People/Steering Committee.md
       - Our People/Aesthetics.md
+      - Our People/English Language & Literature.md
+      - Our People/Humanities.md
+      - Our People/Mathematics.md
+      - Our People/Mother Tongue Languages.md
+      - Our People/Physical Education.md
+      - Our People/Science.md
+      - Our People/Technology and Business.md
+      - Our People/Executive & Administrative Staff.md
+      - Our People/Counselling.md
       - Tes5.md
       - Alumni.md
       - Parent Support Group 1.md
