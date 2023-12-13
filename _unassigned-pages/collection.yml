@@ -2,6 +2,7 @@ collections:
   unassigned-pages:
     output: true
     order:
+      - Our People/Counselling.md
       - Our People/Executive & Administrative Staff.md
       - Our People/Technology and Business.md
       - Our People/Science.md
