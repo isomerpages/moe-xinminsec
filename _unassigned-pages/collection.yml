@@ -2,10 +2,10 @@ collections:
   unassigned-pages:
     output: true
     order:
-      - Our People/Aesthetics.md
-      - Our People/Steering Committee.md
-      - Our People/School Leaders.md
       - Our People/.keep
+      - Our People/School Leaders.md
+      - Our People/Steering Committee.md
+      - Our People/Aesthetics.md
       - Tes5.md
       - Alumni.md
       - Parent Support Group 1.md
