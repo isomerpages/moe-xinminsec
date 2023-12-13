@@ -2,6 +2,7 @@ collections:
   unassigned-pages:
     output: true
     order:
+      - Our People/Humanities.md
       - Our People/English Language & Literature.md
       - Our People/.keep
       - Our People/School Leaders.md
