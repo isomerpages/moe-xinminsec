@@ -2,20 +2,6 @@
 title: Secondary 1 Posting
 permalink: /prospective-students/secondary-one-posting/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Procedures
--------------------------
-
-Students who have taken the PSLE are posted into schools via the Secondary One (Sec 1) Posting Exercise. School admissions are based on merit and choice of secondary school made by the individual student. Please access the [MOE website](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer) for further information and procedures.
-
-Appeals
--------------------------
-
-Admissions through the Appeal Exercise will be based on objective and transparent measures of academic merit, i.e. PSLE results. Students are required to meet Xinmin Secondary School’s Cut-Off Point before they can be considered for the transfer. <br><br>
-For appeal for school transfer to Xinmin Secondary after Secondary 1 Posting Exercise, you may complete the [Secondary 1 Appeal form](https://form.gov.sg/655ef39de45d020012b44904) and submit it by **Tuesday 26 December 2023**. Late application will not be considered. As vacancies are limited, only successful candidates will be notified by the school.
-
-
-<!--Direct School Admission (DSA)
--------------------------
-Students who would like to gain admission to the school on the basis of other talents and achievements, e.g. those in sports or arts, already have the option of an alternative admissions pathway in the form of the Direct School Admissions (DSA) Exercise which was conducted before the PSLE. More information on DSA can be found [here](https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/).-->
+<h2>Procedures</h2><p>Students who have taken the PSLE are posted into schools via the Secondary One (Sec 1) Posting Exercise. School admissions are based on merit and choice of secondary school made by the individual student. Please access the <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a> for further information and procedures.</p><h2>Appeals</h2><p>Admissions through the Appeal Exercise will be based on objective and transparent measures of academic merit, i.e. PSLE results. Students are required to meet Xinmin Secondary School’s Cut-Off Point before they can be considered for the transfer. <br><br>For appeal for school transfer to Xinmin Secondary after Secondary 1 Posting Exercise, you may complete the <a href="https://form.gov.sg/655ef39de45d020012b44904" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Appeal form</a> and submit it by <strong>Tuesday 26 December 2023</strong>. Late application will not be considered. As vacancies are limited, only successful candidates will be notified by the school.</p>
