@@ -2,6 +2,7 @@ collections:
   unassigned-pages:
     output: true
     order:
+      - Our People/Mother Tongue Languages.md
       - Our People/Mathematics.md
       - Our People/Humanities.md
       - Our People/English Language & Literature.md
