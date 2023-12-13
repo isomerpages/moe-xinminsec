@@ -45,7 +45,7 @@ variant: tiptap
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mathematics/Department_programmes/mathematics_4b.png"></div><p>Sec 1 students applying concepts of construction and measurements to find the seat of student A.</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
+            height: 236px;" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mathematics/Department_programmes/mathematics_4b.png"></div><p>Sec 1 students applying concepts of construction and measurements to find the seat of student A.</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -53,7 +53,7 @@ variant: tiptap
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" height="auto" width="100%" alt="Math_3.jpg" src="/images/Mathematics/Department_programmes/mathematics_4c.png"></div><p>In-house S1 math trail showcasing students working in groups to solve authentic mathematical questions on coordinate system and number patterns.</p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
+            height: 236px;" height="auto" width="100%" alt="Math_3.jpg" src="/images/Mathematics/Department_programmes/mathematics_4c.png"></div><p>In-house S1 math trail showcasing students working in groups to solve authentic mathematical questions on coordinate system and number patterns</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
