@@ -2,48 +2,6 @@
 title: School Canteen Advertisement
 permalink: /all-announcements/school-canteen-ads/
 description: ""
+variant: tiptap
 ---
-#### School Canteen Advertisement
-<br>
-
-| Type of Stall | Closing Date  | Requirements |
-| -------- | -------- | -------- |
-| Chicken Rice Stall     | 14 June 2023      | Nil     |
-
-**Application Procedure**
-<br>
-1) Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
-[Application Form](/files/Announcements/School%20Canteen%20Advertisement/application%20form-%20bf7%20(2018).pdf)
-<br>
-
-2) Attached the following documents together with the application form:<br>
-* Photocopy of the NRIC (front and back)<br>
-* List of proposed menu and pricing for all items<br>
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc<br>
-
-3) Submit the completed application form and documents by closing date to the School's General Office.
-
-* Address: Xinmin Secondary School
-* Contact No: 6288 9382
-* Email: sim_yong_meng@schools.gov.sg
-* Contact Person: Mr Vincent Sim  
-
-**How to get there?**
-* Nearest MRT: Hougang MRT (NE14 line) 
-* Bus number: 25,43,43M,55,70,70A,70B,70M, 72,72A,73,73A,74,74E,88,88A,103,109A,112,116,132,147,159,159A,161,165,329,660,854,854E
-
-**Interest applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
-* Able to maintain high standard of food safety and personal hygiene.
-* Healthy and fit to operate the stall.
-
-
-**Applicants should preferably fulfil the following criteria:**
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-* Possess catering experience or experience operating in a school environment.
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
-
-
-*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
+<h4>School Canteen Advertisement</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Type of Stall</p></th><th rowspan="1" colspan="1"><p>Closing Date</p></th><th rowspan="1" colspan="1"><p>Requirements</p></th></tr><tr><td rowspan="1" colspan="1"><p>Chicken Rice Stall</p></td><td rowspan="1" colspan="1"><p>14 June 2023</p></td><td rowspan="1" colspan="1"><p>Nil</p></td></tr></tbody></table><p><strong>Application Procedure</strong> <br></p><ol><li><p>Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br><a href="/files/Announcements/School%20Canteen%20Advertisement/application%20form-%20bf7%20(2018).pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> <br></p></li><li><p>Attached the following documents together with the application form:<br></p></li></ol><ul data-tight="true" class="tight"><li><p>Photocopy of the NRIC (front and back)<br></p></li><li><p>List of proposed menu and pricing for all items<br></p></li><li><p>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc<br></p></li></ul><ol start="3" data-tight="true" class="tight"><li><p>Submit the completed application form and documents by closing date to the School's General Office.</p></li></ol><ul data-tight="true" class="tight"><li><p>Address: Xinmin Secondary School</p></li><li><p>Contact No: 6288 9382</p></li><li><p>Email: sim_yong_meng@schools.gov.sg</p></li><li><p>Contact Person: Mr Vincent Sim</p></li></ul><p><strong>How to get there?</strong></p><ul data-tight="true" class="tight"><li><p>Nearest MRT: Hougang MRT (NE14 line)</p></li><li><p>Bus number: 25,43,43M,55,70,70A,70B,70M, 72,72A,73,73A,74,74E,88,88A,103,109A,112,116,132,147,159,159A,161,165,329,660,854,854E</p></li></ul><p><strong>Interest applicants must meet the following criteria:</strong></p><ul data-tight="true" class="tight"><li><p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</p></li><li><p>Able to provide good service and quality food with prices determined in consultation with the school.</p></li><li><p>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p></li><li><p>Able to maintain high standard of food safety and personal hygiene.</p></li><li><p>Healthy and fit to operate the stall.</p></li></ul><p><strong>Applicants should preferably fulfil the following criteria:</strong></p><ul data-tight="true" class="tight"><li><p>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</p></li><li><p>Possess catering experience or experience operating in a school environment.</p></li><li><p>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</p></li></ul><p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em></p>
