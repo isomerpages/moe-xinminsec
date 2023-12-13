@@ -2,23 +2,6 @@
 title: School
 permalink: /news/achievements/school/
 description: ""
+variant: tiptap
 ---
-<p style="float:right; margin: 0 10px 0px 0">
-<img src="/images/BPA-Student-All-Round%20Development.jpeg" alt="Student-All-Round Development" style="width:120px"></p>
-<p style="text-align:justify"><strong>Student-All-Round Development</strong><br>Student-All-Round Development is something that we constantly seek to do and over the years, we have learnt some lessons and made changes to our programmes and structures to better cater to our students’ needs.</p>
-
-<br>
-
-<p style="float:right; margin: 0 10px 0px 0">
-<img src="/images/BPA-Teaching%20and%20Learning.jpeg" alt="Teaching and Learning" style="width:120px"></p>
-<p style="text-align:justify"><strong>Teaching and Learning</strong><br>
-Teaching and Learning is the core of what we do as educators and in Xinmin Secondary School we constantly look for ways to further improve the quality of Teaching and Learning.</p>
-
-<br>
-
-<p style="float:right; margin: 0 10px 0px 0">
-<img src="/images/BPA-Staff%20WellBeing.jpeg" alt="Staff WellBeing" style="width:120px"></p>
-<p style="text-align:justify">
-<strong>Staff Wellbeing</strong><br>We believe that the wellbeing of our staff is vital to our success. We ensure that they supported and appreciated for their contributions. This inspires our staff to be more productive and add to a positive overall work environment</p>
-
-<br>
+<p></p><div class="isomer-image-wrapper"><img style="width:120px" height="auto" width="100%" alt="Student-All-Round Development" src="/images/BPA-Student-All-Round%20Development.jpeg"></div><p><strong>Student-All-Round Development</strong><br>Student-All-Round Development is something that we constantly seek to do and over the years, we have learnt some lessons and made changes to our programmes and structures to better cater to our students’ needs.</p><p><br></p><p></p><div class="isomer-image-wrapper"><img style="width:120px" height="auto" width="100%" alt="Teaching and Learning" src="/images/BPA-Teaching%20and%20Learning.jpeg"></div><p><strong>Teaching and Learning</strong><br>Teaching and Learning is the core of what we do as educators and in Xinmin Secondary School we constantly look for ways to further improve the quality of Teaching and Learning.</p><p><br></p><p></p><div class="isomer-image-wrapper"><img style="width:120px" height="auto" width="100%" alt="Staff WellBeing" src="/images/BPA-Staff%20WellBeing.jpeg"></div><p><strong>Staff Wellbeing</strong><br>We believe that the wellbeing of our staff is vital to our success. We ensure that they supported and appreciated for their contributions. This inspires our staff to be more productive and add to a positive overall work environment</p><p><br></p>
