@@ -3,35 +3,6 @@ title: Academic Matters
 permalink: /resources/for-students-and-parents/academic-matters/
 description: ""
 third_nav_title: For Students and Parents
-variant: markdown
+variant: tiptap
 ---
-Schedules
-----------
-
-*   [Academic Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&ctz=Asia/Singapore)
-*   [Home Based Lesson Scheduler (Upper Sec)](https://docs.google.com/spreadsheets/d/1x1Cezpsez216UctPwE2lLGUA4oqZyoGbWNltjtOAcDs/edit?usp=sharing)
-*   [Home Based Lesson Scheduler (Lower Sec)](https://docs.google.com/spreadsheets/d/1HHoS_7IaTD-gqG91jqGgc60Ehn3MhNJgcfSlF7uHAAs/edit?usp=sharing)
-*   [School Timetable](/resources/students/timetables/school-timetable/)
-*   [Weighted Assessment Schedule](https://docs.google.com/spreadsheets/d/1S7lChpa_rMRRRJwkNGCqUNMqqJzcWTRenVWWpUSvCEc/edit#gid=1582931388)
-
-Assessment
-----------
-
-*   [Assessment Plan](/resources/students/assessment/assessment-plan/)
-*   [Criteria for Promotion](/resources/students/assessment/criteria-for-promotion/)
-*  [End Of Year Examination Topics and Formats](/resources/students/assessment/end-of-year-examination-topics-and-formats/)
-*   [Instructions to Candidates](/resources/students/assessment/instructions-to-candidates/)
-
-Booklists
---------
-*   [Booklists](/resources/students/school-resources/booklists/)
-
-
-Bookshop and Uniform Supplier
-----------
-*   [Bookshop and Uniform Supplier](/resources/students/school-resources/bookshop-and-uniform-suppliers/)
-
-
-Personal Digital Learning Programme (PDLP) 
-----------
-*   [PDLP Site](https://sites.google.com/xinminss.edu.sg/ndlpxmss/pdlpxinmin?authuser=2)
+<h2>Schedules</h2><ul data-tight="true" class="tight"><li><p><a href="https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&amp;ctz=Asia/Singapore" rel="noopener noreferrer nofollow" target="_blank">Academic Calendar</a></p></li><li><p><a href="https://docs.google.com/spreadsheets/d/1x1Cezpsez216UctPwE2lLGUA4oqZyoGbWNltjtOAcDs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Home Based Lesson Scheduler (Upper Sec)</a></p></li><li><p><a href="https://docs.google.com/spreadsheets/d/1HHoS_7IaTD-gqG91jqGgc60Ehn3MhNJgcfSlF7uHAAs/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Home Based Lesson Scheduler (Lower Sec)</a></p></li><li><p><a href="/resources/students/timetables/school-timetable/" rel="noopener noreferrer nofollow" target="_blank">School Timetable</a></p></li><li><p><a href="https://docs.google.com/spreadsheets/d/1S7lChpa_rMRRRJwkNGCqUNMqqJzcWTRenVWWpUSvCEc/edit#gid=1582931388" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a></p></li></ul><h2>Assessment</h2><ul data-tight="true" class="tight"><li><p><a href="/resources/students/assessment/assessment-plan/" rel="noopener noreferrer nofollow" target="_blank">Assessment Plan</a></p></li><li><p><a href="/resources/students/assessment/criteria-for-promotion/" rel="noopener noreferrer nofollow" target="_blank">Criteria for Promotion</a></p></li><li><p><a href="/resources/students/assessment/end-of-year-examination-topics-and-formats/" rel="noopener noreferrer nofollow" target="_blank">End Of Year Examination Topics and Formats</a></p></li><li><p><a href="/resources/students/assessment/instructions-to-candidates/" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a></p></li></ul><h2>Booklists</h2><ul data-tight="true" class="tight"><li><p><a href="/resources/students/school-resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists</a></p></li></ul><h2>Bookshop and Uniform Supplier</h2><ul data-tight="true" class="tight"><li><p><a href="/resources/students/school-resources/bookshop-and-uniform-suppliers/" rel="noopener noreferrer nofollow" target="_blank">Bookshop and Uniform Supplier</a></p></li></ul><h2>Personal Digital Learning Programme (PDLP)</h2><ul data-tight="true" class="tight"><li><p><a href="https://sites.google.com/xinminss.edu.sg/ndlpxmss/pdlpxinmin?authuser=2" rel="noopener noreferrer nofollow" target="_blank">PDLP Site</a></p></li></ul><p></p>
