@@ -21,7 +21,7 @@ variant: tiptap
             clear: both;
             display: block;
             width: 376px;
-            height: 236px;" height="auto" width="100%" alt="Math_3.jpg" src="/images/Humanities/Department_programmes/humanities_9.jpeg"></div><p>Visit to Treatsure to learn about how to manage food waste with technology</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=&quot;100%&quot;" height="auto" width="100%" alt="Math_2.jpg" src="/images/empty_generic.png"></div></td></tr></tbody></table><p><em>Seminars</em></p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=&quot;100%&quot;" height="auto" width="100%" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_5.jpeg"></div><p>Catholic High School Humanities Exchange</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
+            height: 236px;" height="auto" width="100%" alt="Math_3.jpg" src="/images/Humanities/Department_programmes/humanities_9.jpeg"></div><p>Visit to Treatsure to learn about how to manage food waste with technology</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=&quot;100%&quot;" height="auto" width="100%" alt="Math_2.jpg" src="/images/empty_generic.png"></div></td></tr></tbody></table><p><em>Seminars</em></p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=&quot;100%&quot;" height="auto" width="100%" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_5.jpeg"></div><p>Catholic High School Humanities Exchange</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -29,7 +29,7 @@ variant: tiptap
             clear: both;
             display: block;
             width: 318px;
-            height: 236px;" height="auto" width="100%" alt="Math_2.jpg" src="/images/Humanities/Department_programmes/humanities_6.jpeg"></div><p>ASRJC Arts Symposium</p></td></tr></tbody></table><p><em>Competitions</em></p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_1.jpeg"></div><p>VJC Singapore Model Cabinet</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
+            height: 236px;" height="auto" width="100%" alt="Math_2.jpg" src="/images/Humanities/Department_programmes/humanities_6.jpeg"></div><p>ASRJC Arts Symposium</p></td></tr></tbody></table><p><em>Competitions</em></p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Humanities/Department_programmes/humanities_1.jpeg"></div><p>VJC Singapore Model Cabinet</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto;
             outline: 0px;
             padding: 0px;
             border: none;
