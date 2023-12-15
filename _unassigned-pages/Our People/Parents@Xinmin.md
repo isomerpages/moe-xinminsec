@@ -1,0 +1,8 @@
+---
+title: Parents@Xinmin
+permalink: /unassigned-pages/our-people/pax-xinmin/
+variant: tiptap
+description: ""
+third_nav_title: Our People
+---
+<p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Eunice Sim</p></td><td rowspan="1" colspan="1"><p>Chairperson</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr David Ng</p></td><td rowspan="1" colspan="1"><p>Vice Chairperson</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Joy Kim</p></td><td rowspan="1" colspan="1"><p>Vice Chairperson</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Elaine Teo</p></td><td rowspan="1" colspan="1"><p>Sec 1 Level Coordinator</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Joyce Chan</p></td><td rowspan="1" colspan="1"><p>Sec 1 Level Coordinator</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Pearlyn Ooi</p></td><td rowspan="1" colspan="1"><p>Sec 2 Level Coordinator</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Ivy Kong</p></td><td rowspan="1" colspan="1"><p>Sec 2 Level Coordinator</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Alice Wong</p></td><td rowspan="1" colspan="1"><p>Sec 3 Level Coordinator</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Catherine Low</p></td><td rowspan="1" colspan="1"><p>Sec 3 Level Coordinator</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Thong Kwok Wah</p></td><td rowspan="1" colspan="1"><p>Sec 4/5 Level Coordinator</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Aniza Acquavella</p></td><td rowspan="1" colspan="1"><p>Sec 4/5 Level Coordinator</p></td></tr></tbody></table><p></p>

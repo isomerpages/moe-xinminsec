@@ -3,34 +3,6 @@ title: Performing Arts 2021
 permalink: /students/aesthetics/2021/
 description: ""
 third_nav_title: Aesthetics
+variant: tiptap
 ---
-#### Performing Arts
-<u>**Singapore Youth Festival Arts Presentation 2021**</u><br>
-
-**Sustained Achievement Award for Aesthetics**<br>
-**Chinese Dance Team A**<br>
-Distinction
-
-**Chinese Dance Team B**<br>
-Accomplishment 
-
-**MLDDS (Malay Dance)**<br>
-Accomplishment
-
-**Drama (English) Team A**<br>
-Distinction
-
-**Drama (English) Team B**<br>
-Distinction
-
-**Guzheng Ensemble**<br>
-Distinction
-
-**Concert Band Team A**<br>
-Distinction
-
-**Concert Band Team B**<br>
-Accomplishment
-
-**<u>76th Speech Day**</u><br>
-Heng Chin Soo Award for Visual, Creative &amp; Performing Arts – Nur Sophia Zahra Khan
+<h4>Performing Arts</h4><p><strong><u>Singapore Youth Festival Arts Presentation 2021</u></strong><br></p><p><strong>Sustained Achievement Award for Aesthetics</strong><br><strong>Chinese Dance Team A</strong><br>Distinction</p><p><strong>Chinese Dance Team B</strong><br>Accomplishment</p><p><strong>MLDDS (Malay Dance)</strong><br>Accomplishment</p><p><strong>Drama (English) Team A</strong><br>Distinction</p><p><strong>Drama (English) Team B</strong><br>Distinction</p><p><strong>Guzheng Ensemble</strong><br>Distinction</p><p><strong>Concert Band Team A</strong><br>Distinction</p><p><strong>Concert Band Team B</strong><br>Accomplishment</p><p><strong><u>76th Speech Day</u></strong><br>Heng Chin Soo Award for Visual, Creative &amp; Performing Arts – Nur Sophia Zahra Khan</p>

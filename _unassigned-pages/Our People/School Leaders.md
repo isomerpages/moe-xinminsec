@@ -1,0 +1,8 @@
+---
+title: School Leaders
+permalink: /unassigned-pages/our-people/school-leaders/
+variant: tiptap
+description: ""
+third_nav_title: Our People
+---
+<p></p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Tan Soon Hui</p></td><td rowspan="1" colspan="1"><p>Principal</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_soon_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_soon_hui@schools.gov.sg</u></a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mrs Vanessa Cheng</p></td><td rowspan="1" colspan="1"><p>Vice-Principal</p></td><td rowspan="1" colspan="1"><p><a href="mailto:Yiak_Zihui_Vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yiak_zihui_vanessa@schools.gov.sg</u></a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Goh Kar Whee</p></td><td rowspan="1" colspan="1"><p>Vice-Principal</p></td><td rowspan="1" colspan="1"><p><a href="goh_kar_whee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kar_whee@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Tan Kok Kwang</p></td><td rowspan="1" colspan="1"><p>Vice-Principal (Admin)</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_kok_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_kok_kwang@schools.gov.sg</u></a></p></td></tr></tbody></table><p></p>
