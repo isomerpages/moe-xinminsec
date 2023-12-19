@@ -22,10 +22,11 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Open House 2023
+      title: 2023 Sec 1 Posting Information
       alt: Image alt text
-      image: /images/Announcement Front Images/xinmin_open_house_2023.jpeg
-      description: Greetings to parents and P6 graduates of 2023!
+      image: /images/Announcement Front Images/Welcome_Sec_1_img.png
+      button: Read more
+      url: dfdfd
   - resources:
       title: Announcements
       button: More Posts
