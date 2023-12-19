@@ -25,8 +25,12 @@ sections:
       title: 2023 Sec 1 Posting Information
       alt: Image alt text
       image: /images/Announcement Front Images/Welcome_Sec_1_img.png
-      button: Read more
+      button: Sec 1 posting microsite
       url: /all-announcements/2023-sec-1-posting-information/
+      description: |
+        Dear 2024 Sec 1 Parents/Guardians and Students, 
+        Welcome to Xinmin Secondary School! 
+        We look forward to partner you as you embark on this journey with us.
   - resources:
       title: Announcements
       button: More Posts
