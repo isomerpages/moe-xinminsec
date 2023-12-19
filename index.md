@@ -20,7 +20,7 @@ sections:
           url: /resources/for-students-and-parents/academic-matters/
         - title: Prospective Students
           description: ""
-          url: /about-us/prospectus/
+          url: /prospective-students/secondary-one-posting/
   - infopic:
       title: Open House 2023
       alt: Image alt text
