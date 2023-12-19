@@ -2,6 +2,7 @@ collections:
   unassigned-pages:
     output: true
     order:
+      - Old Format.md
       - Our People/Parents@Xinmin.md
       - Our People/Alumni Executive Committee.md
       - Our People/School Advisory Committee.md
@@ -18,7 +19,7 @@ collections:
       - Our People/Technology and Business.md
       - Our People/Executive & Administrative Staff.md
       - Our People/Counselling.md
-      - Tes5.md
+      - New Format.md
       - Alumni.md
       - Parent Support Group 1.md
       - 101 Ways to Cope with Stress.md
