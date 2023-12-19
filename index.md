@@ -17,7 +17,7 @@ sections:
           url: /our-curriculum/the-xinmin-learning-experience/
         - title: Resources
           description: ""
-          url: /resources/for-students-and-parents/quick-links/
+          url: /resources/for-students-and-parents/academic-matters/
         - title: Prospective Students
           description: ""
           url: /about-us/prospectus/
