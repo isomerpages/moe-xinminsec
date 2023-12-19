@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our School
           description: ""
-          url: /about-us/principals-message/
+          url: /about-us/principals-foreword/
         - title: Our Curriculum
           description: ""
           url: /our-curriculum/the-xinmin-learning-experience/
