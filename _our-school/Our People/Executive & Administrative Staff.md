@@ -837,7 +837,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 104px;
-            height: 141px;" class="ive_eobj_left" alt="Pang Hui Chin web.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 141px;" class="ive_eobj_left" alt="test.jpg" src="/images/sl_a_gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
