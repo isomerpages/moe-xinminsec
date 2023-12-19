@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
       image: /images/Announcement Front Images/Welcome_Sec_1_img.png
       button: Read more
-      url: dfdfd
+      url: /all-announcements/2023-sec-1-posting-information/
   - resources:
       title: Announcements
       button: More Posts
