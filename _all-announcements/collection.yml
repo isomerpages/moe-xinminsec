@@ -1,4 +1,5 @@
 collections:
   all-announcements:
     output: true
-    order: []
+    order:
+      - 2023 Sec 1 Posting Information.md
