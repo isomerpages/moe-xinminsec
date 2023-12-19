@@ -2,6 +2,5 @@ collections:
   all-announcements:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Briefing Slides for Release of O Level Results.md
       - 2023 Financial Assistance Scheme (With Revised Income Criteria).md
