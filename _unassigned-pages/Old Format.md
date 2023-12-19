@@ -6,7 +6,8 @@ description: ""
 ---
 
 
-| ![](/images/School_Leaders/tan_soon_hui_small1.jpg)| ![](/images/School_Leaders/vanessa_cheng1.jpg) |![](/images/School_Leaders/goh_kar_whee_2.jpg) |![](/images/School_Leaders/tan_kok_kwang_1.jpg) |
+![](/images/School_Leaders/sl.jpg)
+| |  || |
 | -------- | -------- | -------- |-------- |
 | **Mr Tan Soon Hui** <br>   *Principal*  <br>tan_soon_hui@schools.gov.sg  | **Ms Yiak Zihui** <br> *Vice-Principal*  <br>yiak_zihui@schools.gov.sg  <br> | **Mr Goh Kar Whee**  <br> *Vice-Principal*  <br>goh_kar_whee@schools.gov.sg   | Mr Tan Kok Kwang  <br> *Vice-Principal (Admin)*  <br>tan_kok_kwang@schools.gov.sg   |
 
