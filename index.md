@@ -11,16 +11,16 @@ sections:
       key_highlights:
         - title: Our School
           description: ""
-          url: /about-us/principals-message/
+          url: /about-us/principals-foreword/
         - title: Our Curriculum
           description: ""
           url: /our-curriculum/the-xinmin-learning-experience/
         - title: Resources
           description: ""
-          url: /resources/for-students-and-parents/quick-links/
+          url: /resources/for-students-and-parents/academic-matters/
         - title: Prospective Students
           description: ""
-          url: /about-us/prospectus/
+          url: /prospective-students/secondary-one-posting/
   - infopic:
       title: Open House 2023
       alt: Image alt text
