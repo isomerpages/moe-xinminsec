@@ -4,11 +4,7 @@ permalink: /unassigned-pages/old-format/
 variant: markdown
 description: ""
 ---
-
-
-![](/images/School_Leaders/group.png)
-| |  || |
-| -------- | -------- | -------- |-------- |
-| **Mr Tan Soon Hui** <br>   *Principal*  <br>tan_soon_hui@schools.gov.sg  | **Ms Yiak Zihui** <br> *Vice-Principal*  <br>yiak_zihui@schools.gov.sg  <br> | **Mr Goh Kar Whee**  <br> *Vice-Principal*  <br>goh_kar_whee@schools.gov.sg   | Mr Tan Kok Kwang  <br> *Vice-Principal (Admin)*  <br>tan_kok_kwang@schools.gov.sg   |
-
+|![](/images/Mother_Tongue/li_jiaying_1.jpg) | ![](/images/Mother_Tongue/siaw_pey_chin.jpg) | ![](/images/Mother_Tongue/ng_keng_kiat.jpg)| 
+| -------- | -------- | -------- |
+ |**Ms Li Jiaying** <br> *HOD MT*  <br>li_jiaying@schools.gov.sg  <br> | **Ms Siaw Pey Shin** <br>   *Teacher*  <br>siew_pey_chin@schools.gov.sg  | **Mr Ng Keng Kiat**  <br> *Teacher*  <br>ng_keng_kiat@schools.gov.sg   |
 

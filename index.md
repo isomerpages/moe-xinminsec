@@ -26,12 +26,12 @@ sections:
       alt: Image alt text
       image: /images/Announcement Front Images/Welcome_Sec_1_img.png
       button: Sec 1 posting microsite
-      url: /all-announcements/2023-sec-1-posting-information/
-      description: >
+      url: https://sites.google.com/xinminss.edu.sg/info-for-2024-sec-1/welcome-to-xinmin?authuser=0
+      description: >-
         Dear 2024 Sec 1 Parents/Guardians and Students, 
 
 
-        Congratulations to our Sec 1 students on your primary school achievement and joining our Xinmin family. 
+        Congratulations to our Sec 1 students on your primary school achievement and joining our Xinmin family.
       subtitle: Sec 1 posting
   - resources:
       title: Announcements
