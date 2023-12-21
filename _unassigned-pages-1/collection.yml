@@ -1,5 +1,5 @@
 collections:
-  unassigned-pages:
+  unassigned-pages-1:
     output: true
     order:
       - Our People/Parents@Xinmin.md
