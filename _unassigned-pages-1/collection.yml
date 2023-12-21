@@ -1,9 +1,7 @@
 collections:
-  unassigned-pages:
+  unassigned-pages-1:
     output: true
     order:
-      - New Format 2.md
-      - Old Format.md
       - Our People/Parents@Xinmin.md
       - Our People/Alumni Executive Committee.md
       - Our People/School Advisory Committee.md
@@ -20,15 +18,12 @@ collections:
       - Our People/Technology and Business.md
       - Our People/Executive & Administrative Staff.md
       - Our People/Counselling.md
-      - New Format.md
       - Alumni.md
       - Parent Support Group 1.md
       - 101 Ways to Cope with Stress.md
       - 2021.md
       - 2022.md
       - Newsletters Old.md
-      - Subject Combination 2024.md
-      - Secondary 1 Posting.md
       - Stakeholders.md
       - Design and Technology.md
       - Blended Learning.md
