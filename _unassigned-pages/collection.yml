@@ -2,7 +2,6 @@ collections:
   unassigned-pages:
     output: true
     order:
-      - New Format 2.md
       - Old Format.md
       - Our People/Parents@Xinmin.md
       - Our People/Alumni Executive Committee.md
