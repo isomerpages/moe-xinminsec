@@ -1,8 +1,0 @@
----
-title: Technology and Business
-permalink: /unassigned-pages/our-people/technology-and-business/
-variant: tiptap
-description: ""
-third_nav_title: Our People
----
-<p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Lee Foo Yong</p></td><td rowspan="1" colspan="1"><p>Head of Department - Business and Infocomm Technology</p></td><td rowspan="1" colspan="1"><p>lee_foo_yong@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Choon Peng</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>Mr Ang Choon Peng</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Asniza Hassan</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>asniza_hassan@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ho Siang Teng Peter</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>ho_siang_teng@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Kline Mildred Michelle</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>kline_mildred_michelle@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Tan Wa-Wa James</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>tan_wa-wa_james@schools.gov.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Tan Lay Lay</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>&nbsp;tan_lay_lay@schools.gov.sg</p></td></tr></tbody></table><p></p>
