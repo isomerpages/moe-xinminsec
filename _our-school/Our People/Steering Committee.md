@@ -763,7 +763,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 154px;" class="ive_eobj_left" alt="Tay Lye Hock Gabriel.jpg" src="/images/Physical_Education/Tay%20Lye%20Hock%20Gabriel.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 154px;" class="ive_eobj_left" alt="Tay Lye Hock Gabriel.jpg" src="/images/Physical_Education/Tan%20Kian%20Seng%20Jeremy.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -778,7 +778,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Tay Lye Hock Gabriel</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Tan Kian Seng Jeremy</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -2194,4 +2194,3 @@ variant: markdown
     </tr>
   </tbody>
 </table>--&gt;
-    
