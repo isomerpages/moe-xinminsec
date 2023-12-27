@@ -812,7 +812,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:tay_lye_hock_gabriel@schools.gov.sg">tay_lye_hock_gabriel@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:tan_kian_seng_jeremy@schools.gov.sg">tan_kian_seng_jeremy@schools.gov.sg</a>
         </div>
       </td>
     </tr>
