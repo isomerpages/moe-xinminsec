@@ -576,7 +576,7 @@ variant: markdown
             border: none;
             max-width: 100%;
             float: left;
-            width: 114px;
+            width: 124px;
             height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
