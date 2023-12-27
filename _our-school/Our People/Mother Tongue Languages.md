@@ -624,19 +624,19 @@ variant: markdown
         </div>
       </td>
     </tr>
-			<!--<tr style="margin: 0px; outline: 0px; padding: 0px">
+			<tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 104px;
-            height: 141px;" class="ive_eobj_left" alt="Pang Hui Chin web.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -681,14 +681,14 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:lee_yen_nee@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:lee_yen_nee@schools.gov.sg">lee_yen_nee@schools.gov.sg</a>
+              text-decoration: underline;">lee_yen_nee@schools.gov.sg</a>
         </div>
       </td>
-		</tr>-->
+		</tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -1014,19 +1014,19 @@ variant: markdown
         </div>
       </td>
     </tr>
-			<!--<tr style="margin: 0px; outline: 0px; padding: 0px">
+			<tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 104px;
-            height: 141px;" class="ive_eobj_left" alt="Pang Hui Chin web.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -1071,13 +1071,13 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:wong_siew_har@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:wong_siew_har@schools.gov.sg">wong_siew_har@schools.gov.sg</a>
+              text-decoration: underline;">wong_siew_har@schools.gov.sg</a>
         </div>
       </td>
-		</tr>-->
+		</tr>
   </tbody>
 </table>
