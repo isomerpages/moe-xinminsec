@@ -1212,7 +1212,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:g-ncs3050sde@ncs.com.sg">g-ncs3050sde@ncs.com.sg</a>
+              text-decoration: underline;" target="" href="mailto:sabda.bima.bin.sukaimi@ncs.co">sabda.bima.bin.sukaimi@ncs.co</a>
         </div>
       </td>
     </tr>
@@ -1277,7 +1277,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:g-ncs3050sde@ncs.com.sg">g-ncs3050sde@ncs.com.sg</a>
+              text-decoration: underline;" target="" href="mailto:macgyver.yap@ncs.com.sg">macgyver.yap@ncs.com.sg</a>
         </div>
       </td>
     </tr>
