@@ -1959,7 +1959,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Teo Xuening</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Sarah Teo Xuening</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1989,11 +1989,11 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a href="mailto:sarah_teo_xuening@schools.gov.sg" target="" style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:sarah_teo@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">sarah_teo_xuening@schools.gov.sg</a>
+              text-decoration: underline;">sarah_teo@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
