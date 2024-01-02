@@ -1049,7 +1049,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Year Head - Sec 3
+          Designation: Year Head - Sec 3, 4 and 5
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1115,7 +1115,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Year Head - Sec 4 and 5
+          Designation: Year Head - Sec 1 and 2
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1140,71 +1140,6 @@ variant: markdown
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;" target="" href="mailto:ng_lee_hua@schools.gov.sg">ng_lee_hua@schools.gov.sg</a>
-        </div>
-      </td>
-    </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 113px;
-            height: 145px;" class="ive_eobj_left" alt="Tan Kian Seng Jeremy.jpg" src="/images/Physical_Education/Tan%20Kian%20Seng%20Jeremy.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Tan Kian Seng Jeremy</b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Designation: Assistant Year Head - Sec 1
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Department: Physical Education
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:tan_kian_seng_jeremy@schools.gov.sg">tan_kian_seng_jeremy@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -1244,7 +1179,7 @@ variant: markdown
                 font-family: Helvetica, sans-serif;
                 font-size: 17px;
                 font-weight: 400;">
-              Designation: Assistant Year Head - Sec 2
+              Designation: Assistant Year Head - Sec 3
             </div>
             <div style="margin: 0px;
                 outline: 0px;
@@ -1613,13 +1548,13 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Humanities/Teo_Sze_Ying.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
-            width: 104px;
+            width: 98px;
             height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
@@ -1743,13 +1678,13 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Science/Kristine_Anne_Koh.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
-            width: 104px;
+            width: 98px;
             height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
@@ -1873,7 +1808,7 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Science/Rachel_Lim.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -1937,7 +1872,7 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mathematics/sarah_teo.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
