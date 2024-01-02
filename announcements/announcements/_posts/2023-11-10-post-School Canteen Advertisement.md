@@ -9,7 +9,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Rice Stall | 15 December 2023 | NIL|
+| Halal Rice/Noodle Stall | 12 January 2024 | NIL|
+| Halal Western Stall | 12 January 2024 | NIL|
 
 **Application Procedure**
 
@@ -47,5 +48,3 @@ variant: markdown
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-
