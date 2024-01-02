@@ -1049,7 +1049,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Year Head - Sec 4 and 5
+          Designation: Year Head - Sec 3, 4 and 5
         </div>
         <div style="margin: 0px;
             outline: 0px;
