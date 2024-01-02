@@ -1795,11 +1795,11 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a href="mailto:koh_ru_ping_kristine@schools.gov.sg" target="" style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:kristine_anne_koh@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">koh_ru_ping_kristine@schools.gov.sg</a>
+              text-decoration: underline;">kristine_anne_koh@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
