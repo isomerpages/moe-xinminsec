@@ -172,13 +172,13 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Science/Kristine_Anne_Koh.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
-            width: 104px;
+            width:98px;
             height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
@@ -237,13 +237,13 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Science/Rachel_Lim.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
-            width: 104px;
+            width: 98px;
             height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
