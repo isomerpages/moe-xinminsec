@@ -71,7 +71,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Head of Department - Business and Infocomm Technology
+          Designation: Head of Department - Technology and Business
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -81,7 +81,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Business and Infocomm Technology
+          Department: Technology and Business
         </div>
         <div style="margin: 0px;
             outline: 0px;
