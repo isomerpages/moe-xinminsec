@@ -9,8 +9,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Rice/Noodle Stall | 12 January 2024 | NIL|
-| Halal Western Stall | 12 January 2024 | NIL|
+| Halal Rice/Noodle Stall | 02 February 2024 | NIL|
+| Halal Western Stall | 02 February 2024 | NIL|
 
 **Application Procedure**
 
