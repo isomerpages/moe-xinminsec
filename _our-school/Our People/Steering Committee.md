@@ -2066,7 +2066,6 @@ variant: markdown
         </div>
       </td>
 		</tr>
-    
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
