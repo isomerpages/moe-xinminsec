@@ -241,7 +241,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 113px;
-            height: 166px;" class="ive_eobj_left" alt="Ms Catherine Ng.png" src="/images/Counselling/Ms%20Catherine%20Ng.png">
+            height: 166px;" class="ive_eobj_left" alt="Ms Catherine Ng.png" src="/images/sl_a_lady.png">
       </td>
       <td style="margin: 0px;
           outline: 0px;
