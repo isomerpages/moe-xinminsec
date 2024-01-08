@@ -290,7 +290,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:ng_hui_fong_catherine@schools.gov.sg">ng_hui_fong_catherine@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:euw_wei_ling_christina@schools.gov.sg">euw_wei_ling_christina@schools.gov.sg</a>
         </div>
       </td>
     </tr>
