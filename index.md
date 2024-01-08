@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: O-Level Results Release
+      title: 2023 GCE O-Level Results Release
       alt: Image alt text
       image: /images/Announcement Front Images/Welcome_Sec_1_img.png
       button: Announcement
