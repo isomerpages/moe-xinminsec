@@ -98,7 +98,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Harvinder_Singh@schools.gov.sg">harvinder_singh@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:harvinder_singh@schools.gov.sg">harvinder_singh@schools.gov.sg</a>
         </div>
       </td>
     </tr>
