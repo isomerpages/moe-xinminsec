@@ -22,17 +22,18 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Welcome to Xinmin!
+      title: 2023 GCE O-Level Results Release
       alt: Image alt text
       image: /images/Announcement Front Images/Welcome_Sec_1_img.png
-      button: Sec 1 posting microsite
-      url: https://sites.google.com/xinminss.edu.sg/info-for-2024-sec-1/welcome-to-xinmin?authuser=0
+      button: Announcement
+      url: /all-announcements/2023-gce-o-level-results-release/
       description: >-
-        Dear 2024 Sec 1 Parents/Guardians and Students, 
+        Dear Students, 
 
 
-        Congratulations to our Sec 1 students on your primary school achievement and joining our Xinmin family.
-      subtitle: Sec 1 posting
+        Parents, and Guardians,
+
+        The results of the Singapore-Cambridge GCE O-Level Examinations will be released on Thursday, 11 January at 2 pm.
   - resources:
       title: Announcements
       button: More Posts
