@@ -26,7 +26,7 @@ sections:
       alt: Image alt text
       image: /images/Announcement Front Images/Welcome_Sec_1_img.png
       button: Announcement
-      url: /all-announcements/2023-gce-o-level-results-release/nfo-for-2024-sec-1/welcome-to-xinmin?authuser=0
+      url: /all-announcements/2023-gce-o-level-results-release/
       description: >-
         Dear Students, Parents, and Guardians,
 
