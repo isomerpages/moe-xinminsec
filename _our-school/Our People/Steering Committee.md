@@ -294,6 +294,75 @@ variant: markdown
         </div>
       </td>
     </tr>
+			 <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;
+          width: 120px;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 111px;
+            height: 144px;" class="ive_eobj_left" alt="Harvinder Singh_1.jpg" src="/images/Arts_Education/Harvinder%20Singh_1.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr&nbsp;</b><span style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px">Harvinder Singh</b></span>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Head of Department - Aesthetics (Acting)
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Aesthetics
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:Harvinder_Singh@schools.gov.sg">Harvinder_Singh@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
 		 <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -487,75 +556,6 @@ variant: markdown
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;" target="" href="mailto:singh_hardev@schools.gov.sg">singh_hardev@schools.gov.sg</a>
-        </div>
-      </td>
-    </tr>
-		 <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;
-          width: 120px;">
-        <img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 111px;
-            height: 144px;" class="ive_eobj_left" alt="Harvinder Singh_1.jpg" src="/images/Arts_Education/Harvinder%20Singh_1.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr&nbsp;</b><span style="margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              background-color: initial;"><b style="margin: 0px; outline: 0px; padding: 0px">Harvinder Singh</b></span>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Designation: Head of Department - Aesthetics (Acting)
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Department: Aesthetics
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Harvinder_Singh@schools.gov.sg">Harvinder_Singh@schools.gov.sg</a>
         </div>
       </td>
     </tr>
