@@ -1,0 +1,12 @@
+collections:
+  prospective-students:
+    output: true
+    order:
+      - Secondary 1 Posting.md
+      - Direct School Admission.md
+      - Prospectus.md
+      - 360 Campus Tour.md
+      - Other Admissions/.keep
+      - Other Admissions/Returning Singaporeans.md
+      - Other Admissions/Local Transfers.md
+      - Other Admissions/International Students.md

@@ -1,0 +1,14 @@
+collections:
+  students-achievements:
+    output: true
+    order:
+      - Aesthetics/.keep
+      - Aesthetics/Performing Arts 2023.md
+      - Aesthetics/Performing Arts 2021.md
+      - Leadership Social Moral/.keep
+      - Leadership Social Moral/Student Leadership, Social & Moral Domain 2023.md
+      - Leadership Social Moral/Student Leadership, Social & Moral Domain 2022.md
+      - Leadership Social Moral/Student Leadership, Social & Moral Domain 2021.md
+      - Physical/.keep
+      - Physical/Sports and Games 2023.md
+      - Physical/Sports and Games 2021.md

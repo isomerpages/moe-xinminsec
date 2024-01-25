@@ -1,0 +1,9 @@
+collections:
+  cyberwellness:
+    output: true
+    order:
+      - Cyber Wellness.md
+      - Cyber Bullying.md
+      - Cyber Addiction.md
+      - Online Scams.md
+      - Helplines and Support.md
