@@ -2,4 +2,5 @@ collections:
   all-announcements:
     output: true
     order:
+      - Example Title.md
       - 2023 GCE O Level Results Release.md
