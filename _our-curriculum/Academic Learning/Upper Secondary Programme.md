@@ -55,4 +55,4 @@ variant: tiptap
     offered and a timeline for the Subject Combination Allocation Exercise.
     <br>
     <br>Click <a href="https://sites.google.com/xinminss.edu.sg/xms-subjectcombi/home?authuser=3" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-    access microsite.”</p>
+    access microsite.</p>
