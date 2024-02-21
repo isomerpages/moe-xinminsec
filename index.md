@@ -21,14 +21,6 @@ sections:
         - title: Prospective Students
           description: ""
           url: /prospective-students/secondary-one-posting/
-  - infopic:
-      title: 2023 GCE O-Level Results Release
-      alt: Image alt text
-      image: /images/Announcement Front Images/Welcome_Sec_1_img.png
-      button: Announcement
-      url: /all-announcements/2023-gce-o-level-results-release/
-      description: The results of the Singapore-Cambridge GCE O-Level Examinations
-        will be released on Thursday, 11 January at 2 pm.
   - resources:
       title: Announcements
       button: More Posts
