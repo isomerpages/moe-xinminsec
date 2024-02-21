@@ -1,5 +1,4 @@
 collections:
   all-announcements:
     output: true
-    order:
-      - 2023 GCE O Level Results Release.md
+    order: []
