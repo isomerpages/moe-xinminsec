@@ -45,8 +45,7 @@ players in the team.</p>
 <br>‘B’ Division Captains: LIM EN QI (401)
 <br>‘B’ Division Vice-Captains: FONG JIA QI (403)
 <br>‘C’ Division Captains: NUR IMAN BINTE MUHAMMAD FADHLY (203)
-<br>‘C’ Division Vice-Captains: KAYLEE TAN (204) &amp; CAI JIA YING TRIXY
-(205)
+<br>‘C’ Division Vice-Captains: CAI JIA YING TRIXY (205)
 <br>
 </p>
 <p><strong>CCA Schedule</strong> 
