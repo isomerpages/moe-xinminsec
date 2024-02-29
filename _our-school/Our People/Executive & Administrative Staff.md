@@ -531,7 +531,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: School Laboratory Technician
+          Designation: STEM Instructor (Laboratory)
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -596,7 +596,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: School Laboratory Technician
+          Designation: STEM Instructor (Laboratory)
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -664,7 +664,7 @@ variant: markdown
           <span style="margin: 0px;
               outline: 0px;
               padding: 0px;
-              background-color: initial;">Designation: Education Workshop Instructor</span><br style="margin: 0px; outline: 0px; padding: 0px">
+              background-color: initial;">Designation: STEM Instructor (Workshop)</span><br style="margin: 0px; outline: 0px; padding: 0px">
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -729,7 +729,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Education Workshop Instructor
+          Designation: STEM Instructor (Workshop)
         </div>
         <div style="margin: 0px;
             outline: 0px;
