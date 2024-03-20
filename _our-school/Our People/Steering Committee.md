@@ -2077,7 +2077,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 131px;" class="ive_eobj_left" alt="Rachel Teng.jpg" src="/images/EAS/Rachel%20Teng.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 131px;" class="ive_eobj_left" alt="Rachel Teng.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
