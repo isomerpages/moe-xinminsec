@@ -2126,7 +2126,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:Kaliyaperumal_Indrani@schools.gov.sg">Kaliyaperumal_Indrani@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:kaliyaperumal_indrani@schools.gov.sg">kaliyaperumal_indrani@schools.gov.sg</a>
         </div>
       </td>
     </tr>
