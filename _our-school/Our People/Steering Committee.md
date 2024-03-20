@@ -2092,7 +2092,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mdm Rachel Teng</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Kaliyaperumal Indrani</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -2126,7 +2126,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:TENG_Leeh_Bing@schools.gov.sg">teng_leeh_bing@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:Kaliyaperumal_Indrani@schools.gov.sg">Kaliyaperumal_Indrani@schools.gov.sg</a>
         </div>
       </td>
     </tr>
