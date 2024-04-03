@@ -24,7 +24,6 @@ sections:
   - infopic:
       title: Open House
       id: infopic
-      description: Infopic description
       button: Button Text
       alt: Image alt text
   - resources:
