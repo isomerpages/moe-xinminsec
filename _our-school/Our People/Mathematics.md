@@ -591,7 +591,7 @@ variant: markdown
               font-family: Helvetica, sans-serif;
               font-size: 17px;
               font-weight: 400;">
-            Designation: Assistant Year Head - Sec 2 (Acting)
+            Designation: Teacher
           </div>
           <div style="margin: 0px;
               outline: 0px;
