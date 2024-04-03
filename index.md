@@ -21,6 +21,12 @@ sections:
         - title: Prospective Students
           description: ""
           url: /prospective-students/secondary-one-posting/
+  - infopic:
+      title: Open House
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: Announcements
       button: More Posts
