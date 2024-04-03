@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Open House
       id: infopic
-      button: Button Text
+      button: Click here
       alt: Image alt text
       image: /images/Open_House/OPEN_HOUSE_2024_wallpaper.jpg
       url: https://ibb.co/bvchTKw
