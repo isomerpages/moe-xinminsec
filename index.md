@@ -26,6 +26,7 @@ sections:
       id: infopic
       button: Button Text
       alt: Image alt text
+      image: /images/Open_House/OPEN_HOUSE_2024_wallpaper.jpg
   - resources:
       title: Announcements
       button: More Posts
