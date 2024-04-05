@@ -12,7 +12,7 @@ School for the Secondary 1 cohort of 2025.</p>
 <p><strong>To learn more about our school's curriculum and DSA Talent Areas, we invite parents and students to join us at the 2024 DSA Online Engagement webinar on Friday, 10 May 2024, from 6:15pm to 7:15pm. This webinar will provide valuable insights and information to support your understanding of our school's offerings and the DSA process.</strong>
 </p>
 <p>Please register by clicking on the e-flyer below:</p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/xinmin-dsa2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Xinmin_E_Flyer_final.png"></a>
 <p></p>
 <h2>DSA Application Procedure</h2>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
