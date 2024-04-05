@@ -30,7 +30,7 @@ sections:
       button: Link to DSA site
       url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
       alt: Image alt text
-      image: /images/DSA/WhatsApp_Image_2024_04_05_at_3_21_10_PM.jpg
+      image: /images/DSA/DSA_Webinar_E_Flyer__homepage_.png
   - resources:
       title: Announcements
       button: More Posts
