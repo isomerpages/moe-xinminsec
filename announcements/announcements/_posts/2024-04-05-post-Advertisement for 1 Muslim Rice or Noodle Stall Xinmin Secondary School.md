@@ -23,7 +23,7 @@ We are looking for 1 Muslim Rice/Noodle Stall to operate in Xinmin Secondary Sch
 *   Applicant must abide by the rules and regulations set by the school.
 *   If offered a canteen stall, applicant and assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore's accredited training providers and then apply for Food Stall Licence from the Singapore Food Agency (SFA)
 
-Applications are opened till **03/05/2024**.  Application Form may be obtained via the School General Office, or you may email Mr Qabeer at [mohamed\_qabeer\_sulaiman@schools.gov.sg](mailto:mohamed_qabeer_sulaiman@schools.gov.sg) for the softcopy form.
+Applications are opened till **04/05/2024**.  Application Form may be obtained via the School General Office, or you may email Mr Qabeer at [mohamed\_qabeer\_sulaiman@schools.gov.sg](mailto:mohamed_qabeer_sulaiman@schools.gov.sg) for the softcopy form.
 
 You may call Mr Qabeer at 62889382 if you need any clarification.
 
