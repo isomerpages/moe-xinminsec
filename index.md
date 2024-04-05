@@ -24,4 +24,13 @@ sections:
   - resources:
       title: Announcements
       button: More Posts
+  - infopic:
+      title: "2024 DSA Online Engagement webinar "
+      id: infopic
+      description: "Join us at the 2024 DSA Online Engagement webinar on Friday, 10
+        May 2024, from 6:15pm to 7:15pm to learn more about our school
+        curriculum and DSA Talent Areas! "
+      button: Link to DSA site
+      url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
+      alt: Image alt text
 ---
