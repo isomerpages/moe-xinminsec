@@ -702,7 +702,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 111px;
-            height: 142px;" class="ive_eobj_left" alt="Muhammad Aliff.jpg" src="/images/EAS/Muhammad%20Aliff.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 142px;" class="ive_eobj_left" alt="Muhammad Aliff.jpg" src="/images/EAS/Muhammad_Aliff.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
