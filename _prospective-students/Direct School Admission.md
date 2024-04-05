@@ -16,7 +16,9 @@ School for the Secondary 1 cohort of 2025.</p>
 <p></p>
 <h2>DSA Application Procedure</h2>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
-<p>The application is free-of-charge.</p>
+<p>The application is free-of-charge.
+<br>For more details, please refer to MOE website -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
 <h2>Results of Application</h2>
 <p>All final results will be notified by post to the applicants to inform
 them of the outcome,</p>
