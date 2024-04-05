@@ -21,9 +21,6 @@ sections:
         - title: Prospective Students
           description: ""
           url: /prospective-students/secondary-one-posting/
-  - resources:
-      title: Announcements
-      button: More Posts
   - infopic:
       title: 2024 DSA Online Engagement webinar
       id: infopic
@@ -34,4 +31,7 @@ sections:
       url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
       alt: Image alt text
       image: /images/DSA/DSA_Xinmin_E_Flyer_final.png
+  - resources:
+      title: Announcements
+      button: More Posts
 ---
