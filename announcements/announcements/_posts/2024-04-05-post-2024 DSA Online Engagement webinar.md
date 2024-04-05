@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Join us at the 2024 DSA Online Engagement webinar on Friday, 10 May 2024,
-from 6:15pm to 7:15pm to learn more about our school curriculum and DSA
-Talent Areas!</p>
+<p>Join us at the 2024 DSA Online Engagement webinar on <strong>Friday, 10 May 2024</strong>,
+from <strong>6:15pm to 7:15pm</strong> to learn more about our school curriculum
+and DSA Talent Areas!</p>
 <p><a href="https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/" rel="noopener noreferrer nofollow" target="_blank">Link to DSA webpage</a>
 </p>
