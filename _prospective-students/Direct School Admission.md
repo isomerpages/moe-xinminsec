@@ -17,10 +17,7 @@ on Friday, 10 May 2024, from 6:15pm to 7:15pm. This webinar will provide
 valuable insights and information to support your understanding of our
 school's offerings and the DSA process.</p>
 <p>Please register by clicking on the e-flyer below:</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/WhatsApp_Image_2024_04_05_at_3_21_10_PM.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/ximin-dsa2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/WhatsApp_Image_2024_04_05_at_3_21_10_PM.jpg"></a>
 <h2>DSA Application Procedure</h2>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
 <p>The application is free-of-charge.
