@@ -21,13 +21,6 @@ sections:
         - title: Prospective Students
           description: ""
           url: /prospective-students/secondary-one-posting/
-  - infopic:
-      title: Open House
-      id: infopic
-      button: Click here
-      alt: Image alt text
-      image: /images/Open_House/OPEN_HOUSE_2024_wallpaper.jpg
-      url: https://postimg.cc/MntXH9SV
   - resources:
       title: Announcements
       button: More Posts
