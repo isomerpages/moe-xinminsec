@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Xinmin Secondary School**
-
 We are looking for 1 Muslim Rice/Noodle Stall to operate in Xinmin Secondary School.  The school is located at 11 Hougang Ave 8, Singapore 538789.  If you know of anyone who may be interested, please help to circulate this information.
 
 **Requirements**
