@@ -10,7 +10,7 @@ School for the Secondary 1 cohort of 2025.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the students' aptitudes and strengths, bearing in mind the schools' academic
 and non-academic requirements, and the programmes available to develop
-the area of talent</p>
+the area of talent.</p>
 <p>To learn more about our school's curriculum and DSA Talent Areas, we invite
 parents and students to join us at the 2024 DSA Online Engagement webinar
 on Friday, 10 May 2024, from 6:15pm to 7:15pm. This webinar will provide
