@@ -29,7 +29,7 @@ them of the outcome,</p>
 <p>(i) Confirmed Offer (CO),
 <br>(ii) Wait List (WL),
 <br>(iii) Unsuccessful.</p>
-<h2>2023 Talent Areas and Criteria</h2>
+<h2>2024 Talent Areas and Criteria</h2>
 <p><a href="/files/Direct%20School%20Admissions/performing%20arts%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a> 
 <br><a href="/files/Direct%20School%20Admissions/sports%20and%20games%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a> 
 <br><a href="/files/Direct%20School%20Admissions/uniform%20groups_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
