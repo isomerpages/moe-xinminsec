@@ -22,11 +22,10 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: 2024 DSA Online Engagement webinar
+      title: 2024 DSA Webinar
       id: infopic
-      description: Join us at the 2024 DSA Online Engagement webinar on Friday, 10 May
-        2024, from 6:15pm to 7:15pm to learn more about our school curriculum
-        and DSA Talent Areas
+      description: Join us at the 2024 DSA Webinar on Friday, 10 May 2024, from 6:15pm
+        to 7:15pm to learn more about our school curriculum and DSA Talent Areas
       button: Click here
       url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
       image: /images/DSA/DSA_Webinar_E_Flyer__homepage_.png

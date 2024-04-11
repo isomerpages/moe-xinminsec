@@ -12,10 +12,10 @@ the students' aptitudes and strengths, bearing in mind the schools' academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>To learn more about our school's curriculum and DSA Talent Areas, we invite
-parents and students to join us at the 2024 DSA Online Engagement webinar
-on Friday, 10 May 2024, from 6:15pm to 7:15pm. This webinar will provide
-valuable insights and information to support your understanding of our
-school's offerings and the DSA process.</p>
+parents and students to join us at the 2024 DSA Webinar on Friday, 10 May
+2024, from 6:15pm to 7:15pm. This webinar will provide valuable insights
+and information to support your understanding of our school's offerings
+and the DSA process.</p>
 <p>Please register by clicking on the e-flyer below:</p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/xinmin-dsa2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Webinar_E_Flyer__dsa_page_.png"></a>
 <h2>DSA Application Procedure</h2>
