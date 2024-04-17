@@ -24,9 +24,10 @@ sections:
   - infopic:
       title: 2024 DSA Webinar
       id: infopic
-      description: Join us at the 2024 DSA Webinar on Friday, 10 May 2024, from 6:15pm
-        to 7:15pm to learn more about our school curriculum and DSA Talent Areas
-      button: Click here
+      description: Join us at the 2024 DSA Webinar on Friday, 10 May 2024 from 6:15pm
+        to 7:15pm to learn more about our school curriculum and DSA Talent
+        Areas.
+      button: Click here to register
       url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
       image: /images/DSA/DSA_Webinar_E_Flyer__homepage_.png
       alt: Image alt text
