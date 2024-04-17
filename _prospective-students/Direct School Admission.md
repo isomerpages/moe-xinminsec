@@ -13,13 +13,13 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>To learn more about our school's curriculum and DSA Talent Areas, we invite
 parents and students to join us at the 2024 DSA Webinar on Friday, 10 May
-2024, from 6:15pm to 7:15pm. This webinar will provide valuable insights
+2024 from 6:15pm to 7:15pm. This webinar will provide valuable insights
 and information to support your understanding of our school's offerings
 and the DSA process.</p>
 <p>Please register by clicking on the e-flyer below:</p>
 <p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/xinmin-dsa2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Webinar_E_Flyer__dsa_page_.png"></a>
 <h2>DSA Application Procedure</h2>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
+<p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
 <p>The application is free-of-charge.
 <br>For more details, please refer to MOE website -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>
 </p>
@@ -30,11 +30,11 @@ them of the outcome,</p>
 <br>(ii) Wait List (WL),
 <br>(iii) Unsuccessful.</p>
 <h2>2024 Talent Areas and Criteria</h2>
-<p><a href="/files/Direct School Admissions/Performing_Arts_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Perform Arts</a>
+<p><a href="/files/Direct School Admissions/Performing_Arts_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>
 </p>
 <p><a href="/files/Direct School Admissions/Sports_and_Games_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a>
 </p>
-<p><a href="/files/Direct School Admissions/Uniform_Groups_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Groups</a>
+<p><a href="/files/Direct School Admissions/Uniform_Groups_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
 </p>
 <p><a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">How to apply</a>
 </p>
