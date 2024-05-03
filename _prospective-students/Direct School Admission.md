@@ -23,12 +23,18 @@ and the DSA process.</p>
 <p>The application is free-of-charge.
 <br>For more details, please refer to MOE website -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>
 </p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">How to apply</a>
+</p>
 <h2>Results of Application</h2>
 <p>All final results will be notified by post to the applicants to inform
 them of the outcome,</p>
 <p>(i) Confirmed Offer (CO),
 <br>(ii) Wait List (WL),
 <br>(iii) Unsuccessful.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1- 4/5.</p>
+<p></p>
 <h2>2024 Talent Areas and Criteria</h2>
 <p><a href="/files/Direct School Admissions/Performing_Arts_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>
 </p>
