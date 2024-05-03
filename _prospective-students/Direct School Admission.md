@@ -34,7 +34,6 @@ them of the outcome,</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1- 4/5.</p>
-<p></p>
 <h2>2024 Talent Areas and Criteria</h2>
 <p><a href="/files/Direct School Admissions/Performing_Arts_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>
 </p>
