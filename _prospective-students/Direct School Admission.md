@@ -39,7 +39,7 @@ related to the talent they are selected for from year 1- 4/5.</p>
 </p>
 <p><a href="/files/Direct School Admissions/Sports_and_Games_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a>
 </p>
-<p><a href="/files/Direct School Admissions/Uniform_Groups_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
+<p><a href="/files/Direct School Admissions/Uniformed_Groups_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Groups</a>
 </p>
 <p></p>
 <p>Important note:</p>
