@@ -16,8 +16,9 @@ parents and students to join us at the 2024 DSA Webinar on Friday, 10 May
 2024 from 6:15pm to 7:15pm. This webinar will provide valuable insights
 and information to support your understanding of our school's offerings
 and the DSA process.</p>
-<p>Please register by clicking on the e-flyer below:</p>
-<p>Details of Webinar:</p>
+<p></p>
+<p><strong><u>Details of Webinar:</u></strong>
+</p>
 <p>To join the webinar, please click the following link:</p>
 <p><a href="https://moe-singapore.zoom.us/j/84783675824" rel="noopener noreferrer nofollow" target="_blank">XMS DSA Webinar Zoom Link</a> and
 use the passcode: xinmindsa or using the details below:</p>
