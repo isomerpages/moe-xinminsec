@@ -17,9 +17,18 @@ parents and students to join us at the 2024 DSA Webinar on Friday, 10 May
 and information to support your understanding of our school's offerings
 and the DSA process.</p>
 <p>Please register by clicking on the e-flyer below:</p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/xinmin-dsa2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/DSA_Webinar_E_Flyer__dsa_page_.png"></a>
+<p>Details of Webinar:</p>
+<p>To join the webinar, please click the following link:</p>
+<p><a href="https://moe-singapore.zoom.us/j/84783675824" rel="noopener noreferrer nofollow" target="_blank">XMS DSA Webinar Zoom Link</a> and
+use the passcode: xinmindsa or using the details below:</p>
+<p>Date and Time: May 10, 2024 (Friday). Webinar will be open at 6pm.</p>
+<p>Zoom Webinar ID: 84783675824</p>
+<p>Passcode: xinmindsa</p>
+<p></p>
 <h2>DSA Application Procedure</h2>
-<p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.</p>
+<p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11am
+to 3 Jun 2024, 3pm.</p>
 <p>The application is free-of-charge.
 <br>For more details, please refer to MOE website -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>
 </p>
@@ -46,6 +55,4 @@ related to the talent they are selected for from year 1- 4/5.</p>
 <p>1. Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<p>2. Meeting all the criteria does not guarantee the student will be shortlisted/given
-an offer</p>
 <p></p>
