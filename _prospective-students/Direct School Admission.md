@@ -56,4 +56,9 @@ related to the talent they are selected for from year 1- 4/5.</p>
 <p>1. Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
+<p>2. Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
+<p>3. Due to different profiles of applicants, selection/shortlisting trends
+may differ year on year</p>
+<p></p>
 <p></p>
