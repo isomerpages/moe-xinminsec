@@ -19,6 +19,8 @@ for the primary school players, the N1 Cluster Games as well as our own
 Annual Badminton Camp. These events provide excellent platforms for our
 players to hone their leadership skills and to strengthen the bonds among
 players in the team.</p>
+<p><a href="/files/CCA/Notice_of_Xinmin_Invitational.pdf" rel="noopener noreferrer nofollow" target="_blank">Information on Xinmin Invitational Badminton (Girls) 2024</a>
+</p>
 <p><strong>Accomplishments</strong> 
 <br>NSG Badminton Championships (North Zone) 2023:
 <br>‘B’ Division Girls : 3rd
