@@ -1372,7 +1372,8 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Zahira Binte Zainal<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Muhammad Fariduddin Bin Yusoff
+<br style="margin: 0px; outline: 0px; padding: 0px"></b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1382,7 +1383,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: School Librarian
+          Designation: Creative Arts Complex Operation Executive
         </div>
         <div style="margin: 0px;
             outline: 0px;
