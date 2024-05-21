@@ -1,5 +1,5 @@
 ---
-title: Advertisement for 1 Thai Muslim Stall Xinmin Secondary School
+title: Advertisement for 1 Thai Muslim or Muslim Stall Xinmin Secondary School
 permalink: /announcements/announcements/school-canteen-ad/
 date: 2024-05-21
 layout: post
@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-We are looking for 1 Thai Muslim Stall to operate in Xinmin Secondary School.  The school is located at 11 Hougang Ave 8, Singapore 538789.  If you know of anyone who may be interested, please help to circulate this information.
+We are looking for 1 Thai Muslim or Muslim Stall to operate in Xinmin Secondary School.  The school is located at 11 Hougang Ave 8, Singapore 538789.  If you know of anyone who may be interested, please help to circulate this information.
 
 **Requirements**
 
