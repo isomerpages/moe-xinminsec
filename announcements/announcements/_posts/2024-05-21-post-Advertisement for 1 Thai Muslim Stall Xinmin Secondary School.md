@@ -1,7 +1,7 @@
 ---
 title: Advertisement for 1 Thai Muslim Stall Xinmin Secondary School
 permalink: /announcements/announcements/school-canteen-ad/
-date: 2024-04-05
+date: 2024-05-21
 layout: post
 description: ""
 image: ""
