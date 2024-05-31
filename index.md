@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: 2024 DSA Webinar
+      title: Homecoming 2024
       id: infopic
       description: Join us at the 2024 DSA Webinar on Friday, 10 May 2024 from 6:15pm
         to 7:15pm to learn more about our school curriculum and DSA Talent
