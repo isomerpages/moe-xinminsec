@@ -24,12 +24,13 @@ sections:
   - infopic:
       title: Homecoming 2024
       id: infopic
-      description: Join us at the 2024 DSA Webinar on Friday, 10 May 2024 from 6:15pm
-        to 7:15pm to learn more about our school curriculum and DSA Talent
-        Areas.
-      button: Click here to register
+      description: |-
+        Saturday 29 June 2024
+
+        Come join us to connect with alumni of different generations! 
+      button: Read more
       url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
-      image: /images/DSA/DSA_Webinar_E_Flyer__homepage_.png
+      image: /images/Announcement Front Images/Homecoming/Homecoming_2024.jpg
       alt: Image alt text
   - resources:
       title: Announcements
