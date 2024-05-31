@@ -27,3 +27,15 @@ between alumni and current students</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exposure to Chinese Calligraphy</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karaoke @ AA room</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fresh fruits for healthy diet</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Homecoming/Homecoming_2024_1.png">
+</div>
+<p><strong>Xin, our mascot is looking forward to meet you!</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Homecoming/Homecoming_2024_2.png">
+</div>
+<p>Indicate your interest <a href="https://www.facebook.com/share/ipnwMm8xzbYQJYXh/" rel="noopener noreferrer nofollow" target="_blank">here</a> and see
+you on Saturday 29 June 2024!</p>
