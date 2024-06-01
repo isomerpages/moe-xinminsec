@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Come join us to connect with alumni of different generations!
       button: Read more
-      url: https://xinminsec-moe-edu-sg-admin.cwp.sg/homecoming-2024/
+      url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/homecoming-2024/
       image: /images/Announcement Front Images/Homecoming/Homecoming_2024.jpg
       alt: Image alt text
   - resources:
