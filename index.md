@@ -24,10 +24,11 @@ sections:
   - infopic:
       title: Homecoming 2024
       id: infopic
-      description: Come join us to connect with alumni of different generations!
+      description: Calling all XMS Alumni to join us on Saturday 29 June for our
+        annual Homecoming.
       button: Read more
       url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/homecoming-2024/
-      image: /images/Announcement Front Images/Homecoming/Homecoming_2024.jpg
+      image: /images/Announcement Front Images/Homecoming/Homecoming_2024_1.jpg
       alt: Image alt text
   - resources:
       title: Announcements
