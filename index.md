@@ -28,7 +28,7 @@ sections:
         annual Homecoming.
       button: Read more
       url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/homecoming-2024/
-      image: /images/Announcement Front Images/Homecoming/Homecoming_2024_1.jpg
+      image: /images/Announcement Front Images/Homecoming/Homecoming_2024_2.jpg
       alt: Image alt text
   - resources:
       title: Announcements
