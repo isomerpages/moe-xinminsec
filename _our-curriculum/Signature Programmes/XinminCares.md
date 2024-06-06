@@ -47,10 +47,11 @@ Day is also an important event where students acquire deeper understanding
 on the challenges that people with disabilities face daily through experiential
 learning. Activities such as seated volleyball and goalball also provide
 opportunities for students to participate in paralympic sports.</p>
-<p>
-<br>
-</p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XinminCares/Seated_Floorball.jpg">
+</div>
+<p>Students participating in seated floorball specially facilitated by our
+Secondary 4 students.
 <br>
 </p>
 <p>
