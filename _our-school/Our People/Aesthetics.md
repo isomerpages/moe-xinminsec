@@ -419,11 +419,11 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a href="mailto:tan_zhen_wei_a@schools.gov.sg" target="" style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:thng_shalyn@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">-</a>
+              text-decoration: underline;">thng_shalyn@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
