@@ -38,8 +38,15 @@ a positive impact to address such issues within their sphere of influence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/XinminCares/students'%20reflection.jpg">
 </div>
 <p>
-<br>
+<br><strong>XinminCares Day (XCUBE 1 Programme)</strong>
 </p>
+<p>XinminCares Day is the grand finale of the XinminCares programme. Students
+will consolidate their learning and reflection by advocating the needs
+of the beneficiaries they worked with to their peers. In addition, XinminCares
+Day is also an important event where students acquire deeper understanding
+on the challenges that people with disabilities face daily through experiential
+learning. Activities such as seated volleyball and goalball also provide
+opportunities for students to participate in paralympic sports.</p>
 <p>
 <br>
 </p>
