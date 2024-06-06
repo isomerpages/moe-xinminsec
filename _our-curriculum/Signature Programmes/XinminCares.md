@@ -22,12 +22,11 @@ connect on a deeper level, enabling them to act and contribute in a genuinely
 meaningful way.</p>
 <p><strong>Our Students’ XinminCares Projects</strong> XinminCares provides
 opportunities for students to play a part to make their greater community
-a more inclusive and caring place for everyone. At the Secondary One level,
-our students get the chance to interact and befriend elderly residents
-in Thye Hwa Kwan Nursing Home. At the Secondary Two level, students are
-given opportunities to plan their own advocacy projects according to the
-needs of our partners, Fei Yue Community Services, the National Kidney
-Foundation (NKF), and Migrant Workers’ Centre (MWC).</p>
+a more inclusive and caring place for everyone. During the XinminCares
+Fair, students will first understand the needs of the beneficiaries before
+they decide as a class the community they wish to support. Some beneficiaries
+include Singapore Cancer Society, Thye Hwa Kuan Nursing Home and Migrant
+Worker’s Centre (MWC).</p>
 <p><strong>Captions:</strong>
 <br><strong>1+2</strong> (feel free to choose)– Our Sec 1 students underwent
 an ageing simulation to make sense of some difficulties the elderly may
