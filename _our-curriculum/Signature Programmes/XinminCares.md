@@ -27,6 +27,14 @@ Fair, students will first understand the needs of the beneficiaries before
 they decide as a class the community they wish to support. Some beneficiaries
 include Singapore Cancer Society, Thye Hwa Kuan Nursing Home and Migrant
 Worker’s Centre (MWC).</p>
+<p></p>
+<p><strong>We want to make a difference!</strong>
+<br>Through XinminCares, our students are encouraged to be active and reflective
+contributors who take responsibility for their community. Through taking
+concrete action, students will appreciate the many complex societal issues
+and challenges that their community and nation face and commit to make
+a positive impact to address such issues within their sphere of influence.</p>
+<p></p>
 <p><strong>Captions:</strong>
 <br><strong>1+2</strong> (feel free to choose)– Our Sec 1 students underwent
 an ageing simulation to make sense of some difficulties the elderly may
