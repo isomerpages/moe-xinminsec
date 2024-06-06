@@ -34,7 +34,6 @@ concrete action, students will appreciate the many complex societal issues
 and challenges that their community and nation face and commit to make
 a positive impact to address such issues within their sphere of influence.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/XinminCares/students'%20reflection.jpg">
 </div>
