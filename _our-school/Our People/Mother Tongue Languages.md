@@ -942,11 +942,12 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a href="mailto:tan_zhen_wei_a@schools.gov.sg" target="" style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:liow_kum_wah@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">-</a>
+              text-decoration: underline;">liow_kum_wah@schools.gov.sg
+</a>
         </div>
       </td>
 		</tr>
