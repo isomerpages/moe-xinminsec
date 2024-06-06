@@ -54,7 +54,10 @@ opportunities for students to participate in paralympic sports.</p>
 Secondary 4 students.
 <br>
 </p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XinminCares/Seated_Volleyball.jpg">
+</div>
+<p>Our secondary 2 students understanding more about seated volleyball!
 <br>
 </p>
 <p></p>
