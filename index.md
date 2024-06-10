@@ -30,6 +30,16 @@ sections:
       url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/homecoming-2024/
       image: /images/Announcement Front Images/Homecoming/Homecoming_2024_2.jpg
       alt: Image alt text
+  - infopic:
+      title: Every Xinmin Student a Curious Learner
+      id: infopic
+      description: Xinmin students are curious learners who are self-directed, possess
+        intellectual curiosity, and exercise adaptive and inventive thinking.
+      button: Find out more
+      url: https://www.xinminsec.moe.edu.sg/our-curriculum/the-xinmin-learning-experience/
+      image: /images/Announcement Front Images/Curious, Compassion
+        Confident/learner.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       button: More Posts
