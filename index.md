@@ -40,6 +40,17 @@ sections:
       image: /images/Announcement Front Images/Curious, Compassion
         Confident/learner.jpg
       alt: Image alt text
+  - infopic:
+      title: Every Xinmin Student a Compassionate Contributor
+      id: infopic
+      description: Xinmin students are compassionate contributors with strong civic
+        consciousness, are empathetic to those around them, and demonstrate
+        civic and global literacy.
+      button: Find out more
+      url: https://www.xinminsec.moe.edu.sg/programmes/xinmincares/
+      image: /images/Announcement Front Images/Curious, Compassion
+        Confident/compassionate.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       button: More Posts
