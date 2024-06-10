@@ -51,6 +51,17 @@ sections:
       image: /images/Announcement Front Images/Curious, Compassion
         Confident/compassionate.jpg
       alt: Image alt text
+  - infopic:
+      title: Every Xinmin Student a Confident Leader
+      id: infopic
+      description: Xinmin students are confident leaders who model the way,
+        communicate and collaborate skillfully, and practise effective decision
+        making.
+      button: Find out more
+      url: https://www.xinminsec.moe.edu.sg/programmes/xinmin-academy-of-leaders/
+      image: /images/Announcement Front Images/Curious, Compassion
+        Confident/leader.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       button: More Posts
