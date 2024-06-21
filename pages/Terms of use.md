@@ -14,7 +14,7 @@ Terms of Use, please do not use this Web Site.</p>
 posted on this page and your use of this Web Site after such changes have
 been posted will constitute your agreement to the modified Terms of Use
 and all of the changes.</p>
-<h3><strong>Proprietary Rights</strong></h3>
+<h3>Proprietary Rights</h3>
 <p>3. This Web Site is maintained by Xinmin Secondary School It is owned
 by Xinmin Secondary School.</p>
 <p>4. The materials located on this Web Site including the information and
@@ -22,9 +22,9 @@ software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Xinmin Secondary
 School.</p>
-<h3><strong>Privacy Policy</strong></h3>
+<h3>Privacy Policy</h3>
 <p>5. Click here to review this Web Site Privacy Statement.</p>
-<h3><strong>Restrictions on Use of Materials</strong></h3>
+<h3>Restrictions on Use of Materials</h3>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
 distributed in any way, without the prior written permission of Xinmin
@@ -38,12 +38,12 @@ other purpose will be a violation of Xinmin Secondary School’s copyright
 and other intellectual property rights. Graphics and images on this Web
 Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of Xinmin Secondary School.</p>
-<h3><strong>Right of Access</strong></h3>
+<h3>Right of Access</h3>
 <p>8. Xinmin Secondary School reserves all rights to deny or restrict access
 to this Web Site to any particular person, or to block access from a particular
 external address to this Web Site, at any time, without ascribing any reasons
 whatsoever.</p>
-<h3><strong>Disclaimer of Warranties and Liability</strong></h3>
+<h3>Disclaimer of Warranties and Liability</h3>
 <p>9. The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, Xinmin
 Secondary School does not warrant and hereby disclaims any warranty:</p>
@@ -59,7 +59,7 @@ loss of any kind caused as a result (direct or indirect) of the use of
 the Web Site, including but not limited to any damage or loss suffered
 as a result of reliance on the Contents contained in or available from
 the Web Site.</p>
-<h3><strong>Links from This Web Site to Other Web Sites</strong></h3>
+<h3>Links from This Web Site to Other Web Sites</h3>
 <p>11. This Web Site contains hyperlinks to web sites which are not maintained
 Xinmin Secondary School. Xinmin Secondary School is not responsible for
 the contents of those web sites and shall not be liable for any damages
@@ -69,7 +69,7 @@ access to such web sites are entirely at your own risk.</p>
 circumstances shall Xinmin Secondary School be considered to be associated
 or affiliated with any trade or service marks, logos, insignia or other
 devices used or appearing on web sites to which this Web Site is linked.</p>
-<h3><strong>Links to This Web Site from Other Web Sites</strong></h3>
+<h3>Links to This Web Site from Other Web Sites</h3>
 <p>13. Except as set forth below, caching and links to, and the framing of
 this Web Site or any of the Contents are prohibited.</p>
 <p>14. You must secure permission from Xinmin Secondary School prior to hyperlinking
@@ -95,6 +95,6 @@ property, proprietary, privacy or publicity rights.</p>
 links or frames and disclaims any responsibility for the content available
 on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
-<h3><strong>Governing Law</strong></h3>
+<h3>Governing Law</h3>
 <p>19. These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>
