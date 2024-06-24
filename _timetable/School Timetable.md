@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>For classes, please click <a href="https://drive.google.com/drive/folders/1yxPoY1T8elgA12x8oiZcZn9VeVB_kagY?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>
 <br>For teachers, please click <a href="https://drive.google.com/drive/folders/1kN1DwWUNpRaKb7ypW-KAfMJCepOm776v" rel="noopener noreferrer nofollow" target="_blank">here</a> 
-<br>
+<br>Please access the free period portal <a href="https://script.google.com/a/macros/moe.edu.sg/s/AKfycby4S3rw1aBYtCc1XFuD0bJNDmoZ7xtLVBI_b9rYgKRCZ3GWGxBRVnB3SzdX87rCdvM5/exec" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
