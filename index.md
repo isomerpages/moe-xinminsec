@@ -49,7 +49,7 @@ sections:
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/programmes/xinmincares/
       image: /images/Announcement Front Images/Curious, Compassion
-        Confident/compassionate.jpg
+        Confident/ompassionate2_1.jpg
       alt: Image alt text
   - infopic:
       title: Every Xinmin Student a Confident Leader
