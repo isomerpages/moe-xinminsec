@@ -92,7 +92,7 @@ the nomination write-up from students, teachers, parents, CCA coaches/instructor
 <p>Nominee must be &nbsp;Sec 2 &amp; 4/5 students only.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>More Information:</p>
 <p>Nomination period: 25<sup>th</sup> June 2024 to 6<sup>th</sup> July 2024
 (1800hrs)</p>
