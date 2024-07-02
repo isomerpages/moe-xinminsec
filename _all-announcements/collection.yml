@@ -1,5 +1,4 @@
 collections:
   all-announcements:
     output: true
-    order:
-      - Homecoming 2024.md
+    order: []
