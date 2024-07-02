@@ -22,15 +22,6 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Homecoming 2024
-      id: infopic
-      description: Calling all XMS Alumni to join us on Saturday 29 June for our
-        annual Homecoming.
-      button: Read more
-      url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/homecoming-2024/
-      image: /images/Announcement Front Images/Homecoming/Homecoming_2024_2.jpg
-      alt: Image alt text
-  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess
