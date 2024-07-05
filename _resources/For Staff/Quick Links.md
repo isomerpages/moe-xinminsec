@@ -11,8 +11,6 @@ variant: tiptap
 <p><a href="https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&amp;ctz=Asia/Singapore" rel="noopener noreferrer nofollow" target="_blank">Academic Calendar</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="/resources/students/timetables/school-timetable" rel="noopener noreferrer nofollow" target="_blank">School Timetable</a>
 </p>
