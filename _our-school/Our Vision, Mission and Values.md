@@ -233,8 +233,10 @@ platforms, including digital ones, in response to local and global issues</p>
 <p><strong>Every Xinmin Student a Confident Leader</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Every Xinmin Student a Confident Leader" src="https://www.xinminsec.moe.edu.sg/images/pic3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Curious, Compassion Confident/leader.jpg">
 </div>
+<p>Xinmin students are confident leaders who model the way, communicate and
+collaborate skillfully, and practise effective decision making.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -251,30 +253,32 @@ platforms, including digital ones, in response to local and global issues</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Civic Consciousness</strong>
+<p><strong>Modelling the Way</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Demonstrate understanding of values, ideals, and issues of personal, community,
-and national significance</p>
+<p>Possess a strong sense of purpose in life, rooted in sound values</p>
 </li>
 <li>
-<p>Develop awareness of local and global issues, interconnections, and trends,
-and form informed perspectives on them</p>
+<p>Set an example for those around them and take proactive steps for collective
+benefit</p>
 </li>
 <li>
-<p>Recognise that they play an important role in contributing to a better
-school, community, nation, and the world</p>
+<p>Possess moral courage to do what is right and stand up for others, even
+in difficult situations</p>
+</li>
+<li>
+<p>Demonstrate resilience in the face of adversity</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Empathy</strong>
+<p><strong>Communication and Collaboration</strong>
 </p>
 <p></p>
 </td>
@@ -291,7 +295,7 @@ school, community, nation, and the world</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Civic and Global Literacy</strong>
+<p><strong>Effective Decision Making</strong>
 </p>
 <p></p>
 </td>
