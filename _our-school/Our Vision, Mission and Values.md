@@ -152,8 +152,11 @@ strategies</p>
 <p><strong>Every Xinmin Student a Compassionate Contributor</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Every Xinmin Student a Compassionate Contributor" src="https://www.xinminsec.moe.edu.sg/images/pic2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Curious, Compassion Confident/ompassionate2_1.jpg">
 </div>
+<p>Xinmin students are compassionate contributors with strong civic consciousness,
+are empathetic to those around them, and demonstrate civic and global literacy.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
