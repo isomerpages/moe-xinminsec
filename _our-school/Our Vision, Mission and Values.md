@@ -68,8 +68,9 @@ in the process.</p>
 <h2>Desired Xinmin Outcomes</h2>
 <p><strong>Every Xinmin Student a Curious Learner</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Every Xinmin Student a Curious Learner" src="https://www.xinminsec.moe.edu.sg/images/pic1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Curious, Compassion Confident/learner.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
