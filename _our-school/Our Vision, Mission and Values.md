@@ -236,60 +236,61 @@ are empathetic to those around them, and demonstrate civic and global literacy.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Purpose</strong>
+<p><strong>Civic Consciousness </strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>knows himself or herself, and his or her purpose.
-<br>believes in himself or herself in achieving that purpose.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate understanding of values, ideals, and issues of personal, community,
+and national significance</p>
+</li>
+<li>
+<p>Develop awareness of local and global issues, interconnections, and trends,
+and form informed perspectives on them</p>
+</li>
+<li>
+<p>Recognise that they play an important role in contributing to a better
+school, community, nation, and the world</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Resilience</strong>
+<p><strong>Empathy</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>understands the realities yet remains positive.
-<br>perseveres even when faced with challenges.
-<br>has strength, courage and perseverance in the face of adversity.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>See the intrinsic worth in all people</p>
+</li>
+<li>
+<p>Empathise and make a conscious effort to support people in need</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leader</strong>
+<p><strong>Civic and Global Literacy</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>is a good role model to his or her peers and juniors.
-<br>is motivated to grow and develop himself or herself, and
-<br>leads others to grow and develop themselves.
-<br>takes the initiative to act purposefully for the common good.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Communicator</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>has good communication skills, i.e. listen, evaluate, express, clarify.
-<br>communicates effectively in consideration of the purpose, audience and
-context and the tone to use.
-<br>is able to influence and persuade others effectively through his or her
-communication.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Collaborator</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>takes on his or her responsibilities to contribute to the group,
-<br>works with others to achieve a shared goal, and
-<br>accepts decisions which he or she disagrees with for the sake of achieving
-a common goal.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Play active and constructive roles to improve the school, community, nation,
+and the world</p>
+</li>
+<li>
+<p>Interact confidently with people from Singapore and beyond on different
+platforms, including digital ones, in response to local and global issues</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
