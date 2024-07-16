@@ -310,12 +310,15 @@ group to achieve its goals</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Play active and constructive roles to improve the school, community, nation,
-and the world</p>
+<p>Seek information, perspectives, and feedback on the issue at hand from
+multiple sources</p>
 </li>
 <li>
-<p>Interact confidently with people from Singapore and beyond on different
-platforms, including digital ones, in response to local and global issues</p>
+<p>Analyse the information, perspectives, and feedback</p>
+</li>
+<li>
+<p>Make, as well as accept, decisions on the most appropriate course of action
+to achieve shared objectives and for the common good</p>
 </li>
 </ul>
 </td>
