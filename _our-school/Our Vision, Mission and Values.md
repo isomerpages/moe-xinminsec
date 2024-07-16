@@ -112,10 +112,14 @@ curiosity, and exercise adaptive and inventive thinking.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>owns his or her own learning and development.
-<br>sets his or her own learning goals, and
-<br>paces himself or herself towards these goals, monitoring his or her progress
-along the way.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess an active desire and interest to learn about the world</p>
+</li>
+<li>
+<p>Broaden their perspectives proactively</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
