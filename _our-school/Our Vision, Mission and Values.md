@@ -94,8 +94,14 @@ curiosity, and exercise adaptive and inventive thinking.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Own their learning and development by setting meaningful goals</p>
-<p>- Monitor progress and work towards achieving their goals</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Own their learning and development by setting meaningful goals</p>
+</li>
+<li>
+<p>Monitor progress and work towards achieving their goals</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
