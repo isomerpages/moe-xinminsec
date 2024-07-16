@@ -89,18 +89,21 @@ curiosity, and exercise adaptive and inventive thinking.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Intellectual Curiosity</strong>
+<p><strong>Self-Directedness</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>is inquisitive about the world.
-<br>proactively broadens his or her perspectives.</p>
+<p>- Own their learning and development by setting meaningful goals</p>
+<p>- Monitor progress and work towards achieving their goals</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Self-Directed &amp; Motivated</strong>
+<p><strong>Intellectual Curiosity</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>owns his or her own learning and development.
@@ -111,25 +114,14 @@ along the way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Flexibility &amp; Adaptability</strong>
+<p><strong>Adaptive and Inventive Thinking</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>is open to adopt different ideas and viewpoints.
 <br>is able to adjust to new conditions by generating new ideas and exploring
 different pathways.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Critical Thinking</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>uses evidence to support his or her views, and draws logical conclusions.
-<br>makes informed decisions after considering various options.
-<br>suspends judgment to reassess conclusions when presented with alternative
-viewpoints.</p>
 </td>
 </tr>
 </tbody>
