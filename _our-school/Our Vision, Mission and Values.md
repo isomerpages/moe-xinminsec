@@ -285,10 +285,18 @@ in difficult situations</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>See the intrinsic worth in all people</p>
+<p>Communicate information effectively, and co-construct meaning</p>
 </li>
 <li>
-<p>Empathise and make a conscious effort to support people in need</p>
+<p>Engage diverse perspectives with empathy and open-mindedness</p>
+</li>
+<li>
+<p>Interact and work effectively in group settings to contribute to shared
+goals</p>
+</li>
+<li>
+<p>Define and negotiate collectively the roles and tasks determined by the
+group to achieve its goals</p>
 </li>
 </ul>
 </td>
