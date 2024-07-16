@@ -68,10 +68,12 @@ in the process.</p>
 <h2>Desired Xinmin Outcomes</h2>
 <p><strong>Every Xinmin Student a Curious Learner</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Curious, Compassion Confident/learner.jpg">
 </div>
+<p>Xinmin students are curious learners who are self-directed, possess intellectual
+curiosity, and exercise adaptive and inventive thinking.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
