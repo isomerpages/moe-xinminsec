@@ -211,8 +211,9 @@ school, community, nation, and the world</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Moral Courage</strong>
+<p><strong>Civic and Global Literacy</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
