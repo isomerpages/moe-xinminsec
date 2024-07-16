@@ -173,34 +173,40 @@ are empathetic to those around them, and demonstrate civic and global literacy.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Awareness of Self, Others, Environment</strong>
+<p><strong>Civic Consciousness</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>is reflective and has a strong sense of self awareness.
-<br>shows awareness of the complexities of issues (local, regional, global).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate understanding of values, ideals, and issues of personal, community,
+and national significance</p>
+</li>
+<li>
+<p>Develop awareness of local and global issues, interconnections, and trends,
+and form informed perspectives on them</p>
+</li>
+<li>
+<p>Recognise that they play an important role in contributing to a better
+school, community, nation, and the world</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Empathy and Compassion</strong>
+<p><strong>Empathy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>is respectful towards self and others.
-<br>considers others before self.
-<br>is able to see from the perspective of others.
-<br>is mindful of those who trail behind and lends them a helping hand.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Gratitude</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>recognises how others have supported him or her.
-<br>is committed to serve others and give back to society.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>See the intrinsic worth in all people</p>
+</li>
+<li>
+<p>Empathise and make a conscious effort to support people in need</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -209,8 +215,16 @@ are empathetic to those around them, and demonstrate civic and global literacy.<
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>does what is right even when it is difficult.
-<br>stands up for others.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Play active and constructive roles to improve the school, community, nation,
+and the world</p>
+</li>
+<li>
+<p>Interact confidently with people from Singapore and beyond on different
+platforms, including digital ones, in response to local and global issues</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -236,7 +250,7 @@ are empathetic to those around them, and demonstrate civic and global literacy.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Civic Consciousness </strong>
+<p><strong>Civic Consciousness</strong>
 </p>
 <p></p>
 </td>
