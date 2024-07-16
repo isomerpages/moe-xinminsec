@@ -43,7 +43,7 @@ variant: tiptap
               width: 121px;
               height: 171px;" height="auto" width="100%" alt="Wee Kim Chye.png" src="/images/Wee%20Kim%20Chye.png">
 </div>
-<p><strong>Chairman:</strong> Mr Wee Kim Chye</p>
+<p><strong>Chairman:</strong> Mr Wee Kim Chye -</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -59,7 +59,7 @@ variant: tiptap
               width: 120px;
               height: 169px;" height="auto" width="100%" alt="Phua Soon Yew.png" src="/images/Phua%20Soon%20Yew.png">
 </div>
-<p><strong>Vice-Chairman:</strong> Mr Phua Soon Yew</p>
+<p><strong>Vice-Chairman:</strong> Mr Phua Soon Yew -</p>
 </td>
 </tr>
 <tr>
