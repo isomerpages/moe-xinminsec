@@ -1842,7 +1842,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Physical Education &amp; CCA
+          Designation: Subject Head - Physical Education
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1852,7 +1852,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Physical Education &amp; CCA
+          Department: Physical Education
         </div>
         <div style="margin: 0px;
             outline: 0px;
