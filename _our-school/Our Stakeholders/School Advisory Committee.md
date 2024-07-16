@@ -27,7 +27,7 @@ variant: tiptap
               width: 125px;
               height: 176px;" height="auto" width="100%" alt="Chua Kee Teang.png" src="/images/Chua%20Kee%20Teang.png">
 </div>
-<p><strong>Advisor:</strong> Mr Chua Kee Teang</p>
+<p><strong>Advisor:</strong> Mr Chua Kee Teang -</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
