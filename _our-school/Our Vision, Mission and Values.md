@@ -129,9 +129,22 @@ curiosity, and exercise adaptive and inventive thinking.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>is open to adopt different ideas and viewpoints.
-<br>is able to adjust to new conditions by generating new ideas and exploring
-different pathways.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assess different contexts and situations to make connections and draw
+new insights</p>
+</li>
+<li>
+<p>Manage complexities and ambiguities by adjusting their perspectives and
+strategies</p>
+</li>
+<li>
+<p>Explore possibilities and generate novel and useful ideas</p>
+</li>
+<li>
+<p>Evaluate and refine ideas to formulate effective and ethical solutions</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
