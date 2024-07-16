@@ -147,7 +147,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Administration
+          Department: Operations
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -400,6 +400,16 @@ variant: markdown
             font-size: 17px;
             font-weight: 400;">
           Designation: Corporate Support Officer&nbsp;
+        </div>
+				 <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Administration
         </div>
         <div style="margin: 0px;
             outline: 0px;
