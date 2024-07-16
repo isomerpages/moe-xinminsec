@@ -73,7 +73,6 @@ in the process.</p>
 </div>
 <p>Xinmin students are curious learners who are self-directed, possess intellectual
 curiosity, and exercise adaptive and inventive thinking.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
