@@ -90,10 +90,10 @@ variant: tiptap
               display: block;
               background-color: initial;
               text-align: left;
-              width: 124px;
-              height: 175px;" height="auto" width="100%" alt="Agnes Liu Hui Jin.png" src="/images/Agnes%20Liu%20Hui%20Jin.png">
+              width: 123px;
+              height: 173px;" height="auto" width="100%" alt="Tan Beng Hwee.png" src="/images/Tan%20Beng%20Hwee.png">
 </div>
-<p><strong>Committee Member:</strong> Ms Liu Hui Chen Agnes</p>
+<p><strong>Committee Member:</strong> Mr Andrew Tan Beng Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -140,10 +140,10 @@ variant: tiptap
               display: block;
               background-color: initial;
               text-align: left;
-              width: 123px;
-              height: 173px;" height="auto" width="100%" alt="Tan Beng Hwee.png" src="/images/Tan%20Beng%20Hwee.png">
+              width: 124px;
+              height: 175px;" height="auto" width="100%" alt="Agnes Liu Hui Jin.png" src="/images/Agnes%20Liu%20Hui%20Jin.png">
 </div>
-<p><strong>Committee Member:</strong> Mr Andrew Tan Beng Hwee</p>
+<p><strong>Committee Member:</strong> Ms Liu Hui Chen Agnes</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
