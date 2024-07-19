@@ -1,5 +1,5 @@
 ---
-title: English Language & Literature
+title: English Language and Literature
 permalink: /about-us/our-people/english-language-n-literature/
 description: ""
 third_nav_title: Our People
