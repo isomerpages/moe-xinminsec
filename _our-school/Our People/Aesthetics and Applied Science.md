@@ -367,7 +367,7 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/sl_a_lady.png" alt="test.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Arts_Education/Edna.jpg" alt="test.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
