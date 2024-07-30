@@ -345,7 +345,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Aesthetics
+          Department: Aesthetics and Applied Science
         </div>
         <div style="margin: 0px;
             outline: 0px;
