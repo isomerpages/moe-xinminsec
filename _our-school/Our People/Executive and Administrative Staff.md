@@ -1280,8 +1280,7 @@ variant: markdown
               text-decoration: underline;" target="" href="mailto:tan_swee_beng@schools.gov.sg">tan_swee_beng@schools.gov.sg</a>
         </div>
       </td>
-    </tr>
-		<tr style="margin: 0px; outline: 0px; padding: 0px">
+    </tr><tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 7px 15px 0px;
@@ -1328,7 +1327,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Information Technology
+          Department: Technology and Business
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1393,7 +1392,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: Information Technology
+          Department: Technology and Business
         </div>
         <div style="margin: 0px;
             outline: 0px;
