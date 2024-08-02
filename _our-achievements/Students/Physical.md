@@ -225,7 +225,7 @@ variant: tiptap
 <p>Inter – Schools Bouldering Championships (ISBC)</p>
 </td>
 <td rowspan="13" colspan="1">
-<p>Rockclimbing
+<p><strong>Rockclimbing </strong>
 <br>C Division Girls – Champions
 <br>Rachelle Tok Enya (103) – 5th in Individual Category &nbsp;
 <br>
