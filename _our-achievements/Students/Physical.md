@@ -61,12 +61,7 @@ variant: tiptap
 <br>'B’ Div Boys : 20th position
 <br>‘B’ Div Girls : 29th position
 <br>'C’ Div Boys : 20th position
-<br>‘C’ Div Girls : 23th position
-<br>
-<br>
-<br>
-<br>
-</p>
+<br>‘C’ Div Girls : 23th position</p>
 </td>
 </tr>
 <tr>
@@ -77,9 +72,7 @@ variant: tiptap
 <p>C Division (Girls) 6th &amp; 7th (Individual)
 <br>C Division (Boys) 4th (Individual)
 <br>B Division (Girls) 8th (Individual)
-<br>C Division (Boys) 3rd (Individual)
-<br>
-</p>
+<br>C Division (Boys) 3rd (Individual)</p>
 </td>
 </tr>
 <tr>
@@ -89,9 +82,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>C Division (Boys) 14th
 <br>B Division (Boys) 22nd &amp; 37th
-<br>B Division (Girls) 23rd
-<br>
-</p>
+<br>B Division (Girls) 23rd</p>
 </td>
 </tr>
 <tr>
