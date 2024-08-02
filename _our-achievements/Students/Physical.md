@@ -155,12 +155,14 @@ variant: tiptap
 <br>B Division Girls – Champions
 <br>Nationals – Top 16
 <br>
-<br>Badminton (Girls) (Zonal)
+<br><strong>Badminton (Girls)</strong> (Zonal)
 <br>
 <br>B Division Girls -3rd
 <br>Nationals – Top 16
 <br>
-<br>Shooting – Air Rifle (National)
+<br><strong>Shooting</strong>
+</p>
+<p>Air Rifle (National)
 <br>
 <br>B Division Boys – Champions
 <br>Caden Goh Ding Xun (305) – 5th&nbsp;in Individual Category
@@ -179,7 +181,7 @@ variant: tiptap
 <br>Angie Wong En Qi (401) – 6th in Individual Category &nbsp; &nbsp; &nbsp;
 &nbsp;
 <br>
-<br>Cross – Country:
+<br><strong>Cross Country</strong>
 <br>B Division Girls: Hoh Ying Min (401) – 4th in Individual Category &nbsp;
 <br>
 </p>
