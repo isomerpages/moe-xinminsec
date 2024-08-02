@@ -5,12 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p>
-<br>
-</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -26,9 +22,6 @@ third_nav_title: Students
 <td rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>DEPARTMENT</p>
-</td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
@@ -39,9 +32,6 @@ third_nav_title: Students
 </td>
 <td rowspan="1" colspan="1">
 <p>The Most Promising Award (Individual)</p>
-</td>
-<td rowspan="4" colspan="1">
-<p>MTL</p>
 </td>
 </tr>
 <tr>
@@ -78,9 +68,6 @@ third_nav_title: Students
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,9 +86,6 @@ third_nav_title: Students
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Math</p>
 </td>
 </tr>
 <tr>
@@ -131,9 +115,6 @@ third_nav_title: Students
 <td rowspan="1" colspan="1">
 <p>Champion and 2nd runner up</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>CPA</p>
-</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
@@ -145,9 +126,6 @@ Explore Tracks</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Award( Best Presentation)</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Computing</p>
 </td>
 </tr>
 <tr>
@@ -167,9 +145,6 @@ Explore Tracks</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Honourable Mention Awards</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Humanities</p>
 </td>
 </tr>
 <tr>
@@ -194,9 +169,6 @@ Explore Tracks</p>
 <br>Water Stewardship Award
 <br>Climate Action Conservation Award</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Media Club</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -211,7 +183,7 @@ Explore Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -225,9 +197,6 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="10" colspan="1">
@@ -239,9 +208,6 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -249,9 +215,6 @@ Explore Tracks</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -261,9 +224,6 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>Champion</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -271,9 +231,6 @@ Explore Tracks</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st runner-up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -283,9 +240,6 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>1st runner-up</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -293,9 +247,6 @@ Explore Tracks</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st runner-up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -305,9 +256,6 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>1st runner-up</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -315,9 +263,6 @@ Explore Tracks</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd runner-up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -327,9 +272,6 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>Top 3</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -338,12 +280,9 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>Quarterfinalist</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
@@ -357,9 +296,6 @@ Explore Tracks</p>
 <td rowspan="1" colspan="1">
 <p>ACHIEVEMENT</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -370,10 +306,10 @@ Explore Tracks</p>
 <br>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
 <p></p>
