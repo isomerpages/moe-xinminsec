@@ -14,13 +14,13 @@ staff of Xinmin Secondary School.</p>
 <h4>Beware of these scam phone calls:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>They come from overseas numbers. Note that Xinmin Secondary School does
-not make calls from overseas.</p>
+<p>If the calls come from overseas numbers, you may wish to note that Xinmin
+Secondary School does not make calls from overseas</p>
 </li>
 <li>
-<p>For example, the callers invite contractors or vendors to bid for renovation/refurbishment
+<p>If the callers invite contractors or vendors to bid for renovation/refurbishment
 jobs but require them to purchase materials from another company or their
-own company first.</p>
+own company first, it is likely to be a scam.</p>
 <p></p>
 </li>
 </ul>
