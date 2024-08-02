@@ -289,7 +289,7 @@ Explore Tracks</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1 in 3 of our O-Level students achieved 5 or more Distinctions
+<p>1 in 3 of our O-Level students achieved 5 or more Distinctions \
 <br>85.5% of O-Level students eligible for progression to JC
 <br>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme
@@ -322,4 +322,5 @@ Programme</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
