@@ -15,7 +15,7 @@ staff of Xinmin Secondary School.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If the calls come from overseas numbers, you may wish to note that Xinmin
-Secondary School does not make calls from overseas</p>
+Secondary School does not make calls from overseas.</p>
 </li>
 <li>
 <p>If the callers invite contractors or vendors to bid for renovation/refurbishment
