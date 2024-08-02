@@ -126,28 +126,6 @@ variant: tiptap
 <br>B Division Girls (Zonal) – Champions
 <br>Nationals – Top 16
 <br>
-<br><strong>Badminton (Girls) </strong>
-<br>B Division Girls -3rd
-<br>Nationals – Top 16
-<br>
-<br><strong>Shooting </strong>
-<br>Air Rifle (National)
-<br>
-<br>B Division Boys – Champions
-<br>Caden Goh Ding Xun (305) – 5th&nbsp;in Individual Category
-<br>
-<br>B Division Girls – 6th
-<br>Neo Kah Yin Yvaine (302) – 3rd&nbsp;in Individual Category
-<br>
-<br>Air Pistol (National)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-<br>B Division Boys – Champions&nbsp; &nbsp;
-<br>Andrew Khoo Zhi Cheng (406) – Individual Champion
-<br>Teo Kai Jie Davion (402) – 4th in Individual Category
-<br>
-<br>B Division Girls – 5th&nbsp; &nbsp;
-<br>Angie Wong En Qi (401) – 6th in Individual Category &nbsp; &nbsp; &nbsp;
-&nbsp;
-<br>
 <br><strong>Cross Country </strong>
 <br>B Division Girls: Hoh Ying Min (401) – 4th in Individual Category &nbsp;
 <br>
@@ -156,7 +134,6 @@ variant: tiptap
 <br>Nationals – Top 16
 <br>
 <br><strong>Badminton (Girls)</strong> (Zonal)
-<br>
 <br>B Division Girls -3rd
 <br>Nationals – Top 16
 <br>
