@@ -4,11 +4,11 @@ permalink: /scam-advisory/
 variant: tiptap
 description: ""
 ---
-<p>Scam Alert: Impersonation Phone Calls</p>
+<h4>Scam Alert: Impersonation Phone Calls</h4>
 <p>We have been alerted to incidents where members of the public, including
 contractors, have received phone calls from individuals attempting to impersonate
-staff of Hwa Chong Institution.</p>
-<p>Beware of these scam phone calls:</p>
+staff of Xinmin Secondary School.</p>
+<h4>Beware of these scam phone calls:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>They come from overseas numbers. Note that HCI does not make calls from
@@ -21,7 +21,7 @@ own company first.</p>
 <p></p>
 </li>
 </ul>
-<p>Protect yourself:</p>
+<h4>Protect yourself:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Be vigilant. If you receive such a call, ignore it and do not pick up.</p>
@@ -37,7 +37,7 @@ etc.</p>
 <p></p>
 </li>
 </ul>
-<p>Report incidents:</p>
+<h4>Report incidents:</h4>
 <p>If you have any information related to such incidents, you may:</p>
 <ul data-tight="true" class="tight">
 <li>
