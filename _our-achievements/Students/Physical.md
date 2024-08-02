@@ -128,10 +128,6 @@ variant: tiptap
 <br><strong>Cross Country </strong>
 <br>B Division Girls: Hoh Ying Min (401) – 4th in Individual Category &nbsp;
 <br>
-<br>(Zonal)
-<br>B Division Girls – Champions
-<br>Nationals – Top 16
-<br>
 <br><strong>Badminton (Girls)</strong> (Zonal)
 <br>B Division Girls -3rd
 <br>Nationals – Top 16
