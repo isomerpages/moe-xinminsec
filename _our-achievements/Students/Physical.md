@@ -178,13 +178,7 @@ variant: tiptap
 <br>Teo Kai Jie Davion (402) – 4th in Individual Category
 <br>
 <br>B Division Girls – 5th&nbsp; &nbsp;
-<br>Angie Wong En Qi (401) – 6th in Individual Category &nbsp; &nbsp; &nbsp;
-&nbsp;
-<br>
-<br><strong>Cross Country</strong>
-<br>B Division Girls: Hoh Ying Min (401) – 4th in Individual Category &nbsp;
-<br>
-</p>
+<br>Angie Wong En Qi (401) – 6th in Individual Category &nbsp;</p>
 </td>
 </tr>
 <tr></tr>
