@@ -31,8 +31,7 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball
-<br>
+<p><strong>Volleyball </strong>
 <br>Girls
 <br>B Division (Zonal) – Champion
 <br>Nationals – Top 8
@@ -41,12 +40,11 @@ variant: tiptap
 <br>B Division (Zonal) – 2nd
 <br>Nationals – 3rd
 <br>
-<br>Badminton (Girls)
-<br>
+<br><strong>Badminton (Girls) </strong>
 <br>B Division (Zonal) - 3rd
 <br>B Division Nationals – Top 8
 <br>
-<br>Shooting
+<br><strong>Shooting </strong>
 <br>C Division Rifle (Boys) - 2nd (Individual)
 <br>B Division Rifle (Boys) - 3rd (Individual)
 <br>C Division Pistol (Girls) - 3rd (Individual)
@@ -54,10 +52,10 @@ variant: tiptap
 <br>C Division (Girls) - 4th (Team)
 <br>
 <br>
-<br>Floorball
+<br><strong>Floorball </strong>
 <br>C Division (Boys) - League 1 ongoing
 <br>
-<br>Cross Country
+<br><strong>Cross Country </strong>
 <br>'B’ Div Boys : 20th position
 <br>‘B’ Div Girls : 29th position
 <br>'C’ Div Boys : 20th position
@@ -124,17 +122,15 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="31" colspan="1">
-<p>Volleyball
-<br>
+<p><strong>Volleyball </strong>
 <br>B Division Girls (Zonal) – Champions
 <br>Nationals – Top 16
 <br>
-<br>Badminton (Girls)
-<br>
+<br><strong>Badminton (Girls) </strong>
 <br>B Division Girls -3rd
 <br>Nationals – Top 16
 <br>
-<br>Shooting
+<br><strong>Shooting </strong>
 <br>Air Rifle (National)
 <br>
 <br>B Division Boys – Champions
@@ -144,7 +140,6 @@ variant: tiptap
 <br>Neo Kah Yin Yvaine (302) – 3rd&nbsp;in Individual Category
 <br>
 <br>Air Pistol (National)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-<br>
 <br>B Division Boys – Champions&nbsp; &nbsp;
 <br>Andrew Khoo Zhi Cheng (406) – Individual Champion
 <br>Teo Kai Jie Davion (402) – 4th in Individual Category
@@ -153,7 +148,7 @@ variant: tiptap
 <br>Angie Wong En Qi (401) – 6th in Individual Category &nbsp; &nbsp; &nbsp;
 &nbsp;
 <br>
-<br>Cross Country
+<br><strong>Cross Country </strong>
 <br>B Division Girls: Hoh Ying Min (401) – 4th in Individual Category &nbsp;
 <br>
 <br>(Zonal)
