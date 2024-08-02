@@ -32,8 +32,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Volleyball </strong>
-<br>Girls
-<br>B Division (Zonal) – Champion
+<br>B Division Girls (Zonal) – Champion
 <br>Nationals – Top 8
 <br>
 <br>Boys
@@ -56,10 +55,10 @@ variant: tiptap
 <br>C Division (Boys) - League 1 ongoing
 <br>
 <br><strong>Cross Country </strong>
-<br>'B’ Div Boys : 20th position
-<br>‘B’ Div Girls : 29th position
-<br>'C’ Div Boys : 20th position
-<br>‘C’ Div Girls : 23th position</p>
+<br>B Div Boys : 20th position
+<br>B Div Girls : 29th position
+<br>C Div Boys : 20th position
+<br>C Div Girls : 23th position</p>
 </td>
 </tr>
 <tr>
