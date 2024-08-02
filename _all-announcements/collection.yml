@@ -1,4 +1,5 @@
 collections:
   all-announcements:
     output: true
-    order: []
+    order:
+      - Scam Advisory.md
