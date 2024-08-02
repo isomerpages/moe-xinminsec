@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
+<p>
+<br>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -67,7 +70,7 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Playground</p>
@@ -179,9 +182,198 @@ Explore Tracks</p>
 <br>Champions</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Climate Fresk STEM Showcase and Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Gaia Guardian Trophy (best performing school)
+<br>Water Stewardship Award
+<br>Climate Action Conservation Award</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Media Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge 2024
+<br>Smart EV Mobile Robot challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone Schools Chinese Speech Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ORION X: Decrypted Ngee Ann Polytechnic's School of InfoComm Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TP x VJC Data Science Hackathon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ACJC Speech Arts (Comic Monologue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IMDA National Youth Tech Championship 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mid-Year Debate Invitationals 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIT-VJC INSPIRE Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Istana Heritage Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd runner-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EBS Digital Tic-Tac-Toe Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarterfinalist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>1 in 3 of our O-Level students achieved 5 or more Distinctions
+<br>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
+Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p></p>
