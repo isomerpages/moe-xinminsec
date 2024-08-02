@@ -50,7 +50,6 @@ variant: tiptap
 <br>B Division (Boys) - 1st (Team)
 <br>C Division (Girls) - 4th (Team)
 <br>
-<br>
 <br><strong>Floorball </strong>
 <br>C Division (Boys) - League 1 ongoing
 <br>
