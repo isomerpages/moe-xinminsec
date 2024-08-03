@@ -86,18 +86,6 @@ variant: tiptap
 <p>Concert Band Team B – Accomplishment</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>76th&nbsp;Speech Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heng Chin Soo Award for Visual, Creative &amp; Performing Arts – Nur Sophia
-Zahra Khan</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>
