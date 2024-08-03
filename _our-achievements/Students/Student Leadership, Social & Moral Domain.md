@@ -142,30 +142,6 @@ Gold)
 <br>St John Brigade SJB Corps Achievement Award – Gold</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clubs and Societies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate
-<br>Singapore Secondary School Debate Championship 2023 - Quarterfinals round,
-9th and 11th Overall Best Speaker
-<br>
-<br>Mid Year Debate Invitationals 2023: 1st Runner Up (Overall), 3rd, 8th
-and 16th Best Overall Speakerse
-<br>
-<br>Art Club
-<br>Avatar Art Competition
-<br>Tan Yan Yu (304) - 2nd
-<br>Aura Airwan (203), Aaden Goh (304) - Finalists
-<br>
-<br>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
