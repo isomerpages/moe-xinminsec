@@ -27,8 +27,9 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="16" colspan="1">
 <p>2024</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024 North Zone Schools Chinese Speech Competition</p>
@@ -62,9 +63,6 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>STEM Playground</p>
 </td>
@@ -81,9 +79,6 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
-<p>2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>International Mathematical Modeling Challenge (IMMC)</p>
 </td>
@@ -109,9 +104,6 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>IgnITE Skills Challenge 2024
 <br>Smart EV Mobile Robot challenge</p>
 </td>
@@ -120,9 +112,6 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Singapore International Mathematical and Computational Challenge 2024:
 Explore Tracks</p>
@@ -140,9 +129,6 @@ Explore Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>International Model United Nations (IMUNC) 2024</p>
 </td>
@@ -162,9 +148,6 @@ Explore Tracks</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Climate Fresk STEM Showcase and Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,9 +157,6 @@ Explore Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>IgnITE Skills Challenge 2024
 <br>Smart EV Mobile Robot challenge</p>
