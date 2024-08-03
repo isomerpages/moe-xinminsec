@@ -100,4 +100,123 @@ variant: tiptap
 <p>
 <br>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition / Platform</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniformed Groups Company Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade
+<br>J M Fraser Award for Excellence – High Distinction (previously known as
+Gold)
+<br>
+<br>Girls’ Brigade
+<br>Company Award – Gold
+<br>
+<br>National Police Cadet Corps
+<br>Unit Overall Proficiency Award – Gold
+<br>
+<br>National Cadet Corps (Land)
+<br>Unit Recognition – Gold
+<br>
+<br>St John Brigade SJB Corps Achievement Award – Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clubs and Societies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate
+<br>Singapore Secondary School Debate Championship 2023 - Quarterfinals round,
+9th and 11th Overall Best Speaker
+<br>
+<br>Mid Year Debate Invitationals 2023: 1st Runner Up (Overall), 3rd, 8th
+and 16th Best Overall Speakerse
+<br>
+<br>Art Club
+<br>Avatar Art Competition
+<br>Tan Yan Yu (304) - 2nd
+<br>Aura Airwan (203), Aaden Goh (304) - Finalists
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition / Platform</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Uniformed Groups Company Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade
+<br>J M Fraser Award for Excellence – High Distinction (previously known as
+Gold)
+<br>
+<br>Girls’ Brigade
+<br>Company Award – Gold
+<br>
+<br>National Police Cadet Corps
+<br>Unit Overall Proficiency Award – Gold
+<br>
+<br>National Cadet Corps (Land)
+<br>Unit Recognition – Gold
+<br>
+<br>St John Brigade SJB Corps Achievement Award – Gold</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
