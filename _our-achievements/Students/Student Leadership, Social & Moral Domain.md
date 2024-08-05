@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>National Cadet Corps (Land) </strong>
+<p><strong>National Cadet Corps (Land)</strong>
 </p>
 </td>
 </tr>
@@ -397,7 +397,9 @@ Gold)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>St John Brigade SJB Corps Achievement Award – Gold</p>
+<p><strong>St John Brigade</strong> 
+</p>
+<p>SJB Corps Achievement Award – Gold</p>
 </td>
 </tr>
 </tbody>
