@@ -101,9 +101,9 @@ variant: tiptap
 <p>Wing Athletic Cross Country Championship</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>C Division (Boys) 14th
-<br>B Division (Boys) 22nd &amp; 37th
+<p>B Division (Boys) 22nd &amp; 37th
 <br>B Division (Girls) 23rd</p>
+<p>C Division (Boys) 14th</p>
 </td>
 </tr>
 <tr></tr>
