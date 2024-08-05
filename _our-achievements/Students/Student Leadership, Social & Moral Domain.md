@@ -158,17 +158,17 @@ variant: tiptap
 <p>Uniformed Groups Company Recognition</p>
 </td>
 <td rowspan="13" colspan="1">
-<p>Boys’ Brigade
+<p><strong>Boys’ Brigade</strong>
 <br>J M Fraser Award for Excellence – High Distinction (previously known as
 Gold)
 <br>
-<br>Girls’ Brigade
+<br><strong>Girls’ Brigade </strong>
 <br>Company Award – Gold
 <br>
-<br>National Police Cadet Corps
+<br><strong>National Police Cadet Corps </strong>
 <br>Unit Overall Proficiency Award – Gold
 <br>
-<br>National Cadet Corps (Land)
+<br><strong>National Cadet Corps (Land)</strong>
 <br>Unit Recognition – Gold
 <br>
 <br>St John Brigade SJB Corps Achievement Award – Gold</p>
@@ -216,20 +216,20 @@ Gold)
 <p>Uniformed Groups Company Recognition</p>
 </td>
 <td rowspan="13" colspan="1">
-<p>Boys’ Brigade
+<p><strong>Boys’ Brigade</strong>
 <br>J M Fraser Award for Excellence – High Distinction (previously known as
 Gold)
 <br>
-<br>Girls’ Brigade
+<br><strong>Girls’ Brigade</strong>
 <br>Company Award – Gold
 <br>
-<br>National Police Cadet Corps
+<br><strong>National Police Cadet Corps</strong>
 <br>Unit Overall Proficiency Award – Gold
 <br>
-<br>National Cadet Corps (Land)
+<br><strong>National Cadet Corps (Land)</strong>
 <br>Unit Recognition – Gold
 <br>
-<br>St John Brigade Corps Achievement Award – Gold</p>
+<br><strong>St John Brigade </strong>Corps Achievement Award – Gold</p>
 </td>
 </tr>
 <tr></tr>
