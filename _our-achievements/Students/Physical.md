@@ -149,8 +149,7 @@ variant: tiptap
 </td>
 <td rowspan="25" colspan="1">
 <p><strong>Badminton (Girls)</strong>&nbsp;</p>
-<p>(Zonal)
-<br>B Division Girls -3rd
+<p>B Division Girls (Zonal) -3rd
 <br>Nationals – Top 16</p>
 <p>
 <br><strong>Cross Country</strong>
