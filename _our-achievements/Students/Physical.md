@@ -31,23 +31,27 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="23" colspan="1">
-<p>Badminton (Girls)
+<p><strong>Badminton (Girls) </strong>
 <br>B Division (Zonal) - 3rd
-<br>B Division Nationals – Top 8
-<br>Cross Country
+<br>B Division Nationals – Top 8</p>
+<p>
+<br><strong>Cross Country </strong>
 <br>B Div Boys : 20th position
 <br>B Div Girls : 29th position
 <br>C Div Boys : 20th position
-<br>C Div Girls : 23th position
-<br>Floorball
-<br>C Division (Boys) - League 1 ongoing
-<br>Shooting
+<br>C Div Girls : 23th position</p>
+<p>
+<br><strong>Floorball </strong>
+<br>C Division (Boys) - League 1 ongoing</p>
+<p>
+<br><strong>Shooting </strong>
 <br>C Division Rifle (Boys) - 2nd (Individual)
 <br>B Division Rifle (Boys) - 3rd (Individual)
 <br>C Division Pistol (Girls) - 3rd (Individual)
 <br>B Division (Boys) - 1st (Team)
-<br>C Division (Girls) - 4th (Team)
-<br>Volleyball
+<br>C Division (Girls) - 4th (Team)</p>
+<p>
+<br><strong>Volleyball </strong>
 <br>B Division Girls (Zonal) – Champion
 <br>Nationals – Top 8
 <br>
