@@ -50,16 +50,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>YEAR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition / Platform</strong>
-</p>
+<p>COMPETITION/PLATFORM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
+<p>ACHIEVEMENT</p>
 </td>
 </tr>
 <tr>
@@ -95,16 +92,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
+<p>YEAR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Competition / Platform</strong>
-</p>
+<p>COMPETITION/PLATFORM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
+<p>ACHIEVEMENT</p>
 </td>
 </tr>
 <tr>
