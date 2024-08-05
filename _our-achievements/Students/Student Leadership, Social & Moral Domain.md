@@ -229,7 +229,8 @@ Gold)
 <br><strong>National Cadet Corps (Land)</strong>
 <br>Unit Recognition – Gold
 <br>
-<br><strong>St John Brigade </strong>Corps Achievement Award – Gold</p>
+<br><strong>St John Brigade             </strong>Corps Achievement Award –
+Gold</p>
 </td>
 </tr>
 <tr></tr>
