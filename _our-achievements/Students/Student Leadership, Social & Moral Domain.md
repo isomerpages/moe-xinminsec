@@ -325,10 +325,10 @@ Gold)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="13" colspan="1">
+<td rowspan="14" colspan="1">
 <p>2022</p>
 </td>
-<td rowspan="13" colspan="1">
+<td rowspan="14" colspan="1">
 <p>Uniformed Groups Company Recognition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -397,9 +397,13 @@ Gold)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>St John Brigade</strong> 
+<p><strong>St John Brigade</strong>
 </p>
-<p>SJB Corps Achievement Award – Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award – Gold</p>
 </td>
 </tr>
 </tbody>
