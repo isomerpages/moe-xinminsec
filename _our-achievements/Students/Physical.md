@@ -148,7 +148,8 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="25" colspan="1">
-<p><strong>Badminton (Girls)</strong>&nbsp;(Zonal)
+<p><strong>Badminton (Girls)</strong>&nbsp;</p>
+<p>(Zonal)
 <br>B Division Girls -3rd
 <br>Nationals – Top 16</p>
 <p>
