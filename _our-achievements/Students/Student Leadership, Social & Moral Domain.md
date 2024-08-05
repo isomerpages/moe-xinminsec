@@ -47,13 +47,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>St John Brigade</strong>
+<p><strong>National Cadet Corps (Land) </strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corps Achievement Award 2023 - Gold</p>
+<p>Unit Recognition – Distinction</p>
 </td>
 </tr>
 <tr>
@@ -79,13 +79,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>National Cadet Corps (Land)</strong>
+<p><strong>St John Brigade</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unit Recognition – Distinction</p>
+<p>Corps Achievement Award 2023 - Gold</p>
 </td>
 </tr>
 <tr>
