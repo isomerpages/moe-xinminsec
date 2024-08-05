@@ -41,7 +41,7 @@ variant: tiptap
 <br>Unit Recognition – Distinction
 <br>
 <br><strong>St John Brigade</strong>
-<br>Corps Achievement Award 2023 - Gold</p>
+<br>Corps Achievement Award - Gold</p>
 </td>
 </tr>
 <tr></tr>
@@ -171,7 +171,8 @@ Gold)
 <br><strong>National Cadet Corps (Land)</strong>
 <br>Unit Recognition – Gold
 <br>
-<br>St John Brigade SJB Corps Achievement Award – Gold</p>
+<br><strong>St John Brigade</strong>
+<br>Corps Achievement Award - Gold</p>
 </td>
 </tr>
 <tr></tr>
@@ -229,7 +230,8 @@ Gold)
 <br><strong>National Cadet Corps (Land)</strong>
 <br>Unit Recognition – Gold
 <br>
-<br><strong>St John Brigade </strong>Corps Achievement Award – Gold</p>
+<br><strong>St John Brigade</strong>
+<br>Corps Achievement Award - Gold</p>
 </td>
 </tr>
 <tr></tr>
