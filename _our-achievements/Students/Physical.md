@@ -33,8 +33,7 @@ variant: tiptap
 <td rowspan="23" colspan="1">
 <p><strong>Badminton (Girls) </strong>
 <br>B Division (Zonal) - 3rd
-<br>B Division Nationals – Top 8</p>
-<p>
+<br>B Division Nationals – Top 8
 <br><strong>Cross Country </strong>
 <br>B Div Boys : 20th position
 <br>B Div Girls : 29th position
