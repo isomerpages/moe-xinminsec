@@ -15,20 +15,17 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Speech Day Awards</strong>
-</p>
+<p>SCHOOL SPEECH DAY AWARDS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Short Descriptive</strong>
-</p>
+<p>SHORT DESCRIPTIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Award Receipient (2023)</strong>
-</p>
+<p>AWARD RECEIPIENT (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Award Receipient (2022)</strong>
-</p>
+<p>AWARD</p>
+<p>RECEIPIENT (2022)</p>
 </td>
 </tr>
 <tr>
