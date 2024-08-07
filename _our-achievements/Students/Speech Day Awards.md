@@ -33,10 +33,10 @@ third_nav_title: Students
 </td>
 <td rowspan="1" colspan="1">
 <p>Most outstanding student in the graduating cohort with
-<br>o L: Leadership
-<br>o E: Exemplary Behaviour
-<br>o A: Ace in Learning
-<br>o D: Dedication in Service</p>
+<br>- L: Leadership
+<br>- E: Exemplary Behaviour
+<br>- A: Ace in Learning
+<br>- D: Dedication in Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hoh Ying Min (401)</p>
