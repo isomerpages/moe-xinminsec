@@ -24,8 +24,7 @@ third_nav_title: Students
 <p>AWARD RECEIPIENT (2023)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AWARD</p>
-<p>RECEIPIENT (2022)</p>
+<p>AWARD RECEIPIENT (2022)</p>
 </td>
 </tr>
 <tr>
