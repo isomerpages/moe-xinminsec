@@ -46,7 +46,7 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Chew Peng Leng Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,18 +59,6 @@ Peng Leng, Mr Malcolm Chew,in recognition of Mr Chew's service to education.</p>
 <td rowspan="1" colspan="1">
 <p>Yong Jun Jie (406)
 <br>Muhammad Bin Jumadi (406)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The scholarship is awarded to graduating students who demonstrated resilience
-and fortitude.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Avelynn Ng Rui En (408)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Jolin Goh (409)</p>
 </td>
 </tr>
 <tr>
