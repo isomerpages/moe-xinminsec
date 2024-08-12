@@ -50,8 +50,10 @@ third_nav_title: Students
 <p>Chew Peng Leng Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Chew Peng Leng Scholarship is sponsored by the grandson of Mr Chew
-Peng Leng, Mr Malcolm Chew,in recognition of Mr Chew's service to education.</p>
+<p>The scholarship is awarded to graduating students who carry the can-do
+spirit that is characteristic of the many leaders and movers of the school
+who have overcome difficulties and challenges and demonstrated resilience
+and fortitude to propel the school to a higher level.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Yi Yang, Joash (409)</p>
