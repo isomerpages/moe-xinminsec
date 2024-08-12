@@ -18,7 +18,7 @@ third_nav_title: Students
 <p>SCHOOL SPEECH DAY AWARDS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHORT DESCRIPTIVE</p>
+<p>DESCRIPTION OF AWARD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AWARD RECEIPIENT (2023)</p>
