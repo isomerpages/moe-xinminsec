@@ -112,8 +112,8 @@ at the National level</p>
 <p>Yap Fun Hong Award for Sports and Outdoor Education</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>This awarded to students who displayed passion and commitment in sports.Displaying
-the values of sportsmanship, friendship, excellence and respect.</p>
+<p>This is awarded to students who displayed passion and commitment in sports.
+Displaying the values of sportsmanship, friendship, excellence and respect.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teo Kai Jie Davion (402)</p>
