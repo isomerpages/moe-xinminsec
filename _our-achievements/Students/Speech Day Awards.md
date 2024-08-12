@@ -57,10 +57,12 @@ and fortitude to propel the school to a higher level.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Yi Yang, Joash (409)</p>
+<p>Avelynn Ng Rui En (408)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yong Jun Jie (406)
 <br>Muhammad Bin Jumadi (406)</p>
+<p>Jolin Goh (409)</p>
 </td>
 </tr>
 <tr>
