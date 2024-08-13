@@ -5,4 +5,251 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Year</strong></p></td><td rowspan="1" colspan="1"><p><strong>Competition / Platform</strong></p></td><td rowspan="1" colspan="1"><p><strong>Achievement</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>2023</p></td><td rowspan="1" colspan="1"><p>National School Games</p></td><td rowspan="1" colspan="1"><p><u>Volleyball (Zonal)</u></p><p>B Division Girls – Champions<br>Nationals – Top 16<br><br></p><p><u>Badminton (Girls) (Zonal)</u></p><p>B Division Girls -3rd<br>Nationals – Top 16<br><br></p><p><u>Shooting – Air Rifle (National)</u></p><p>B Division Boys – Champions<br>Caden Goh Ding Xun (305) – 5th&nbsp;in Individual Category<br><br></p><p>B Division Girls – 6th<br>Neo Kah Yin Yvaine (302) – 3rd&nbsp;in Individual Category<br><br></p><p><u>Shooting – Air Pistol (National)</u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>B Division Boys – Champions&nbsp; &nbsp;<br>Andrew Khoo Zhi Cheng (406) – Individual Champion<br>Teo Kai Jie Davion (402) – 4th in Individual Category<br><br>B Division Girls – 5th&nbsp; &nbsp;<br>Angie Wong En Qi (401) – 6th in Individual Category &nbsp; &nbsp; &nbsp; &nbsp;<br><br><u>Cross – Country:</u><br>B Division Girls: Hoh Ying Min (401) – 4th in Individual Category &nbsp;<br><br>C Division Boys – 14th &nbsp;&nbsp;<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>2023</p></td><td rowspan="1" colspan="1"><p>Inter – Schools Bouldering Championships (ISBC)</p></td><td rowspan="1" colspan="1"><p><u>Rockclimbing:</u><br>C Division Girls – Champions<br>Rachelle Tok Enya (103) – 5th in Individual Category &nbsp;<br><br>C Division Boys – 2nd<br>Jacob Paul Marie Ee (201) – 3rd in Individual Category &nbsp;<br><br>B Division Girls – 2nd<br>Low Rui Ying Rin (406) – 3rd in Individual Category &nbsp;<br><br>B Division Boys – 3rd<br>Owen Chan Yu Xi (406) – 3rd in Individual Category<br>Chan Hong Yu (404) – 5th in Individual Category<br>&nbsp;&nbsp;</p></td></tr></tbody></table><p><br></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Year</strong></p></td><td rowspan="1" colspan="1"><p><strong>Competition / Platform</strong></p></td><td rowspan="1" colspan="1"><p><strong>Achievement</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>2021</p></td><td rowspan="1" colspan="1"><p>National School Games</p></td><td rowspan="1" colspan="1"><p><u>Volleyball (Zonal)</u></p><p>B Division Girls – Champions</p><p></p><p><u>Volleyball (Zonal)</u></p><p>B Division Boys – Top 4</p><p></p><p><u>Badminton (Girls) (Zonal)</u></p><p>B Division Girls -3rd</p><p></p><p><u>Shooting – Air Rifle (National)</u></p><p>B Division Boys – 5th</p><p></p><p><em>Bryan Khoo – 7th&nbsp;in Individual Category</em></p><p>B Division Girls – 6th</p><p></p><p><em>Ashley Goh – 5th&nbsp;in Individual Category</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><u>Shooting – Air Pistol (National)</u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>B Division Boys – 11th&nbsp; &nbsp;</p><p>B Division Girls – 5th&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>2021</p></td><td rowspan="1" colspan="1"><p>76th&nbsp;Speech Day</p></td><td rowspan="1" colspan="1"><p>Yap Fun Hong Award for Sports and Outdoor Education – Koh Jin Jia Gerald, Nicole Ng</p></td></tr></tbody></table><p><br></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Year</strong></p></td><td rowspan="1" colspan="1"><p><strong>Competition / Platform</strong></p></td><td rowspan="1" colspan="1"><p><strong>Achievement</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>2019</p></td><td rowspan="1" colspan="1"><p>National School Games</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>National School Games</p></td><td rowspan="1" colspan="1"><p><u>Volleyball (Zonal)</u></p><p>C Division Girls – 1st</p><p>B Division Girls - 2nd</p><p><u>Volleyball (National)</u></p><p>C Division Girls – Top 8</p><p>B Division Girls - 4th&nbsp;</p><p>&nbsp; &nbsp;&nbsp;</p><p><u>Volleyball (Zonal)</u></p><p>C Division Boys – 3rd</p><p>B Division Boys - 2nd</p><p><u>Volleyball (National)</u></p><p>C Division Boys&nbsp; – Top 16</p><p>B Division Boys&nbsp; - Top 8&nbsp;&nbsp;</p><p></p><p><u>Badminton (Girls) (Zonal)</u></p><p>C Division Girls - 4th</p><p>B Division Girls -4th&nbsp;</p><p><u>Badminton (Girls) (National)</u></p><p>C Division Girls – Top 16</p><p>B Division Girls –Top 16</p><p><br><u>Rock Climbing (National Schools Speed Climbing Championships)</u></p><p>C Division Boys – 2nd</p><p>B Division Boys – 2nd</p><p>C Division Girls – 2nd</p><p>B Division Girls – 2nd</p><p>&nbsp;</p><p><u>Rock Climbing (National Schools Bouldering Championships)</u></p><p>C Division Boys – 3rd</p><p>B Division Boys – 2nd</p><p>C Division Girls – 1st&nbsp;</p><p>B Division Girls – 1st</p><p></p><p><u>Shooting – Air Rifle (National)</u></p><p>B Division Boys – 12th&nbsp;</p><p>C Division Girls – 4th&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>B Division Girls – 14th</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><u>Shooting – Air Pistol (National)</u></p><p>C Division Boys –12th&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>B Division Boys – 1st&nbsp; &nbsp; &nbsp;</p><p>C Division Girls – 18th&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>B Division Girls – 2nd&nbsp;&nbsp;</p></td></tr></tbody></table><p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="32" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="23" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="23" colspan="1">
+<p><strong>Badminton (Girls) </strong>
+<br>B Division (Zonal) - 3rd
+<br>B Division Nationals – Top 8</p>
+<p>
+<br><strong>Cross Country </strong>
+<br>B Div Boys : 20th position
+<br>B Div Girls : 29th position
+<br>C Div Boys : 20th position
+<br>C Div Girls : 23th position</p>
+<p>
+<br><strong>Floorball </strong>
+<br>C Division (Boys) - League 1 ongoing</p>
+<p>
+<br><strong>Shooting </strong>
+<br>C Division Rifle (Boys) - 2nd (Individual)
+<br>B Division Rifle (Boys) - 3rd (Individual)
+<br>C Division Pistol (Girls) - 3rd (Individual)
+<br>B Division (Boys) - 1st (Team)
+<br>C Division (Girls) - 4th (Team)</p>
+<p>
+<br><strong>Volleyball </strong>
+<br>B Division Girls (Zonal) – Champion
+<br>Nationals – Top 8
+<br>
+<br>Boys
+<br>B Division (Zonal) – 2nd
+<br>Nationals – 3rd</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Inter – Schools Bouldering Championships (ISBC)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>B Division (Girls) 8th (Individual)
+<br>C Division (Boys) 4th (Individual)
+<br>C Division (Girls) 6th &amp; 7th (Individual)
+<br>C Division (Boys) 3rd (Individual)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Wing Athletic Cross Country Championship</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>B Division (Boys) 22nd &amp; 37th
+<br>B Division (Girls) 23rd</p>
+<p>C Division (Boys) 14th</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Pesta Sukan 2024</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Floorball U17 Boys - 2nd Runner up
+<br>Floorball U14 Boys - 1st Runner up</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="25" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="25" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="25" colspan="1">
+<p><strong>Badminton (Girls)</strong>&nbsp;</p>
+<p>B Division Girls (Zonal) - 3rd
+<br>Nationals – Top 16</p>
+<p>
+<br><strong>Cross Country</strong>
+<br>B Division Girls: Hoh Ying Min (401) – 4th in Individual Category &nbsp;</p>
+<p>
+<br><strong>Shooting</strong>
+<br>Air Rifle (National)
+<br>
+<br>B Division Boys – Champions
+<br>Caden Goh Ding Xun (305) – 5th&nbsp;in Individual Category
+<br>
+<br>B Division Girls – 6th
+<br>Neo Kah Yin Yvaine (302) – 3rd&nbsp;in Individual Category
+<br>
+<br>Shooting – Air Pistol (National)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp;
+<br>
+<br>B Division Boys – Champions&nbsp; &nbsp;
+<br>Andrew Khoo Zhi Cheng (406) – Individual Champion
+<br>Teo Kai Jie Davion (402) – 4th in Individual Category
+<br>
+<br>B Division Girls – 5th&nbsp; &nbsp;
+<br>Angie Wong En Qi (401) – 6th in Individual Category &nbsp;</p>
+<p>
+<br><strong>Volleyball</strong>
+<br>B Division Girls (Zonal) – Champions
+<br>Nationals – Top 16</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="13" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="13" colspan="1">
+<p>Inter – Schools Bouldering Championships (ISBC)</p>
+</td>
+<td rowspan="13" colspan="1">
+<p><strong>Rockclimbing</strong>
+<br>B Division Girls – 2nd
+<br>Low Rui Ying Rin (406) – 3rd in Individual Category &nbsp;
+<br>
+<br>B Division Boys – 3rd
+<br>Owen Chan Yu Xi (406) – 3rd in Individual Category
+<br>Chan Hong Yu (404) – 5th in Individual Category
+<br>
+<br>C Division Girls – Champions
+<br>Rachelle Tok Enya (103) – 5th in Individual Category &nbsp;
+<br>
+<br>C Division Boys – 2nd
+<br>Jacob Paul Marie Ee (201) – 3rd in Individual Category &nbsp;</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+<p></p>

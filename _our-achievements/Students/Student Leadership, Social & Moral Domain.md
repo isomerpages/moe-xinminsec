@@ -5,4 +5,225 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Year</strong></p></td><td rowspan="1" colspan="1"><p><strong>Competition / Platform</strong></p></td><td rowspan="1" colspan="1"><p><strong>Achievement</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>2023</p></td><td rowspan="1" colspan="1"><p>Uniformed Groups Company Recognition</p></td><td rowspan="1" colspan="1"><p>Boys’ Brigade<br>J M Fraser Award for Excellence – High Distinction (previously known as Gold)<br><br>Girls’ Brigade<br>Company Award – Gold<br><br>National Police Cadet Corps<br>Unit Overall Proficiency Award – Gold<br><br>National Cadet Corps (Land)<br>Unit Recognition – Gold<br><br>St John Brigade SJB Corps Achievement Award – Gold<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>2023</p></td><td rowspan="1" colspan="1"><p>Clubs and Societies</p></td><td rowspan="1" colspan="1"><p>Debate<br>Singapore Secondary School Debate Championship 2023 - Quarterfinals round, 9th and 11th Overall Best Speaker<br><br>Mid Year Debate Invitationals 2023: 1st Runner Up (Overall), 3rd, 8th and 16th Best Overall Speakerse<br><br>Art Club<br>Avatar Art Competition<br>Tan Yan Yu (304) - 2nd<br>Aura Airwan (203), Aaden Goh (304) - Finalists<br><br><br></p></td></tr></tbody></table><p><br></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Year</strong></p></td><td rowspan="1" colspan="1"><p><strong>Competition / Platform</strong></p></td><td rowspan="1" colspan="1"><p><strong>Achievement</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>2022</p></td><td rowspan="1" colspan="1"><p>Uniformed Groups Company Recognition</p></td><td rowspan="1" colspan="1"><p>Boys’ Brigade<br>J M Fraser Award for Excellence – High Distinction (previously known as Gold)<br><br>Girls’ Brigade<br>Company Award – Gold<br><br>National Police Cadet Corps<br>Unit Overall Proficiency Award – Gold<br><br>National Cadet Corps (Land)<br>Unit Recognition – Gold<br><br>St John Brigade SJB Corps Achievement Award – Gold<br></p></td></tr></tbody></table><p><br></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Year</strong></p></td><td rowspan="1" colspan="1"><p><strong>Competition / Platform</strong></p></td><td rowspan="1" colspan="1"><p><strong>Achievement</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>2021</p></td><td rowspan="1" colspan="1"><p>76th&nbsp;Speech Day</p></td><td rowspan="1" colspan="1"><p><u>Leadership, Exemplary Behaviour, Ace in Learning &amp; Dedication in Service Award &amp; Valedictorian&nbsp;</u>– Ng Ying Hui</p><p></p><p><u>Tung Sey Yew Award for Leadership in the Uniformed Groups</u>&nbsp;– Jerald Yap Guang Cheng</p><p></p><p><u>Chew Peng Leng Award for Exemplary Service</u>&nbsp;– Amanda Soon Qi-En</p><p></p><p><u>Chew Peng Leng Scholarships</u>&nbsp;– Olivia Yong Kay Li, Ong Kai Shun Jadric</p><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>2019</p></td><td rowspan="1" colspan="1"><p>Uniformed Groups Proficiency Awards</p></td><td rowspan="1" colspan="1"><p><strong>Sustained Achievement Award for Uniformed Groups</strong></p><p></p><p><u>Boys’ Brigade</u></p><p>J M Fraser Award for Excellence – Gold</p><p></p><p><u>Girls’ Brigade</u></p><p>Company Award – Gold</p><p></p><p><u>National Police Cadet Corps</u></p><p>Unit Overall Proficiency Award<strong>&nbsp;</strong>– Silver</p><p><br></p><p><u>National Cadet Corps (Land)</u></p><p>2018- Achievement Award</p><p><br></p><p><u>St John Brigade</u></p><p>SJB Corps Achievement Award: Gold</p></td></tr></tbody></table><p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="29" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>Company Recognition</p>
+</td>
+<td rowspan="11" colspan="1">
+<p><strong>Boys' Brigade</strong>
+<br>J M Fraser Award for Excellence – High Distinction (for Year 2023 - 2024)
+<br>
+<br><strong>National Police Cadet Corps</strong>
+<br>Unit Overall Proficiency Award – Distinction
+<br>
+<br><strong>National Cadet Corps (Land)</strong>
+<br>Unit Recognition – Distinction
+<br>
+<br><strong>St John Brigade</strong>
+<br>Corps Achievement Award - Gold</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p>Chief Commissioner Badge (St John Brigade)</p>
+</td>
+<td rowspan="8" colspan="1">
+<p>Toh Jun Yu (402)
+<br>Chan Wen Yi Jolene (403)
+<br>Sia Hai Jing (403)
+<br>Lim Kai En (403)
+<br>Chua Uang Lim, Athena (404)
+<br>Angela Leong Mun Shuen&nbsp; (405)
+<br>Peh Yi Xin Tiffany (406)
+<br>Quek Pei Rong Valent (408)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>District First Aid and Home Nursing Competition (St John Brigade)</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Northeast District First Aid Competition - Ambulance Adult Category Team
+1st
+<br>
+<br>Northeast District First Aid Competition - Ambulance Cadet Category Team
+3rd
+<br>
+<br>Northeast District First Aid Competition - Nursing Adult Category Team
+1st</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Founder's Men (Boys' Brigade)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Phong Kai Tong (401)
+<br>Nigel Foo Celiang (409)</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Pioneer Brigader Brooch (Girls' Brigade)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Heng Zeng Ru (Wang Jingru) (402)
+<br>Sara Tay Jing Lin (402)
+<br>Janine Chia Ning (408)</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="13" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="13" colspan="1">
+<p>Uniformed Groups Company Recognition</p>
+</td>
+<td rowspan="13" colspan="1">
+<p><strong>Boys’ Brigade</strong>
+<br>J M Fraser Award for Excellence – High Distinction (previously known as
+Gold)
+<br>
+<br><strong>Girls’ Brigade </strong>
+<br>Company Award – Gold
+<br>
+<br><strong>National Police Cadet Corps </strong>
+<br>Unit Overall Proficiency Award – Gold
+<br>
+<br><strong>National Cadet Corps (Land)</strong>
+<br>Unit Recognition – Gold
+<br>
+<br><strong>St John Brigade</strong>
+<br>Corps Achievement Award - Gold</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="13" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="13" colspan="1">
+<p>Uniformed Groups Company Recognition</p>
+</td>
+<td rowspan="13" colspan="1">
+<p><strong>Boys’ Brigade</strong>
+<br>J M Fraser Award for Excellence – High Distinction (previously known as
+Gold)
+<br>
+<br><strong>Girls’ Brigade</strong>
+<br>Company Award – Gold
+<br>
+<br><strong>National Police Cadet Corps</strong>
+<br>Unit Overall Proficiency Award – Gold
+<br>
+<br><strong>National Cadet Corps (Land)</strong>
+<br>Unit Recognition – Gold
+<br>
+<br><strong>St John Brigade</strong>
+<br>Corps Achievement Award - Gold</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
