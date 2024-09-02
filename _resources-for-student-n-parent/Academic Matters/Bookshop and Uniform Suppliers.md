@@ -32,7 +32,6 @@ variant: tiptap
 <br>Support Centre: <a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a> 
 <br>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2024/table_uniform_2024.png">
 </div>
@@ -44,5 +43,9 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2024/Picture3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2024/School_uniform_size_chart.png">
 </div>
 <p></p>
