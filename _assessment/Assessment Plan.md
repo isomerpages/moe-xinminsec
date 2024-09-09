@@ -23,7 +23,6 @@ the year and not just prepare for summative assessments; and</p>
 the respective subjects before their summative assessment.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>The assessment plan for Sec 1 to Sec 3 students are as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -137,4 +136,4 @@ calendar to reduce clashing of test dates amongst different subjects.</p>
 </ul>
 <p>WA Schedule will be released and published on our school website from
 the Week 3 of Term 1 and Week 1 of Terms 2 and 3.</p>
-<p>&nbsp;</p>
+<p></p>
