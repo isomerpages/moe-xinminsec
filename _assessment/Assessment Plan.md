@@ -101,7 +101,6 @@ and nudge the students to revise their work regularly throughout the year.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Their results will be reported in the form of progress reports and result
 slips. However, only the scores obtained during the Preliminary Examinations
 will be used in the computation of school grades for their graduating year.
