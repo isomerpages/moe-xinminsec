@@ -71,7 +71,6 @@ and nudge the students to revise their work regularly throughout the year.</p>
 <p><em>*Semestral-based subjects e.g., D&amp;T and FCE will follow subject-specific assessment plans.</em>
 </p>
 <p>&nbsp;For Sec 4 and 5 students, they will be taking the following assessments:</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -103,21 +102,17 @@ and nudge the students to revise their work regularly throughout the year.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p>Their results will be reported in the form of progress reports and result
 slips. However, only the scores obtained during the Preliminary Examinations
 will be used in the computation of school grades for their graduating year.
 Sec 4 and 5 students will not be graded based on alternative modes of assessment.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>Weighted Assessments</strong>
 </p>
-<p>&nbsp;</p>
 <p>WAs are not intended to be conducted as the national examinations, where
 they cause undue anxiety and stress for students. Students should treat
 each WA as gradual build-up of knowledge, skills and understandings in
 preparation for the final summative assessment (examinations).&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p>For each term, WAs are conducted between Week 5 to Week 9 (for Term 1),
 Week 3 to Week 8 (for Term 2) and Week 3 to Week 9 (for Term 3).&nbsp;
 WAs are no longer administered in a common time slot. Instead, WA will
@@ -128,7 +123,6 @@ negotiate the day of the week (test dates) with their class and provide
 this information to their IP Heads. This information must be reflected
 on the XO-Test Book System and manually written on the class’s notice-board’s
 calendar to reduce clashing of test dates amongst different subjects.</p>
-<p>&nbsp;</p>
 <p>To manage our students' overall assessment load:</p>
 <ul data-tight="true" class="tight">
 <li>
