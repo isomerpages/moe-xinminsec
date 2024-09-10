@@ -22,6 +22,13 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
+      title: Open House 2024
+      id: infopic
+      description: 9th Nov 2024, 0830H - 1230H
+      button: Find out more
+      url: https://www.xinminsec.moe.edu.sg/open-house-2024/
+      alt: Image alt text
+  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess
