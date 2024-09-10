@@ -39,6 +39,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.xinminsec.moe.edu.sg/end-of-year-examination-timetable-2024/" rel="noopener nofollow" target="_blank">End of Year Examination Timetable 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/resources/students/assessment/instructions-to-candidates/" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
 </p>
 </li>
