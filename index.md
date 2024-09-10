@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: 9th Nov 2024, 0830H - 1230H
       button: Find out more
-      url: https://www.xinminsec.moe.edu.sg/open-house-2024/
+      url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/open-house-2024/
       alt: Image alt text
       image: /images/Open_House/open_house_2024_v2.jpg
   - infopic:
