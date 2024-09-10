@@ -28,6 +28,7 @@ sections:
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/open-house-2024/
       alt: Image alt text
+      image: /images/Open_House/open_house_2024_v2.jpg
   - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
