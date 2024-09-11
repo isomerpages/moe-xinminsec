@@ -28,7 +28,7 @@ sections:
       button: Find out more
       url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/open-house-2024/
       alt: Image alt text
-      image: /images/Open_House/OPEN_HOUSE_2024_Pic_1.jpg
+      image: /images/Open_House/Open_House_Pic_1.jpg
   - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
