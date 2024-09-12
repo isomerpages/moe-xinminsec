@@ -2,7 +2,7 @@
 layout: homepage
 title: Xinmin Secondary School
 description: Xinmin Secondary School
-image: /images/xinmin logo.png
+image: /images/School Logo/XINMIN_SECONDARY_SCHOOL_LOGO_2025.png
 permalink: /
 notification: ""
 sections:
