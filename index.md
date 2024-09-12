@@ -24,7 +24,8 @@ sections:
   - infopic:
       title: Open House 2024
       id: infopic
-      description: 9th Nov 2024, 0830H - 1230H
+      description: Join us at Xinmin Secondary School’s Open House! Discover what
+        makes Xinmin Secondary a special place for learning and growth.
       button: Find out more
       url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/open-house-2024/
       alt: Image alt text
