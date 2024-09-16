@@ -27,7 +27,7 @@ sections:
       description: Join us at Xinmin Secondary School’s Open House! Discover what
         makes Xinmin Secondary a special place for learning and growth.
       button: Find out more
-      url: https://www.xinminsec.moe.edu.sg/open-house-2024/
+      url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/open-house-2024/
       alt: Image alt text
       image: /images/Open_House/Open_House_Pic_1.jpg
   - infopic:
