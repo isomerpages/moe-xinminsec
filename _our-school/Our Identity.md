@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Motto 校训</h2>
-<p>Strive, Excel, Serve
+<p>Strive . Excel . Serve
 <br>
 </p>
 <p>精益求精, 殷勤为众
