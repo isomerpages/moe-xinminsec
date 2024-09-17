@@ -2,7 +2,7 @@
 layout: homepage
 title: Xinmin Secondary School
 description: Xinmin Secondary School
-image: /images/xinmin logo.png
+image: /images/School Logo/XINMIN_SECONDARY_SCHOOL__5_.png
 permalink: /
 notification: ""
 sections:
@@ -21,6 +21,15 @@ sections:
         - title: Prospective Students
           description: ""
           url: /prospective-students/secondary-one-posting/
+  - infopic:
+      title: Open House 2024
+      id: infopic
+      description: Join us at Xinmin Secondary School’s Open House! Discover what
+        makes Xinmin Secondary a special place for learning and growth.
+      button: Find out more
+      url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/open-house-2024/
+      alt: Image alt text
+      image: /images/Open_House/Open_House_Pic_1.jpg
   - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
