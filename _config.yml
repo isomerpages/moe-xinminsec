@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2xc2dvu4b2m8v.amplifyapp.com
 prod: https://master.d2xc2dvu4b2m8v.amplifyapp.com
-shareicon: /images/School Logo/XINMIN_SECONDARY_SCHOOL__4__1.png
+shareicon: /images/School Logo/XINMIN_SECONDARY_SCHOOL__5_.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
