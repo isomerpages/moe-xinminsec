@@ -5,10 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>Our School Motto 校训</h2>
-<p>Strive . Excel . Serve
-<br>
-</p>
-<p>精益求精, 殷勤为众
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Logo/final2.png">
+</div>
+<p>
 <br>
 </p>
 <h2>Our School Crest</h2>
