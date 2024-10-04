@@ -73,10 +73,13 @@ FAS may also apply for School-based FAS via the MOE FAS application. Approval
 will be granted on a case-to-case basis.</p>
 <p><strong>Important:-<br>Please do not purchase any textbooks or uniform if you are applying for 2025 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school.</strong>
 </p>
-<p><a href="/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_moe fas pamphet el.pdf</a>
-<br><a href="/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20cl.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_moe fas pamphet cl.pdf</a>
-<br><a href="/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20ml.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_moe fas pamphet ml.pdf</a>
-<br><a href="/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20tl.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_moe fas pamphet tl.pdf</a>
+<p><a href="/files/MOE FAS/2025/2025_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">2025_MOE_FAS_pamphlet__EL_.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2025/2025_MOE_FAS_pamphet__CL_.pdf" rel="noopener nofollow" target="_blank">2025_MOE_FAS_pamphet__CL_.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2025/2025_MOE_FAS_pamphlet__ML_.pdf" rel="noopener nofollow" target="_blank">2025_MOE_FAS_pamphlet__ML_.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2025/2025_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">2025_MOE_FAS_pamphlet__TL_.pdf</a>
 </p>
 <p>Thank you.
 <br>General Office
