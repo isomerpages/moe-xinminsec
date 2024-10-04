@@ -43,9 +43,9 @@ variant: tiptap
 </tbody>
 </table>
 <p>Families with Singaporean students that meet the above income criteria
-are invited to apply via eFAS by scanning the QR Code or the link below.
-Please note that softcopies of supporting documents are required to be
-attached for eFAS application.</p>
+are invited to apply via eFAS link in PG’s service section, by scanning
+the QR Code or the link below<em>. </em>Please note that softcopies of
+supporting documents are required to be attached for eFAS application.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;" height="auto" width="100%" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" src="/images/Picture1.jpeg">
 </div>
@@ -61,36 +61,17 @@ and others)
 <br>d. family with more than 3 grandparents in the household
 <br><em>[GGAS : Government and Government-Aided Schools]</em>
 </p>
-<p>Application forms should be completed and submitted with the supporting
-documents by <strong><u>Tuesday, 12 December 2023</u></strong>. This is
-to ensure that our approved MOE FAS applications for Secondary One to receive
-their school uniform and textbooks before the new school term commences
-on Tuesday, 2 January 2024.</p>
-<h4>For year 2025 Secondary One Students</h4>
-<p>Application forms should be completed and submitted with the supporting
-documents by <strong><u>Friday, 2pm on 22 December 2023</u></strong>. This
-is to ensure that our approved MOE FAS applications for Secondary One to
-receive their school uniform and textbooks before the new school term commences
-on Tuesday, 2 January 2024.</p>
-<p>For MOE FAS applications approved by respective primary schools, or their
-siblings’ schools, please click the below link or scan the QR code to submit
-the approval letter for our processing.</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%;" height="auto" width="100%" alt="2023 Financial Assistance Scheme (With Revised Income Criteria)" src="/images/MOE%20FAS/moe_fas_2.png">
-</div>
-<p><a href="https://go.gov.sg/s1-moefas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1-moefas</a>
-</p>
-<p>If your child is currently a ComCare recipient, he/she will be auto-granted
-with MOE FAS for academic year 2024. Please contact the school at 6288
-9382 to enquire on your MOE FAS auto grant status.</p>
-<p>For more information on the benefits provided under MOE Financial Assistance
-Scheme, please refer to the attachment below for 2024 MOE FAS pamphlets.</p>
-<p>If you wish to know more about MOE FAS may visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financialmatters/financial-assistance.</a>
-</p>
+<p>Application forms must be completed and submitted together with the required
+supporting documents by <strong><em><u>Friday, 1st November 2024</u></em></strong>.
+This is to ensure that our FAS students receive their school uniform and
+textbooks by December 2024, before the start of the new school term on
+2 January 2025.&nbsp;</p>
+<p>If you wish to know more about MOE FAS or the eligibility calculator,
+you may visit MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
 <p>Singaporean students who do not meet the eligibility criteria for MOE
 FAS may also apply for School-based FAS via the MOE FAS application. Approval
 will be granted on a case-to-case basis.</p>
-<p><strong>Important:-<br>Please do not purchase any textbooks or uniform if you are applying for 2024 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
+<p><strong>Important:-<br>Please do not purchase any textbooks or uniform if you are applying for 2025 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school.</strong>
 </p>
 <p><a href="/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_moe fas pamphet el.pdf</a>
 <br><a href="/files/MOE%20FAS/2024/2024_moe%20fas%20pamphet%20cl.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_moe fas pamphet cl.pdf</a>
