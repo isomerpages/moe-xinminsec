@@ -358,7 +358,8 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:@schools.gov.sg"></a>
+              text-decoration: underline;" target="" href="mailto:@schools.gov.sg">elizabeth_margaretha_a@schools.gov.sg
+</a>
         </div>
       </td>
     </tr>
