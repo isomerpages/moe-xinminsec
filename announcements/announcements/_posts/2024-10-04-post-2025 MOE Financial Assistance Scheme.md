@@ -54,11 +54,12 @@ supporting documents are required to be attached for eFAS application.</p>
 <p>Alternatively, you may also obtain the application forms at our General
 Office, or download via <a href="/files/MOE FAS/2025/2025_MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p><strong>Families under the below listed household members are required to apply via hardcopy forms:</strong> a.
-families with other dependents (Great grandparents, Aunties/Uncles, Cousins
-and others)
+<p><strong>Families under the below listed household members are required to apply via hardcopy forms:</strong>
+</p>
+<p>a. families with other dependents (Great grandparents, Aunties/Uncles,
+Cousins and others)
 <br>b. family with more than 6 children in GGAS
-<br>c. family with more than 5 unmarried children not in GGAS*
+<br>c. family with more than 5 unmarried children not in GGAS
 <br>d. family with more than 3 grandparents in the household
 <br><em>[GGAS : Government and Government-Aided Schools]</em>
 </p>
@@ -68,7 +69,7 @@ This is to ensure that our FAS students receive their school uniform and
 textbooks by December 2024, before the start of the new school term on
 2 January 2025.&nbsp;</p>
 <p>If you wish to know more about MOE FAS or the eligibility calculator,
-you may visit MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
+you may visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
 <p>Singaporean students who do not meet the eligibility criteria for MOE
 FAS may also apply for School-based FAS via the MOE FAS application. Approval
 will be granted on a case-to-case basis.</p>
