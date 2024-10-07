@@ -54,9 +54,10 @@ supporting documents are required to be attached for eFAS application.</p>
 <p>Alternatively, you may also obtain the application forms at our General
 Office, or download via <a href="/files/MOE FAS/2025/2025_MOE_FAS_Application_Form.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p><strong>Families under the below listed household members are required to apply via hardcopy forms:</strong> a.
-families with other dependents (Great grandparents, Aunties/Uncles, Cousins
-and others)
+<p><strong>Families under the below listed household members are required to apply via hardcopy forms:</strong> 
+</p>
+<p>a. families with other dependents (Great grandparents, Aunties/Uncles,
+Cousins and others)
 <br>b. family with more than 6 children in GGAS
 <br>c. family with more than 5 unmarried children not in GGAS*
 <br>d. family with more than 3 grandparents in the household
