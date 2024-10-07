@@ -308,7 +308,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 110px;
-            height: 140px;" class="ive_eobj_left" alt="Tan Chwee Choo.jpg" src="/images/EAS/Qabeer2.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 140px;" class="ive_eobj_left" alt="Elizabeth 1.jpeg" src="/images/EAS/Elizabeth 1.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -323,7 +323,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Mohamed Qabeer Sulaiman
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Elizabeth Margaretha
 </b>
         </div>
         <div style="margin: 0px;
