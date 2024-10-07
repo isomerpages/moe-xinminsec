@@ -69,7 +69,7 @@ This is to ensure that our FAS students receive their school uniform and
 textbooks by December 2024, before the start of the new school term on
 2 January 2025.&nbsp;</p>
 <p>If you wish to know more about MOE FAS or the eligibility calculator,
-you may visit MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
+you may visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
 <p>Singaporean students who do not meet the eligibility criteria for MOE
 FAS may also apply for School-based FAS via the MOE FAS application. Approval
 will be granted on a case-to-case basis.</p>
