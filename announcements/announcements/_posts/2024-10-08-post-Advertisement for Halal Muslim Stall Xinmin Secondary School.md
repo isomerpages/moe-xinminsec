@@ -11,8 +11,6 @@ variant: tiptap
 (open to all cuisines) to operate in Xinmin Secondary School.&nbsp; The
 school is located at 11 Hougang Ave 8, Singapore 538789.&nbsp; If you know
 of anyone who may be interested, please help to circulate this information.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong>Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -31,7 +29,7 @@ and stall assistant.</p>
 set by the&nbsp;<strong>Health Promotion Board</strong>&nbsp;under the&nbsp;<strong>“Healthy Meals in Schools Programme (HMSP)”</strong>&nbsp;guidelines</p>
 </li>
 </ul>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
+<p><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,7 +50,7 @@ for Food Stall Licence from the Singapore Food Agency (SFA)</p>
 </li>
 </ul>
 <p>Applications are opened till <strong>07/09/2024</strong>.&nbsp; Please
-submit your application form via this online form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmscanteenapplication</a> Hardcopy
+submit your application form via this online form: <a href="https://go.gov.sg/xmscanteenapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmscanteenapplication</a> Hardcopy
 application forms may be obtained via the School General Office, or you
 may email Mr. Qabeer at <a rel="noopener noreferrer nofollow" target="_blank">mohamed_qabeer_sulaiman@schools.gov.sg</a> for
 the softcopy form.</p>
