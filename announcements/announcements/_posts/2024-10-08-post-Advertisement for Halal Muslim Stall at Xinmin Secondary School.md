@@ -1,5 +1,5 @@
 ---
-title: Advertisement for Halal Muslim Stall Xinmin Secondary School
+title: Advertisement for Halal Muslim Stall at Xinmin Secondary School
 permalink: /advertisement-for-halal-muslim-stall-xinmin-secondary-school/
 date: 2024-10-08
 layout: post
