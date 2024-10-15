@@ -64,7 +64,6 @@ Distinction</p>
 <br>Ms Susan Lee Boon Hong
 <br>Ms Ong Chiew Inn
 <br>Ms Nur Ellyana Binti Roslan</p>
-<p></p>
 <p><strong>Visit us at:</strong>
 </p>
 <p><strong>Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band</a></strong>
