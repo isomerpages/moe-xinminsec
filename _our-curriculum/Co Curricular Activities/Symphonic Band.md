@@ -20,7 +20,6 @@ predecessors through their practices and sectionals. Under the musical
 direction of our Band maestros, Mr Daniel Kiang and Ms Leong Tjar Ngee,
 as well as the ongoing guidance from our dedicated Band teachers, the Band
 has growth from strength to strength to achieve great artistic heights.</p>
-<p>&nbsp;</p>
 <p>Xinmin Symphonic Band has clinched prestigious awards, particularly at
 the <em>Singapore Youth Festival Arts Presentation</em> for concert bands
 – Distinction award for year 2013, 2015, 2017, 2023. During our school <em>Xinmin Arts Week (Xinfony)</em>,
