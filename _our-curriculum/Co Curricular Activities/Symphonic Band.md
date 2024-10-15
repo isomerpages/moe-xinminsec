@@ -30,17 +30,14 @@ to participate in other school events including Speech Day and National
 Day Celebration, as well as external performances such as <em>Schools In Concert </em>and
 Junior Band Festival to showcase their remarkable talents which captivated
 the audience.</p>
-<p></p>
 <p><strong>CCA Schedule</strong>
 </p>
 <p><strong><u>Main Band</u> (Sec 2-5s)</strong>
 <br>Monday 3.30pm – 6.30pm</p>
 <p>Wednesday 3.30pm – 6.30pm</p>
-<p>&nbsp;</p>
 <p><strong><u>Junior Band</u> (Sec 1s)</strong>
 <br>Wednesday 4.00pm – 6.00pm (from May onwards)</p>
 <p>Friday 2.00pm – 5.00pm</p>
-<p></p>
 <p><strong>Section Leaders</strong>
 </p>
 <p>Flute – Koh Sher Min (304, 2024)</p>
@@ -58,19 +55,17 @@ the audience.</p>
 <p>Tuba – Zayden Ng Jun Herng (307, 2024)</p>
 <p>Double Bass – Lin Rui’En, Claire (304, 2024)</p>
 <p>Percussion – Caleb Gan Jian Ann (307, 2024)</p>
-<p></p>
 <p><strong>Accomplishments</strong>
 </p>
 <p>Singapore Youth Festival (SYF) 2013, 2015, 2017, 2023 – Certificate of
 Distinction</p>
-<p></p>
 <p><strong>Teachers-in-charge</strong>
 <br>Ms Edna Pan (IC)
 <br>Ms Susan Lee Boon Hong
 <br>Ms Ong Chiew Inn
 <br>Ms Nur Ellyana Binti Roslan</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Visit us at:</strong>
 </p>
-<p><strong>Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band/</a></strong>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band</a></strong>
 </p>
