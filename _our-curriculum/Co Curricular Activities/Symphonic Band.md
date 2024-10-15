@@ -34,3 +34,21 @@ the audience.</p>
 <p><strong><u>Junior Band</u> (Sec 1s)</strong>
 <br>Wednesday 4.00pm – 6.00pm (from May onwards)</p>
 <p>Friday 2.00pm – 5.00pm</p>
+<p></p>
+<p><strong>Section Leaders</strong>
+</p>
+<p>Flute – Koh Sher Min (304, 2024)</p>
+<p>Oboe – Ong Meng Xin (308, 2024)</p>
+<p>Bassoon – Yu Hong Yin (303, 2024)</p>
+<p>Clarinet – Kang Kai Rui (304, 2024), Elijah Ho Wei Zheng (Asst.) (305,
+2024)</p>
+<p>Saxophone – Daniel Tan Yi An (303, 2024)</p>
+<p>French Horn – Tey Yi Xuan (301, 2024)</p>
+<p>Trumpet – Lim Kai Heng, Kaden (303, 2024), Chan Hao Hian Brendan (Asst.)
+(303, 2024)</p>
+<p>Trombone – Wong Ethan (307, 2024)</p>
+<p>Euphonium – <em>(under Double Bass Section SL)</em>
+</p>
+<p>Tuba – Zayden Ng Jun Herng (307, 2024)</p>
+<p>Double Bass – Lin Rui’En, Claire (304, 2024)</p>
+<p>Percussion – Caleb Gan Jian Ann (307, 2024)</p>
