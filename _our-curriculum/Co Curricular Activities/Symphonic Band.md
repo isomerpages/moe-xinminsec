@@ -52,3 +52,19 @@ the audience.</p>
 <p>Tuba – Zayden Ng Jun Herng (307, 2024)</p>
 <p>Double Bass – Lin Rui’En, Claire (304, 2024)</p>
 <p>Percussion – Caleb Gan Jian Ann (307, 2024)</p>
+<p></p>
+<p><strong>Accomplishments</strong>
+</p>
+<p>Singapore Youth Festival (SYF) 2013, 2015, 2017, 2023 – Certificate of
+Distinction</p>
+<p></p>
+<p><strong>Teachers-in-charge</strong>
+<br>Ms Edna Pan (IC)
+<br>Ms Susan Lee Boon Hong
+<br>Ms Ong Chiew Inn
+<br>Ms Nur Ellyana Binti Roslan</p>
+<p>&nbsp;</p>
+<p><strong>Visit us at:</strong>
+</p>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band/</a></strong>
+</p>
