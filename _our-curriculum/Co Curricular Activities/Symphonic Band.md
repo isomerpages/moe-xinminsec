@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/band2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/band1.jpg">
+</div>
 <p>Welcome to the Xinmin Symphonic Band!</p>
 <p>Xinmin Symphonic Band has always been passionate and sincere in educating
 and training its young musicians. Through hard work and dedication, the
