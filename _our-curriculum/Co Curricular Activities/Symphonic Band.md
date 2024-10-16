@@ -43,8 +43,8 @@ the audience.</p>
 </p>
 <p>Drum Major – Chan Hao Hian Brendan (303, 2024)</p>
 <p>Band Major (Music) – Lin Rui’En, Claire (304, 2024)</p>
-<p>Band Major (Admin) – Ng Yi Xuan (302, 2024)
-<br>Secretary &amp; Media – Seah Xin Le, Joy (307, 2024)</p>
+<p>Band Major (Admin) – Ng Yi Xuan (302, 2024)</p>
+<p>Secretary &amp; Media – Seah Xin Le, Joy (307, 2024)</p>
 <p></p>
 <p><strong>Accomplishments</strong>
 </p>
