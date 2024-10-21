@@ -47,12 +47,24 @@ involved.</p>
 </p>
 <p><strong>C Division Girls</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>‘C’ Division Captains: NUR IMAN BINTE MUHAMMAD FADHLY (203)</p>
+</li>
+<li>
 <p>‘C’ Division Vice-Captains: CAI JIA YING TRIXY (205)</p>
+</li>
+</ul>
 <p><strong>B Division Girls</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>‘B’ Division Captains: VENUS TAY YU XI (304)</p>
+</li>
+<li>
 <p>‘B’ Division Vice-Captains: NG XI YUAN, SYLVIE (301)</p>
+</li>
+</ul>
 <p><strong>Xinmin Badminton Excellence:</strong>
 </p>
 <p>Members of Xinmin Badminton proudly represent our school in various competitions,
