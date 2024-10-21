@@ -27,14 +27,13 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><strong>Welcome to Xinmin Art Club (XAC)!</strong>
-</p>
-<p>At Xinmin Art Club (XAC), we are dedicated to inspiring a love for learning
+<p><strong>Welcome to Xinmin Art Club (XAC)!</strong></p>
+At Xinmin Art Club (XAC), we are dedicated to inspiring a love for learning
 through creativity and engaging activities. Our mission is to cultivate
 Curious learners, Compassionate contributors, and Confident leaders. We
 strive to nurture not only the artistic skills of our members but also
 their leadership abilities, while fostering a strong sense of compassion
-and self-assurance. Here's a closer look at what we do:</p>
+and self-assurance. Here's a closer look at what we do:<br><br>
 <strong>Activities</strong>
 <br>a) Art Club Camp
 <br>b) Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop
