@@ -87,7 +87,6 @@ create unforgettable performances together!</p>
 <br>Ms Pang Hui Chin (IC)
 <br>Ms Cindy Oh
 <br>Ms Hailey Tan</p>
-<p>&nbsp;<strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram </strong><a rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xms.guzheng</a>
+<p>Visit us at:</p>
+<p>Instagram <a href="https://instagram.com/xms.guzheng" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xms.guzheng</a>
 </p>
