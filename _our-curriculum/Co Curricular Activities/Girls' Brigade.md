@@ -5,4 +5,75 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 90%" height="auto" width="100%" alt="Girls' Brigade" src="/images/GB.jpeg"></div><p>The Girls’ Brigade 42nd Company aims to provide girls and young women with the opportunity to grow and to lead to develop them to their fullest potential by Equipping, Empowering and Enabling every Girl to be a leader, and every Officer a Servant Leader.</p><p>We organise a holistic selection of activities such as camps, drills and badgework which will give multiple opportunities for our girls to lead, plan and participate. These include both indoor and outdoor activities such as handicrafts, outreach to the community, outdoor cooking and learning journeys around Singapore.</p><p>Through the girls’ four years in Girls’ Brigade, our programme aims to develop the social, educational, spiritual, and physical aspects of every girl so that they will learn important life skills and be well equipped to take on any challenges in life.</p><p>In 2022, our company represented the Girls’ Brigade Singapore at the National Day Parade marching contingent in recognition of our good CCA track record and contributions. Following that in 2023, our girls won a Gold award for the GB Drill Competition. In the aspect of community service, our company initiated the project “Crochet for a Cause” to raise money for the Chen Su Lan Methodist Children’s Home.</p><p><strong>Accomplishments</strong><br>Attained Girls’ Brigade Company Award 2022 (10th Consecutive Gold)<br></p><p>2022 Pioneer Brigadier Brooch Award – 2 awardees<br>2023 Pioneer Brigadier Brooch Award – 5 awardees<br>(The Pioneer Brigadier’s Brooch is the highest and most prestigious award for a secondary GB girl after completion of her senior and pioneer pins)<br></p><p>Dr. Low Guat Tin Challenge 2022 [Silver – 2 group awards and 1 individual award] <br>[Bronze – 3 group awards and 2 individual awards]</p><p><strong>Teachers-in-charge</strong><br>Mrs Amy L Chan<br>Ms Janice Low Earn Qing<br></p><p>Captain - LT Tay Ching Yee<br>Officer - LT Delia Kang<br>Officer - LT Charin Ng<br>Officer - CLT Rozanne Low<br>Volunteer Adult Leader - Miss Amanda Oh<br>Warrant Officers - Miss Lim Xin, Faith<br>Warrant Officers - Miss Ho Zhi Xuan<br>Alumni - Miss Goh Zi Qi<br>Alumni - Miss Leong En En<br>Alumni - Miss Jeyvian Ang<br></p><p><strong>Student Leaders</strong><br>Corporal Janine Chia Ning (308) - Head Girl<br>Corporal Sara Tay Jing Lin (302) - Vice-Head Girl<br>Corporal Heng Zeng Ru (302) - Quarter Mistress<br>Corporal Caitlin Alice Harbick (307) - Recreation/Welfare Head<br></p><p><strong>CCA Schedule</strong><br>Wednesdays: 4.00 pm to 6.00 pm<br>Saturdays: 8:30 am to 12 noon<br></p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/xmsgirlsbrigade/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsgirlsbrigade/</a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Girls_Brigade/gb.jpg">
+</div>
+<p><strong>Welcome to the Girls’ Brigade, 42<sup>nd</sup> company!</strong>
+</p>
+<p>The Girls’ Brigade (GB) 42nd Company is dedicated to nurturing and empowering
+young women, equipping them with the skills and confidence to grow into
+leaders. Our mission is to cultivate every Girl as a leader and every Officer
+as a Servant Leader, helping them reach their fullest potential by providing
+opportunities to lead, learn, and serve.</p>
+<p>&nbsp;</p>
+<p>We offer a well-rounded selection of activities, from camps, drills, and
+badgework, to leadership opportunities that span both indoor and outdoor
+environments. Whether it’s crafting, community outreach, outdoor cooking,
+or exploring learning journeys around Singapore, our diverse programmes
+allow the girls to plan, lead, and actively participate in meaningful experiences.</p>
+<p>&nbsp;</p>
+<p>Throughout their four years with Girls’ Brigade, our girls embark on a
+journey of personal development, building their social, educational, spiritual,
+and physical skills. Our aim is to equip them with the life skills they
+need to overcome challenges and thrive in every aspect of life.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>CCA Schedule</strong>
+<br>Wednesdays: 4.00 pm to 6.00 pm</p>
+<p>Saturdays: 8:30 am to 12 noon</p>
+<p>&nbsp;</p>
+<p><strong>2024 Student Leaders</strong>
+</p>
+<p><strong>Head Girl</strong>: Claris Hong Kai Ning (305, 2024)
+<br><strong>Vice Heads</strong>: Foo Si Jia Faith (302, 2024) &amp; Yeow Xuan
+Ning (304, 2024)</p>
+<p>&nbsp;</p>
+<p><strong>2024 Awards:</strong>
+</p>
+<p>&nbsp;</p>
+<p>This year, our company proudly participated in the GB Tech Girl badgework,
+where the girls gained programming skills by coding with the micro: bit.
+This was conducted alongside the biannual Dr Low Guat Tin Challenge, under
+the theme "Better Together, for a Better Tomorrow." The challenge encouraged
+empathy and creativity as our girls designed innovative solutions to support
+the elderly and other vulnerable groups in Singapore. We are proud to share
+that our girls excelled in the competition, showcasing their dedication
+and ingenuity.</p>
+<p>&nbsp;</p>
+<p>We are also thrilled to celebrate the achievements of three of our girls
+who earned the prestigious Pioneer Brigadier Brooch, the pinnacle award
+in the GB. These outstanding girls exemplified excellence, self-discipline,
+and servant-leadership, standing as role models for others.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><strong>Accomplishments</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Low Guat Tin Challenge:
+2 Gold, 2 Silver and 5 Bronze awards</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pioneer Brigadier Brooch awardees:
+Janine Chia Ning (408, 2024), Sara Tay Jing Lin (402, 2024) and Heng Zeng
+Ru (402, 2024)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Company Award: Gold</p>
+<p>&nbsp;</p>
+<p>Join us as we continue to live out the core values of Family, Friendship,
+and Discipline within our GB 42nd Company!</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Teachers-in-charge</strong>
+<br>Mrs Amy Chan (IC)
+<br>Ms Teo Sze Ying</p>
+<p>&nbsp;</p>
+<p><strong>Visit us at:</strong>
+</p>
+<p><strong>Instagram </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsgirlsbrigade/</a>
+</p>
