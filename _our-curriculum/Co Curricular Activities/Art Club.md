@@ -35,6 +35,44 @@ we grow the artistic and leadership potential of our members while fostering
 a sense of compassion and confidence. Here's a glimpse into what we're
 all about:</p>
 <p><strong>Leadership Development:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>Our Executive-committee leaders play a pivotal role in shaping the club's
 journey. They hone their leadership skills by spearheading our key programs,
 including Xin-play, dynamic partnerships with primary schools, and a cherished
