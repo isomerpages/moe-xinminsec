@@ -76,6 +76,20 @@ beyond the school community.</p>
 <p>·&nbsp;&nbsp;&nbsp; Our Schools Our Stories 2024 – Honourable Mention
 (Lee Zhuoxi, 303)</p>
 <p>If you’re passionate about media, technology, and storytelling, Media
-Club is the place for you!
+Club is the place for you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Mediaclub1.jpg">
+</div>
+<p><strong>Teachers-in-charge</strong>
+<br>Ms Song Mei’en Lyn (OIC)</p>
+<p>Mr Arthur Lee Pei Pin (Photography IC)
+<br>Mr Ho Siang Teng Peter (Videography IC)
+<br>Mr Kuo Yu Hsuan (AVA IC)
+<br>Ms Tan Lay Lay (Infocomm IC)</p>
+<p>&nbsp;</p>
+<p><strong>Visit us on</strong>  <strong>Instagram</strong>
+</p>
+<p><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
 <br>
 </p>
