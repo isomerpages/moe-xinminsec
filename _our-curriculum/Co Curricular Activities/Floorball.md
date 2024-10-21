@@ -95,5 +95,5 @@ strive for greatness!</p>
 </ul>
 <p><strong>Visit us at:</strong>
 </p>
-<p><strong>Instagram <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_floorball/</a></strong>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_floorball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_floorball/</a></strong>
 </p>
