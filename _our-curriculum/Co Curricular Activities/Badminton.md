@@ -43,7 +43,7 @@ sessions, and competitive matches, while also leading debriefs. Additionally,
 they guide the team through major events such as Open Houses, CCA Orientations,
 and Induction Programs, ensuring a smooth and engaging experience for all
 involved.</p>
-<p><strong>&nbsp;2024 Student Leaders</strong>
+<p><strong>2024 Student Leaders</strong>
 </p>
 <p><strong>C Division Girls</strong>
 </p>
