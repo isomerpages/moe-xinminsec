@@ -89,24 +89,24 @@ and self-assurance. Here's a closer look at what we do:<br><br>
 </tr>
 </tbody>
 </table>
-<p>Our Executive Committee leaders play a crucial role in guiding the club’s
+<br>Our Executive Committee leaders play a crucial role in guiding the club’s
 growth and direction. They sharpen their leadership skills by leading major
 initiatives such as Xin-play, which fosters dynamic partnerships with primary
 schools. They also oversee key events like Art Jamming sessions, Open House,
 and the Secondary 1 CCA orientation, ensuring new students feel welcomed
-through creative bonding activities and immersive arts programs.</p>
-<p>In collaboration with our members, these leaders also organize the Upcycling
+through creative bonding activities and immersive arts programs.
+<br><br>In collaboration with our members, these leaders also organize the Upcycling
 Competition for Secondary 1 students. This event not only teaches the principles
 of upcycling but also inspires participants to create innovative and practical
-upcycled products.</p>
+upcycled products.<br><br>
 <strong>Student Leaders</strong><br>
 <strong>President</strong>: Ng Xue En, Chloe&nbsp;
 <br><strong>Vice Presidents</strong>: Tiana Shashi De Silva, Aura Airwan
 <br><strong>Heads Of Managements: </strong>Wang Yu Qi Kailyn, Lee Ze Hui,
-Hasikka D/O T Shanker, Ives Low Hong Yi<p></p>
-<p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
-Chanidapa Palagawong</p>
-<p><strong>Artistic Excellence:</strong>
+Hasikka D/O T Shanker, Ives Low Hong Yi<br><br>
+<strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
+Chanidapa Palagawong
+<br><br><strong>Artistic Excellence:</strong>
 <br>Members of XAC take pride in representing our school in a variety of arts
 competitions, continually refining their artistic skills and creative expression.
 We actively engage in art initiatives, seizing every opportunity to showcase
@@ -114,7 +114,7 @@ our talents through projects such as wall mural designs, the Xinmin Design
 Fiesta Ball Run Out competition, and other captivating artwork displays.
 Most recently, we made a significant impact by hosting our very own Art
 Club exhibition at Reflections Theatre during Homecoming Day, leaving a
-lasting impression on our school's vibrant artistic community.</p>
+lasting impression on our school's vibrant artistic community.<p></p>
 <strong>Accomplishments</strong>
 <br>a) Arts sharing with PCF Sparkletots Hougang
 <br>b) Upcycling Art level competition<br>
