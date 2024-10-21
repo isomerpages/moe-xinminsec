@@ -117,9 +117,18 @@ member is a valuable contributor to the collective success of the group.</p>
 voice counts. Engage, debate, and excel as we challenge ideas, inspire
 change, and grow together!</p>
 <p><strong>Teachers-in-charge</strong>
-<br>Ms Nanthini Gunasekaran (IC)</p>
-<p>Ms Nadhrah Zainalabiden
-<br>Ms Junice Chia</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Nanthini Gunasekaran (IC)</p>
+</li>
+<li>
+<p>Ms Nadhrah Zainalabiden</p>
+</li>
+<li>
+<p>Ms Junice Chia</p>
+</li>
+</ul>
 <p><strong>Visit us at:</strong>
 </p>
 <p><strong>Instagram: </strong><a href="https://www.instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsdebateclub/</a>
