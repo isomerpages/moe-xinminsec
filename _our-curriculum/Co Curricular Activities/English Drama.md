@@ -77,12 +77,10 @@ Layla Maryam Binte Abdul Rauf (307, 2024) &amp; Nai Zi Han (302, 2024)
 <p><strong>Head of Welfare: </strong>Chua Jolie (305, 2024)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Sec 2 Head: Teo Dong Quan Travis (302, 2024)</strong>
-</p>
+<p><strong>Sec 2 Head: </strong>Teo Dong Quan Travis (302, 2024)</p>
 </li>
 <li>
-<p><strong>Sec 1 Head: Goh Yun En (302, 2024)</strong>
-</p>
+<p><strong>Sec 1 Head: </strong>Goh Yun En (302, 2024)</p>
 </li>
 </ul>
 <p><strong>English Drama Club Excellence:</strong>
