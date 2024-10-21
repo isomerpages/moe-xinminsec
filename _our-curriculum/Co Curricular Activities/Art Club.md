@@ -27,13 +27,36 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Welcome to Xinmin Art Club (XAC)</p>
-<p>At Xinmin Art Club (XAC), we're all about the joy of learning through
-creativity and fun-filled activities. Our mission is to nurture and develop
-Curious learners, Compassionate contributors, and Confident leaders. Hence,
-we grow the artistic and leadership potential of our members while fostering
-a sense of compassion and confidence. Here's a glimpse into what we're
-all about:</p>
+<p><strong>Welcome to Xinmin Art Club (XAC)!</strong>
+</p>
+<p>&nbsp;</p>
+<p>At Xinmin Art Club (XAC), we are dedicated to inspiring a love for learning
+through creativity and engaging activities. Our mission is to cultivate
+Curious learners, Compassionate contributors, and Confident leaders. We
+strive to nurture not only the artistic skills of our members but also
+their leadership abilities, while fostering a strong sense of compassion
+and self-assurance. Here's a closer look at what we do:</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Activities</strong>
+<br>a) Art Club Camp
+<br>b) Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop
+<br>c) Values In Action projects
+<br>d) Learning journey to Singapore Tyler Print Institute
+<br>e) Stemtastic art projects and clay modelling
+<br>f) Art competitions
+<br>g) Digital drawing with various apps
+<br>h) In-house makers arts program
+<br>i) Upcycling competition for secondary 1
+<br>j) Plank Art with community
+<br>k) Xinmin’s Design Fiesta Ball Run out competition
+<br>l) Museum Visit to National Gallery Singapore Open House, Art Club Booth
+<br>m) CCA Orientation Booth
+<br>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>CCA Schedule</strong>
+<br>Wednesdays: 3:30pm to 5.30pm
+<br>Fridays: 1.30pm to 3:30/4pm</p>
 <p><strong>Leadership Development:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -73,81 +96,71 @@ all about:</p>
 </tbody>
 </table>
 <p>
-<br>Our Executive-committee leaders play a pivotal role in shaping the club's
-journey. They hone their leadership skills by spearheading our key programs,
-including Xin-play, dynamic partnerships with primary schools, and a cherished
-arts collaboration with Sparkletots. They also lead initiatives like Open
-House and Secondary 1 CCA orientation programs, ensuring a warm welcome
-for new students through bonding activities and engaging arts programs.
-Creative Collaboration:</p>
-<p>Our leaders and members join forces to organize the Upcycling Competition
-for Secondary 1 students in the second term. This competition not only
-teaches the art of upcycling but also encourages participants to design
-innovative and useful upcycled products.</p>
+<br>Our Executive Committee leaders play a crucial role in guiding the club’s
+growth and direction. They sharpen their leadership skills by leading major
+initiatives such as Xin-play, which fosters dynamic partnerships with primary
+schools. They also oversee key events like Art Jamming sessions, Open House,
+and the Secondary 1 CCA orientation, ensuring new students feel welcomed
+through creative bonding activities and immersive arts programs.</p>
+<p>In collaboration with our members, these leaders also organize the Upcycling
+Competition for Secondary 1 students. This event not only teaches the principles
+of upcycling but also inspires participants to create innovative and practical
+upcycled products.</p>
+<p><strong>Student Leaders</strong>
+</p>
+<p><strong>President</strong>: Ng Xue En, Chloe&nbsp;
+<br><strong>Vice Presidents</strong>: Tiana Shashi De Silva, Aura Airwan
+<br><strong>Heads Of Managements: </strong>Wang Yu Qi Kailyn, Lee Ze Hui,
+Hasikka D/O T Shanker, Ives Low Hong Yi</p>
+<p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
+Chanidapa Palagawong</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Artistic Excellence:</strong>
-<br>Members of XAC proudly represent our school in various arts competitions,
-refining their artistic talents and flair. We actively participate in art
-initiatives, embracing opportunities to showcase our creativity in projects
-like wall mural designs and captivating artworks. Most recently, we hosted
-our Art Club Art exhibition at Reflections Theatre during Homecoming Day,
-leaving an indelible mark on our school's artistic landscape.</p>
-<p><strong>Community Engagement:</strong>
-<br>Beyond our school walls, XAC seeks to engage with the wider community.
-We regularly participate in events such as the Singapore Youth Festival
-(SYF) art labs and various art workshops. These experiences enable our
-members to gain exposure, learn from fellow artists, and expand their artistic
-horizons.</p>
-<p>Xinmin Art Club is not just a club; it's a vibrant community where ideas
-are shared, friendships are forged, and creativity knows no bounds. Whether
-through camps, art workshops, museum visits, Co-curricular Activity Orientations,
-or our partnerships with community organizations, our members actively
-contribute to the school while enjoying the boundless world of art.</p>
-<p>Join us on our artistic journey at XAC, where creativity knows no limits,
-and learning is a lifelong adventure. Together, we explore, create, and
-inspire!</p>
-<p><strong>Activities</strong>
-<br>a) Art Club Camp
-<br>b) Batik Painting, Linoprinting Workshop
-<br>c) Artwork at Serangoon Public Library
-<br>d) Values In Action/ Art Sharing with Primary Schools and Sparkletots
-<br>e) Pottery workshop
-<br>f) Learning journey to Singapore Tyler Print Institute
-<br>g) SYF Illuminate!
-<br>h) Art competitions
-<br>i) Digital drawing with various apps
-<br>j) In-house makers arts program
-<br>k) Upcycling competition for secondary 1
-<br>l) Plank Art with community
-<br>m) Metal tooling workshop
-<br>n) Tenth Kao International Environment Painting Contest for Children –‘Together,
-We are Eco-friendly’
-<br>o) Museum Visit to National Gallery Singapore Open House, Art Club Booth
-<br>p) CCA Orientation Booth
-<br>q) Physical training/bonding sessions on every first week of the month
+</p>
+<p>
+<br>Members of XAC take pride in representing our school in a variety of arts
+competitions, continually refining their artistic skills and creative expression.
+We actively engage in art initiatives, seizing every opportunity to showcase
+our talents through projects such as wall mural designs, the Xinmin Design
+Fiesta Ball Run Out competition, and other captivating artwork displays.
+Most recently, we made a significant impact by hosting our very own Art
+Club exhibition at Reflections Theatre during Homecoming Day, leaving a
+lasting impression on our school's vibrant artistic community.</p>
+<p>&nbsp;</p>
+<p><strong>Accomplishments</strong>
+<br>a) Arts sharing with PCF Sparkletots Hougang
+<br>b) Upcycling Art level competition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c) Live on art competition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+d) Avatar Art Competition
+<br>
 <br>
 </p>
-<p><strong>Accomplishments</strong>
-<br>a) Arts sharing with PCF Sparkletots Hougang (term 2)
-<br>b) Upcycling Art Sharing with Kheng Cheng School (term 1)
-<br>c) Avatar Art Competition
-<br>2nd: Tan Yan Yu
-<br>Finalists: Aura and Aaden
-<br>d) Upcycling competition for all sec 1s( Term 2)</p>
+<p><strong>Community Engagement:</strong>
+</p>
+<p>
+<br>Beyond our school, XAC actively engages with the broader community, regularly
+participating in events such as the Singapore Youth Festival (SYF) art
+labs and various art workshops. These opportunities allow our members to
+gain valuable exposure, collaborate with fellow artists, and broaden their
+creative perspectives.</p>
+<p>In Term 3, we formed a partnership to design community-based dustbins,
+contributing to the vibrancy of the Hougang neighbourhood through art.</p>
+<p>Xinmin Art Club is more than just a club; it's a dynamic community where
+ideas are exchanged, friendships are built, and creativity thrives. From
+camps, art workshops, and museum visits to Co-Curricular Activity Orientations
+and partnerships with community organizations, our members actively enrich
+the school environment while exploring the limitless world of art.</p>
+<p>Join us on our artistic journey at XAC, where creativity has no boundaries,
+and the pursuit of knowledge is a lifelong adventure. Together, we explore
+new possibilities, create meaningful art, and inspire one another!</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Teachers-in-charge</strong>
 <br>Mr James Tan (IC)
-<br>Ms Asniza Bte Hassan
-<br>Mr Zhuang Haoyang
-<br>
+<br>Mr Zhuang Haoyang</p>
+<p>&nbsp;</p>
+<p><strong>Visit us at:</strong>
 </p>
-<p><strong>Student Leaders</strong>
-<br><strong>President</strong>: Chan Xiang Lin (301, 2023)
-<br><strong>Vice Presidents</strong>: Wong Kitt Yeung (305, 2023) &amp; Lim
-Yan Ting (306, 2023)
-<br><strong>Heads of Management and projects</strong>: Koh Zhi Ming (302,
-2023) &amp; Siti Nabihah Binte Mohamad Jasman (307, 2023)</p>
-<p><strong>CCA Schedule</strong>
-<br>Wednesdays: 3:30pm to 5.30pm
-<br>Fridays: 1.30pm to 5:30pm</p>
-<p><strong>Instagram</strong>
-<br><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
 </p>
