@@ -23,13 +23,14 @@ Badminton Camp. These experiences provide a platform for them to develop
 leadership skills and strengthen team bonds, shaping them into well-rounded
 individuals both on and off the court.</p>
 <p><strong>Activities</strong>
-<br>a) National School Games (NSG) B Division and C Division
-<br>b) Sec 1 Induction Programme
-<br>c) Xinmin Invitational Competition</p>
-<p>d) CCA Orientation
-<br>e) Badminton 2D1N Camp
-<br>f) Physical / Skills Training
-<br>h) School Invitationals and Friendly Matches</p>
+<br>a) National School Games (NSG) B Division and C Division</p>
+<p>b) Sec 1 Induction Programme</p>
+<p>c) Xinmin Invitational Competition</p>
+<p>d) CCA Orientation</p>
+<p>e) Badminton 2D1N Camp</p>
+<p>f) Physical / Skills Training</p>
+<p>h) School Invitationals and Friendly Matches</p>
+<p></p>
 <p><strong>CCA Schedule</strong>
 </p>
 <p>C Div - Monday, Wednesday 1530h to 1830h, Friday 1330h to 1630h</p>
