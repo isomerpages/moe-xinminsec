@@ -5,4 +5,26 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="Outdoor Adventure Club" src="/images/ODAC.jpeg"></div><p>ODAC members, while engaging in challenging and adventurous local or overseas activities, work together in small groups to exercise leadership and equally important, followership, practise inclusiveness, learn the value of working towards a common goal and recognise the unique attributes each individual brings to the team. These objectives/practices are exemplified by ODAC’s motto: Improvise, Adapt, Overcome.</p><p>While exploring their own strengths and weaknesses, ODAC members realise how overcoming self-imposed limitations can bring success even in the most challenging of situations. This enhances their ability to bounce back from setbacks or challenges with confidence and optimism. Members also learn that risk can be dealt with responsibly and cautiously – a lesson that can be applied to their own personal situations. To help transfer their learning to everyday context, students are guided to reflect on how they might approach a similar situation again.</p><p>Personal experience in a variety of outdoor settings also helps them to feel more comfortable in the great outdoors. Learning first-hand in a non-familiar outdoor environment not only allows them to develop adaptability, but also respect for the natural world as well.</p><p>Finally, on the most basic level, ODAC gets every member to practise simple physical exercise, healthy living (or is it lifestyle?) habits and an opportunity for members to interact and build strong relationships away from the usual classroom environment.</p><p><strong>Accomplishments</strong><br>Nil</p><p><strong>Teachers-in-charge</strong><br>Mr Michael Vincent Rodrigues (IC)<br>Ms Belinda Lim Ee Gek<br>Mr Jeremy Tan Kian Seng <br>Ms Vanessa Chia Su Qing<br>Ms Gillian Lim Xiu Hui<br></p><p>Affiliate<br>Mr Hardev Singh<br></p><p><strong>Student Leaders</strong><br>President:<br>Chung Ying Rong, Ginji (405, 2023)<br></p><p>Vice-Presidents:<br>Lim Cheng Xi Wayne (402, 2023)<br>Aqeel Bin Selamat (407, 2023)<br></p><p>Quartermasters:<br>Shanice Lee Ruiqi (501, 2023)<br>Yeo Ke Wei, Chloe (402, 2023)<br>Eshly Qasrina Binte Mohammad Fadillah (408, 2023)<br></p><p><strong>CCA Schedule</strong><br>Wednesday - 1545h to 1845h<br>Friday - 1430h to 1730h<br></p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/xmsodac/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsodac/</a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/odac.jpg">
+</div>
+<p><strong>Outdoor Adventure Club (ODAC)</strong>
+</p>
+<p><strong>Improvise, Adapt, Overcome</strong>
+</p>
+<p>The Outdoor Adventure Club (ODAC) is dedicated to cultivating confident,
+self-reliant adventure leaders who possess a strong sense of social responsibility.
+Safety and discipline are fundamental to all our activities.&nbsp;</p>
+<p>ODAC provides members with exciting opportunities to explore the great
+outdoors, nurturing strong friendships and teamwork in natural environments.
+Whether hiking scenic trails, camping, or kayaking, there’s an adventure
+for everyone to enjoy and experience. Through challenging local and overseas
+activities, members collaborate to exercise both leadership and followership
+while embracing inclusiveness. Experiencing the outdoors firsthand in unfamiliar
+settings not only fosters adaptability but also deepens respect for nature.
+Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."
+<br><strong>Activities</strong>
+</p>
+<p><strong>Instagram</strong>
+<br><a href="https://www.instagram.com/xmsodac/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsodac/</a>
+</p>
