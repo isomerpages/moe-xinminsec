@@ -35,11 +35,9 @@ Curious learners, Compassionate contributors, and Confident leaders. We
 strive to nurture not only the artistic skills of our members but also
 their leadership abilities, while fostering a strong sense of compassion
 and self-assurance. Here's a closer look at what we do:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Activities</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>a) Art Club Camp</p>
 </li>
@@ -78,13 +76,13 @@ and self-assurance. Here's a closer look at what we do:</p>
 </li>
 <li>
 <p>m) CCA Orientation Booth</p>
+<p>n) Physical training/bonding sessions on every first week of the month</p>
 </li>
-<li>
-<p>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
-<br><strong>CCA Schedule</strong>
+</ul>
+<p></p>
+<p><strong>CCA Schedule</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Wednesdays: 3:30pm to 5.30pm</p>
 </li>
@@ -200,11 +198,9 @@ new possibilities, create meaningful art, and inspire one another!</p>
 <p>Mr James Tan (IC)</p>
 </li>
 <li>
-<p>Mr Zhuang Haoyang
-<br>
-<br><strong>Visit us at:</strong>
-<br><strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
-</p>
+<p>Mr Zhuang Haoyang</p>
 </li>
 </ul>
+<p><strong>Visit us at: Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
+</p>
 <p></p>
