@@ -88,5 +88,5 @@ and relish every moment when we are on stage!</p>
 <br>Ms Mildred Michelle Kline</p>
 <p><strong>Visit us at:</strong>
 </p>
-<p><strong>Instagram </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xmchorale</a>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms_xmchorale" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xmchorale</a>
 </p>
