@@ -5,4 +5,84 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="Debate" src="/images/CCAs/Debate/debate.jpg"></div><p>The Xinmin Debate Club encourages its members to think critically and intelligently on a given issue, develop an informed opinion and to express that opinion in a clear and persuasive manner. Students are involved in friendly spars as well as national competitions. The Xinmin Debate Club have participated in a variety of competitions focused on Debating (including Parliamentary Debating) and public speaking. These are the competitions which the debaters took part in recently, running the range from those for experienced debaters to ones for novices, giving them an opportunity to pit their skills against others.</p><p>• Debate Association Debate Championships<br>• Singapore Secondary Schools Debating Championship<br>• Hwa Chong British Parliamentaries <br>• Mid-Year Debate Invitationals<br>• Lasallian Debate League<br>• Raffles Debate Association U-14s Debating Championships<br>• The WoLCE World Inter-School Debating Competition<br>• Singapore International Schools’ Debate League<br>• Anglo Chinese Junior College Orators’ Trophy <br>• YMCA Plain English Speaking Awards (PESA)<br></p><p>XMS Debate Club has participated in multiple competitions including the National Singapore Secondary Schools Debating Championships and have even competed against international opponents at the WoLCe World Inter-School Debating Competition and Singapore International Schools’ Debate League.</p><p>The school made it to the semi-finals of the National Singapore Schools Debating Championships in 2022 with three students finishing amongst the top 20 speakers of the Championship. The overall best speaker for the championship in 2022 came from XMS Debate Club. The school also made the quarter-finals in 2023 with two students finishing amongst the top 20 speakers of the championship. The school also finished as first runner up at the Mid-Year Debate Invitationals 2023 with four students finishing amongst the top 20 speakers of the competition. The school is proud of the tenacious effort the members have put into each competition and their attitude towards learning.</p><p>Aside from simply taking part in competitions, the club seeks to foster an attitude of gratitude and camaraderie. Each member learns that he or she can only be as strong as the support given by all the other members and that every member is a valued contributor of the club.</p><p><strong>Accomplishments</strong><br>SSSDC (Semi finalist, 2022 and quarterfinalist, 2023)<br>Overall best speaker SSSDC in 2022<br>Mid-Year Debate Invitationals (1st Runner up, 2023)<br></p><p><strong>Teachers-in-charge</strong><br>Mr Harvinder Singh (IC)<br>Ms Nanthini Gunasekaran<br>Ms Nadhrah Zainalabiden <br></p><p><strong>Student Leaders</strong><br>Andrea Mok Kai Ting (304, 2023) - Chairperson<br>Karina Astari Widiyantomo (302, 2023) - Vice-Chairperson<br>Chong Jing Ying (301, 2023)- Head of Welfare<br>Vansh Veer (305, 2023)- Head of Knowledge Management<br></p><p><strong>CCA Schedule</strong><br>Wednesdays: 3.45pm to 6pm<br>Fridays: 2.15pm to 4.30pm<br></p><p><strong>Instagram</strong><br><a href="https://instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xmsdebateclub/</a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Debate/debate1.jpg">
+</div>
+<p><strong>Welcome to Xinmin Debate Club!</strong>
+</p>
+<p>The Xinmin Debate Club cultivates critical thinking and sharp analytical
+skills in its members, encouraging them to form well-informed opinions
+and express their ideas clearly and persuasively. Students actively participate
+in both friendly debates and national competitions, showcasing their abilities
+in a variety of debating and public speaking events, including Parliamentary
+Debating. Recently, club members competed in events tailored to both experienced
+debaters and novices, providing them with ample opportunities to test and
+refine their skills.</p>
+<p><strong>Activities</strong>
+<br>• Debate Association Debate Championships</p>
+<p>• Singapore Secondary Schools Debating Championship</p>
+<p>• Hwa Chong British Parliamentaries</p>
+<p>• Mid-Year Debate Invitationals</p>
+<p>• Lasallian Debate League</p>
+<p>• Eunoia Debating Championships</p>
+<p>• Raffles Debate Association U-14s Debating Championships</p>
+<p>• The WoLCE World Inter-School Debating Competition</p>
+<p>• Singapore International Schools’ Debate League</p>
+<p>• Anglo Chinese Junior College Orators’ Trophy</p>
+<p>• YMCA Plain English Speaking Awards (PESA)</p>
+<p><strong>CCA Schedule</strong>
+</p>
+<p>Wednesdays: 3:45pm to 6.00pm
+<br>Fridays: 2.15pm to 4:30pm</p>
+<p><strong>Leadership Development:</strong>
+</p>
+<p>The success of the Xinmin Debate Club is shaped by the dedication of our
+Executive Committee leaders, who develop their leadership abilities by
+spearheading key programs. These leaders play a vital role in organizing
+events, managing debate sessions, and assuming specific responsibilities
+during each meeting and competition, ensuring the smooth operation and
+growth of the club.</p>
+<p><strong>Student Leaders</strong>
+<br><strong>Chairperson</strong>: Edison Lee Rui Yang (302, 2024)
+<br><strong>Vice-Chairperson</strong>: Dave Krivish Vishal (302, 2024)
+<br><strong>Head of Welfare</strong>: Koann Kwok Ke En (301, 2024)</p>
+<p><strong>Head of Publicity</strong>: Chakarin Tongchanachai (303, 2024)</p>
+<p><strong>Excellence:</strong>
+<br>The XMS Debate Club has proudly participated in numerous prestigious competitions,
+including the National Singapore Secondary Schools Debating Championships
+and international events like the WoLCe World Inter-School Debating Competition
+and the Singapore International Schools’ Debate League.</p>
+<p>In 2022, Xinmin reached the semi-finals of the National Singapore Schools
+Debating Championships, with three students ranking among the top 20 speakers,
+and one student earning the title of overall best speaker of the championship.
+In 2023, the club advanced to the quarterfinals, with two students finishing
+in the top 20. Additionally, the team was first runner-up at the Mid-Year
+Debate Invitationals, where four students ranked among the top 20 speakers.</p>
+<p>In 2024, Xinmin claimed the championship title at the Raffles Debate Association
+U-14s Debating Championships, with one student being named overall best
+speaker of the competition. The school takes immense pride in the determination,
+teamwork, and positive attitude displayed by its members throughout these
+competitions.</p>
+<p><strong>Accomplishments</strong>
+<br>SSSDC (Semi-finalist, 2022 and quarterfinalist, 2023)</p>
+<p>Overall best speaker SSSDC in 2022</p>
+<p>Mid-Year Debate Invitationals (1st Runner up, 2023)</p>
+<p>Raffles Debate Association U-14s Debating Championships (Champion School
+&amp; Overall Best Speaker 2024)</p>
+<p><strong>Community Engagement:</strong>
+<br>Beyond honing their skills in competitive settings, Xinmin Debate Club
+members engage in friendly sparring sessions and exchange events with other
+schools, fostering a spirit of camaraderie and mutual learning. The club
+emphasizes the importance of gratitude and teamwork, recognizing that each
+member is a valuable contributor to the collective success of the group.</p>
+<p>Join the Xinmin Debate Club, where critical thinking flourishes, and every
+voice counts. Engage, debate, and excel as we challenge ideas, inspire
+change, and grow together!</p>
+<p><strong>Teachers-in-charge</strong>
+<br>Ms Nanthini Gunasekaran (IC)</p>
+<p>Ms Nadhrah Zainalabiden
+<br>Ms Junice Chia</p>
+<p><strong>Visit us at:</strong>
+</p>
+<p><strong>Instagram: </strong><a href="https://www.instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsdebateclub/</a>
+</p>
