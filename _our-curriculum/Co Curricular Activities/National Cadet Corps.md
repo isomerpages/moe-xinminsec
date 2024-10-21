@@ -5,4 +5,74 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="NCC" src="/images/CCAs/Ncc/n_c_c_1.jpg"></div><p>The Xinmin National Cadet Corps (NCC) is a dynamic and rugged where there are ample opportunities for cadets to participate in a wide range of activities. Leadership programmes are also in place to groom promising cadets to be future leaders. Activities are conducted at both school and HQ levels. Through these activities, Xinmin NCC seeks to nurture cadets into resilient, disciplined, committed, and responsible individuals.</p><p>These are some of the activities in which our cadets participate each year:</p><p>Sec 1 Cadets: Kayaking Orientation Programme, Camp FORGE Sec 2 Cadets: 1-Star Kayaking Proficiency, Individual Marksmanship Training (IMT), Orienteering Competition, Self-Defence, Camp STEEL Sec 3 Cadets: 2-Star Kayaking Proficiency, Self-Defence, SAR 21 Live-Firing</p><p>To hone the leadership skills of our cadet leaders, our Sec 3 cadets are given the responsibility to organise, plan and conduct the unit’s weekly training programmes which include Foot drills, Arms drills, Precision Drill Squad (PDS) training, Individual Field Craft (IFC), Orienteering and Physical Training. They are also given the opportunity to plan the annual camp which aims to build camaraderie among the cadets.</p><p><strong>Accomplishments</strong><br>2022 Recognition Award - Distinction<br>2022 Outstanding Cadet Award - Chua Qi En<br></p><p><strong>Teachers-in-charge</strong><br>Mr Ganesan Selvarathnam (IC)<br>Mr Lin Shunyi<br></p><p><strong>Student Leaders</strong><br>Chuck Char Han Caden (303, 2023) - USM<br>Syarulammar Nazry Bin Nasurudin (308, 2023) - ASM<br>Anders Ang En Kai (303, 2023) - CSM (Alpha)<br>Krishnan Nikhil (301, 2023) - CSM (Bravo)<br>Aaric Toh Jun Qin (302, 2023) - CSM (Charlie)<br></p><p><strong>CCA Schedule</strong><br>Wednesday: 1500h - 1730h<br>Friday: 1400h - 1800h<br></p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/xinmin.ncc/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/n_c_c_1.jpg">
+</div>
+<p><strong>Welcome to NCC!</strong>
+</p>
+<p>The Xinmin National Cadet Corps (NCC) offers a dynamic and demanding Co-Curricular
+Activity (CCA) that cultivates resilience, discipline, and leadership among
+its cadets. The program provides numerous opportunities for cadets to engage
+in a wide range of activities at both the school and HQ levels. Participants
+attend HQ camps, where they develop essential survival skills and take
+part in exciting activities like paintball, abseiling, and ziplining. Additionally,
+cadets have the opportunity to engage in SAR 21 live range shooting and
+represent their unit in sports championships and laser run competitions.</p>
+<p><strong>Activities</strong>
+</p>
+<p><strong>Secondary One</strong>
+</p>
+<p>Camp Forge (Day Camp)</p>
+<p>Affirmation Ceremony
+<br>Proficiency Tests</p>
+<p>Total Defence (Bronze)</p>
+<p><strong>Secondary Two</strong>
+</p>
+<p>Proficiency Tests</p>
+<p>Camp Steel (Day Camp)</p>
+<p>Air Rifle Shoot</p>
+<p>Total Defence (Silver)</p>
+<p><strong>Secondary Three</strong>
+</p>
+<p>Specialist Assessment</p>
+<p>SAR 21 Live Range</p>
+<p>Total Defence (Gold)</p>
+<p><strong>CCA Schedule</strong>
+<br>Wednesday: 1600h - 1800h</p>
+<p>Friday: 1400h - 1800h</p>
+<p><strong>Leadership Development:</strong>
+</p>
+<p>All Secondary Three cadet leaders undergo regular leadership training
+every two weeks, equipping them to effectively organise, plan, and conduct
+the unit’s weekly training sessions. These sessions encompass a variety
+of activities, including foot drills, Individual Field Craft (IFC), and
+Physical Training. Selected leaders also attend specialized instructor
+courses in Freestyle Drill (FSD) and Precision Drill Squad (PDS), further
+enhancing their skills to guide and mentor their juniors effectively.</p>
+<p><strong>Student Leaders</strong>
+</p>
+<p><strong>&nbsp;</strong>1SG Danial Bin Abdul Halim</p>
+<p>1SG Harry Chong You Bo</p>
+<p>1SG Cedric Chong Chee Shun</p>
+<p>1SG Coby Ang Min Heng</p>
+<p>1SG Soon Hong Wei Jayden</p>
+<p>3SG Muhammad Randy Syibli Bin Mohammad Hisham</p>
+<p><strong>Accomplishments</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 Unit Recognition Award – Distinction</p>
+</li>
+<li>
+<p>2023 Outstanding Cadet Award – Chuck Char Han Caden (403, 2024) – USM</p>
+</li>
+</ul>
+<p>Join the Xinmin NCC to build resilience, discipline, and leadership while
+embarking on thrilling adventures and lifelong friendships!</p>
+<p><strong>Teachers-in-charge</strong>
+<br>Mr Ganesan Selvarathnam (IC)</p>
+<p>Mr Lin Shunyi</p>
+<p><strong>Visit us on</strong>  <strong>Instagram</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
+</p>
