@@ -5,4 +5,88 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="Choir" src="/images/CCAs/Choir/2023/choir_2023.jpg"></div><p>Xinmin Chorale is a youth choir consisting of talented and enthusiastic singers. We seek to inculcate a passion for singing in each of our choristers, and in the process mold them into all-round and gracious student leaders.</p><p>In providing opportunities for growth and joy to the choristers, XM Chorale has been contributing actively to our vibrant school culture. We perform regularly in public concerts and musicals, such as the highly successful musical-cum-choral concerts, Melizo, to consistently sell-out audiences. Furthermore, the choir has also been invited to perform specially for various Ministries and private organisations for their celebrations and functions. In 2015, we were invited to perform at Youth Celebrate! – the inaugural opening ceremony of the Singapore Sports Hub, a national event that recognises and develops young talents. In 2016, Xinmin Choral was invited to perform at Voice of Singapore Festival 2016 which showcased more than 1600 singers from 37 invited choirs in this festival. To celebrate SYF achievements, we were also invited to perform at SYF Celebrations 2016 Opening Concert.</p><p>Despite our short history, we have consistently received accolades at the Singapore Youth Festival with Gold Awards in succession since 2005 and a Gold (With Honours) Award in 2011. In 2013, 2015, 2017, 2019, and 2023, XM Chorale was conferred the prestigious Certificate of Distinction at the Singapore Youth Festival Arts Presentation. To ensure the continued excellence of our chorale programme, our young singers are regularly coached by renowned international choral conductors, composers and clinicians. This gives them the exposure they need to grow and develop in their talents. These clinicians include Ms Maria Guinand from Venezuela, Dr Michael Barrett from South Africa, Dr Eugene Rogers from USA, Mr Werner Pfaff from Germany, Dr Paulo Lorenço from Portugal, Dr Kari Turunen from Finland, Mr Ko Matsushita from Japan and Mr Branco Starc from Croatia.</p><p>Xinmin Chorale has also made its mark in international choral competitions. In 2009, the choir was awarded a Gold Diploma and was the Under-16 category winner at the International Festival of Advent and Choral Music held in Bratislava, Slovakia. In 2013, the choir won a Gold Award, Category winner for Under 16 mixed choir category and the Best Programme award at the Winter Choral Festival held in Hong Kong, China. At the 1st Singapore International Choral Festival in 2014, the choir was awarded a Gold Award, Category Winner for Mixed Voices Under-16 Category and was the sole Singapore representative in the Grand Prix finals.</p><p>In 2017, 2019 and 2023, XM Chorale staged successful public concerts at the Esplanade Concert Hall as we were invited to be part of Limelight, a series gives some of the best school choirs and symphonic bands in Singapore an opportunity to perform at Esplanade – Theatres on the Bay. In 2022, XM Chorale hosted SuperNova, a Combined Schools Choir Exchange and Concert held at our very own Xinmin Creative Arts Complex’s Reflections Theatre.</p><p>2020 was an unprecedented year due to the global pandemic, but we did not allow it to affect our members’ passion for singing. During the Circuit Breaker, some of our members took part in creating a music video whereby they did a cover of the song “When You Believe”. They made the video to express their gratitude and to encourage all the frontline Healthcare workers for their commitment and sacrifice. Thereafter, some of our choir members also took part in performing the song “Be The Light” and was featured in a music video produced by MOE and featured on SYFgoesOnline and for National Day 2020. Last but not least, we also have members who took part in the Teachers’ Day Virtual Choir, performing the song “You are the Reason”, a music video produced by MOE to express gratitude to teachers.</p><p>It is our long-standing belief that through providing the right environment, guidance and opportunities for students who love music and enjoy singing, they would develop their individual talents, and they would also be imbued with our school’s values of respect, responsibility and resilience.</p><p><strong>Accomplishments</strong><br>CCA Achievements<br>Singapore Youth Festival (SYF) 2023– Certificate of Distinction<br>Singapore Youth Festival (SYF) 2019 – Certificate of Distinction<br>Singapore Youth Festival (SYF) 2017 – Certificate of Distinction<br></p><p>CCA Highlights<br>National Day Parade (NDP) 2023 Schools Choir<br>Limelight Public Concert 2023 @ Esplanade Concert Hall<br>SuperNova Combined Schools Choir Exchange and Performance 2022<br></p><p><strong>Teachers-in-charge</strong><br>Ms Gwyneth Chua Li Shan<br>Ms Joanne Kong<br></p><p><strong>Student Leaders</strong><br>President - Shendy Abigail Tanujaya (301, 2023)<br>Vice-President (Admin) - Letitia Tan Suan Ning (302, 2023)<br>Vice-President (Discipline) - Phileuz Ho Jyn Zerr (303, 2023)<br>Head of Logistics - Desiree Tee (302, 2023)<br>Head Of Welfare - Elsie Lim Yu Qi (304, 2023)<br>Section Leader (Soprano) - Leong Li Zhen Amber (301, 2023)<br>Section Leader (Soprano) - Yuki Ang (305, 2023)<br>Section Leader (Alto) - Iris Yaw Yu Fei (303, 2023)<br>Section Leader (Tenor), Student Conductor - Amos Pan Tai Kheng (301, 2023)<br>Section Leader (Bass) - Tay Yu Qian, Darrius (302, 2023)<br></p><p><strong>CCA Schedule</strong><br>Wednesday - 3:30pm to 6pm<br>Friday - 2pm to 5pm<br>Extra sectional practices may be conducted prior to competitions and performances.<br></p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/xmchorale/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmchorale/</a></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/choir.jpg">
+</div>
+<p><strong>Welcome to Xinmin Chorale!</strong>
+</p>
+<p>Here, youths passionate about singing have the chance to hone their vocal
+abilities under the expert musical direction of our dedicated conductor,
+Mr. Yong Chee Foon.</p>
+<p>Beyond learning songs in various languages and preparing for performances,
+members are encouraged to plan and lead activities that strengthen the
+bonds within the choir. Whenever possible, we also participate in exchange
+programmes with other school choirs and youth choirs from around the world.
+We firmly believe that by providing the right environment, guidance, and
+opportunities, our members not only enhance their singing and performance
+skills but also grow into gracious individuals, embracing the school’s
+core values of respect, responsibility, and resilience.</p>
+<p><strong>Activities</strong>
+<br>a) Bonding Games/Camp</p>
+<p>b) Masterclass conducted by established international Music Clinicians</p>
+<p>c) Exchange programme with other school choirs in Singapore</p>
+<p>d) Combined-schools Choir performances</p>
+<p>e) Learning Journey - Attending Choir Performances /Musicals</p>
+<p><strong>CCA Schedule</strong>
+<br>Wednesdays: 3:30pm to 6pm</p>
+<p>Fridays: 2pm to 5pm</p>
+<p>Punctuality is important to our members, who typically arrive 10-15 minutes
+before each practice session. They are also aware that they may be required
+to stay up to 20 minutes after practice to help maintain the cleanliness
+of the Choir Room.</p>
+<p>Extra sectional practices may be arranged leading up to competitions and
+performances.</p>
+<p><strong>Leadership Development:</strong>
+</p>
+<p>Our student leaders are given the responsibility to refine their leadership
+skills by planning and executing various programmes, ensuring the smooth
+running of our activities.</p>
+<p><strong>Student Leaders</strong>
+</p>
+<p><strong>President: </strong>Jeff Chong Jian Liang (304)</p>
+<p><strong>Vice-President: </strong>Meisha Lexis Castillo Estocapio (303)</p>
+<p><strong>Head of Logistics: </strong>Law Shi Xuan (302)</p>
+<p><strong>Head of Publicity: </strong>Lim Jiaxuan, Jessica Faith (303)</p>
+<p><strong>Head of Welfare: </strong>Yares Miguel Sebastian Canlapan (302)</p>
+<p><strong>Section Leaders:</strong>
+</p>
+<p>Kaitlyn Megan Ng (302) – Soprano</p>
+<p>Chiu Zhi Yao, Lina (308) – Soprano</p>
+<p>Rachael Tan Xuan En (302) – Alto</p>
+<p>Chia Ji Cheng (303) – Tenor</p>
+<p>Yip Jun Xian (302) – Bass</p>
+<p><strong>Excellence:</strong>
+</p>
+<p>Despite our relatively short history, Xinmin Chorale has consistently
+earned accolades at the Singapore Youth Festival (SYF), receiving Gold
+Awards consecutively since 2005 and a Gold (With Honours) Award in 2011.
+In 2013, 2015, 2017, 2019, and 2023, we were honoured with the prestigious
+Certificate of Distinction at the SYF Arts Presentation. To sustain our
+choir’s excellence, our singers are regularly coached by internationally
+renowned choral conductors, composers, and clinicians, providing them with
+invaluable exposure to further develop their talents.</p>
+<p>In 2017, 2019, and 2023, Xinmin Chorale successfully staged public concerts
+at the Esplanade Concert Hall as part of the Limelight series, which showcases
+some of Singapore’s finest school choirs and symphonic bands at Esplanade
+– Theatres on the Bay.</p>
+<p>Creative Collaboration: We actively engage in exchange programmes and
+combined-school performances, such as the SuperNova Concert, hosted by
+Anglo-Chinese School in 2019, by Xinmin in 2022, and by Fairfield Methodist
+School in 2023.</p>
+<p><strong>Accomplishments</strong>
+<br>Attained the Certificate of Distinction in Singapore Youth Festival (SYF)
+2013, 2015, 2017, 2019, 2021, 2023
+<br>Hosted a Combined-Schools Choir Concert SuperNova in 2022</p>
+<p>Performed at the Esplanade in the Limelight series in 2018, 2019 and 2023</p>
+<p>Involved in National Day Choir Music Video in 2020 and 2023</p>
+<p>Join us in Xinmin Chorale where we get to indulge in our love for singing
+and relish every moment when we are on stage!</p>
+<p><strong>Teachers-in-charge</strong>
+<br>Ms Chua Li Shan Gwyneth (IC)
+<br>Ms Joanne Kong
+<br>Ms Mildred Michelle Kline</p>
+<p><strong>Visit us at:</strong>
+</p>
+<p><strong>Instagram </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xmchorale</a>
+</p>
