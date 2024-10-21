@@ -35,26 +35,64 @@ Curious learners, Compassionate contributors, and Confident leaders. We
 strive to nurture not only the artistic skills of our members but also
 their leadership abilities, while fostering a strong sense of compassion
 and self-assurance. Here's a closer look at what we do:</p>
-<p><strong>&nbsp;Activities</strong>
-<br>a) Art Club Camp
-<br>b) Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop
-<br>c) Values In Action projects
-<br>d) Learning journey to Singapore Tyler Print Institute
-<br>e) Stemtastic art projects and clay modelling
-<br>f) Art competitions
-<br>g) Digital drawing with various apps
-<br>h) In-house makers arts program
-<br>i) Upcycling competition for secondary 1
-<br>j) Plank Art with community
-<br>k) Xinmin’s Design Fiesta Ball Run out competition
-<br>l) Museum Visit to National Gallery Singapore Open House, Art Club Booth
-<br>m) CCA Orientation Booth
-<br>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Activities</strong>
+</p>
+</li>
+<li>
+<p>a) Art Club Camp</p>
+</li>
+<li>
+<p>b) Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop</p>
+</li>
+<li>
+<p>c) Values In Action projects</p>
+</li>
+<li>
+<p>d) Learning journey to Singapore Tyler Print Institute</p>
+</li>
+<li>
+<p>e) Stemtastic art projects and clay modelling</p>
+</li>
+<li>
+<p>f) Art competitions</p>
+</li>
+<li>
+<p>g) Digital drawing with various apps</p>
+</li>
+<li>
+<p>h) In-house makers arts program</p>
+</li>
+<li>
+<p>i) Upcycling competition for secondary 1</p>
+</li>
+<li>
+<p>j) Plank Art with community</p>
+</li>
+<li>
+<p>k) Xinmin’s Design Fiesta Ball Run out competition</p>
+</li>
+<li>
+<p>l) Museum Visit to National Gallery Singapore Open House, Art Club Booth</p>
+</li>
+<li>
+<p>m) CCA Orientation Booth</p>
+</li>
+<li>
+<p>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <br><strong>CCA Schedule</strong>
-<br>Wednesdays: 3:30pm to 5.30pm
-<br>Fridays: 1.30pm to 3:30/4pm <strong>Leadership Development:</strong>
 </p>
+</li>
+<li>
+<p>Wednesdays: 3:30pm to 5.30pm</p>
+</li>
+<li>
+<p>Fridays: 1.30pm to 3:30/4pm <strong>Leadership Development:</strong>
+</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
