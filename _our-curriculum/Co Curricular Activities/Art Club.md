@@ -50,9 +50,9 @@ and self-assurance. Here's a closer look at what we do:</p>
 <br>l) Museum Visit to National Gallery Singapore Open House, Art Club Booth
 <br>m) CCA Orientation Booth
 <br>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>CCA Schedule</strong>
+<strong>CCA Schedule</strong>
 <br>Wednesdays: 3:30pm to 5.30pm
-<br>Fridays: 1.30pm to 3:30/4pm</p>
+<br>Fridays: 1.30pm to 3:30/4pm
 <p><strong>Leadership Development:</strong>
 </p>
 <table style="minWidth: 50px">
