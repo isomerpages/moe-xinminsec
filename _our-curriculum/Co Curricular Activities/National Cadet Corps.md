@@ -74,5 +74,5 @@ embarking on thrilling adventures and lifelong friendships!</p>
 <p>Mr Lin Shunyi</p>
 <p><strong>Visit us on</strong>  <strong>Instagram</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
+<p><a href="https://www.instagram.com/xinmin.ncc/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
 </p>
