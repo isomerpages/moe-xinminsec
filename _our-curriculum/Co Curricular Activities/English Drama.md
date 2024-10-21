@@ -98,5 +98,5 @@ excitement. Break a leg!</p>
 <br>Mrs May Ng</p>
 <p><strong>Visit us at:</strong>
 </p>
-<p><strong>Instagram </strong><a href="https://www.instagram.com/xms_drama/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_drama/</a>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_drama/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_drama/</a></strong>
 </p>
