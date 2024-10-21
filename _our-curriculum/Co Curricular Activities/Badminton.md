@@ -67,8 +67,8 @@ both personal and collective growth with every competition.</p>
 <p>‘B’ Division Girls: 3<sup>rd</sup>
 </p>
 <p>&nbsp;NSG Badminton Championships (National) 2024:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; ‘B’ Division Girls: Top 8</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; ‘C’ Division Girls: Top 16</p>
+<p>&nbsp;‘B’ Division Girls: Top 8</p>
+<p>&nbsp;‘C’ Division Girls: Top 16</p>
 <p>&nbsp;NSG Badminton Championships (North Zone) 2023:</p>
 <p>‘B’ Division Girls: 3<sup>rd</sup>
 </p>
