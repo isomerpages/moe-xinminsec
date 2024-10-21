@@ -90,5 +90,5 @@ both personal and collective growth with every competition.</p>
 <p>Mr Hor Chai Hian ('C' Division Coach)</p>
 <p><strong>Visit us at:</strong>
 </p>
-<p><strong>Instagram </strong><a href="%20https:/www.instagram.com/xms.badminton/l/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.badminton/</a></strong>
+<p><strong>Instagram </strong><a href="%20https:/www.instagram.com/xms.badminton/l/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong><a href="https://www.instagram.com/xms.badminton/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.badminton/</a></strong>
 </p>
