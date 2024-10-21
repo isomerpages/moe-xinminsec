@@ -64,31 +64,67 @@ both personal and collective growth with every competition.</p>
 <p><em>&nbsp;</em><strong>Accomplishments</strong>
 </p>
 <p>NSG Badminton Championships (North Zone) 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>‘B’ Division Girls: 3<sup>rd</sup>
 </p>
+</li>
+</ul>
 <p>&nbsp;NSG Badminton Championships (National) 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>&nbsp;‘B’ Division Girls: Top 8</p>
+</li>
+<li>
 <p>&nbsp;‘C’ Division Girls: Top 16</p>
+</li>
+</ul>
 <p>&nbsp;NSG Badminton Championships (North Zone) 2023:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>‘B’ Division Girls: 3<sup>rd</sup>
 </p>
+</li>
+<li>
 <p>‘C’ Division Girls: 3<sup>rd</sup>
 </p>
+</li>
+</ul>
 <p>&nbsp;NSG Badminton Championships (National) 2023:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>‘B’ Division Girls: Top 16</p>
+</li>
+<li>
 <p>‘C’ Division Girls: Top 8</p>
+</li>
+</ul>
 <p>&nbsp;Smash Your Limits—Join Xinmin Badminton Team Today!</p>
 <p><strong>&nbsp;Teachers-in-charge</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Lim Kok Chong (IC)</p>
+</li>
+<li>
 <p>Ms Anny Roezza Abdul Aziz</p>
+</li>
+<li>
 <p>Ms Noor Hafizah</p>
+</li>
+<li>
 <p>Ms Siaw Pey Shin</p>
+</li>
+<li>
 <p><strong>&nbsp;Coaches</strong>
 </p>
+</li>
+<li>
 <p>Mr Wong Shoon Keat ('B' Division Coach)</p>
+</li>
+<li>
 <p>Mr Hor Chai Hian ('C' Division Coach)</p>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram </strong><a href="%20https:/www.instagram.com/xms.badminton/l/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong><a href="https://www.instagram.com/xms.badminton/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.badminton/</a></strong>
+</li>
+</ul>
+<p><strong>Visit us at: Instagram </strong><a href="%20https:/www.instagram.com/xms.badminton/l/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong><a href="https://www.instagram.com/xms.badminton/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.badminton/</a></strong>
 </p>
