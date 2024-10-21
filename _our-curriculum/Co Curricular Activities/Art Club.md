@@ -162,10 +162,21 @@ Club exhibition at Reflections Theatre during Homecoming Day, leaving a
 lasting impression on our school's vibrant artistic community.</p>
 <p></p>
 <p><strong>Accomplishments</strong>
-<br>a) Arts sharing with PCF Sparkletots Hougang
-<br>b) Upcycling Art level competition
-<br>c) Live on art competition
-<br>d) Avatar Art Competition</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a) Arts sharing with PCF Sparkletots Hougang</p>
+</li>
+<li>
+<p>b) Upcycling Art level competition</p>
+</li>
+<li>
+<p>c) Live on art competition</p>
+</li>
+<li>
+<p>d) Avatar Art Competition</p>
+</li>
+</ul>
 <p><strong>Community Engagement:</strong>
 <br>Beyond our school, XAC actively engages with the broader community, regularly
 participating in events such as the Singapore Youth Festival (SYF) art
