@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/n_c_c_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/ncc.png">
 </div>
 <p><strong>Welcome to NCC!</strong>
 </p>
