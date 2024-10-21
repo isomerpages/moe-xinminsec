@@ -107,5 +107,5 @@ never having lost!</p>
 <br>Ms Wan Shi Ting</p>
 <p><strong>Visit us at:</strong>
 </p>
-<p><strong>Instagram </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.chinesedance/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
 </p>
