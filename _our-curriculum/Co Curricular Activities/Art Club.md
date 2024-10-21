@@ -101,12 +101,11 @@ through creative bonding activities and immersive arts programs.</p>
 Competition for Secondary 1 students. This event not only teaches the principles
 of upcycling but also inspires participants to create innovative and practical
 upcycled products.</p>
-<p><strong>Student Leaders</strong>
-</p>
-<p><strong>President</strong>: Ng Xue En, Chloe&nbsp;
+<strong>Student Leaders</strong><br>
+<strong>President</strong>: Ng Xue En, Chloe&nbsp;
 <br><strong>Vice Presidents</strong>: Tiana Shashi De Silva, Aura Airwan
 <br><strong>Heads Of Managements: </strong>Wang Yu Qi Kailyn, Lee Ze Hui,
-Hasikka D/O T Shanker, Ives Low Hong Yi</p>
+Hasikka D/O T Shanker, Ives Low Hong Yi<p></p>
 <p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
 Chanidapa Palagawong</p>
 <p><strong>Artistic Excellence:</strong>
