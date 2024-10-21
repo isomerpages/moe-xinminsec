@@ -66,15 +66,23 @@ beyond the school community.</p>
 <p>Head Of Infocomm Wing: Chiong Sheng Xiang, Gareth (301)</p>
 <p><strong>Accomplishments</strong>
 </p>
-<p>·&nbsp;&nbsp; IgnITE Skills Challenge 2024 Smart EV Mobile Robot challenge
-- First runner-up</p>
-<p>·&nbsp;&nbsp;&nbsp; National Youth Tech Championship - Top 8</p>
-<p>·&nbsp;&nbsp;&nbsp; Climate Fresk STEM Showcase and Competition -
+<ul data-tight="true" class="tight">
+<li>
+<p>IgnITE Skills Challenge 2024 Smart EV Mobile Robot challenge - First runner-up</p>
+</li>
+<li>
+<p>National Youth Tech Championship - Top 8</p>
+</li>
+<li>
+<p>Climate Fresk STEM Showcase and Competition -
 <br>The Gaia Guardian Trophy (best performing school)
 <br>Water Stewardship Award
 <br>Climate Action Conservation Award</p>
-<p>·&nbsp;&nbsp;&nbsp; Our Schools Our Stories 2024 – Honourable Mention
-(Lee Zhuoxi, 303)</p>
+</li>
+<li>
+<p>Our Schools Our Stories 2024 – Honourable Mention (Lee Zhuoxi, 303)</p>
+</li>
+</ul>
 <p>If you’re passionate about media, technology, and storytelling, Media
 Club is the place for you!</p>
 <p></p>
