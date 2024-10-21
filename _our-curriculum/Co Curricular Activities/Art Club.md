@@ -29,15 +29,12 @@ variant: tiptap
 </table>
 <p><strong>Welcome to Xinmin Art Club (XAC)!</strong>
 </p>
-<p>&nbsp;</p>
 <p>At Xinmin Art Club (XAC), we are dedicated to inspiring a love for learning
 through creativity and engaging activities. Our mission is to cultivate
 Curious learners, Compassionate contributors, and Confident leaders. We
 strive to nurture not only the artistic skills of our members but also
 their leadership abilities, while fostering a strong sense of compassion
 and self-assurance. Here's a closer look at what we do:</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Activities</strong>
 <br>a) Art Club Camp
 <br>b) Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop
@@ -52,8 +49,7 @@ and self-assurance. Here's a closer look at what we do:</p>
 <br>k) Xinmin’s Design Fiesta Ball Run out competition
 <br>l) Museum Visit to National Gallery Singapore Open House, Art Club Booth
 <br>m) CCA Orientation Booth
-<br>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>CCA Schedule</strong>
 <br>Wednesdays: 3:30pm to 5.30pm
 <br>Fridays: 1.30pm to 3:30/4pm</p>
@@ -113,7 +109,6 @@ upcycled products.</p>
 Hasikka D/O T Shanker, Ives Low Hong Yi</p>
 <p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
 Chanidapa Palagawong</p>
-<p></p>
 <p><strong>Artistic Excellence:</strong>
 <br>Members of XAC take pride in representing our school in a variety of arts
 competitions, continually refining their artistic skills and creative expression.
@@ -129,8 +124,6 @@ lasting impression on our school's vibrant artistic community.</p>
 c) Live on art competition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 d) Avatar Art Competition</p>
 <p><strong>Community Engagement:</strong>
-</p>
-<p>
 <br>Beyond our school, XAC actively engages with the broader community, regularly
 participating in events such as the Singapore Youth Festival (SYF) art
 labs and various art workshops. These opportunities allow our members to
