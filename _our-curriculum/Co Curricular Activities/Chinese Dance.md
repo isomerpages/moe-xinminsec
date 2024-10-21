@@ -5,4 +5,107 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="Chinese Dance" src="/images/ChineseDance.jpeg"></div><p><strong><em>(Students will be required to undergo trials and selections before joining this CCA.)</em></strong></p><p>The Xinmin Chinese Dance Troupe was established in 1995. In 1999, the girls participated in the Singapore Youth Festival (SYF) Central Judging and were awarded a Silver medal. In 2001, they participated in the SYF again and clinched the Gold award.</p><p>The troupe was awarded the Gold Award again in the SYF in 2003 and 2005. The year 2007 was significant as it was the first time the troupe was awarded the Gold with Honours award, which it sustained for the next two consecutive SYFs (2009 and 2011). In the SYF Arts Presentation 2013, 2015 and 2017, they obtained the Distinction Award.</p><p>Despite the 2021 SYF Arts Presentation being filled with challenges posed by COVID-19, there were new opportunities that arose out of it. We had the opportunity to present two performances, 牧歌and 繁花 on stage and gave younger dancers a chance to perform and learn on a larger platform. The dancers worked as a team to overcome the challenges and succeeded in attaining a Certificate of Distinction and Certificate of Accomplishment respectively. In 2023, the dance troupe performed a dance item titled 春语 and attained a Certificate of Distinction.</p><p>The dancers were honoured to be invited to perform at a National Day Dinner in 2016 where Prime Minister Lee Hsien Loong was the Guest of Honour. In addition, the dancers also performed at the Esplanade Outdoor Theatre in 2016 and 2017, as part of the SYF Youth Celebrations. In 2022, the dancers were invited to perform at the Ang Mo Kio−Hougang National Day dinner and a group of dancers participated in the D:2 Dance Competition. In 2023, the Xinmin Chinese Dance team was invited to perform at the Chinese Dance Fiesta organised by the Singapore Chinese Dance Theatre and their performance was well-received by the audience.</p><p><strong>Accomplishments</strong><br>Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2019<br>Attained Certificate of Distinction and Certificate of Accomplishment in Singapore Youth Festival (SYF) 2021<br>Attained a Certificate of Distinction in Singapore Youth Festival (SYF) 2023<br></p><p><strong>Teachers-in-charge</strong><br>Ms Emily Lim Xin Yi (IC)<br>Ms Izyan Ayuni bte Azmi<br>Ms Wan Shi Ting<br></p><p><strong>Student Leaders</strong><br>Shirlyn Chng (308, 2023) - President<br>Brianne Boo (303, 2023) - Vice-President (Admin)<br>Charmaine Ong (305, 2023) - Vice-President (Technique)<br>Chin Kai Yan (309, 2023) - Vice-President (Discipline)<br>Goh Yi Xuan (304, 2023) - S3 2023/ S4 2024 Level Leader<br>Jez Quah (303, 2023), Ning Hin Suan (208, 2023) - S2 2023/ S3 2024 Level Leaders <br>Sophia Tan (202, 2023), Deanna Kweh (206, 2023) - S1 2023/ S2 2024 Level Leaders <br>Christalia Tay (204, 2023), Cai Yun En (208, 2023) - S1 2024 Level Leaders <br>Shirlyn Goh (302, 2023) - Logistics Head<br>Chan Hui Qi (302, 2023) - Logistics Vice-Head<br>Loh Wan Ning (302, 2023), Charis Ong (203, 2023), Sun Yifei (204, 2023), Choo Jing Han (205, 2023) - Logistics Members<br>Chen Lexi (303, 2023), Giselle Low (307, 2023) - Publicity Head<br>Wong Li Wen (302, 2023), Ibelle Chin (307, 2023), Megan Lim (208, 2023) - Publicity Assistants<br></p><p><strong>CCA Schedule</strong><br>Mondays: 3.15pm to 6.30pm<br>Fridays: 1.45pm to 5pm<br>Extra practices on Wednesdays, 3.30pm to 5.30pm, will be conducted prior to competitions and performances.<br>Students may require up to 20 minutes after end of session to clean the dance room, to cool down and to change out of dance practice attire.</p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/xms.chinesedance/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd.jpg">
+</div>
+<p><strong>Welcome to Xinmin Chinese Dance (XMCD)!</strong>
+</p>
+<p>Since our founding in 1995, we have dedicated ourselves to cultivating
+a vibrant and passionate community of dancers under the guidance of our
+esteemed instructor, Ms. Zou Yi. As we continue our journey toward dance
+excellence, we warmly invite you to join us and share in our passion. Welcome
+aboard!</p>
+<p>At Xinmin Chinese Dance, we believe that learning dance transcends mastering
+techniques and choreography. Our members express themselves through movement
+while developing discipline, teamwork, and a deep appreciation for the
+beauty of the performing arts. The dance team practices regularly to prepare
+for various competitions, including the Singapore Youth Festival (SYF)
+Arts Presentation, as well as performances for significant events like
+Speech Day and the ASEAN Federation of Engineering Organisations Mid-Term
+Welcome Reception. Each performance allows our dancers to showcase not
+only their technical skills but also the passion and emotion that stem
+from hours of dedicated practice.</p>
+<p><strong>Activities</strong>
+<br>a) Dance Camp</p>
+<p>b) Sewing and Makeup Application Workshop</p>
+<p>c) Dance Workshops</p>
+<p>d) Learning Journey/Dance Experience - Attending Dance Performances</p>
+<p><strong>CCA Schedule</strong>
+</p>
+<p>Mondays: 3:45pm to 6:30pm</p>
+<p>Fridays: 1:45pm to 5:00pm</p>
+<p>Extra practice sessions on Wednesdays, from 3.30 PM to 5.30 PM, are dedicated
+to preparing for competitions and performances. After each session, students
+should expect to spend an additional 20 minutes to tidy up the dance room,
+cool down, and change out of their practice attire.</p>
+<p><strong>Leadership Development:</strong>
+</p>
+<p>The journey of our club is significantly shaped by our Executive Committee
+leaders, who refine their leadership skills by spearheading key programmes.
+These individuals are given opportunities to enhance their abilities by
+orchestrating events and taking on specific roles during each dance practice
+session.</p>
+<p><strong>Student Leaders</strong>
+<br><strong>President:</strong> Ning Hin Suan (302, 2024)
+<br><strong>Vice-President (Admin):</strong> Deanna Kweh (303, 2024)
+<br><strong>Vice-President (Technique):</strong> Christalia Tay (305, 2024)
+<br><strong>Vice-President (Discipline):</strong> Sophia Tan (307, 2024)</p>
+<p><strong>Level Leaders:</strong> Cai Yun En (303, 2024), Jermaine Soh (305,
+2024), Charis Ong (305, 2024), Leong Wen Xin (304, 2024), Jhudiella (207,
+2024), Kate Lee (201, 2024), Lim Zhining (201, 2024)&nbsp;
+<br><strong>Logistics Head: </strong>Choo Jing Han (304, 2024)</p>
+<p><strong>Logistics Vice-Head:</strong> Sun Yi Fei (302, 2024)</p>
+<p><strong>Logistics Members: </strong>Annabell Seah (304, 2024), Trinity
+Tan (203, 2024), Pek Lin Yi (208, 2024), Xie Yixuan (204, 2024)<strong><br>Publicity Heads: </strong>Megan
+Lim (307, 2024), Germaine Neo (207, 2024)</p>
+<p><strong>Publicity Assistant: </strong>Celestina Tan (202, 2024)</p>
+<p><strong>Excellence:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd2.jpg">
+</div>
+<p>In 2022, our dancers were invited to perform at the Ang Mo Kio−Hougang
+National Day Dinner. The following year, the Xinmin Chinese Dance team
+participated in the Chinese Dance Fiesta organized by the Singapore Chinese
+Dance Theatre, where their performance received enthusiastic applause from
+the audience. In 2024, the dance troupe was honoured to perform at the
+ASEAN Federation of Engineering Organisations Mid-Term Welcome Reception,
+attended by guests from various countries.</p>
+<p>Despite the challenges posed by COVID-19 during the 2021 SYF Arts Presentation,
+new opportunities emerged. We showcased two performances, 牧歌 and 繁花, providing
+younger dancers with the chance to perform and learn on a larger platform.
+Working collaboratively, our dancers overcame these obstacles, ultimately
+earning a Certificate of Distinction and a Certificate of Accomplishment
+for their respective performances. In 2023, the troupe performed a piece
+titled 春语 and achieved a Certificate of Distinction.</p>
+<p><strong>Accomplishments</strong>
+<br>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
+2019
+<br>Attained Certificate of Distinction and Certificate of Accomplishment
+in Singapore Youth Festival (SYF) 2021
+<br>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
+2023</p>
+<p><strong>Community Engagement:</strong>
+</p>
+<p>Beyond our school, XMCD is committed to connecting with the broader community.
+Participation in events like the Singapore Youth Festival (SYF) expands
+our members' horizons, enabling them to connect with fellow dancers and
+industry professionals, fostering relationships that may lead to future
+collaborations and learning opportunities.</p>
+<p>Public performances, such as the Ang Mo Kio-Hougang National Day Dinner
+and the Chinese Dance Fiesta, allow us to showcase the art form to a wider
+audience, promoting cultural appreciation and understanding within the
+community.
+<br>Join us on an exciting journey with Xinmin Chinese Dance, where we practice
+with the humility of never having won and perform with the confidence of
+never having lost!</p>
+<p><strong>Teachers-in-charge</strong>
+<br>Ms Emily Lim Xin Yi (IC)
+<br>Ms Izyan Ayuni Bte Azmi
+<br>Ms Wan Shi Ting</p>
+<p><strong>Visit us at:</strong>
+</p>
+<p><strong>Instagram </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
+</p>
