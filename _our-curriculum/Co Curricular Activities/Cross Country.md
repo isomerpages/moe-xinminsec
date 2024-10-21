@@ -10,7 +10,6 @@ variant: tiptap
 </div>
 <p><strong><em>“Run when you can, walk when you have to, crawl if you must. Just never give up!”</em><br><em>Dean Karnazes</em></strong>
 </p>
-<p>&nbsp;</p>
 <p>Cross Country as a CCA nurtures students’ holistic development, helping
 them grow both physically and mentally. Through running, students not only
 learn important values but also shape their character, unlocking their
@@ -22,23 +21,18 @@ self-direction, and develop their socio-emotional competencies. The team,
 comprising both boys and girls, proudly represents Xinmin Secondary School
 at the National School Games, while also participating in public open running
 events.</p>
-<p>&nbsp;</p>
 <p>Our Executive-Committee leaders play an essential role in guiding the
 CCA’s direction. They enhance their leadership skills by leading warmups,
 organizing workouts, and conducting debrief sessions. These student leaders
 are also entrusted with planning the team bonding camp and taking charge
 of initiatives like Open House and Secondary 1 CCA Orientation, ensuring
 new students feel welcomed through engaging bonding and fitness activities.</p>
-<p>&nbsp;</p>
 <p><strong>Student Leaders</strong>
 </p>
 <p><strong>Captains:</strong> Lee Yeng Yan (402, 2024), Chew Yixiang (403,
 2024)
 <br><strong>Vice Captain</strong>: Ong Joon Jae (305, 2024)
-<br>
-<br>
-</p>
-<p><strong>Competitions</strong>
+<br><strong>Competitions</strong>
 </p>
 <p>Members of Cross Country proudly represent Xinmin in various races, gaining
 valuable exposure to competitions. We actively participate in a number
@@ -46,18 +40,14 @@ of annual events that challenge our runners and build camaraderie.</p>
 <p>a) Wings Athletic Competition – U14 and U18 Boys and Girls</p>
 <p>b) National School Games – ‘B’ and ‘C’ division for Boys and Girls</p>
 <p>c) Standard Chartered Marathon – 5km run for Boys and Girls</p>
-<p>&nbsp;</p>
 <p>Join us on our running journey at Xinmin Cross Country, where sportsmanship,
 perseverance, and integrity are lifelong goals. Together, we inspire, motivate,
-and push our limits!</p>
-<p><strong>&nbsp;</strong>
+and push our limits!<strong>&nbsp;</strong>
 </p>
 <p><strong>Teachers-in-charge</strong>
 <br>Miss Estee See Toh Sijia (IC)
 <br>Mr Thiruselvan SO Arivazhagian</p>
 <p>Miss Liew Ziyi</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Visit us at:</strong>
 </p>
 <p><strong>Instagram <a href="https://www.instagram.com/xms_xcountry/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xcountry/?hl=en</a></strong>
