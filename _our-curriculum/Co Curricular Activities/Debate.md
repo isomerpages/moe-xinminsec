@@ -18,18 +18,45 @@ in a variety of debating and public speaking events, including Parliamentary
 Debating. Recently, club members competed in events tailored to both experienced
 debaters and novices, providing them with ample opportunities to test and
 refine their skills.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Activities</strong>
-<br>• Debate Association Debate Championships</p>
-<p>• Singapore Secondary Schools Debating Championship</p>
-<p>• Hwa Chong British Parliamentaries</p>
-<p>• Mid-Year Debate Invitationals</p>
-<p>• Lasallian Debate League</p>
-<p>• Eunoia Debating Championships</p>
-<p>• Raffles Debate Association U-14s Debating Championships</p>
-<p>• The WoLCE World Inter-School Debating Competition</p>
-<p>• Singapore International Schools’ Debate League</p>
-<p>• Anglo Chinese Junior College Orators’ Trophy</p>
-<p>• YMCA Plain English Speaking Awards (PESA)</p>
+</p>
+</li>
+<li>
+<p>Debate Association Debate Championships</p>
+</li>
+<li>
+<p>Singapore Secondary Schools Debating Championship</p>
+</li>
+<li>
+<p>Hwa Chong British Parliamentaries</p>
+</li>
+<li>
+<p>Mid-Year Debate Invitationals</p>
+</li>
+<li>
+<p>Lasallian Debate League</p>
+</li>
+<li>
+<p>Eunoia Debating Championships</p>
+</li>
+<li>
+<p>Raffles Debate Association U-14s Debating Championships</p>
+</li>
+<li>
+<p>The WoLCE World Inter-School Debating Competition</p>
+</li>
+<li>
+<p>Singapore International Schools’ Debate League</p>
+</li>
+<li>
+<p>Anglo Chinese Junior College Orators’ Trophy</p>
+</li>
+<li>
+<p>YMCA Plain English Speaking Awards (PESA)</p>
+</li>
+</ul>
 <p><strong>CCA Schedule</strong>
 </p>
 <p>Wednesdays: 3:45pm to 6.00pm
