@@ -5,4 +5,89 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="Guzheng Ensemble" src="/images/Guzheng.jpeg"></div><p>Xinmin’s Guzheng Ensemble was established in 1993. Under the guidance of our dedicated instructor and teachers, the students honed their technical skills and developed an appreciation for Guzheng.</p><p>The Guzheng Ensemble is one of the highlights at annual school events such as Chinese New Year celebrations and Speech Days. Beyond school events, the Ensemble also have opportunities to perform at public events such as the 2013 Huayi Festival at the Esplanade Outdoor Theatre, and the 2017 River Hongbao at the Marina Bay Floating Platform. In 2015, to celebrate the launch of the school’s Creative Arts Complex (CAC), students also collaborated with other performing arts CCAs of the school to put up an environmental theatre. In 2016 and 2018, the Ensemble held her inaugural concerts as part of the Xinthesis V and Xinthesis VI series. These events not only allow our students to showcase their talents but also to share the beauty of Guzheng with others.</p><p>To deliver a harmonious piece of music that could captivate our audience, we place a strong emphasis on collaboration and teamwork, which requires students to develop important life skills such as communication, leadership and mutual respect. Additionally, we also offer opportunities for students to attend concerts of different genres to broaden our students’ appreciation for music.</p><p>Through these diverse experiences, the students were able to consistently receive the high accolades at the Singapore Youth Festival since 2001.</p><p><strong>Accomplishments</strong><br>Singapore Youth Festival (SYF) Arts Presentation, Certificate of Distinction (2013 - 2023)</p><p><strong>Teachers-in-charge</strong><br>Ms Pang Hui Chin (IC)<br>Ms Cindy Oh<br>Mdm Guan Jing<br></p><p><strong>Student Leaders</strong><br>Khlemu Magar (305, 2023) - President<br>Lavender Yeo Xiao Xun (304, 2023) - Vice-President (Music)<br>Tan Zhi Qi (303, 2023) - Vice-President (Well-being)<br>Zhang Yinuo (304, 2023) - Quarter Master<br>Liu Zhixin (304, 2023) - Quarter Master<br>Lim Qian Shan, Joan (203, 2023) - Logistics Team Member<br>Pang Yun Fan Nicole (203, 2023) - Logistics Team Member<br>Josephine Lim Hui En (304, 2023) - Head of Publicity<br>Thanawin Thanapornthawan (301, 2023) - Head of Publicity<br>Ng Yong En, Kathlyn (203, 2023) - Deputy Head of Publicity<br>Lim Qian Hui, Joana (206, 2023) - Deputy Head of Publicity<br>Foo Heng Yee (308, 2023) - Level Leader<br>Loh Sze Ann, Amelia (304, 2023) - Level Leader<br>Wong Jia En (304, 2023) - Level Leader<br>Tan Yang Yee (202, 2023) - Level Leader<br>Deiondre Quek Xin Yu (206, 2023) - Level Leader<br>Queenie Toh Jia Ying (203, 2023) - Level Leader<br>Chew En Rui, Hayden (201, 2023) - Level Leader<br></p><p><strong>CCA Schedule</strong><br>Every Wednesday: 3pm to 6.30 pm<br>Every Friday: 2pm to 5.30pm<br>Additional practices may be conducted prior to competitions and performances.</p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/officialxmsgz/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/officialxmsgz/</a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng/guzheng_1.jpg">
+</div>
+<p>Welcome to Xinmin Guzheng Ensemble, where the rich tradition of the instrument
+harmonizes with the vibrant energy of our students.</p>
+<p>At Xinmin Guzheng Ensemble, we believe that learning the Guzheng transcends
+the mere mastery of notes and melodies. Our members discover the art of
+musical expression while developing discipline, teamwork, and a deep appreciation
+for the performing arts. Regular practice sessions prepare the ensemble
+for a range of performances, including school events and regional competitions.
+In each performance, students demonstrate not only technical precision
+but also the soul and emotion that stem from hours of dedicated practice.
+Here are some of the ensemble’s key activities:</p>
+<p><strong>Activities</strong>
+<br>a) Sec 1 CCA Orientation</p>
+<p>b) Chinese New Year Celebrations</p>
+<p>c) Speech Day</p>
+<p>d) Xinmin Arts Week</p>
+<p>e) Singapore Youth Festival (SYF) Arts Presentation</p>
+<p>f) Open House</p>
+<p>g) Ad-hoc external performance opportunities</p>
+<p><strong>CCA Schedule</strong>
+<br>Wednesdays: 3pm to 6.30pm
+<br>Fridays: 2pm to 5:30pm</p>
+<p><strong>Leadership Development:</strong>
+</p>
+<p>The Executive Committee (EXCO) of the Guzheng Ensemble plays a pivotal
+role in shaping the CCA experience. Comprising a dynamic mix of Sec 2 and
+3 students, the EXCO is given numerous opportunities to cultivate their
+leadership skills. Together, they foster a positive culture and set the
+direction for the ensemble. The Vice President(s) (Music) work closely
+with members, providing coaching based on instructor feedback, while the
+Vice President (Well-being) and Level Leaders ensure the welfare and cohesion
+of all members. The Logistics Team manages the smooth execution of practices,
+and the Publicity Team creatively promotes the ensemble’s activities to
+engage the school and community.</p>
+<p><strong>Student Leaders</strong>
+</p>
+<p><strong>President</strong>: Chew En Rui, Hayden (301, 2024)</p>
+<p><strong>Vice Presidents (Music)</strong>: Pang Yun Fan Nicole (303, 2024),
+Lim Qian Shan, Joan (305, 2024)
+<br><strong>Vice President (Well-being)</strong>: Lim Qian Hui, Joana (304,
+2024)</p>
+<p><strong>Heads of Publicity</strong>: Ng Yong En, Kathlyn (303), Ji Rujing
+(301, 2024)</p>
+<p><strong>Publicity Team</strong>: Natalie Purnomo Tan Shi Ning (203, 2024),
+Ashlyn Zhu Jingying (202, 2024)</p>
+<p><strong>Heads of Logistics</strong>: Queenie Toh Jia Ying (301, 2024),
+Deiondre Quek Xin Yu (304, 2024)</p>
+<p><strong>Logistics Team</strong>: Raine Fung Rui Xuan (201, 2024), Cheong
+Wai Kei (207, 2024), Quan Ruixuan Chevelle (207)</p>
+<p><strong>Level Leaders</strong>: Tan Hui Xin Celine (306, 2024), Tan Yang
+Yee (301, 2024), Wang Tianyue (201, 2024), Scarlett Tan Jun Ying (201,
+2024), Sammi Tan Yan Ying (202, 2024), Yee Xin Lei Faith (205, 2024)</p>
+<p><strong>CCA Excellence:</strong>
+</p>
+<p>The Guzheng Ensemble provides a rich and rewarding experience, highlighted
+by captivating performances and enriching opportunities. A staple at school
+events such as Chinese New Year celebrations and Speech Days, the ensemble
+enlivens audiences with festive melodies, setting a joyful tone for the
+year.</p>
+<p>Dedicated to sharing their passion for Guzheng, the ensemble frequently
+performs at public events and participates in outreach programs. Noteworthy
+performances include the 2013 Huayi Festival at the Esplanade, the 2017
+River Hongbao at Marina Bay, and the 2024 ASEAN Federation of Engineering
+Organisations (AFEO) Welcome Dinner. In 2023, the ensemble also engaged
+in a valuable exchange with Anderson Primary School’s Guzheng Ensemble,
+sharing insights and experiences.</p>
+<p>Beyond performances, students deepen their appreciation for Guzheng through
+a variety of programmes. This continuous pursuit of excellence has garnered
+the ensemble prestigious accolades at the Singapore Youth Festival since
+2001.<em>&nbsp;</em>
+</p>
+<p><strong>Accomplishments</strong>
+<br>Attained the Certificate of Distinction in Singapore Youth Festival (SYF)
+Arts Presentation [2013, 2015, 2017, 2019, 2021, 2023]</p>
+<p>Join the Xinmin Guzheng Ensemble to master music, build friendships, and
+create unforgettable performances together!</p>
+<p><strong>&nbsp;Teachers-in-charge</strong>
+<br>Ms Pang Hui Chin (IC)
+<br>Ms Cindy Oh
+<br>Ms Hailey Tan</p>
+<p>&nbsp;<strong>Visit us at:</strong>
+</p>
+<p><strong>Instagram </strong><a rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xms.guzheng</a>
+</p>
