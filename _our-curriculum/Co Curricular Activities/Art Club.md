@@ -194,9 +194,17 @@ the school environment while exploring the limitless world of art.</p>
 and the pursuit of knowledge is a lifelong adventure. Together, we explore
 new possibilities, create meaningful art, and inspire one another!</p>
 <p><strong>Teachers-in-charge</strong>
-<br>Mr James Tan (IC)
-<br>Mr Zhuang Haoyang
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr James Tan (IC)</p>
+</li>
+<li>
+<p>Mr Zhuang Haoyang
 <br>
 <br><strong>Visit us at:</strong>
 <br><strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
 </p>
+</li>
+</ul>
+<p></p>
