@@ -121,5 +121,5 @@ boy!</p>
 <p>Mr Aik Wei Pin (Church Liaison)</p>
 <p>&nbsp;<strong>Visit us at:</strong>
 </p>
-<p><strong>Instagram </strong><em><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/bb45th/</a></em>
+<p><strong>Instagram </strong><em><a href="https://www.instagram.com/bb45th/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/bb45th/</a></em>
 </p>
