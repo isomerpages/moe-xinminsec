@@ -76,6 +76,8 @@ and self-assurance. Here's a closer look at what we do:</p>
 </li>
 <li>
 <p>m) CCA Orientation Booth</p>
+</li>
+<li>
 <p>n) Physical training/bonding sessions on every first week of the month</p>
 </li>
 </ul>
