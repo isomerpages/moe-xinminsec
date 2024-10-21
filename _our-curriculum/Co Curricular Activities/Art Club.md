@@ -141,16 +141,6 @@ and the pursuit of knowledge is a lifelong adventure. Together, we explore
 new possibilities, create meaningful art, and inspire one another!</p>
 <strong>Teachers-in-charge</strong><br>
 Mr James Tan (IC)<br>
-Mr Zhuang Haoyang
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr James Tan (IC)</p>
-</li>
-<li>
-<p>Mr Zhuang Haoyang</p>
-</li>
-</ul>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
-</p>
+Mr Zhuang Haoyang<br><br>
+<strong>Visit us at:</strong><br>
+<strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
