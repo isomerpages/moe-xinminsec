@@ -91,11 +91,22 @@ speaker of the competition. The school takes immense pride in the determination,
 teamwork, and positive attitude displayed by its members throughout these
 competitions.</p>
 <p><strong>Accomplishments</strong>
-<br>SSSDC (Semi-finalist, 2022 and quarterfinalist, 2023)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SSSDC (Semi-finalist, 2022 and quarterfinalist, 2023)</p>
+</li>
+<li>
 <p>Overall best speaker SSSDC in 2022</p>
+</li>
+<li>
 <p>Mid-Year Debate Invitationals (1st Runner up, 2023)</p>
+</li>
+<li>
 <p>Raffles Debate Association U-14s Debating Championships (Champion School
 &amp; Overall Best Speaker 2024)</p>
+</li>
+</ul>
 <p><strong>Community Engagement:</strong>
 <br>Beyond honing their skills in competitive settings, Xinmin Debate Club
 members engage in friendly sparring sessions and exchange events with other
