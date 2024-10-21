@@ -35,9 +35,7 @@ Curious learners, Compassionate contributors, and Confident leaders. We
 strive to nurture not only the artistic skills of our members but also
 their leadership abilities, while fostering a strong sense of compassion
 and self-assurance. Here's a closer look at what we do:</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Activities</strong>
+<p><strong>&nbsp;Activities</strong>
 <br>a) Art Club Camp
 <br>b) Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop
 <br>c) Values In Action projects
@@ -51,8 +49,7 @@ and self-assurance. Here's a closer look at what we do:</p>
 <br>k) Xinmin’s Design Fiesta Ball Run out competition
 <br>l) Museum Visit to National Gallery Singapore Open House, Art Club Booth
 <br>m) CCA Orientation Booth
-<br>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>n) Physical training/bonding sessions on every first week of the month&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <br><strong>CCA Schedule</strong>
 <br>Wednesdays: 3:30pm to 5.30pm
