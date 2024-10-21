@@ -8,8 +8,8 @@ image: ""
 variant: tiptap
 ---
 <p>We are seeking applicants interested in operating a Halal Muslim Stall
-(open to all cuisines, e.g. Malay, Indian, Thai, Korean) at Xinmin Secondary
-School, located at 11 Hougang Ave 8, Singapore 538789.</p>
+(open to all cuisines, e.g. Malay, Indian, Thai) at Xinmin Secondary School,
+located at 11 Hougang Ave 8, Singapore 538789.</p>
 <p>If you know of anyone who may be interested, please help circulate this
 information.</p>
 <p><strong>Requirements</strong>
