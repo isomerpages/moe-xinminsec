@@ -95,8 +95,7 @@ and self-assurance. Here's a closer look at what we do:</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>Our Executive Committee leaders play a crucial role in guiding the club’s
+<p>Our Executive Committee leaders play a crucial role in guiding the club’s
 growth and direction. They sharpen their leadership skills by leading major
 initiatives such as Xin-play, which fosters dynamic partnerships with primary
 schools. They also oversee key events like Art Jamming sessions, Open House,
@@ -114,11 +113,8 @@ upcycled products.</p>
 Hasikka D/O T Shanker, Ives Low Hong Yi</p>
 <p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
 Chanidapa Palagawong</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Artistic Excellence:</strong>
-</p>
-<p>
 <br>Members of XAC take pride in representing our school in a variety of arts
 competitions, continually refining their artistic skills and creative expression.
 We actively engage in art initiatives, seizing every opportunity to showcase
@@ -127,15 +123,11 @@ Fiesta Ball Run Out competition, and other captivating artwork displays.
 Most recently, we made a significant impact by hosting our very own Art
 Club exhibition at Reflections Theatre during Homecoming Day, leaving a
 lasting impression on our school's vibrant artistic community.</p>
-<p>&nbsp;</p>
 <p><strong>Accomplishments</strong>
 <br>a) Arts sharing with PCF Sparkletots Hougang
 <br>b) Upcycling Art level competition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 c) Live on art competition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-d) Avatar Art Competition
-<br>
-<br>
-</p>
+d) Avatar Art Competition</p>
 <p><strong>Community Engagement:</strong>
 </p>
 <p>
@@ -154,12 +146,9 @@ the school environment while exploring the limitless world of art.</p>
 <p>Join us on our artistic journey at XAC, where creativity has no boundaries,
 and the pursuit of knowledge is a lifelong adventure. Together, we explore
 new possibilities, create meaningful art, and inspire one another!</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Teachers-in-charge</strong>
 <br>Mr James Tan (IC)
 <br>Mr Zhuang Haoyang</p>
-<p>&nbsp;</p>
 <p><strong>Visit us at:</strong>
 </p>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
