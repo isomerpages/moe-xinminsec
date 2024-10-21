@@ -30,7 +30,6 @@ individuals both on and off the court.</p>
 <p>e) Badminton 2D1N Camp</p>
 <p>f) Physical / Skills Training</p>
 <p>h) School Invitationals and Friendly Matches</p>
-<p></p>
 <p><strong>CCA Schedule</strong>
 </p>
 <p>C Div - Monday, Wednesday 1530h to 1830h, Friday 1330h to 1630h</p>
