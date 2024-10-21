@@ -81,18 +81,10 @@ and excellence meet. Together, we explore, challenge ourselves, and continually
 strive for greatness!</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Mrs Shanti Teo (IC)</p>
-</li>
-<li>
 <p>Ms Charlene Chan</p>
-</li>
-<li>
 <p>Ms Nur Fatimah Khalid</p>
 <p></p>
-</li>
-</ul>
 <p><strong>Visit us at:</strong>
 </p>
 <p><strong>Instagram <a href="https://www.instagram.com/xms_floorball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_floorball/</a></strong>
