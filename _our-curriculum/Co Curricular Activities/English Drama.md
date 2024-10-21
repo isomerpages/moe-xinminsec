@@ -10,8 +10,6 @@ variant: tiptap
 </div>
 <p><strong>Welcome to English Drama Club! 🎭✨</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>The English Drama Club kicked off the year with intense preparations for
 Xinmin Arts Week in April. Our members were fully immersed in rehearsals
 for two original plays written by our own talented students: <em>Fragile Reflections</em> by
@@ -25,25 +23,40 @@ at the N1 Cluster Spin A Tale event in May, though it was bittersweet as
 it marked the official farewell to our beloved Sec 4 members. We wish them
 a rewarding journey ahead and hope they continue to pursue their passion
 for drama at a higher level!</p>
-<p>&nbsp;</p>
 <p>While we bid farewell to our graduating members, the journey for the rest
 of the Drama Club is just beginning. We are now gearing up for the biennial
 Singapore Youth Festival 2025, and our members are committed to putting
 their best foot forward and making Xinmin proud. Together, we’ll face the
 road ahead with determination and creativity. And with that, we say, “Drama,
 that's a wrap!”</p>
-<p>&nbsp;</p>
-<p><em>&nbsp;</em>
-</p>
 <p><strong>Activities</strong>
-<br>a) SYF</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a) SYF</p>
+</li>
+<li>
 <p>b) Drama Night</p>
+</li>
+<li>
 <p>c) N1 Cluster’s ‘Spin A Tale’</p>
+</li>
+<li>
 <p>d) CCA Orientation Booth</p>
+</li>
+<li>
 <p>e) Physical and vocal training every session</p>
+</li>
+<li>
 <p>f) Bonding games at the start of each session</p>
+</li>
+<li>
 <p>g) 3 Line Improvisation Exercises</p>
+</li>
+<li>
 <p>h) Tableau (Freeze-frame) activities</p>
+</li>
+</ul>
 <p><strong>CCA Schedule</strong>
 <br>Wednesdays: 3:45pm to 6pm
 <br>Fridays: 2pm to 5:15pm</p>
@@ -62,8 +75,16 @@ fostering engagement within the club.</p>
 Layla Maryam Binte Abdul Rauf (307, 2024) &amp; Nai Zi Han (302, 2024)
 <br><strong>Head of Admin</strong>: Syifa Nabilah Binti Fadhil (305, 2024)</p>
 <p><strong>Head of Welfare: </strong>Chua Jolie (305, 2024)</p>
-<p><strong>Sec 2 Head: </strong>Teo Dong Quan Travis (302, 2024)</p>
-<p><strong>Sec 1 Head:</strong> Goh Yun En (302, 2024)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Sec 2 Head: Teo Dong Quan Travis (302, 2024)</strong>
+</p>
+</li>
+<li>
+<p><strong>Sec 1 Head: Goh Yun En (302, 2024)</strong>
+</p>
+</li>
+</ul>
 <p><strong>English Drama Club Excellence:</strong>
 <br>Members of the English Drama Club enthusiastically represent Xinmin at
 various events and competitions, including the biennial Singapore Youth
