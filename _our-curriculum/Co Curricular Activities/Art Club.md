@@ -53,8 +53,7 @@ and self-assurance. Here's a closer look at what we do:</p>
 <strong>CCA Schedule</strong>
 <br>Wednesdays: 3:30pm to 5.30pm
 <br>Fridays: 1.30pm to 3:30/4pm
-<p><strong>Leadership Development:</strong>
-</p>
+<strong>Leadership Development:</strong>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
