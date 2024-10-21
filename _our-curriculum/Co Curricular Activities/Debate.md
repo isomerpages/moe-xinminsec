@@ -70,10 +70,21 @@ events, managing debate sessions, and assuming specific responsibilities
 during each meeting and competition, ensuring the smooth operation and
 growth of the club.</p>
 <p><strong>Student Leaders</strong>
-<br><strong>Chairperson</strong>: Edison Lee Rui Yang (302, 2024)
-<br><strong>Vice-Chairperson</strong>: Dave Krivish Vishal (302, 2024)
-<br><strong>Head of Welfare</strong>: Koann Kwok Ke En (301, 2024)</p>
-<p><strong>Head of Publicity</strong>: Chakarin Tongchanachai (303, 2024)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chairperson: Edison Lee Rui Yang (302, 2024)</p>
+</li>
+<li>
+<p>Vice-Chairperson: Dave Krivish Vishal (302, 2024)</p>
+</li>
+<li>
+<p>Head of Welfare: Koann Kwok Ke En (301, 2024)</p>
+</li>
+<li>
+<p>Head of Publicity: Chakarin Tongchanachai (303, 2024)</p>
+</li>
+</ul>
 <p><strong>Excellence:</strong>
 <br>The XMS Debate Club has proudly participated in numerous prestigious competitions,
 including the National Singapore Secondary Schools Debating Championships
