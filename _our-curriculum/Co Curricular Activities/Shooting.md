@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/shooting_1.png">
 </div>
-<p><strong>Welcome to Xinmin Shooting Team!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Shooting Team!</strong></h4>
 <p>The Xinmin Shooting Team was established in 2004 to ignite students’ passion
 for 10m air rifle and air pistol shooting. In this sport, both mental fortitude
 and physical strength are essential, as success hinges on consistency and
@@ -176,6 +175,7 @@ Yu Wen, Sarah (305, 2024)</p>
 </p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting/</a>
 <br>
 </p>
