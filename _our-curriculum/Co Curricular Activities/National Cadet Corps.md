@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/ncc.png">
 </div>
-<p><strong>Welcome to NCC!</strong>
-</p>
+<h4><strong>Welcome to NCC!</strong></h4>
 <p>The Xinmin National Cadet Corps (NCC) offers a dynamic and demanding Co-Curricular
 Activity (CCA) that cultivates resilience, discipline, and leadership among
 its cadets. The program provides numerous opportunities for cadets to engage
@@ -122,5 +121,6 @@ embarking on thrilling adventures and lifelong friendships!</p>
 <p>Mr Lin Shunyi</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xinmin.ncc/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xinmin.ncc/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
 </p>
