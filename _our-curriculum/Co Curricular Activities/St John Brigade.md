@@ -200,6 +200,5 @@ our community!</p>
 <p>Mdm Asniza Hassan</p>
 </li>
 </ul>
-<p><strong>Instagram</strong>
-<br><a href="https://www.instagram.com/xmsstjohn/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsstjohn/</a>
+<p><strong>Visit us: Instagram</strong>  <a href="https://www.instagram.com/xmsstjohn/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsstjohn/</a>
 </p>
