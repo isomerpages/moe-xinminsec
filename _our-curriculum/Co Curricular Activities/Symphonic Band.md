@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/band1.jpg">
 </div>
-<p><strong>Welcome to the Xinmin Symphonic Band!</strong>
-</p>
+<h4><strong>Welcome to the Xinmin Symphonic Band!</strong></h4>
 <p>The Xinmin Symphonic Band is deeply committed to educating and training
 its young musicians with passion and sincerity. Through hard work and dedication,
 members continually strive to meet the high standards established by their
@@ -152,5 +151,6 @@ lasting memories together!</p>
 <p>Ms Nur Ellyana Binti Roslan</p>
 </li>
 </ul>
-<p><strong>Visit us at: Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band</a></strong>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band</a></strong>
 </p>
