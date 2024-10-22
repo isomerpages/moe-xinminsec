@@ -28,7 +28,8 @@ various school events, including Speech Day and National Day celebrations,
 as well as external performances such as Schools In Concert and the Junior
 Band Festival, where they showcased their remarkable talents and captivated
 audiences.</p>
-<p><strong>CCA Schedule (Main Band (Sec 2-5s))</strong>
+<h4><strong>CCA Schedule</strong></h4>
+<p><strong>(Main Band (Sec 2-5s))</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,8 +49,7 @@ audiences.</p>
 <p>Friday 2.00pm – 5.00pm</p>
 </li>
 </ul>
-<p><strong>Student Leaders</strong>
-</p>
+<h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Drum Major –</strong> Chan Hao Hian Brendan (303, 2024)</p>
@@ -82,8 +82,7 @@ Hong Yu (306, 2024)</p>
 Yi Xuan (302, 2024)</p>
 </li>
 </ul>
-<p><strong>Section Leaders</strong>
-</p>
+<h4><strong>Section Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Flute – Koh Sher Min (304, 2024)</p>
@@ -125,8 +124,7 @@ Yi Xuan (302, 2024)</p>
 <p>Percussion – Caleb Gan Jian Ann (307, 2024)</p>
 </li>
 </ul>
-<p><strong>Accomplishments</strong>
-</p>
+<h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Youth Festival (SYF) 2013, 2015, 2017, 2023 – Certificate of
@@ -139,8 +137,7 @@ Distinction</p>
 </div>
 <p>Join the Xinmin Symphonic Band and unleash your musical talent while making
 lasting memories together!</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Edna Pan (IC)</p>
