@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Rockclimbing/rockclimbing.jpg">
 </div>
@@ -21,20 +20,34 @@ top rope (lead), and speed.</p>
 the wall by organizing competitions, teaching introductory bouldering workshops,
 and expanding their horizons through overseas trips! Here’s a glimpse of
 what we do:</p>
-<p><strong>Activities</strong>
-</p>
-<p>A.&nbsp;&nbsp;&nbsp;&nbsp; Competitions organised by rock climbing gyms
-(e.g. Inter-Schools Bouldering League, Sparks, Sendstorm)</p>
-<p>B.&nbsp;&nbsp;&nbsp;&nbsp; Organising competitions (Inter-Schools Bouldering
-Championships and X-Calade)</p>
-<p>C.&nbsp;&nbsp;&nbsp;&nbsp; Getting certifications (Singapore National
-Climbing Standards Levels 1 and 2)</p>
-<p>D.&nbsp;&nbsp;&nbsp; Overseas climbing trips (Malaysia, Thailand)</p>
-<p><strong>CCA Schedule</strong>
-<br>Wednesdays: 3:30pm to 6.30pm
-<br>Fridays: 2.30pm to 6pm</p>
-<p><strong>Leadership Development:</strong>
-</p>
+<h4><strong>Activities</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Competitions organised by rock climbing gyms (e.g. Inter-Schools Bouldering
+League, Sparks, Sendstorm)</p>
+</li>
+<li>
+<p>Organising competitions (Inter-Schools Bouldering Championships and X-Calade)</p>
+</li>
+<li>
+<p>Getting certifications (Singapore National Climbing Standards Levels 1
+and 2)</p>
+</li>
+<li>
+<p>Overseas climbing trips (Malaysia, Thailand)</p>
+<p></p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 3:30pm to 6.30pm</p>
+</li>
+<li>
+<p>Fridays: 2.30pm to 6pm</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
 <p>While we have an Executive Committee, every climber is provided with opportunities
 to develop their leadership potential through various activities throughout
 the year. This includes planning for Open House and CCA Orientation, organizing
@@ -42,30 +55,49 @@ competitions, and engaging in other essential activities. The EXCO is responsibl
 for managing the club’s day-to-day operations, assisting teachers with
 administrative tasks, and ensuring that the entire team puts forth their
 best effort during training sessions and competitions.</p>
-<p><strong>Student Leaders</strong>
-</p>
+<h4><strong>Student Leaders</strong></h4>
 <p><strong><em>C Division Executive Committee</em></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Rachelle Tok En’Ya (203)</p>
+</li>
+<li>
 <p>Delisha Fatima Falandri (204)</p>
+</li>
+<li>
 <p>Heng Rui Yang Zayden (205)</p>
+</li>
+<li>
 <p>Lim Le Zhi Lucas (208)</p>
+</li>
+</ul>
 <p><strong><em>B Division Executive Committee</em></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Co-Captains: Yaw Wei Jian, Albert (308), Yaw Wei Jie Alfred (308)</p>
+</li>
+<li>
 <p>Exco Members:</p>
-<p>Sanghvi Dhara Bhavin (305)
-<br>Valerie Loh Yong Yee (304)</p>
+</li>
+<li>
+<p>Sanghvi Dhara Bhavin (305)</p>
+</li>
+<li>
+<p>Valerie Loh Yong Yee (304)</p>
+</li>
+<li>
 <p>Benedict Chen Yong An (301)</p>
-<p>&nbsp;</p>
-<p><strong>Excellence:</strong>
-<br>Our members regularly participate in competitions throughout the year,
+</li>
+</ul>
+<h4><strong>Excellence:</strong></h4>
+<p>Our members regularly participate in competitions throughout the year,
 striving to bring glory to the school. These competitions pit our climbers
 against participants from all over Singapore and sometimes even internationally.
 Despite competing against more experienced climbers, our members consistently
 showcase the strength and resilience that Xinmin students are known for.</p>
-<p><strong>Accomplishments</strong>
-</p>
+<h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Inter-School Bouldering Championships C Division Girls Overall Champions</em>
@@ -88,8 +120,7 @@ showcase the strength and resilience that Xinmin students are known for.</p>
 </p>
 </li>
 </ul>
-<p><strong>Community Engagement:</strong>
-</p>
+<h4><strong>Community Engagement:</strong></h4>
 <p>In addition to competing, our climbers give back to the community by organizing
 competitions for others and running introductory workshops. We take pride
 in the fact that learning within the CCA extends beyond technical climbing
@@ -115,10 +146,17 @@ soft skills.</p>
 <p>We believe that every climb presents an opportunity for learning. Join
 us as we work to instil key values in our climbers—perseverance, teamwork,
 resilience, and a mindset of excellence for both sports and life!</p>
-<p><strong>Teachers-in-charge</strong>
-<br>Mr Kevin Lu (IC)</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Kevin Lu (IC)</p>
+</li>
+<li>
 <p>Mrs Ho Yen Peng</p>
+</li>
+<li>
 <p>Ms Teoh Yu Han</p>
-<p><strong>Instagram</strong>
-<br><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
+</li>
+</ul>
+<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
 </p>
