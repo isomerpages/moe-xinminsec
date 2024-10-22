@@ -9,8 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/choir.jpg">
 </div>
-<p><strong>Welcome to Xinmin Chorale!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Chorale!</strong></h4>
 <p>Here, youths passionate about singing have the chance to hone their vocal
 abilities under the expert musical direction of our dedicated conductor,
 Mr. Yong Chee Foon.</p>
@@ -143,5 +142,6 @@ and relish every moment when we are on stage!</p>
 <p>Ms Mildred Michelle Kline</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xms_xmchorale" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xmchorale</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms_xmchorale" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xmchorale</a>
 </p>
