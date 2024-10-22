@@ -154,5 +154,6 @@ never having lost!</p>
 <p>Ms Wan Shi Ting</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xms.chinesedance/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.chinesedance/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
 </p>
