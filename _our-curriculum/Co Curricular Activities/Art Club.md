@@ -88,7 +88,6 @@ and self-assurance. Here's a closer look at what we do:</p>
 </li>
 <li>
 <p>Fridays: 1.30pm to 3:30/4pm</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -128,7 +127,19 @@ and self-assurance. Here's a closer look at what we do:</p>
 </tr>
 </tbody>
 </table>
-<h4><br>Our Executive Committee leaders play a crucial role in guiding the club’s growth and direction. They sharpen their leadership skills by leading major initiatives such as Xin-play, which fosters dynamic partnerships with primary schools. They also oversee key events like Art Jamming sessions, Open House, and the Secondary 1 CCA orientation, ensuring new students feel welcomed through creative bonding activities and immersive arts programs. <br><br>In collaboration with our members, these leaders also organize the Upcycling Competition for Secondary 1 students. This event not only teaches the principles of upcycling but also inspires participants to create innovative and practical upcycled products. <br><br><strong>Student Leaders</strong></h4>
+<p>
+<br>Our Executive Committee leaders play a crucial role in guiding the club’s
+growth and direction. They sharpen their leadership skills by leading major
+initiatives such as Xin-play, which fosters dynamic partnerships with primary
+schools. They also oversee key events like Art Jamming sessions, Open House,
+and the Secondary 1 CCA orientation, ensuring new students feel welcomed
+through creative bonding activities and immersive arts programs.
+<br>
+<br>In collaboration with our members, these leaders also organize the Upcycling
+Competition for Secondary 1 students. This event not only teaches the principles
+of upcycling but also inspires participants to create innovative and practical
+upcycled products.</p>
+<h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>President</strong>: Ng Xue En, Chloe&nbsp;</p>
@@ -143,7 +154,6 @@ Hasikka D/O T Shanker, Ives Low Hong Yi</p>
 <li>
 <p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
 Chanidapa Palagawong</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Artistic Excellence:</strong></h4>
