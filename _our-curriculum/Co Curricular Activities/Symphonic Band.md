@@ -129,8 +129,12 @@ Yi Xuan (302, 2024)</p>
 </ul>
 <p><strong>Accomplishments</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Singapore Youth Festival (SYF) 2013, 2015, 2017, 2023 – Certificate of
 Distinction</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/band2.jpg">
@@ -138,10 +142,21 @@ Distinction</p>
 <p>Join the Xinmin Symphonic Band and unleash your musical talent while making
 lasting memories together!</p>
 <p><strong>Teachers-in-charge</strong>
-<br>Ms Edna Pan (IC)
-<br>Ms Susan Lee Boon Hong
-<br>Ms Ong Chiew Inn
-<br>Ms Nur Ellyana Binti Roslan</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Edna Pan (IC)</p>
+</li>
+<li>
+<p>Ms Susan Lee Boon Hong</p>
+</li>
+<li>
+<p>Ms Ong Chiew Inn</p>
+</li>
+<li>
+<p>Ms Nur Ellyana Binti Roslan</p>
+</li>
+</ul>
 <p><strong>Visit us at:</strong>
 </p>
 <p><strong>Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band</a></strong>
