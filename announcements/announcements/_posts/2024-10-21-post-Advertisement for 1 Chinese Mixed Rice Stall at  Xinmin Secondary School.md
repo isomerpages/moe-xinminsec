@@ -1,15 +1,15 @@
 ---
-title: Advertisement for Halal Muslim Stall at Xinmin Secondary School
-permalink: /advertisement-for-halal-muslim-stall-xinmin-secondary-school/
-date: 2024-10-08
+title: Advertisement for 1 Chinese Mixed Rice Stall at  Xinmin Secondary School
+permalink: /advertisement-for-1-chinese-mixed-rice-stall-at-xinmin-secondary-school/
+date: 2024-10-21
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<p>We are seeking applicants interested in operating a Halal Muslim Stall
-(open to all cuisines, e.g. Malay, Indian, Thai) at Xinmin Secondary School,
-located at 11 Hougang Ave 8, Singapore 538789.</p>
+<p>We are seeking applicants interested in operating a Chinese Mixed Rice
+Stall at Xinmin Secondary School, located at 11 Hougang Ave 8, Singapore
+538789.</p>
 <p>If you know of anyone who may be interested, please help circulate this
 information.</p>
 <p><strong>Requirements</strong>
@@ -29,7 +29,7 @@ standards set by the&nbsp;<strong>Health Promotion Board</strong>&nbsp;under
 the&nbsp;<strong>“Healthy Meals in Schools Programme (HMSP)”</strong>&nbsp;guidelines.</p>
 </li>
 </ul>
-<p><a href="mohamed_qabeer_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
+<p><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,8 +49,8 @@ conducted by SkillsFuture Singapore's accredited training providers and
 then apply for a Food Stall License from the Singapore Food Agency (SFA).</p>
 </li>
 </ul>
-<p>Applications are opened till <strong><u>07/11/2024</u></strong>.&nbsp;
-Please submit your application form via this online form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmscanteenapplication</a>
+<p>Applications are opened till <strong><u>21/11/2024</u></strong>.&nbsp;
+Please submit your application form via this online form: <a href="https://go.gov.sg/xmscanteenapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmscanteenapplication</a>
 </p>
 <p>Hardcopy application forms may be obtained via the School General Office,
 or you may email Mr. Qabeer at <a href="mohamed_qabeer_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_qabeer_sulaiman@schools.gov.sg</a> for

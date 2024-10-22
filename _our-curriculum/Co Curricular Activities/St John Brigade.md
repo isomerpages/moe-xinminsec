@@ -5,4 +5,200 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="St. John Brigade" src="/images/SJB.jpeg"></div><p>In St. John Brigade (SJB), cadets participate in a myriad of activities such as home nursing, hospital attachment, camping, outdoor activities and more, over the course of 4 years. Cadets undergo continual upgrading of their first aid skills and knowledge during weekly trainings. This enables them to assist in rendering first aid during school and public events. At the time of each cadet’s graduation from Xinmin Secondary, s/he would have attained, at least, Certification in Basic First Aid and/or Cardiopulmonary resuscitation (CPR) + Automated External Defibrillator (AED).</p><p>Beyond acquiring skills that our cadets can use during critical situations, SJB provides an important platform for them to relate to their peers through problem-solving and teambuilding. Cadets also take turns to lead their peers during weekly trainings so as to improve on their communication skills. The activities and challenges in SJB aim to contribute to the holistic growth of the cadets so that they may become outgoing and confident leaders who are physically and socially active; who learn to not only work well in teams, but also to extend their reach to positively impact society.</p><p>It is the high standards and continuous commitment of our student leaders, youth officers, and teachers that led SJB to bag its 22nd Gold for the Corps Achievement Award since 2001.</p><p><strong>Accomplishments</strong><br>CCA Achievement<br>Gold for Corps Achievement Award (2022)<br></p><p><strong>Teachers-in-charge</strong><br>Ms Nur Amalina Bte Mohamed Zain (IC)<br>Ms Koh Cher Yee<br></p><p><strong>Student Leaders</strong><br>Corps Sergeant Major (CSM): Peh Yi Xin Tiffany (306)<br>Assistant Corps Sergeant Major (ACSM): Lim Kai En Jadan (303)<br>Platoon Sergeant 1: Quek Pei Rong Valen (308)<br>Platoon Sergeant 2: Soh Si Ning, Shannon (202), Jaeden Chin (203)<br>Platoon Sergeant 3: Justyn Lin Guang Wei (308)<br></p><p>Publicity Head: Chan Wen Yi Jolene (303)<br>Logistics Head: Angela Leong Mun Shuen (305)<br>Cadet Development Head: Poa Wen Jun Wesley (309)<br></p><p><strong>CCA Schedule</strong><br>Wednesdays: 4pm to 6pm</p><p>Fridays: 2pm to 6pm</p><p>Selected Saturday: 7.30am to 12.30pm (Competition trainings in term 1 &amp; HQ/district events)<br></p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/xmsstjohn/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsstjohn/</a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb.jpg">
+</div>
+<h4><strong>Welcome to Xinmin St John Brigade!</strong></h4>
+<p>At Xinmin St. John Brigade, we are dedicated to nurturing resilient and
+compassionate leaders who are prepared to create a positive impact in the
+community. Our Cadet program equips members with essential First Aid and
+Home Nursing skills while fostering leadership development. Through community
+service and the Cadet Proficiency Badge Schemes, cadets gain hands-on experience
+and explore their personal interests. Guided by the motto “For the Service
+of Mankind,” our cadets strive to embody the values of service, empathy,
+and excellence in all their endeavours.</p>
+<p>The high standards and unwavering dedication of our student leaders, youth
+officers, and teachers have earned the Xinmin St. John Brigade its 23rd
+consecutive Gold in the Corps Achievement Award since 2001.</p>
+<h4><strong>Activities</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Standard First Aid Course</p>
+</li>
+<li>
+<p>Basic Cardiac Life Support</p>
+</li>
+<li>
+<p>Non-Commissioned Officer Course</p>
+</li>
+<li>
+<p>Hospital Attachment Programme</p>
+</li>
+<li>
+<p>Annual March Camp</p>
+</li>
+<li>
+<p>Outdoor Activities: Hiking, Cycling &amp; 1-star Kayaking</p>
+</li>
+<li>
+<p>National Day Parade Marching Contingent</p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Whitespace Wednesdays: 4pm to 6pm</p>
+</li>
+<li>
+<p>Fridays: 2.30pm to 6pm</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
+<p>After completing both the Basic and Advanced Non-Commissioned Officer
+courses, our cadets are empowered with the skills and knowledge to effectively
+plan and organize corps activities. Under the guidance of our alumni and
+officers, our cadet leaders play a crucial role in shaping and executing
+corps events and weekly activities. Those who demonstrate a passion for
+teaching first aid, home nursing, or foot drill have opportunities to attend
+HQ instructor courses, enabling them to take the lead in these areas within
+the corps. Our corps leaders collaborate closely with other uniformed groups,
+such as NCC, BB, and GB, to organize inter-uniformed group activities like
+the Passing Out Parade and inter-UG hikes.</p>
+<h4>Student Leaders</h4>
+<p><strong>Corps Leaders</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corps Sergeant Major: Sergeant Jaeden Chin (301)</p>
+</li>
+<li>
+<p>Head of Trainings: Corporal Jaden Tay Yu Yang (302)</p>
+</li>
+<li>
+<p>Head of Departments: Sergeant Soh Si Ning, Shannon (301)</p>
+</li>
+</ul>
+<p><strong>Combat:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Platoon 1 Commander: Corporal Elodie Sim (301)</p>
+</li>
+<li>
+<p>Platoon 2 Commander: Lance Corporal Chew Yi En (201) &amp; Lance Corporal
+Er Yi Fei Kira (207)</p>
+</li>
+<li>
+<p>Platoon 3 Commander: Corporal Toh Cher Yee (304)</p>
+</li>
+</ul>
+<p><strong>Departments:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Logistics Head: Corporal Lerh Yu En, Dylan (302)</p>
+</li>
+<li>
+<p>Cadet Development Head: Corporal Caleb Tay (306) &amp; Corporal Siti Darwisyah
+Bte Mohammad Shahril (306)</p>
+</li>
+<li>
+<p>Publicity Head: Lance Corporal Laurencio Elaine Rose (205)</p>
+</li>
+</ul>
+<h4><strong>Excellence:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>Cadets also participate in the annual First Aid competition, where they
+work as a team to apply their knowledge and skills in managing emergency
+situations with precision. Beyond developing key competencies, cadets are
+recognized for their commitment to exploring their interests beyond the
+St. John curriculum through the Cadet Proficiency Badge scheme.</p>
+<h4><strong>Accomplishments</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corps Achievement Award 2023- Gold</p>
+</li>
+<li>
+<p>Northeast District First Aid Competition 2024:</p>
+</li>
+<li>
+<p>Ambulance Adult Category- Overall Champion</p>
+</li>
+<li>
+<p>Nursing Adult Category- Overall Champion</p>
+</li>
+<li>
+<p>Ambulance Cadet Category- 2nd Runner-up</p>
+</li>
+</ul>
+<p>Chief Commissioner’s Badge 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Toh Jun Yu (402)</p>
+</li>
+<li>
+<p>Chan Wen Yi Jolene (403)</p>
+</li>
+<li>
+<p>Sia Hai Jing (403)</p>
+</li>
+<li>
+<p>Lim Kai En (403)</p>
+</li>
+<li>
+<p>Chua Uang Lim, Athena (404)</p>
+</li>
+<li>
+<p>Angela Leong Mun Shuen (405)</p>
+</li>
+<li>
+<p>Peh Yi Xin Tiffany (406)</p>
+</li>
+<li>
+<p>Quek Pei Rong Valent (408)</p>
+</li>
+</ul>
+<h4><strong>Community Engagement:</strong></h4>
+<p>Our cadets provide first aid support for school activities, including
+Cross-Country and various level activities. In 2024, they had the valuable
+opportunity to extend their service beyond the school by participating
+in the Metta Race 2024, thereby enhancing their community engagement and
+applying their skills in a real-world context.</p>
+<p>Join us on our leadership journey and make a meaningful difference in
+our community!</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Nur Amalina Bte Mohamed Zain (IC)</p>
+</li>
+<li>
+<p>Ms Koh Cher Yee</p>
+</li>
+<li>
+<p>Mdm Asniza Hassan</p>
+</li>
+</ul>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram</strong>  <a href="https://www.instagram.com/xmsstjohn/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsstjohn/</a>
+</p>

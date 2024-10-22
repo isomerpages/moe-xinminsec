@@ -5,4 +5,158 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="Climbing" src="/images/rockclimbing.jpeg"></div><p>Xinmin Rock Climbing was started in 2008 and is now in its 15th year running. Our belief has always been to develop core values like perseverance and discipline in our team members. These core values are continually emphasised in both training and competition. We also strive to develop teamwork, camaraderie and leadership in our members by providing various opportunities for our students to excel.</p><p>Over the course of their journey with Xinmin Rock Climbing, our climbers will learn basic climbing skills across three disciplines – bouldering, top rope, and lead climbing. They will take part in competitions and even organise their own – Xinmin Secondary School has been the proud organiser of the Inter Schools Bouldering Championships (ISBC) and primary school carnival X-calade. We welcomed about 200 competitors across the 'A,' 'B' and 'C' Divisions and were heartened by the success of the event. In 2023, we resumed X-calade and collaborated with Hougang Primary School to incorporate it into their National Primary Schools Sport Climbing Championships roster.</p><p>As part of our efforts to expose our students to more aspects of climbing, we send them for various competitions across the three disciplines. Additionally, every two years, our students will get the chance to travel overseas on rock climbing trips where they will get to climb on natural rock.</p><p>In 2024, we look forward to the resumption of overseas trips and more competitions as well. We also anticipate welcoming the next generation of passionate and driven climbers.</p><p><strong>Accomplishments</strong><br>Inter Schools Bouldering Championships (ISBC) 2023<br>C Div Girls - Team 1st, Rachelle Tok (103) Individual 5th<br>C Div Boys - Team 2nd, Jacob Ee (201) Individual 3rd<br>B Div Girls - Team 2nd, Rin Low (406) Individual 3rd<br>B Div Boys - Team 3rd, Owen Chan (406) Individual 3rd, Chan Hong Yu (404) Individual 5th<br></p><p><strong>Teachers-in-charge</strong><br>Ms Hazirah Bte Mohamad Helmy (IC)<br>Mr Kevin Lu Wenqi<br>Ms Lim Yen Peng<br>Ms Liew Ziyi<br></p><p><strong>Student Leaders</strong><br>B Division:<br>Clarisse Lim (303, 2023) - Captain<br>Goh Wan Ting (303, 2023) - Vice-Captain<br>Ennya Lim (306, 2023) - Vice-Captain<br>Nur Zarifah (306, 2023) - Team Manager<br>Kyler Lee (301, 2023) - Team Manager<br></p><p>C Division:<br>Albert Yaw (203, 2023) - Co-Captain<br>Alfred Yaw (204, 2023) - Co-Captain<br>Benedict Chen (204, 2023) - Team Manager<br>Valerie Loh (201, 2023) - Quartermaster<br>Sanghvi Dhara (202, 2023) - Publicity IC<br></p><p><strong>CCA Schedule</strong><br>Wednesdays: 3.30 - 6.30 pm<br>Fridays: 2.15 - 6.00 pm<br>*CCA might sometimes be conducted at various climbing gyms outside school<br></p><p><strong>Instagram</strong><br><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Rockclimbing/rockclimbing.jpg">
+</div>
+<p><strong>“The ascent is as important as the view”</strong>
+</p>
+<h4><strong>Welcome to Xinmin Rock-Climbing (XRC)!</strong></h4>
+<p>Xinmin Rockclimbing takes pride in being one of the few rock-climbing
+CCAs among secondary schools in Singapore. Over four years, our climbers
+have the opportunity to learn and excel in all three climbing disciplines—bouldering,
+top rope (lead), and speed.</p>
+<p>But it doesn’t stop at climbing. Our climbers gain valuable skills beyond
+the wall by organizing competitions, teaching introductory bouldering workshops,
+and expanding their horizons through overseas trips! Here’s a glimpse of
+what we do:</p>
+<h4><strong>Activities</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Competitions organised by rock climbing gyms (e.g. Inter-Schools Bouldering
+League, Sparks, Sendstorm)</p>
+</li>
+<li>
+<p>Organising competitions (Inter-Schools Bouldering Championships and X-Calade)</p>
+</li>
+<li>
+<p>Getting certifications (Singapore National Climbing Standards Levels 1
+and 2)</p>
+</li>
+<li>
+<p>Overseas climbing trips (Malaysia, Thailand)</p>
+<p></p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 3:30pm to 6.30pm</p>
+</li>
+<li>
+<p>Fridays: 2.30pm to 6pm</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
+<p>While we have an Executive Committee, every climber is provided with opportunities
+to develop their leadership potential through various activities throughout
+the year. This includes planning for Open House and CCA Orientation, organizing
+competitions, and engaging in other essential activities. The EXCO is responsible
+for managing the club’s day-to-day operations, assisting teachers with
+administrative tasks, and ensuring that the entire team puts forth their
+best effort during training sessions and competitions.</p>
+<h4><strong>Student Leaders</strong></h4>
+<p><strong><em>C Division Executive Committee</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rachelle Tok En’Ya (203)</p>
+</li>
+<li>
+<p>Delisha Fatima Falandri (204)</p>
+</li>
+<li>
+<p>Heng Rui Yang Zayden (205)</p>
+</li>
+<li>
+<p>Lim Le Zhi Lucas (208)</p>
+</li>
+</ul>
+<p><strong><em>B Division Executive Committee</em></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Co-Captains: Yaw Wei Jian, Albert (308), Yaw Wei Jie Alfred (308)</p>
+</li>
+<li>
+<p>Exco Members:</p>
+</li>
+<li>
+<p>Sanghvi Dhara Bhavin (305)</p>
+</li>
+<li>
+<p>Valerie Loh Yong Yee (304)</p>
+</li>
+<li>
+<p>Benedict Chen Yong An (301)</p>
+</li>
+</ul>
+<h4><strong>Excellence:</strong></h4>
+<p>Our members regularly participate in competitions throughout the year,
+striving to bring glory to the school. These competitions pit our climbers
+against participants from all over Singapore and sometimes even internationally.
+Despite competing against more experienced climbers, our members consistently
+showcase the strength and resilience that Xinmin students are known for.</p>
+<h4><strong>Accomplishments</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Inter-School Bouldering Championships C Division Girls Overall Champions</em>
+</p>
+</li>
+<li>
+<p><em>Inter-Schools Bouldering Championships C Division Boys Overall 1<sup>st</sup> Runner Up</em>
+</p>
+</li>
+<li>
+<p><em>Inter-Schools Bouldering Championships B Division Girls Overall 2<sup>nd</sup> Runner Up</em>
+</p>
+</li>
+<li>
+<p><em>Inter-Schools Bouldering Championships B Division Boys Overall 2<sup>nd</sup> Runner Up</em>
+</p>
+</li>
+<li>
+<p><em>Inter-Schools Bouldering Championships B Division Boys Individual 1<sup>st</sup> Runner Up – Jacob Paul Marie Ee (Class 303)</em>
+</p>
+</li>
+</ul>
+<h4><strong>Community Engagement:</strong></h4>
+<p>In addition to competing, our climbers give back to the community by organizing
+competitions for others and running introductory workshops. We take pride
+in the fact that learning within the CCA extends beyond technical climbing
+skills to include vital soft skills such as teamwork and communication.</p>
+<p>At the beginning of the year, our members conduct an introductory bouldering
+workshop for all Secondary 1 students during their Sec 1 Orientation. This
+experience allows the newcomers to get a taste of bouldering, with some
+deciding to pursue the sport further with us or on their own.</p>
+<p>The team collaborates with an external vendor to organize the Inter-Schools
+Bouldering Championships, where they take on various auxiliary roles such
+as registration, safety oversight, and emceeing. Through this event, they
+gain valuable insights into the behind-the-scenes efforts required to organize
+competitions, fostering appreciation for those who go the extra mile.</p>
+<p>Building on these experiences, our climbers are now equipped to run their
+own competition—X-calade, a novice category in the National Primary Schools
+Sport Climbing Championships (NPSSCC), in partnership with Hougang Primary
+School. They host over 100 primary school students for this competition,
+taking full responsibility for all aspects, including auxiliary tasks,
+route judging, and score tallying.</p>
+<p>Through these initiatives, our climbers actively engage the school community
+and beyond, fostering a love for the sport while honing their individual
+soft skills.</p>
+<p>We believe that every climb presents an opportunity for learning. Join
+us as we work to instil key values in our climbers—perseverance, teamwork,
+resilience, and a mindset of excellence for both sports and life!</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Kevin Lu (IC)</p>
+</li>
+<li>
+<p>Mrs Ho Yen Peng</p>
+</li>
+<li>
+<p>Ms Teoh Yu Han</p>
+</li>
+</ul>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
+</p>
