@@ -24,16 +24,26 @@ allow the girls to plan, lead, and actively participate in meaningful experience
 journey of personal development, building their social, educational, spiritual,
 and physical skills. Our aim is to equip them with the life skills they
 need to overcome challenges and thrive in every aspect of life.</p>
-<p><strong>CCA Schedule</strong>
-<br>Wednesdays: 4.00 pm to 6.00 pm</p>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 4.00 pm to 6.00 pm</p>
+</li>
+<li>
 <p>Saturdays: 8:30 am to 12 noon</p>
-<p><strong>2024 Student Leaders</strong>
-</p>
-<p><strong>Head Girl</strong>: Claris Hong Kai Ning (305, 2024)
-<br><strong>Vice Heads</strong>: Foo Si Jia Faith (302, 2024) &amp; Yeow Xuan
+</li>
+</ul>
+<h4><strong>Student Leaders</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Head Girl</strong>: Claris Hong Kai Ning (305, 2024)</p>
+</li>
+<li>
+<p><strong>Vice Heads</strong>: Foo Si Jia Faith (302, 2024) &amp; Yeow Xuan
 Ning (304, 2024)</p>
-<p><strong>2024 Awards:</strong>
-</p>
+</li>
+</ul>
+<h4><strong>2024 Awards:</strong></h4>
 <p>This year, our company proudly participated in the GB Tech Girl badgework,
 where the girls gained programming skills by coding with the micro: bit.
 This was conducted alongside the biannual Dr Low Guat Tin Challenge, under
@@ -46,8 +56,7 @@ and ingenuity.</p>
 who earned the prestigious Pioneer Brigadier Brooch, the pinnacle award
 in the GB. These outstanding girls exemplified excellence, self-discipline,
 and servant-leadership, standing as role models for others.</p>
-<p><em>&nbsp;</em><strong>Accomplishments</strong>
-</p>
+<h4><em>&nbsp;</em><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Dr Low Guat Tin Challenge: 2 Gold, 2 Silver and 5 Bronze awards</p>
@@ -62,10 +71,14 @@ Tay Jing Lin (402, 2024) and Heng Zeng Ru (402, 2024)</p>
 </ul>
 <p>Join us as we continue to live out the core values of Family, Friendship,
 and Discipline within our GB 42nd Company!</p>
-<p><strong>Teachers-in-charge</strong>
-<br>Mrs Amy Chan (IC)
-<br>Ms Teo Sze Ying</p>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram </strong><a href="https://www.instagram.com/xmsgirlsbrigade/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsgirlsbrigade/</a>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Amy Chan (IC)</p>
+</li>
+<li>
+<p>Ms Teo Sze Ying</p>
+</li>
+</ul>
+<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xmsgirlsbrigade/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsgirlsbrigade/</a>
 </p>
