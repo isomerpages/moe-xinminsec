@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb.jpg">
 </div>
-<p><strong>Welcome to Xinmin St John Brigade!</strong>
-</p>
+<h4><strong>Welcome to Xinmin St John Brigade!</strong></h4>
 <p>At Xinmin St. John Brigade, we are dedicated to nurturing resilient and
 compassionate leaders who are prepared to create a positive impact in the
 community. Our Cadet program equips members with essential First Aid and
@@ -200,5 +199,6 @@ our community!</p>
 <p>Mdm Asniza Hassan</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram</strong>  <a href="https://www.instagram.com/xmsstjohn/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsstjohn/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram</strong>  <a href="https://www.instagram.com/xmsstjohn/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsstjohn/</a>
 </p>
