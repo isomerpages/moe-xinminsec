@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Mediaclub.jpg">
 </div>
-<p><strong>Welcome to Xinmin Media Club!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Media Club!</strong></h4>
 <p>The Xinmin Media Club consists of three main departments: Audio Visual
 Aid (AVA), Photography, and Videography, along with an Infocomm elective.
 Our mission is to inspire creativity and technical excellence in media
@@ -138,6 +137,7 @@ Club is the place for you!</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
 <br>
 </p>
