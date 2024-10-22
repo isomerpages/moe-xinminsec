@@ -26,28 +26,64 @@ for greatness.</p>
 to remain positive and resilient even in the face of challenges. Looking
 ahead, we remain committed to pushing boundaries and reaching new heights.</p>
 <p><strong>Activities</strong>
-<br>a) National School Games (NSG) B Division and C Division
-<br>b) National Competitions organized by Volleyball Association of Singapore,
-Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)
-<br>c) Bicultural and Sports Exchange Overseas Trip
-<br>d) Team bonding Day
-<br>e) Volleyball 2D1N Camp
-<br>f) CCA Orientation
-<br>h) Physical / Skills Training</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a) National School Games (NSG) B Division and C Division</p>
+</li>
+<li>
+<p>b) National Competitions organized by Volleyball Association of Singapore,
+Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
+</li>
+<li>
+<p>c) Bicultural and Sports Exchange Overseas Trip</p>
+</li>
+<li>
+<p>d) Team bonding Day</p>
+</li>
+<li>
+<p>e) Volleyball 2D1N Camp</p>
+</li>
+<li>
+<p>f) CCA Orientation</p>
+</li>
+<li>
+<p>h) Physical / Skills Training</p>
+</li>
+<li>
 <p>i) School Invitationals and Friendly Matches</p>
-<p><strong>CCA Schedule</strong>
+</li>
+</ul>
+<p></p>
+<p><strong>CCA Schedule (Girls)</strong>
 </p>
-<p><strong>Girls</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Secondary 1: Tuesday (4pm – 7pm), Wednesday (3.45pm – 6.45pm), Friday
 (1 – 4pm)</p>
+</li>
+<li>
 <p>C Division: Tuesday (4pm – 7pm), Wednesday (3.45pm – 6.45pm), Friday (1
 – 4pm)</p>
+</li>
+<li>
 <p>B Division: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (4 – 7pm)</p>
-<p><strong>Boys</strong>
-<br>Secondary 1: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (1 – 4pm)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>CCA Schedule (Boys)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (1 – 4pm)</p>
+</li>
+<li>
 <p>C Division: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (1 – 4pm)</p>
+</li>
+<li>
 <p>B Division: Monday (4pm – 7pm), Wednesday (4pm – 7pm), Friday (1 – 4pm)</p>
+</li>
+</ul>
 <p>*Training frequencies are subjected to changes prior to competitions</p>
 <p><strong>Leadership Development:</strong>
 </p>
