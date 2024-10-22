@@ -180,8 +180,8 @@ St. John curriculum through the Cadet Proficiency Badge scheme.</p>
 <p>Quek Pei Rong Valent (408)</p>
 </li>
 </ul>
-<p><strong>Community Engagement:</strong>
-<br>Our cadets provide first aid support for school activities, including
+<h4><strong>Community Engagement:</strong></h4>
+<p>Our cadets provide first aid support for school activities, including
 Cross-Country and various level activities. In 2024, they had the valuable
 opportunity to extend their service beyond the school by participating
 in the Metta Race 2024, thereby enhancing their community engagement and
