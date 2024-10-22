@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/odac.jpg">
 </div>
-<p><strong>Outdoor Adventure Club (ODAC)</strong>
-</p>
+<h4><strong>Outdoor Adventure Club (ODAC)</strong></h4>
 <p><strong>Improvise, Adapt, Overcome</strong>
 </p>
 <p>The Outdoor Adventure Club (ODAC) is dedicated to cultivating confident,
@@ -124,5 +123,6 @@ Yi (304)</p>
 <p>Mr Jeremy Tan Kian Seng</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xmsodac/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsodac/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xmsodac/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsodac/</a>
 </p>
