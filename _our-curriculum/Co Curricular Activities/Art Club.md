@@ -89,10 +89,12 @@ and self-assurance. Here's a closer look at what we do:</p>
 <p>Wednesdays: 3:30pm to 5.30pm</p>
 </li>
 <li>
-<p>Fridays: 1.30pm to 3:30/4pm <strong>Leadership Development:</strong>
-</p>
+<p>Fridays: 1.30pm to 3:30/4pm</p>
+<p></p>
 </li>
 </ul>
+<p><strong>Leadership Development:</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
