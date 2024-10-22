@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Girls_Brigade/gb.jpg">
 </div>
-<p><strong>Welcome to the Girls’ Brigade, 42<sup>nd</sup> company!</strong>
-</p>
+<h4><strong>Welcome to the Girls’ Brigade, 42<sup>nd</sup> company!</strong></h4>
 <p>The Girls’ Brigade (GB) 42nd Company is dedicated to nurturing and empowering
 young women, equipping them with the skills and confidence to grow into
 leaders. Our mission is to cultivate every Girl as a leader and every Officer
@@ -80,5 +79,6 @@ and Discipline within our GB 42nd Company!</p>
 <p>Ms Teo Sze Ying</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xmsgirlsbrigade/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsgirlsbrigade/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xmsgirlsbrigade/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsgirlsbrigade/</a>
 </p>
