@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng/guzheng_1.jpg">
 </div>
-<h4>Welcome to Xinmin Guzheng Ensemble,</h4>
+<h4><strong>Welcome to Xinmin Guzheng Ensemble</strong>,</h4>
 <p>where the rich tradition of the instrument harmonizes with the vibrant
 energy of our students.</p>
 <p>At Xinmin Guzheng Ensemble, we believe that learning the Guzheng transcends
