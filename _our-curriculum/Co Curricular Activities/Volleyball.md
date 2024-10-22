@@ -70,7 +70,6 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 <p>B Division: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (4 – 7pm)</p>
 </li>
 </ul>
-<p></p>
 <p><strong>CCA Schedule (Boys)</strong>
 </p>
 <ul data-tight="true" class="tight">
