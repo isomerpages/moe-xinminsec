@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/English Drama/el_drama.jpg">
 </div>
-<p><strong>Welcome to English Drama Club! 🎭✨</strong>
-</p>
+<h4><strong>Welcome to English Drama Club! 🎭✨</strong></h4>
 <p>The English Drama Club kicked off the year with intense preparations for
 Xinmin Arts Week in April. Our members were fully immersed in rehearsals
 for two original plays written by our own talented students: <em>Fragile Reflections</em> by
@@ -120,5 +119,6 @@ self-expression, and excitement. Break a leg!</p>
 <p>Mrs May Ng</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram <a href="https://www.instagram.com/xms_drama/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_drama/</a></strong>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_drama/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_drama/</a></strong>
 </p>
