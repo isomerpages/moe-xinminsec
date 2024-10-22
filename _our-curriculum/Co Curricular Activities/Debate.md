@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Debate/debate1.jpg">
 </div>
-<p><strong>Welcome to Xinmin Debate Club!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Debate Club!</strong></h4>
 <p>The Xinmin Debate Club cultivates critical thinking and sharp analytical
 skills in its members, encouraging them to form well-informed opinions
 and express their ideas clearly and persuasively. Students actively participate
@@ -126,7 +125,7 @@ member is a valuable contributor to the collective success of the group.</p>
 <p>Join the Xinmin Debate Club, where critical thinking flourishes, and every
 voice counts. Engage, debate, and excel as we challenge ideas, inspire
 change, and grow together!</p>
-<h4>Teachers-in-charge</h4>
+<h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Nanthini Gunasekaran (IC)</p>
@@ -138,5 +137,6 @@ change, and grow together!</p>
 <p>Ms Junice Chia</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram: </strong><a href="https://www.instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsdebateclub/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram: </strong><a href="https://www.instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsdebateclub/</a>
 </p>
