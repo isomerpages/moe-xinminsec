@@ -52,37 +52,81 @@ audiences.</p>
 </ul>
 <p><strong>Student Leaders</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Drum Major –</strong> Chan Hao Hian Brendan (303, 2024)</p>
+</li>
+<li>
 <p><strong>Band Major (Music) –</strong> Lin Rui’En, Claire (304, 2024)</p>
+</li>
+<li>
 <p><strong>Band Major (Admin) –</strong> Ng Yi Xuan (302, 2024)
 <br><strong>Secretary &amp; Media –</strong> Seah Xin Le, Joy (307, 2024)</p>
+</li>
+<li>
 <p><strong>Librarian –</strong> Bu Weixuan Klara (IC) (303, 2024), Ong Yu
 Ming (306, 2024), Caleb Gan Jian Ann (307, 2024)</p>
+</li>
+<li>
 <p><strong>Quarter Master –</strong> Wu Zhengting (306, 2024), Tey Yi Xuan
 (301, 2024)</p>
+</li>
+<li>
 <p><strong>Bandroom Mannagement –</strong> Yu Hong Yin (303, 2024), Zayden
 Ng Jun Herng (307, 2024)</p>
+</li>
+<li>
 <p><strong>Uniform Management – </strong>Daniel Tan Yi An (303, 2024), Tan
 Hong Yu (306, 2024)</p>
+</li>
+<li>
 <p><strong>Welfare &amp; Activities –</strong> Kang Kai Rui (304, 2024), Ng
 Yi Xuan (302, 2024)</p>
+</li>
+</ul>
 <p><strong>Section Leaders</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Flute – Koh Sher Min (304, 2024)</p>
+</li>
+<li>
 <p>Oboe – Ong Meng Xin (308, 2024)</p>
+</li>
+<li>
 <p>Bassoon – Yu Hong Yin (303, 2024)</p>
+</li>
+<li>
 <p>Clarinet – Kang Kai Rui (304, 2024), Elijah Ho Wei Zheng (Asst.) (305,
 2024)</p>
+</li>
+<li>
 <p>Saxophone – Daniel Tan Yi An (303, 2024)</p>
+</li>
+<li>
 <p>French Horn – Tey Yi Xuan (301, 2024)</p>
+</li>
+<li>
 <p>Trumpet – Lim Kai Heng, Kaden (303, 2024), Chan Hao Hian Brendan (Asst.)
 (303, 2024)</p>
+</li>
+<li>
 <p>Trombone – Wong Ethan (307, 2024)</p>
+</li>
+<li>
 <p>Euphonium – <em>(under Double Bass Section SL)</em>
 </p>
+</li>
+<li>
 <p>Tuba – Zayden Ng Jun Herng (307, 2024)</p>
+</li>
+<li>
 <p>Double Bass – Lin Rui’En, Claire (304, 2024)</p>
+</li>
+<li>
 <p>Percussion – Caleb Gan Jian Ann (307, 2024)</p>
+</li>
+</ul>
 <p><strong>Accomplishments</strong>
 </p>
 <p>Singapore Youth Festival (SYF) 2013, 2015, 2017, 2023 – Certificate of
