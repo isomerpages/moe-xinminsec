@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/band1.jpg">
 </div>
@@ -32,11 +31,25 @@ audiences.</p>
 <p><strong>CCA Schedule</strong>
 </p>
 <p><strong><u>Main Band</u> (Sec 2-5s)</strong>
-<br>Monday 3.30pm – 6.30pm</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday 3.30pm – 6.30pm</p>
+</li>
+<li>
 <p>Wednesday 3.30pm – 6.30pm</p>
+</li>
+</ul>
 <p><strong><u>Junior Band</u> (Sec 1s)</strong>
-<br>Wednesday 4.00pm – 6.00pm (from May onwards)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesday 4.00pm – 6.00pm (from May onwards)</p>
+</li>
+<li>
 <p>Friday 2.00pm – 5.00pm</p>
+</li>
+</ul>
 <p><strong>Student Leaders</strong>
 </p>
 <p><strong>Drum Major –</strong> Chan Hao Hian Brendan (303, 2024)</p>
