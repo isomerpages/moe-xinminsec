@@ -8,8 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Guzheng/guzheng_1.jpg">
 </div>
-<p>Welcome to Xinmin Guzheng Ensemble, where the rich tradition of the instrument
-harmonizes with the vibrant energy of our students.</p>
+<h4>Welcome to Xinmin Guzheng Ensemble,</h4>
+<p>where the rich tradition of the instrument harmonizes with the vibrant
+energy of our students.</p>
 <p>At Xinmin Guzheng Ensemble, we believe that learning the Guzheng transcends
 the mere mastery of notes and melodies. Our members discover the art of
 musical expression while developing discipline, teamwork, and a deep appreciation
@@ -134,5 +135,6 @@ create unforgettable performances together!</p>
 <p>Ms Hailey Tan</p>
 </li>
 </ul>
-<p>Visit us: Instagram <a href="https://instagram.com/xms.guzheng" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xms.guzheng</a>
+<h4>Visit us</h4>
+<p>Instagram <a href="https://instagram.com/xms.guzheng" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xms.guzheng</a>
 </p>
