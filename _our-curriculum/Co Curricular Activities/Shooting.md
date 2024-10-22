@@ -22,72 +22,160 @@ Under the guidance of our professional coaches, we have nurtured at least
 Team.</p>
 <p>Our shooters have put in tremendous effort to achieve impressive results
 at the 2024 NSG Shooting Championship.</p>
-<p>&nbsp;</p>
-<p><strong>2024 Accomplishments</strong>
-</p>
+<h4><strong>2024 Accomplishments</strong></h4>
 <p><u>B Div:</u>
-<br>Pistol Men + Rifle Men: National Champions</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pistol Men + Rifle Men: National Champions</p>
+</li>
+<li>
 <p>Pistol Women + Rifle Women: National 5<sup>th</sup>
 </p>
+</li>
+</ul>
 <p><u>C Div:</u>
-<br>Pistol Men + Rifle Men: National 5<sup>th</sup>&nbsp;</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pistol Men + Rifle Men: National 5<sup>th</sup>&nbsp;</p>
+</li>
+<li>
 <p>Pistol Women + Rifle Women: National 4th</p>
+</li>
+</ul>
 <p><u>Individual Medal:</u>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Individual B Div Bronze Medallist (Air Pistol Men): Joshua Chia</p>
+</li>
+<li>
 <p>Individual C Div Silver Medallist (Air Rifle Men): Choo Rui Kai Reagan</p>
+</li>
+<li>
 <p>Individual C Div Bronze Medallist (Air Pistol Women): Xerlyn Tay Zhi Xin</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>CCA Schedule</strong>
-</p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
 <p><strong>[<a href="https://go.gov.sg/xmss-shooting-comp-schedule" rel="noopener noreferrer nofollow" target="_blank">https:</a><a href="https:go.gov.sg/xmss-shooting-comp-schedule" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/xmss-shooting-comp-schedule</a>]</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>*CCA schedule is updated in the google sheet every month.</p>
+</li>
+<li>
 <p>*Shooters to check schedule regularly for updates especially closer to
 competition period.
 <br><u>Jan -April (NSG B div period)</u>
 </p>
+</li>
+</ul>
 <p>Sec 3-5</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mon: 4-5.30pm</p>
-<p>Weds: 3:30pm to 5.00pm
-<br>Fridays: 1.30pm to 3:30pm</p>
+</li>
+<li>
+<p>Weds: 3:30pm to 5.00pm</p>
+</li>
+<li>
+<p>Fridays: 1.30pm to 3:30pm</p>
+</li>
+</ul>
 <p>Sec 1-2</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Tues: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
+</li>
+<li>
 <p>Thurs: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
+</li>
+</ul>
 <p><u>April – July (NSG C div period)</u>
 </p>
 <p>Sec 1 DSA + Sec 2</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mon: 4-5.30pm</p>
-<p>Weds: 3:30pm to 5.00pm
-<br>Fridays: 1.30pm to 3:30pm</p>
+</li>
+<li>
+<p>Weds: 3:30pm to 5.00pm</p>
+</li>
+<li>
+<p>Fridays: 1.30pm to 3:30pm</p>
+</li>
+</ul>
 <p>Sec 1 + Sec 3</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Tues: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
+</li>
+<li>
 <p>Thurs: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
+</li>
+</ul>
 <p><u>August – Sep</u>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Tues: Sec 1 (3.30pm to 5.30pm)</p>
+</li>
+<li>
 <p>Weds: Sec 2 (3.30pm to 5.30pm)</p>
+</li>
+<li>
 <p>Thurs: All shooters (Bonding/PT/ Admin Day) (3.30pm to 5.30pm)</p>
+</li>
+<li>
 <p>Fri: Sec 3 (3.30pm to 5.30pm)</p>
-<p><strong>2024 Student Leaders</strong>
-<br><strong>Captain</strong>: Ai Zhixuan (305, 2024)
-<br><strong>Head of Welfare</strong>: Syon Lu Ziming (301, 2024)
-<br><strong>Heads of Training</strong>: Ping Kai Yi, Matthew (302, 2024)</p>
+</li>
+</ul>
+<h4><strong>2024 Student Leaders</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Captain</strong>: Ai Zhixuan (305, 2024)</p>
+</li>
+<li>
+<p><strong>Head of Welfare</strong>: Syon Lu Ziming (301, 2024)</p>
+</li>
+<li>
+<p><strong>Heads of Training</strong>: Ping Kai Yi, Matthew (302, 2024)</p>
+</li>
+<li>
 <p><strong>Heads of Admin</strong>: Kayley Tien (303, 2024)</p>
+</li>
+<li>
 <p><strong>Sec 1 Level Head</strong>: Tay Zhong Zhi Zaxis (304, 2024), Tan
 Yu Wen, Sarah (305, 2024)</p>
+</li>
+<li>
 <p><strong>Sec 2 Level Head</strong>: Kenji Ong Kai Jie (304, 2024)</p>
+</li>
+<li>
 <p><strong>Sec 3 Level Head</strong>: Torres New Zong Ming (306, 2024)</p>
-<p><strong>Teachers-in-charge</strong>
-<br>Ms Norfarhana Abdullah (IC)
-<br>Ms Norhuda Bte Maksum
-<br>Ms Chua Ai Zhen Kris
-<br>Mr Annie Ng
-<br>Ms Nor'ain Binte Ismail
+</li>
+</ul>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Norfarhana Abdullah (IC)</p>
+</li>
+<li>
+<p>Ms Norhuda Bte Maksum</p>
+</li>
+<li>
+<p>Ms Chua Ai Zhen Kris</p>
+</li>
+<li>
+<p>Mr Annie Ng</p>
+</li>
+<li>
+<p>Ms Nor'ain Binte Ismail
 <br>
 </p>
+</li>
+</ul>
 <p><strong>Instagram: </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting/</a>
 <br>
 </p>
