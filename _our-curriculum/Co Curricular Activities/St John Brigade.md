@@ -48,8 +48,14 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 </ul>
 <p><strong>CCA Schedule</strong>
 </p>
-<p>Whitespace Wednesdays: 4pm to 6pm
-<br>Fridays: 2.30pm to 6pm</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Whitespace Wednesdays: 4pm to 6pm</p>
+</li>
+<li>
+<p>Fridays: 2.30pm to 6pm</p>
+</li>
+</ul>
 <p><strong>Leadership Development:</strong>
 </p>
 <p>After completing both the Basic and Advanced Non-Commissioned Officer
