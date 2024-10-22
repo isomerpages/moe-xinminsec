@@ -10,8 +10,7 @@ variant: tiptap
 </div>
 <p><strong><em>"Let’s smash goals together and build a legacy of teamwork and skill."</em></strong>
 </p>
-<p><strong>Welcome to Xinmin Badminton Team!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Badminton Team!</strong></h4>
 <p>Badminton is a challenging sport that demands agility, strength, speed,
 and mental endurance. At Xinmin Badminton Team (XMBT), we not only focus
 on honing our players' skills and techniques but also emphasize the importance
@@ -22,33 +21,31 @@ Xinmin Invitational Competition for primary school students, and our Annual
 Badminton Camp. These experiences provide a platform for them to develop
 leadership skills and strengthen team bonds, shaping them into well-rounded
 individuals both on and off the court.</p>
-<p><strong>Activities</strong>
-</p>
+<h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>a) National School Games (NSG) B Division and C Division</p>
+<p>National School Games (NSG) B Division and C Division</p>
 </li>
 <li>
-<p>b) Sec 1 Induction Programme</p>
+<p>Sec 1 Induction Programme</p>
 </li>
 <li>
-<p>c) Xinmin Invitational Competition</p>
+<p>Xinmin Invitational Competition</p>
 </li>
 <li>
-<p>d) CCA Orientation</p>
+<p>CCA Orientation</p>
 </li>
 <li>
-<p>e) Badminton 2D1N Camp</p>
+<p>Badminton 2D1N Camp</p>
 </li>
 <li>
-<p>f) Physical / Skills Training</p>
+<p>Physical / Skills Training</p>
 </li>
 <li>
-<p>h) School Invitationals and Friendly Matches</p>
+<p>School Invitationals and Friendly Matches</p>
 </li>
 </ul>
-<p><strong>CCA Schedule</strong>
-</p>
+<h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>C Div - Monday, Wednesday 1530h to 1830h, Friday 1330h to 1630h</p>
@@ -58,16 +55,14 @@ individuals both on and off the court.</p>
 </li>
 </ul>
 <p>*Training frequencies are subjected to changes prior to competitions</p>
-<p>&nbsp;<strong>Leadership Development:</strong>
-</p>
+<h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a vital role in shaping the badminton team’s journey.
 They develop their leadership abilities by taking charge of warm-ups, training
 sessions, and competitive matches, while also leading debriefs. Additionally,
 they guide the team through major events such as Open Houses, CCA Orientations,
 and Induction Programs, ensuring a smooth and engaging experience for all
 involved.</p>
-<p><strong>2024 Student Leaders</strong>
-</p>
+<h4><strong>Student Leaders</strong></h4>
 <p><strong>C Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -88,16 +83,14 @@ involved.</p>
 <p>‘B’ Division Vice-Captains: NG XI YUAN, SYLVIE (301)</p>
 </li>
 </ul>
-<p><strong>Xinmin Badminton Excellence:</strong>
-</p>
+<h4><strong>Excellence:</strong></h4>
 <p>Members of Xinmin Badminton proudly represent our school in various competitions,
 actively participating to refine their skills and expand their experience.
 These events not only offer a stage to showcase our abilities but also
 serve as a platform for players to build resilience and learn to navigate
 challenges on the court. As a team, we gain invaluable lessons, fostering
 both personal and collective growth with every competition.</p>
-<p><em>&nbsp;</em><strong>Accomplishments</strong>
-</p>
+<h4><strong>Accomplishments</strong></h4>
 <p>NSG Badminton Championships (North Zone) 2024:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -135,8 +128,7 @@ both personal and collective growth with every competition.</p>
 </li>
 </ul>
 <p>&nbsp;Smash Your Limits—Join Xinmin Badminton Team Today!</p>
-<p><strong>&nbsp;Teachers-in-charge</strong>
-</p>
+<h4><strong>&nbsp;Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Lim Kok Chong (IC)</p>
@@ -150,10 +142,10 @@ both personal and collective growth with every competition.</p>
 <li>
 <p>Ms Siaw Pey Shin</p>
 </li>
-<li>
-<p><strong>&nbsp;Coaches</strong>
+</ul>
+<p><strong>Coaches</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Mr Wong Shoon Keat ('B' Division Coach)</p>
 </li>
@@ -161,5 +153,6 @@ both personal and collective growth with every competition.</p>
 <p>Mr Hor Chai Hian ('C' Division Coach)</p>
 </li>
 </ul>
-<p><strong>Visit us at: Instagram </strong><a href="%20https:/www.instagram.com/xms.badminton/l/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong><a href="https://www.instagram.com/xms.badminton/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.badminton/</a></strong>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="%20https:/www.instagram.com/xms.badminton/l/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a><strong><a href="https://www.instagram.com/xms.badminton/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.badminton/</a></strong>
 </p>
