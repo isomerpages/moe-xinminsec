@@ -36,19 +36,36 @@ are vital for thriving in a rapidly digitalizing world, and we aim to nurture
 a generation of media-savvy, civic-minded students who are not only skilled
 but also equipped with the values and competencies needed to make meaningful
 contributions to society.</p>
-<p><strong>Activities</strong>
-<br>a) Media Club Day Camp
-<br>b) Outdoor photoshoot
-<br>c) Team bonding sessions
-<br>d) IMDA programmes and workshops
-<br>e) Various competitions like MOE Our Schools Our Stories, IMDA National
-Youth Tech Championship</p>
-<p><strong>CCA Schedule</strong>
-<br>Wednesdays: 3.30pm to 6.00pm
-<br>Fridays: 2.00pm to 5.00pm (for selected students)</p>
+<h4><strong>Activities</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Media Club Day Camp</p>
+</li>
+<li>
+<p>Outdoor photoshoot</p>
+</li>
+<li>
+<p>Team bonding sessions</p>
+</li>
+<li>
+<p>IMDA programmes and workshops</p>
+</li>
+<li>
+<p>Various competitions like MOE Our Schools Our Stories, IMDA National Youth
+Tech Championship</p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 3.30pm to 6.00pm</p>
+</li>
+<li>
+<p>Fridays: 2.00pm to 5.00pm (for selected students)</p>
+</li>
+</ul>
 <p>Students are expected to assist with media duties.</p>
-<p><strong>Leadership Development:</strong>
-</p>
+<h4><strong>Leadership Development:</strong></h4>
 <p>Every year, our student leaders attend the Xinmin Academy of Leaders program
 and the IMDA Leadership Conference. These experiences offer opportunities
 for students to interact and learn from fellow student leaders, broadening
@@ -57,15 +74,28 @@ leadership qualities rooted in respect, responsibility, and integrity,
 we empower our student leaders to become civic-minded individuals capable
 of leading with empathy and making meaningful contributions within and
 beyond the school community.</p>
-<p><strong>Student Leaders</strong>
-<br>President: Jovan Tan Jing Xi (301)</p>
+<h4><strong>Student Leaders</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>President: Jovan Tan Jing Xi (301)</p>
+</li>
+<li>
 <p>Vice-President: Goh Rui Tian (302)</p>
+</li>
+<li>
 <p>Head Of Department (AVA): Seah Si Yi Constance (308)</p>
+</li>
+<li>
 <p>Head Of Department (Photography): Farihaqeel Abdul Rahman Bin Romzi (301)</p>
+</li>
+<li>
 <p>Head Of Department (Videography): Lee Shi Qi, Rae-Ann (303)</p>
+</li>
+<li>
 <p>Head Of Infocomm Wing: Chiong Sheng Xiang, Gareth (301)</p>
-<p><strong>Accomplishments</strong>
-</p>
+</li>
+</ul>
+<h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>IgnITE Skills Challenge 2024 Smart EV Mobile Robot challenge - First runner-up</p>
@@ -89,15 +119,25 @@ Club is the place for you!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Mediaclub1.jpg">
 </div>
-<p><strong>Teachers-in-charge</strong>
-<br>Ms Song Mei’en Lyn (OIC)</p>
-<p>Mr Arthur Lee Pei Pin (Photography IC)
-<br>Mr Ho Siang Teng Peter (Videography IC)
-<br>Mr Kuo Yu Hsuan (AVA IC)
-<br>Ms Tan Lay Lay (Infocomm IC)</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Song Mei’en Lyn (OIC)</p>
+</li>
+<li>
+<p>Mr Arthur Lee Pei Pin (Photography IC)</p>
+</li>
+<li>
+<p>Mr Ho Siang Teng Peter (Videography IC)</p>
+</li>
+<li>
+<p>Mr Kuo Yu Hsuan (AVA IC)</p>
+</li>
+<li>
+<p>Ms Tan Lay Lay (Infocomm IC)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
-<p><strong>Visit us on</strong>  <strong>Instagram</strong>
-</p>
-<p><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
+<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
 <br>
 </p>
