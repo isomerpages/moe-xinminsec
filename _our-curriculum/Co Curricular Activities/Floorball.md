@@ -129,5 +129,6 @@ strive for greatness!</p>
 <p>Ms Nur Fatimah Khalid</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram <a href="https://www.instagram.com/xms_floorball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_floorball/</a></strong>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_floorball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_floorball/</a></strong>
 </p>
