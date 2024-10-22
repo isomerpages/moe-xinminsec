@@ -27,8 +27,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Welcome to Xinmin Art Club (XAC)!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Art Club (XAC)!</strong></h4>
 <p>At Xinmin Art Club (XAC), we are dedicated to inspiring a love for learning
 through creativity and engaging activities. Our mission is to cultivate
 Curious learners, Compassionate contributors, and Confident leaders. We
@@ -38,49 +37,48 @@ and self-assurance. Here's a closer look at what we do:</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>a) Art Club Camp</p>
+<p>Art Club Camp</p>
 </li>
 <li>
-<p>b) Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop</p>
+<p>Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop</p>
 </li>
 <li>
-<p>c) Values In Action projects</p>
+<p>Values In Action projects</p>
 </li>
 <li>
-<p>d) Learning journey to Singapore Tyler Print Institute</p>
+<p>Learning journey to Singapore Tyler Print Institute</p>
 </li>
 <li>
-<p>e) Stemtastic art projects and clay modelling</p>
+<p>Stemtastic art projects and clay modelling</p>
 </li>
 <li>
-<p>f) Art competitions</p>
+<p>Art competitions</p>
 </li>
 <li>
-<p>g) Digital drawing with various apps</p>
+<p>Digital drawing with various apps</p>
 </li>
 <li>
-<p>h) In-house makers arts program</p>
+<p>In-house makers arts program</p>
 </li>
 <li>
-<p>i) Upcycling competition for secondary 1</p>
+<p>Upcycling competition for secondary 1</p>
 </li>
 <li>
-<p>j) Plank Art with community</p>
+<p>Plank Art with community</p>
 </li>
 <li>
-<p>k) Xinmin’s Design Fiesta Ball Run out competition</p>
+<p>Xinmin’s Design Fiesta Ball Run out competition</p>
 </li>
 <li>
-<p>l) Museum Visit to National Gallery Singapore Open House, Art Club Booth</p>
+<p>Museum Visit to National Gallery Singapore Open House, Art Club Booth</p>
 </li>
 <li>
-<p>m) CCA Orientation Booth</p>
+<p>CCA Orientation Booth</p>
 </li>
 <li>
-<p>n) Physical training/bonding sessions on every first week of the month</p>
+<p>Physical training/bonding sessions on every first week of the month</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -205,6 +203,7 @@ new possibilities, create meaningful art, and inspire one another!</p>
 <p>Mr Zhuang Haoyang</p>
 </li>
 </ul>
-<p><strong>Visit us at: Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
 </p>
 <p></p>
