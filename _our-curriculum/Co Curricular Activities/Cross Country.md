@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Cross Country/cross_country.jpg">
 </div>
+<h4><strong>Welcome to Xinmin Cross Country!</strong></h4>
 <p><strong><em>“Run when you can, walk when you have to, crawl if you must. Just never give up!”</em><br><em>Dean Karnazes</em></strong>
 </p>
 <p>Cross Country as a CCA nurtures students’ holistic development, helping
