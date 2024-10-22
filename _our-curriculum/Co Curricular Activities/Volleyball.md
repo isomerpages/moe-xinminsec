@@ -311,10 +311,11 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 </ul>
 <p>Join Xinmin Volleyball Team and become part of a legacy built on camaraderie,
 discipline, and sportsmanship!</p>
+<p><strong>Teachers-in-charge</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Teachers-in-charge</strong>
-<br>Ms Low Yan Jin (Boys IC)</p>
+<p>Ms Low Yan Jin (Boys IC)</p>
 </li>
 <li>
 <p>Mr Ang Koon Yong</p>
