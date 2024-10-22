@@ -18,11 +18,8 @@ in a variety of debating and public speaking events, including Parliamentary
 Debating. Recently, club members competed in events tailored to both experienced
 debaters and novices, providing them with ample opportunities to test and
 refine their skills.</p>
+<h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
-<li>
-<p><strong>Activities</strong>
-</p>
-</li>
 <li>
 <p>Debate Association Debate Championships</p>
 </li>
@@ -57,20 +54,23 @@ refine their skills.</p>
 <p>YMCA Plain English Speaking Awards (PESA)</p>
 </li>
 </ul>
-<p><strong>CCA Schedule</strong>
-</p>
-<p>Wednesdays: 3:45pm to 6.00pm
-<br>Fridays: 2.15pm to 4:30pm</p>
-<p><strong>Leadership Development:</strong>
-</p>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 3:45pm to 6.00pm</p>
+</li>
+<li>
+<p>Fridays: 2.15pm to 4:30pm</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
 <p>The success of the Xinmin Debate Club is shaped by the dedication of our
 Executive Committee leaders, who develop their leadership abilities by
 spearheading key programs. These leaders play a vital role in organizing
 events, managing debate sessions, and assuming specific responsibilities
 during each meeting and competition, ensuring the smooth operation and
 growth of the club.</p>
-<p><strong>Student Leaders</strong>
-</p>
+<h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chairperson: Edison Lee Rui Yang (302, 2024)</p>
@@ -85,8 +85,8 @@ growth of the club.</p>
 <p>Head of Publicity: Chakarin Tongchanachai (303, 2024)</p>
 </li>
 </ul>
-<p><strong>Excellence:</strong>
-<br>The XMS Debate Club has proudly participated in numerous prestigious competitions,
+<h4><strong>Excellence:</strong></h4>
+<p>The XMS Debate Club has proudly participated in numerous prestigious competitions,
 including the National Singapore Secondary Schools Debating Championships
 and international events like the WoLCe World Inter-School Debating Competition
 and the Singapore International Schools’ Debate League.</p>
@@ -101,8 +101,7 @@ U-14s Debating Championships, with one student being named overall best
 speaker of the competition. The school takes immense pride in the determination,
 teamwork, and positive attitude displayed by its members throughout these
 competitions.</p>
-<p><strong>Accomplishments</strong>
-</p>
+<h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SSSDC (Semi-finalist, 2022 and quarterfinalist, 2023)</p>
@@ -118,8 +117,8 @@ competitions.</p>
 &amp; Overall Best Speaker 2024)</p>
 </li>
 </ul>
-<p><strong>Community Engagement:</strong>
-<br>Beyond honing their skills in competitive settings, Xinmin Debate Club
+<h4><strong>Community Engagement:</strong></h4>
+<p>Beyond honing their skills in competitive settings, Xinmin Debate Club
 members engage in friendly sparring sessions and exchange events with other
 schools, fostering a spirit of camaraderie and mutual learning. The club
 emphasizes the importance of gratitude and teamwork, recognizing that each
@@ -127,8 +126,7 @@ member is a valuable contributor to the collective success of the group.</p>
 <p>Join the Xinmin Debate Club, where critical thinking flourishes, and every
 voice counts. Engage, debate, and excel as we challenge ideas, inspire
 change, and grow together!</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Nanthini Gunasekaran (IC)</p>
@@ -140,7 +138,5 @@ change, and grow together!</p>
 <p>Ms Junice Chia</p>
 </li>
 </ul>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram: </strong><a href="https://www.instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsdebateclub/</a>
+<p><strong>Visit us: Instagram: </strong><a href="https://www.instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsdebateclub/</a>
 </p>
