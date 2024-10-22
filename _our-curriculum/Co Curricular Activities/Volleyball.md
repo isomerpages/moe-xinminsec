@@ -25,8 +25,7 @@ for greatness.</p>
 <p>Additionally, we emphasize the importance of mindset and attitude, learning
 to remain positive and resilient even in the face of challenges. Looking
 ahead, we remain committed to pushing boundaries and reaching new heights.</p>
-<p><strong>Activities</strong>
-</p>
+<h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>a) National School Games (NSG) B Division and C Division</p>
@@ -54,8 +53,8 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 <p>i) School Invitationals and Friendly Matches</p>
 </li>
 </ul>
-<p></p>
-<p><strong>CCA Schedule (Girls)</strong>
+<h4><strong>CCA Schedule</strong></h4>
+<p><strong>Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -70,7 +69,7 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 <p>B Division: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (4 – 7pm)</p>
 </li>
 </ul>
-<p><strong>CCA Schedule (Boys)</strong>
+<p><strong>Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
