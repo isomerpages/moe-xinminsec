@@ -83,15 +83,13 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 </li>
 </ul>
 <p>*Training frequencies are subjected to changes prior to competitions</p>
-<p><strong>Leadership Development:</strong>
-</p>
+<h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a crucial role in shaping the team’s journey. They
 enhance their leadership skills by guiding the team through warm-ups, gym
 sessions, training, competitions, and debriefs. They also lead various
 events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
 <p></p>
-<p><strong>2024 Student Leaders</strong>
-</p>
+<h4><strong>2024 Student Leaders</strong></h4>
 <p><strong>C Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -149,17 +147,15 @@ Tan Woo Yew Samuel (302, 2024)</p>
 <p><strong>Head of Publicity:</strong> Evan Lee Yee Fan (302, 2024)</p>
 </li>
 </ul>
-<p><strong>Volleyball Excellence:</strong>
-</p>
+<h4><strong>Excellence:</strong></h4>
 <p>Members of the Xinmin Volleyball Team proudly represent our school in
 numerous competitions. We actively engage in these events, embracing opportunities
 to refine our skills and broaden our experiences.</p>
 <p>Through these competitions, we not only showcase our abilities but also
 develop resilience and learn to navigate challenges on the court. Each
 competition offers valuable lessons, fostering both personal and team growth.</p>
-<p><strong>Accomplishments</strong>
-<br><strong>a) Achievements for 2021</strong>
-</p>
+<h4><strong>Accomplishments</strong></h4>
+<p>a) Achievements for 2021</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NSG North Zone Inter-School Volleyball Championship</p>
@@ -310,8 +306,7 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 </ul>
 <p>Join Xinmin Volleyball Team and become part of a legacy built on camaraderie,
 discipline, and sportsmanship!</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Low Yan Jin (Boys IC)</p>
