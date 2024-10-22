@@ -68,5 +68,6 @@ and push our limits!<strong>&nbsp;</strong>
 <p>Miss Liew Ziyi</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram <a href="https://www.instagram.com/xms_xcountry/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xcountry/?hl=en</a></strong>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram <a href="https://www.instagram.com/xms_xcountry/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xcountry/?hl=en</a></strong>
 </p>
