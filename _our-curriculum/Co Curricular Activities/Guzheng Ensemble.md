@@ -135,6 +135,6 @@ create unforgettable performances together!</p>
 <p>Ms Hailey Tan</p>
 </li>
 </ul>
-<h4>Visit us</h4>
+<h4><strong>Visit us</strong></h4>
 <p>Instagram <a href="https://instagram.com/xms.guzheng" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xms.guzheng</a>
 </p>
