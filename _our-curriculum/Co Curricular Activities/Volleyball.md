@@ -90,33 +90,66 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 enhance their leadership skills by guiding the team through warm-ups, gym
 sessions, training, competitions, and debriefs. They also lead various
 events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
+<p></p>
 <p><strong>2024 Student Leaders</strong>
 </p>
 <p><strong>C Division Girls</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Co-Captains:</strong> Tan Xin Man (201, 2024) &amp; Mia Chua (202,
 2024)</p>
+</li>
+<li>
 <p><strong>Vice-Captain:</strong> Jaslyn Koh Wei Xuan (208, 2024)</p>
+</li>
+<li>
 <p><strong>Assistant Head of Publicity:</strong> Lim Kai Qi, Mikaella (202,
 2024)</p>
+</li>
+</ul>
 <p><strong>B Division Girls</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Captain:</strong> Sim Wei Xuan, Jamie (302, 2024)</p>
+</li>
+<li>
 <p><strong>Vice-Captain:</strong> Lim Han Xuan Trisha (303, 2024)</p>
+</li>
+<li>
 <p><strong>Head of Publicity:</strong> Goh Zi Xuan, Mathilda (307, 2024)</p>
+</li>
+</ul>
 <p><strong>C Division Boys</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Captain:</strong> Jovan Lum Ka Fai (204, 2024)</p>
+</li>
+<li>
 <p><strong>Vice-Captains:</strong> Tan Justin (203, 2024) &amp; Jayden Huang
 (204, 2024)</p>
+</li>
+<li>
 <p><strong>Assistant Head of Publicity:</strong> Nicholas Lo Tian Long (205,
 2024) &amp; Lee Yuan Rui (208, 2024)</p>
+</li>
+</ul>
 <p><strong>B Division Boys</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Captain:</strong> Timothy Lim Sheuan Horng (302, 2024)</p>
+</li>
+<li>
 <p><strong>Vice-Captains:</strong> Swee Wee Herng Jeroy (302, 2024) &amp;
 Tan Woo Yew Samuel (302, 2024)</p>
+</li>
+<li>
 <p><strong>Head of Publicity:</strong> Evan Lee Yee Fan (302, 2024)</p>
+</li>
+</ul>
 <p><strong>Volleyball Excellence:</strong>
 </p>
 <p>Members of the Xinmin Volleyball Team proudly represent our school in
@@ -128,88 +161,180 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 <p><strong>Accomplishments</strong>
 <br><strong>a) Achievements for 2021</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>NSG North Zone Inter-School Volleyball Championship</p>
+</li>
+<li>
 <p><em>B Division Boys: Top 8</em>
 </p>
+</li>
+<li>
 <p><em>B Division Girls 1<sup>st</sup></em>
 </p>
+</li>
+</ul>
 <p><em>*Nationals B Division and C Division cancelled in view of Covid-19 situation</em>
 </p>
 <p><strong>b) Achievements for 2022</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>NSG North Zone Inter-School Volleyball Championship</p>
+</li>
+<li>
 <p><em>B Division Boys: Top 8</em>
 </p>
+</li>
+<li>
 <p><em>B Division Girls: 1<sup>st</sup></em>
 </p>
+</li>
+<li>
 <p><em>C Division Boys: 2<sup>nd</sup></em>
 </p>
+</li>
+<li>
 <p><em>C Division Girls: 1<sup>st</sup></em>
 </p>
+</li>
+</ul>
 <p>NSG National Inter-School Volleyball Championship</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>C Division Boys: Top 16</em>
 </p>
+</li>
+<li>
 <p><em>C Division Girls: 4<sup>th</sup></em>
 </p>
+</li>
+<li>
 <p><em>*Nationals B Division cancelled in view of Covid-19 situation</em>
 </p>
+</li>
+</ul>
 <p><strong>c) Achievements for 2023</strong>
 </p>
 <p>NSG North Zone Inter-School Volleyball Championship</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>B Division Boys: Top 8</em>
 </p>
+</li>
+<li>
 <p><em>B Division Girls: 1<sup>st</sup></em>
 </p>
+</li>
+<li>
 <p><em>C Division Boys: 2<sup>nd</sup></em>
 </p>
+</li>
+<li>
 <p><em>C Division Girls: 1<sup>st</sup></em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+</li>
+</ul>
 <p>NSG National Inter-School Volleyball Championship</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>B Division Girls: Top 16</em>
 </p>
+</li>
+<li>
 <p><em>C Division Boys: 2<sup>nd</sup></em>
 </p>
+</li>
+<li>
 <p><em>C Division Girls: 4<sup>th</sup></em>
 </p>
+</li>
+</ul>
 <p>Volleyball Ace U15 Indoor Volleyball Championship</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>Boys: 1<sup>st</sup></em>
 </p>
+</li>
+<li>
 <p><em>Girls: 1<sup>st</sup></em>
 </p>
+</li>
+</ul>
 <p>Mintonette U16 Volleyball Tournament</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>Girls (Tier 1): 1<sup>st</sup></em>
 </p>
+</li>
+<li>
 <p><em>Girls (Tier 2): 1<sup>st</sup></em>
 </p>
+</li>
+</ul>
 <p><strong>d) Achievements for 2024</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>NSG North Zone Inter-School Volleyball Championship</p>
+</li>
+<li>
 <p><em>B Division Boys: 2<sup>nd</sup></em>
 </p>
+</li>
+<li>
 <p><em>B Division Girls: 1<sup>st</sup></em>
 </p>
+</li>
+</ul>
 <p>NSG National Inter-School Volleyball Championship</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>B Division Boys: 3<sup>rd</sup></em>
 </p>
+</li>
+<li>
 <p><em>B Division Girls: Top 8</em>
 </p>
+</li>
+</ul>
 <p>NSG Volleyball Championship</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><em>C Division Boys: League 1 - 2<sup>nd</sup></em>
 </p>
+</li>
+<li>
 <p><em>C Division Girls: League 1 - 5<sup>th</sup></em>
 </p>
+</li>
+</ul>
 <p>Join Xinmin Volleyball Team and become part of a legacy built on camaraderie,
 discipline, and sportsmanship!</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Teachers-in-charge</strong>
 <br>Ms Low Yan Jin (Boys IC)</p>
+</li>
+<li>
 <p>Mr Ang Koon Yong</p>
+</li>
+<li>
 <p>Mr Elias Loo</p>
+</li>
+<li>
 <p>Ms Joey Tay (Girls IC)</p>
+</li>
+<li>
 <p>Ms Ee Ai Lin</p>
+</li>
+<li>
 <p>Ms Shalyn Thng</p>
+</li>
+<li>
 <p>Mdm Sophia Ang</p>
+</li>
+</ul>
 <p><strong>Instagram</strong>
 <br><a href="https://www.instagram.com/xmsvolleyball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsvolleyball/</a>
 </p>
