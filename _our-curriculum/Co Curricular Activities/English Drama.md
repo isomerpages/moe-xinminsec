@@ -29,53 +29,64 @@ Singapore Youth Festival 2025, and our members are committed to putting
 their best foot forward and making Xinmin proud. Together, we’ll face the
 road ahead with determination and creativity. And with that, we say, “Drama,
 that's a wrap!”</p>
-<p><strong>Activities</strong>
-</p>
+<h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>a) SYF</p>
+<p>SYF</p>
 </li>
 <li>
-<p>b) Drama Night</p>
+<p>Drama Night</p>
 </li>
 <li>
-<p>c) N1 Cluster’s ‘Spin A Tale’</p>
+<p>N1 Cluster’s ‘Spin A Tale’</p>
 </li>
 <li>
-<p>d) CCA Orientation Booth</p>
+<p>CCA Orientation Booth</p>
 </li>
 <li>
-<p>e) Physical and vocal training every session</p>
+<p>Physical and vocal training every session</p>
 </li>
 <li>
-<p>f) Bonding games at the start of each session</p>
+<p>Bonding games at the start of each session</p>
 </li>
 <li>
-<p>g) 3 Line Improvisation Exercises</p>
+<p>3 Line Improvisation Exercises</p>
 </li>
 <li>
-<p>h) Tableau (Freeze-frame) activities</p>
+<p>Tableau (Freeze-frame) activities</p>
 </li>
 </ul>
-<p><strong>CCA Schedule</strong>
-<br>Wednesdays: 3:45pm to 6pm
-<br>Fridays: 2pm to 5:15pm</p>
-<p><strong>Leadership Development:</strong>
-</p>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 3:45pm to 6pm</p>
+</li>
+<li>
+<p>Fridays: 2pm to 5:15pm</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
 <p>Our executive committee plays a crucial role in shaping the direction
 of the club. They enhance their leadership abilities by managing the preparations
 for upcoming productions and ensuring that tasks are fairly distributed
 among all members. Always ready to assist teachers, instructors, and fellow
 students, they also take responsibility for maintaining discipline and
 fostering engagement within the club.</p>
-<p><strong>English Drama Club Student Leaders</strong>
-</p>
-<p><strong>President</strong>: Isaac Lum Jan Ci (301, 2024)
-<br><strong>Vice Presidents (Head of Discipline &amp; Head of Stage Production)</strong>:
-Layla Maryam Binte Abdul Rauf (307, 2024) &amp; Nai Zi Han (302, 2024)
-<br><strong>Head of Admin</strong>: Syifa Nabilah Binti Fadhil (305, 2024)</p>
-<p><strong>Head of Welfare: </strong>Chua Jolie (305, 2024)</p>
+<h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p><strong>President</strong>: Isaac Lum Jan Ci (301, 2024)</p>
+</li>
+<li>
+<p><strong>Vice Presidents (Head of Discipline &amp; Head of Stage Production)</strong>:
+Layla Maryam Binte Abdul Rauf (307, 2024) &amp; Nai Zi Han (302, 2024)</p>
+</li>
+<li>
+<p><strong>Head of Admin</strong>: Syifa Nabilah Binti Fadhil (305, 2024)</p>
+</li>
+<li>
+<p><strong>Head of Welfare: </strong>Chua Jolie (305, 2024)</p>
+</li>
 <li>
 <p><strong>Sec 2 Head: </strong>Teo Dong Quan Travis (302, 2024)</p>
 </li>
@@ -83,20 +94,31 @@ Layla Maryam Binte Abdul Rauf (307, 2024) &amp; Nai Zi Han (302, 2024)
 <p><strong>Sec 1 Head: </strong>Goh Yun En (302, 2024)</p>
 </li>
 </ul>
-<p><strong>English Drama Club Excellence:</strong>
-<br>Members of the English Drama Club enthusiastically represent Xinmin at
+<h4><strong>Excellence:</strong></h4>
+<p>Members of the English Drama Club enthusiastically represent Xinmin at
 various events and competitions, including the biennial Singapore Youth
 Arts Festival and the N1 Cluster’s Spin a Tale!</p>
-<p><strong>Accomplishments</strong>
-<br>SYF Accomplishment Awards<strong><br></strong>Join the English Drama Club,
-where we break out of our comfort zones, unlock our full potential, and
-embark on an unforgettable journey of creativity, self-expression, and
-excitement. Break a leg!</p>
-<p><strong>Teachers-in-charge</strong>
-<br>Mdm Norliza Ali (IC)
-<br>Ms Rebecca Abey
-<br>Mrs May Ng</p>
-<p><strong>Visit us at:</strong>
+<h3><strong>Accomplishments</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Accomplishment Awards<strong><br></strong>
 </p>
-<p><strong>Instagram <a href="https://www.instagram.com/xms_drama/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_drama/</a></strong>
+</li>
+</ul>
+<p>Join the English Drama Club, where we break out of our comfort zones,
+unlock our full potential, and embark on an unforgettable journey of creativity,
+self-expression, and excitement. Break a leg!</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Norliza Ali (IC)</p>
+</li>
+<li>
+<p>Ms Rebecca Abey</p>
+</li>
+<li>
+<p>Mrs May Ng</p>
+</li>
+</ul>
+<p><strong>Visit us: Instagram <a href="https://www.instagram.com/xms_drama/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_drama/</a></strong>
 </p>
