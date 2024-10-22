@@ -10,8 +10,7 @@ variant: tiptap
 </div>
 <p><strong>"Motivation gets you going, but discipline keeps you growing."</strong>
 </p>
-<p><strong>Welcome to Xinmin Volleyball!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Volleyball!</strong></h4>
 <p>In the Xinmin Volleyball Team, we place the highest importance on discipline,
 teamwork, determination, and drive. These values resonate throughout our
 team, influencing everyone from coaches and teachers to each player, shaping
@@ -330,5 +329,6 @@ discipline, and sportsmanship!</p>
 <p>Mdm Sophia Ang</p>
 </li>
 </ul>
-<p><strong>Visit us at: Instagram: </strong><a href="https://www.instagram.com/xmsvolleyball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsvolleyball/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram: </strong><a href="https://www.instagram.com/xmsvolleyball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsvolleyball/</a>
 </p>
