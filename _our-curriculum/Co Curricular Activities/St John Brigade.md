@@ -21,8 +21,7 @@ and excellence in all their endeavours.</p>
 <p>The high standards and unwavering dedication of our student leaders, youth
 officers, and teachers have earned the Xinmin St. John Brigade its 23rd
 consecutive Gold in the Corps Achievement Award since 2001.</p>
-<p><strong>Activities</strong>
-</p>
+<h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Standard First Aid Course</p>
@@ -46,8 +45,7 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <p>National Day Parade Marching Contingent</p>
 </li>
 </ul>
-<p><strong>CCA Schedule</strong>
-</p>
+<h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Whitespace Wednesdays: 4pm to 6pm</p>
@@ -56,8 +54,7 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <p>Fridays: 2.30pm to 6pm</p>
 </li>
 </ul>
-<p><strong>Leadership Development:</strong>
-</p>
+<h4><strong>Leadership Development:</strong></h4>
 <p>After completing both the Basic and Advanced Non-Commissioned Officer
 courses, our cadets are empowered with the skills and knowledge to effectively
 plan and organize corps activities. Under the guidance of our alumni and
@@ -68,7 +65,7 @@ HQ instructor courses, enabling them to take the lead in these areas within
 the corps. Our corps leaders collaborate closely with other uniformed groups,
 such as NCC, BB, and GB, to organize inter-uniformed group activities like
 the Passing Out Parade and inter-UG hikes.</p>
-<p>Student Leaders</p>
+<h4>Student Leaders</h4>
 <p><strong>Corps Leaders</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -110,8 +107,7 @@ Bte Mohammad Shahril (306)</p>
 <p>Publicity Head: Lance Corporal Laurencio Elaine Rose (205)</p>
 </li>
 </ul>
-<p><strong>Excellence:</strong>
-</p>
+<h4><strong>Excellence:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,12 +135,24 @@ work as a team to apply their knowledge and skills in managing emergency
 situations with precision. Beyond developing key competencies, cadets are
 recognized for their commitment to exploring their interests beyond the
 St. John curriculum through the Cadet Proficiency Badge scheme.</p>
-<p><strong>Accomplishments</strong>
-<br>Corps Achievement Award 2023- Gold</p>
+<h4><strong>Accomplishments</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corps Achievement Award 2023- Gold</p>
+</li>
+<li>
 <p>Northeast District First Aid Competition 2024:</p>
+</li>
+<li>
 <p>Ambulance Adult Category- Overall Champion</p>
+</li>
+<li>
 <p>Nursing Adult Category- Overall Champion</p>
+</li>
+<li>
 <p>Ambulance Cadet Category- 2nd Runner-up</p>
+</li>
+</ul>
 <p>Chief Commissioner’s Badge 2024:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -180,10 +188,18 @@ in the Metta Race 2024, thereby enhancing their community engagement and
 applying their skills in a real-world context.</p>
 <p>Join us on our leadership journey and make a meaningful difference in
 our community!</p>
-<p><strong>Teachers-in-charge</strong>
-<br>Ms Nur Amalina Bte Mohamed Zain (IC)
-<br>Ms Koh Cher Yee
-<br>Mdm Asniza Hassan</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Nur Amalina Bte Mohamed Zain (IC)</p>
+</li>
+<li>
+<p>Ms Koh Cher Yee</p>
+</li>
+<li>
+<p>Mdm Asniza Hassan</p>
+</li>
+</ul>
 <p><strong>Instagram</strong>
 <br><a href="https://www.instagram.com/xmsstjohn/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsstjohn/</a>
 </p>
