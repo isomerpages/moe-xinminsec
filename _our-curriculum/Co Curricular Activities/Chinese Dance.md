@@ -5,12 +5,10 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd.jpg">
 </div>
-<p><strong>Welcome to Xinmin Chinese Dance (XMCD)!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Chinese Dance (XMCD)!</strong></h4>
 <p>Since our founding in 1995, we have dedicated ourselves to cultivating
 a vibrant and passionate community of dancers under the guidance of our
 esteemed instructor, Ms. Zou Yi. As we continue our journey toward dance
@@ -26,42 +24,78 @@ Speech Day and the ASEAN Federation of Engineering Organisations Mid-Term
 Welcome Reception. Each performance allows our dancers to showcase not
 only their technical skills but also the passion and emotion that stem
 from hours of dedicated practice.</p>
-<p><strong>Activities</strong>
-<br>a) Dance Camp</p>
+<h4><strong>Activities</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>a) Dance Camp</p>
+</li>
+<li>
 <p>b) Sewing and Makeup Application Workshop</p>
+</li>
+<li>
 <p>c) Dance Workshops</p>
+</li>
+<li>
 <p>d) Learning Journey/Dance Experience - Attending Dance Performances</p>
-<p><strong>CCA Schedule</strong>
-</p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mondays: 3:45pm to 6:30pm</p>
+</li>
+<li>
 <p>Fridays: 1:45pm to 5:00pm</p>
+</li>
+</ul>
 <p>Extra practice sessions on Wednesdays, from 3.30 PM to 5.30 PM, are dedicated
 to preparing for competitions and performances. After each session, students
 should expect to spend an additional 20 minutes to tidy up the dance room,
 cool down, and change out of their practice attire.</p>
-<p><strong>Leadership Development:</strong>
-</p>
+<h4><strong>Leadership Development:</strong></h4>
 <p>The journey of our club is significantly shaped by our Executive Committee
 leaders, who refine their leadership skills by spearheading key programmes.
 These individuals are given opportunities to enhance their abilities by
 orchestrating events and taking on specific roles during each dance practice
 session.</p>
-<p><strong>Student Leaders</strong>
-<br><strong>President:</strong> Ning Hin Suan (302, 2024)
-<br><strong>Vice-President (Admin):</strong> Deanna Kweh (303, 2024)
-<br><strong>Vice-President (Technique):</strong> Christalia Tay (305, 2024)
-<br><strong>Vice-President (Discipline):</strong> Sophia Tan (307, 2024)</p>
+<h4><strong>Student Leaders</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>President:</strong> Ning Hin Suan (302, 2024)</p>
+</li>
+<li>
+<p><strong>Vice-President (Admin):</strong> Deanna Kweh (303, 2024)</p>
+</li>
+<li>
+<p><strong>Vice-President (Technique):</strong> Christalia Tay (305, 2024)</p>
+</li>
+<li>
+<p><strong>Vice-President (Discipline):</strong> Sophia Tan (307, 2024)</p>
+</li>
+<li>
 <p><strong>Level Leaders:</strong> Cai Yun En (303, 2024), Jermaine Soh (305,
 2024), Charis Ong (305, 2024), Leong Wen Xin (304, 2024), Jhudiella (207,
-2024), Kate Lee (201, 2024), Lim Zhining (201, 2024)&nbsp;
-<br><strong>Logistics Head: </strong>Choo Jing Han (304, 2024)</p>
+2024), Kate Lee (201, 2024), Lim Zhining (201, 2024)&nbsp;</p>
+</li>
+<li>
+<p><strong>Logistics Head: </strong>Choo Jing Han (304, 2024)</p>
+</li>
+<li>
 <p><strong>Logistics Vice-Head:</strong> Sun Yi Fei (302, 2024)</p>
+</li>
+<li>
 <p><strong>Logistics Members: </strong>Annabell Seah (304, 2024), Trinity
-Tan (203, 2024), Pek Lin Yi (208, 2024), Xie Yixuan (204, 2024)<strong><br>Publicity Heads: </strong>Megan
-Lim (307, 2024), Germaine Neo (207, 2024)</p>
+Tan (203, 2024), Pek Lin Yi (208, 2024), Xie Yixuan (204, 2024)</p>
+</li>
+<li>
+<p><strong>Publicity Heads: </strong>Megan Lim (307, 2024), Germaine Neo
+(207, 2024)</p>
+</li>
+<li>
 <p><strong>Publicity Assistant: </strong>Celestina Tan (202, 2024)</p>
-<p><strong>Excellence:</strong>
-</p>
+</li>
+</ul>
+<h4><strong>Excellence:</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd2.jpg">
@@ -80,15 +114,22 @@ Working collaboratively, our dancers overcame these obstacles, ultimately
 earning a Certificate of Distinction and a Certificate of Accomplishment
 for their respective performances. In 2023, the troupe performed a piece
 titled 春语 and achieved a Certificate of Distinction.</p>
-<p><strong>Accomplishments</strong>
-<br>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
-2019
-<br>Attained Certificate of Distinction and Certificate of Accomplishment
-in Singapore Youth Festival (SYF) 2021
-<br>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
+<h4><strong>Accomplishments</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
+2019</p>
+</li>
+<li>
+<p>Attained Certificate of Distinction and Certificate of Accomplishment
+in Singapore Youth Festival (SYF) 2021</p>
+</li>
+<li>
+<p>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
 2023</p>
-<p><strong>Community Engagement:</strong>
-</p>
+</li>
+</ul>
+<h4><strong>Community Engagement:</strong></h4>
 <p>Beyond our school, XMCD is committed to connecting with the broader community.
 Participation in events like the Singapore Youth Festival (SYF) expands
 our members' horizons, enabling them to connect with fellow dancers and
@@ -101,11 +142,17 @@ community.
 <br>Join us on an exciting journey with Xinmin Chinese Dance, where we practice
 with the humility of never having won and perform with the confidence of
 never having lost!</p>
-<p><strong>Teachers-in-charge</strong>
-<br>Ms Emily Lim Xin Yi (IC)
-<br>Ms Izyan Ayuni Bte Azmi
-<br>Ms Wan Shi Ting</p>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.chinesedance/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Emily Lim Xin Yi (IC)</p>
+</li>
+<li>
+<p>Ms Izyan Ayuni Bte Azmi</p>
+</li>
+<li>
+<p>Ms Wan Shi Ting</p>
+</li>
+</ul>
+<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xms.chinesedance/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
 </p>
