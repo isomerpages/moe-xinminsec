@@ -22,63 +22,107 @@ for everyone to enjoy and experience. Through challenging local and overseas
 activities, members collaborate to exercise both leadership and followership
 while embracing inclusiveness. Experiencing the outdoors firsthand in unfamiliar
 settings not only fosters adaptability but also deepens respect for nature.
-Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."
-<br><strong>Activities</strong>
-</p>
-<p></p>
+Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
+<h4><strong>Activities</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/odac2.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p>MacRitchie to Bukit Timah Hike (Sec 1)</p>
+</li>
+<li>
 <p>Kayaking Training Camp (Sec 1)</p>
+</li>
+<li>
 <p>Trans-Island Expedition (Sec 1)</p>
+</li>
+<li>
 <p>National Orienteering Race (Sec 2 &amp; 3)</p>
+</li>
+<li>
 <p>Gunung Belumut Expedition (West Malaysia) (Sec 2)</p>
+</li>
+<li>
 <p>Northern Islands Kayaking Expedition (Sec 2)</p>
+</li>
+<li>
 <p>Australia Expedition (Sec 3)</p>
-<p><strong>CCA Schedule</strong>
-<br>Wednesdays: 3.45pm to 6.45pm
-<br>Fridays: 2.30pm to 5:30pm</p>
-<p><strong>Leadership Development:</strong>
-</p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 3.45pm to 6.45pm</p>
+</li>
+<li>
+<p>Fridays: 2.30pm to 5:30pm</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
 <p>To further develop their leadership skills, our Secondary Three members
 are entrusted with significant responsibilities. They lead weekly training
 sessions, guiding their peers through various skills and activities, and
 take charge of planning and executing expeditions. This builds their confidence
 while cultivating essential skills in organization, decision-making, and
 teamwork.</p>
-<p><strong>Student Leaders</strong>
-</p>
-<p>Presidents</p>
-<p>Lee Li Xuan (301)</p>
-<p>Lee Yong Le (301)</p>
-<p>Vice-Presidents</p>
-<p>Anas Bin Mohamad Rizal (308)</p>
-<p>Pang Min Qi, Iris (301)</p>
-<p>Quartermaster</p>
-<p>Tay Jing Ying, Andria (303)</p>
-<p>Executive Committee Members</p>
-<p>Sim Khim Yew (Shen Jingyu) (301)</p>
-<p>Goh Zhi Yi (304)</p>
-<p><strong>Accomplishments</strong>
-</p>
+<h4><strong>Student Leaders</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Presidents: Lee Li Xuan (301), Lee Yong Le (301)</p>
+</li>
+<li>
+<p>Vice-Presidents: Anas Bin Mohamad Rizal (308), Pang Min Qi, Iris (301)</p>
+</li>
+<li>
+<p>Quartermaster: Tay Jing Ying, Andria (303)</p>
+</li>
+<li>
+<p>Executive Committee Members: Sim Khim Yew (Shen Jingyu) (301),Goh Zhi
+Yi (304)</p>
+</li>
+</ul>
+<h4><strong>Accomplishments</strong></h4>
 <p>National Orienteering Race (Schools) in 2024</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B-Division Girls: 1st</p>
+</li>
+<li>
 <p>B-Division Boys: 1st, 2nd and 3rd</p>
+</li>
+<li>
 <p>C-Division Girls: 2nd</p>
+</li>
+</ul>
 <p>Join ODAC— explore the outdoors, develop leadership, and embrace adventure.</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Michael Vincent Rodrigues (IC)</p>
+</li>
+<li>
 <p>Ms Belinda Lim Ee Gek</p>
+</li>
+<li>
 <p>Ms Vanessa Chia Su Qing</p>
+</li>
+<li>
 <p>Mr Tan Zhen Wei</p>
+</li>
+<li>
 <p>Ms Koh Shi Li</p>
+</li>
+</ul>
 <p><em>Affiliate</em>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Hardev Singh</p>
+</li>
+<li>
 <p>Mr Jeremy Tan Kian Seng</p>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram </strong><a href="https://www.instagram.com/xmsodac/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsodac/</a>
+</li>
+</ul>
+<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xmsodac/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsodac/</a>
 </p>
