@@ -157,7 +157,5 @@ lasting memories together!</p>
 <p>Ms Nur Ellyana Binti Roslan</p>
 </li>
 </ul>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band</a></strong>
+<p><strong>Visit us at: Instagram <a href="https://www.instagram.com/xms_band/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_band</a></strong>
 </p>
