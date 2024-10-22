@@ -25,13 +25,22 @@ in every game and practice session.</p>
 atmosphere where every member is encouraged to give their best. The Floorball
 CCA exemplifies the power of teamwork and perseverance, and the future
 looks exceptionally bright for this talented group of athletes.</p>
-<p><strong>CCA Schedule</strong>
-<br>Tuesdays: 330 pm - 6 pm ('C' Division)</p>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesdays: 330 pm - 6 pm ('C' Division)</p>
+</li>
+<li>
 <p>Fridays: 2 pm – 5 pm ('C' Division)</p>
+</li>
+<li>
 <p>Wednesdays: 330 pm - 6 pm ('B' Division)</p>
+</li>
+<li>
 <p>Fridays: 3 pm - 6 pm ('B' Divisions)</p>
-<p><strong>Leadership Development:</strong>
-</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
 <p>Our Executive-committee leaders play a crucial role in shaping the floorball
 experience. They develop their leadership skills by taking charge of key
 initiatives, such as organising the 3 vs 3 Primary School Tournament, and
@@ -39,31 +48,53 @@ by setting a positive example during training sessions. These leaders also
 spearhead programs like the Open House and Secondary 1 CCA Orientation,
 ensuring a warm and engaging welcome for new students with exciting floorball
 activities and bonding exercises.</p>
-<p><strong>Floorball Student Leaders</strong>
-</p>
+<h4><strong>Student Leaders</strong></h4>
 <p><strong><u>B division</u></strong>
-<br><strong><em>Captain - </em></strong><em>Lim Kai Jie Brandon (303, 2024)</em>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>Captain - </em></strong><em>Lim Kai Jie Brandon (303, 2024)</em>
+</p>
+</li>
+<li>
 <p><strong><em>Vice-Captain - </em></strong><em>Tan Shu De (302, 2024)</em>
 </p>
+</li>
+<li>
 <p><strong><em>Team Manager - </em></strong><em>Ng Zhong Yi (302, 2024)</em>
 </p>
+</li>
+<li>
 <p><strong><em>Team Manager - </em></strong><em>Arthur Mok Jia Jie (308, 2024)</em>
 </p>
+</li>
+</ul>
 <p><strong><u>C division</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong><em>Captain – </em></strong><em>Yong Chang Foong (205, 2024)</em>
 </p>
+</li>
+<li>
 <p><strong><em>Vice-Captain – </em></strong><em>Lim Wen Hao, Julian (201, 2024)</em>
 </p>
+</li>
+<li>
 <p><strong><em>Vice-Captain – </em></strong><em>Joel Yapp Hai Tong (205, 2024)</em>
 </p>
+</li>
+<li>
 <p><strong><em>Team Manager – </em></strong><em>Muhammad Rais Bin Noor Iskandar Shah (203, 2024)</em>
 </p>
+</li>
+<li>
 <p><strong><em>Physical Training IC – </em></strong><em>Chin Bin Wei (202, 2024)</em>
 </p>
-<p><strong>Floorball Excellence:</strong>
-<br>Xinmin’s Floorball members proudly represent the school in various competitions,
+</li>
+</ul>
+<h4><strong>Excellence:</strong></h4>
+<p>Xinmin’s Floorball members proudly represent the school in various competitions,
 including the National School Games, honing their skills and demonstrating
 their floorball prowess. We actively participate in events such as friendly
 matches, 3-on-3 competitions, and Pesta Sukan, seizing every opportunity
@@ -71,21 +102,32 @@ to showcase our talents. Most recently, we successfully hosted our annual
 3 vs 3 Primary School Tournament during the June holidays, providing a
 thrilling experience for aspiring young floorball players who are considering
 floorball as their future CCA.</p>
-<p><strong>Accomplishments</strong>
-</p>
+<h4><strong>Accomplishments</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Top 8 in 'C' Division National School Games 2024</p>
+</li>
+<li>
 <p>First runner ups in Pesta Sukan U14 Boys 2024</p>
+</li>
+<li>
 <p>Second runner ups in Pesta Sukan U17 Boys 2024</p>
+</li>
+</ul>
 <p>Join us on our floorball journey at Xinmin, where creativity, teamwork,
 and excellence meet. Together, we explore, challenge ourselves, and continually
 strive for greatness!</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mrs Shanti Teo (IC)</p>
+</li>
+<li>
 <p>Ms Charlene Chan</p>
+</li>
+<li>
 <p>Ms Nur Fatimah Khalid</p>
-<p></p>
-<p><strong>Visit us at:</strong>
-</p>
-<p><strong>Instagram <a href="https://www.instagram.com/xms_floorball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_floorball/</a></strong>
+</li>
+</ul>
+<p><strong>Visit us: Instagram <a href="https://www.instagram.com/xms_floorball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_floorball/</a></strong>
 </p>
