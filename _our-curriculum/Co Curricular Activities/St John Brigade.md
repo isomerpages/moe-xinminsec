@@ -71,21 +71,45 @@ the Passing Out Parade and inter-UG hikes.</p>
 <p>Student Leaders</p>
 <p><strong>Corps Leaders</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Corps Sergeant Major: Sergeant Jaeden Chin (301)</p>
+</li>
+<li>
 <p>Head of Trainings: Corporal Jaden Tay Yu Yang (302)</p>
+</li>
+<li>
 <p>Head of Departments: Sergeant Soh Si Ning, Shannon (301)</p>
+</li>
+</ul>
 <p><strong>Combat:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Platoon 1 Commander: Corporal Elodie Sim (301)</p>
+</li>
+<li>
 <p>Platoon 2 Commander: Lance Corporal Chew Yi En (201) &amp; Lance Corporal
 Er Yi Fei Kira (207)</p>
+</li>
+<li>
 <p>Platoon 3 Commander: Corporal Toh Cher Yee (304)</p>
+</li>
+</ul>
 <p><strong>Departments:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Logistics Head: Corporal Lerh Yu En, Dylan (302)</p>
+</li>
+<li>
 <p>Cadet Development Head: Corporal Caleb Tay (306) &amp; Corporal Siti Darwisyah
 Bte Mohammad Shahril (306)</p>
+</li>
+<li>
 <p>Publicity Head: Lance Corporal Laurencio Elaine Rose (205)</p>
+</li>
+</ul>
 <p><strong>Excellence:</strong>
 </p>
 <table style="minWidth: 50px">
