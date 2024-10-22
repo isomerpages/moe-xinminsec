@@ -28,9 +28,7 @@ various school events, including Speech Day and National Day celebrations,
 as well as external performances such as Schools In Concert and the Junior
 Band Festival, where they showcased their remarkable talents and captivated
 audiences.</p>
-<p><strong>CCA Schedule</strong>
-</p>
-<p><strong><u>Main Band</u> (Sec 2-5s)</strong>
+<p><strong>CCA Schedule (Main Band (Sec 2-5s))</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -40,7 +38,7 @@ audiences.</p>
 <p>Wednesday 3.30pm – 6.30pm</p>
 </li>
 </ul>
-<p><strong><u>Junior Band</u> (Sec 1s)</strong>
+<p><strong>CCA Schedule (Junior Band (Sec 1s))</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
