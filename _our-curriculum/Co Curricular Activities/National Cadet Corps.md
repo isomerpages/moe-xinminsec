@@ -18,30 +18,62 @@ attend HQ camps, where they develop essential survival skills and take
 part in exciting activities like paintball, abseiling, and ziplining. Additionally,
 cadets have the opportunity to engage in SAR 21 live range shooting and
 represent their unit in sports championships and laser run competitions.</p>
-<p><strong>Activities</strong>
-</p>
+<h4><strong>Activities</strong></h4>
 <p><strong>Secondary One</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Camp Forge (Day Camp)</p>
-<p>Affirmation Ceremony
-<br>Proficiency Tests</p>
+</li>
+<li>
+<p>Affirmation Ceremony</p>
+</li>
+<li>
+<p>Proficiency Tests</p>
+</li>
+<li>
 <p>Total Defence (Bronze)</p>
+</li>
+</ul>
 <p><strong>Secondary Two</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Proficiency Tests</p>
+</li>
+<li>
 <p>Camp Steel (Day Camp)</p>
+</li>
+<li>
 <p>Air Rifle Shoot</p>
+</li>
+<li>
 <p>Total Defence (Silver)</p>
+</li>
+</ul>
 <p><strong>Secondary Three</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Specialist Assessment</p>
+</li>
+<li>
 <p>SAR 21 Live Range</p>
+</li>
+<li>
 <p>Total Defence (Gold)</p>
-<p><strong>CCA Schedule</strong>
-<br>Wednesday: 1600h - 1800h</p>
+</li>
+</ul>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesday: 1600h - 1800h</p>
+</li>
+<li>
 <p>Friday: 1400h - 1800h</p>
-<p><strong>Leadership Development:</strong>
-</p>
+</li>
+</ul>
+<h4><strong>Leadership Development:</strong></h4>
 <p>All Secondary Three cadet leaders undergo regular leadership training
 every two weeks, equipping them to effectively organise, plan, and conduct
 the unit’s weekly training sessions. These sessions encompass a variety
@@ -49,16 +81,28 @@ of activities, including foot drills, Individual Field Craft (IFC), and
 Physical Training. Selected leaders also attend specialized instructor
 courses in Freestyle Drill (FSD) and Precision Drill Squad (PDS), further
 enhancing their skills to guide and mentor their juniors effectively.</p>
-<p><strong>Student Leaders</strong>
-</p>
-<p><strong>&nbsp;</strong>1SG Danial Bin Abdul Halim</p>
+<h4><strong>Student Leaders</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>1SG Danial Bin Abdul Halim</p>
+</li>
+<li>
 <p>1SG Harry Chong You Bo</p>
+</li>
+<li>
 <p>1SG Cedric Chong Chee Shun</p>
+</li>
+<li>
 <p>1SG Coby Ang Min Heng</p>
+</li>
+<li>
 <p>1SG Soon Hong Wei Jayden</p>
+</li>
+<li>
 <p>3SG Muhammad Randy Syibli Bin Mohammad Hisham</p>
-<p><strong>Accomplishments</strong>
-</p>
+</li>
+</ul>
+<h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>2023 Unit Recognition Award – Distinction</p>
@@ -69,10 +113,14 @@ enhancing their skills to guide and mentor their juniors effectively.</p>
 </ul>
 <p>Join the Xinmin NCC to build resilience, discipline, and leadership while
 embarking on thrilling adventures and lifelong friendships!</p>
-<p><strong>Teachers-in-charge</strong>
-<br>Mr Ganesan Selvarathnam (IC)</p>
+<h4><strong>Teachers-in-charge</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Ganesan Selvarathnam (IC)</p>
+</li>
+<li>
 <p>Mr Lin Shunyi</p>
-<p><strong>Visit us on</strong>  <strong>Instagram</strong>
-</p>
-<p><a href="https://www.instagram.com/xinmin.ncc/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
+</li>
+</ul>
+<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xinmin.ncc/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
 </p>
