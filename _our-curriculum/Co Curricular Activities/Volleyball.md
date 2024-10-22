@@ -335,6 +335,5 @@ discipline, and sportsmanship!</p>
 <p>Mdm Sophia Ang</p>
 </li>
 </ul>
-<p><strong>Instagram</strong>
-<br><a href="https://www.instagram.com/xmsvolleyball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsvolleyball/</a>
+<p><strong>Instagram: </strong><a href="https://www.instagram.com/xmsvolleyball/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsvolleyball/</a>
 </p>
