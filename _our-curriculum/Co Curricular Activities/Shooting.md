@@ -176,6 +176,6 @@ Yu Wen, Sarah (305, 2024)</p>
 </p>
 </li>
 </ul>
-<p><strong>Instagram: </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting/</a>
+<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting/</a>
 <br>
 </p>
