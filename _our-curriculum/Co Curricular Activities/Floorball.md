@@ -8,9 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Floorball/floorball_4.jpg">
 </div>
-<h4><strong>Welcome to Xinmin Floorball team!</strong></h4>
 <p><strong>Brothers, first always, Xinmin!</strong>
 </p>
+<h4><strong>Welcome to Xinmin Floorball team!</strong></h4>
 <p>Established in 2022, the Floorball CCA at Xinmin Secondary has quickly
 grown into a dynamic and tightly knit team. From its humble beginnings
 as a small group of passionate players, the team has rapidly evolved into
