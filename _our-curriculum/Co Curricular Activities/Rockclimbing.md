@@ -10,8 +10,7 @@ variant: tiptap
 </div>
 <p><strong>“The ascent is as important as the view”</strong>
 </p>
-<p><strong>Welcome to Xinmin Rock-Climbing (XRC)!</strong>
-</p>
+<h4><strong>Welcome to Xinmin Rock-Climbing (XRC)!</strong></h4>
 <p>Xinmin Rockclimbing takes pride in being one of the few rock-climbing
 CCAs among secondary schools in Singapore. Over four years, our climbers
 have the opportunity to learn and excel in all three climbing disciplines—bouldering,
@@ -158,5 +157,6 @@ resilience, and a mindset of excellence for both sports and life!</p>
 <p>Ms Teoh Yu Han</p>
 </li>
 </ul>
-<p><strong>Visit us: Instagram </strong><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
+<h4><strong>Visit us</strong></h4>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
 </p>
