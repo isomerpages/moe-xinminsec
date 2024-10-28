@@ -36,9 +36,8 @@ variant: tiptap
 <h3>B) Uniform Supplier Information</h3>
 <p>Jeep Sing Fashion
 <br>Blk 4012 Ang Mo Kio Ave 10
-<br>#01-08/09 Techplace 1
+<br>#01-09 Techplace 1
 <br>Singapore 569628
-<br>Tel: 31636074
 <br>Fax: 63862407
 <br>Support Centre: <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a>
 </p>
@@ -59,6 +58,8 @@ variant: tiptap
 <p><strong>Important:-</strong>
 </p>
 <p><strong>Please do not purchase any textbooks or uniform if you are applying for 2025 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
+</p>
+<p><strong>EOY Xinmin Sec Uniform Sales Schedule</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/uniform_sales_1.png">
