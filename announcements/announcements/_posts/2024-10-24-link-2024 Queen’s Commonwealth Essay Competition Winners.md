@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://sites.google.com/xinminss.edu.sg/xmss-2024-qcec-winners
+external: https://sites.google.com/xinminss.edu.sg/xmss-2024-qcec-winners
 ---
