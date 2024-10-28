@@ -48,8 +48,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>To Book a slot: <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>&nbsp;(For
-2025 Sec 1 only)</p>
+<p>To Book a slot: <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>&nbsp;<strong>(For 2025 Sec 1 only)</strong>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
