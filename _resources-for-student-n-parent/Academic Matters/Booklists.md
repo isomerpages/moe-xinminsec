@@ -5,17 +5,17 @@ description: ""
 third_nav_title: Academic Matters
 variant: tiptap
 ---
-<p><strong><u>Sec 1</u></strong> 
-<br>
-</p>
+<h4><strong>Sec 1</strong> <br></h4>
 <p></p>
-<p><strong><u>Sec 2</u></strong> 
-<br><a href="/files/Booklist/2024/2024%20sec%202%20express.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Express</a>
-<br><a href="/files/Booklist/2024/2024%20sec%202%20normal%20academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Normal Academic</a>
-<br><a href="/files/Booklist/2024/2024%20sec%202%20normal%20technical.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Normal Technical</a>
+<h4><strong>Sec 2</strong> </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Booklist/2025/2025_Sec_2_Booklist.pdf" rel="noopener nofollow" target="_blank">2025_Sec_2_Booklist</a>
 </p>
+</li>
+</ul>
 <p></p>
-<h4><strong>Sec 3</strong> </h4>
+<h4><strong>Sec 3</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Booklist/2025/Sec_3_Express.pdf" rel="noopener nofollow" target="_blank">Sec_3_Express</a>
@@ -48,5 +48,4 @@ variant: tiptap
 </ul>
 <p><strong><u>Sec 5</u></strong>
 <br><a href="/files/Booklist/2025/Sec_5_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec 5 Normal Academic</a>
-<br>
 </p>
