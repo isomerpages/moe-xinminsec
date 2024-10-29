@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>Sec 1</strong> <br></h4>
 <p></p>
-<h4><strong>Sec 2</strong> </h4>
+<h4><strong>Sec 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Booklist/2025/2025_Sec_2_Booklist.pdf" rel="noopener nofollow" target="_blank">2025_Sec_2_Booklist</a>
@@ -46,6 +46,11 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong><u>Sec 5</u></strong>
-<br><a href="/files/Booklist/2025/Sec_5_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec 5 Normal Academic</a>
+<h4><strong>Sec 5</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Booklist/2025/Sec_5_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec 5 Normal Academic</a>
 </p>
+</li>
+</ul>
+<p></p>
