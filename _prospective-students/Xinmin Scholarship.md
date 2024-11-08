@@ -4,6 +4,7 @@ permalink: /xinmin-scholarship/
 variant: tiptap
 description: ""
 ---
+<h4><strong>The Xinmin Scholarship</strong></h4>
 <p>With Xinmin Secondary's 80th Anniversary in 2025, our <strong>School Advisory Committee (SAC)</strong> is
 introducing the Xinmin Scholarship as part of our school's talent development
 plan. This scholarship recognises incoming Secondary 1 students with outstanding
@@ -34,9 +35,13 @@ indicate <strong>Xinmin Secondary School as first choice</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p>Each recipient will receive:</p>
-<p>o&nbsp;&nbsp; <strong>$500 per academic year</strong>, subject to renewal
-criteria of (1) conduct (Very Good) and (2) meeting the common academic
-requirement for progression to the next level</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>$500 per academic year</strong>, subject to renewal criteria of
+(1) conduct (Very Good) and (2) meeting the common academic requirement
+for progression to the next level</p>
+</li>
+</ul>
 <p>o&nbsp;&nbsp; <strong>Dedicated mentoring</strong>, incorporating Xinmin’s
 Talent Development Approach</p>
 </li>
