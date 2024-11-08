@@ -23,7 +23,10 @@ range of thoughtfully-developed signature programmes. Our signature programmes
 are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Coding@Xinmin, focusing on computational thinking and design thinking;</p>
+<p>MAKERS@Xinmin – <strong><u>M</u></strong>aking with <strong><u>A</u></strong>gility
+and<strong> <u>K</u></strong>nowledge for <strong><u>E</u></strong>mpowered,
+future-<strong><u>R</u></strong>eady <strong><u>S</u></strong>tudents, focusing
+on digital and analogue making, and applications of Artificial Intelligence;</p>
 </li>
 <li>
 <p>RefleXions@Xinmin, developing empathy and collaboration skills;</p>
