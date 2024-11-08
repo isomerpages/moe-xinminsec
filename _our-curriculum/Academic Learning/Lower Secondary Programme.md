@@ -195,7 +195,7 @@ to hone their 21st century skills and competencies further.</p>
 </li>
 <li>
 <p>Acquire 21st Century skills in AI, digital literacy, problem-solving,
-and creative thinking.</p>
+and creative thinking through eco sustainability challenges.</p>
 </li>
 </ol>
 <p>• <strong>RefleXions@Xinmin</strong>
