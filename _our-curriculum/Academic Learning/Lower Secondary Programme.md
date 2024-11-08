@@ -174,8 +174,8 @@ enabling them to better manage their lives for the present and future.</p>
 Xinmin students are further exposed to two essential experiential modules
 to hone their 21st century skills and competencies further.</p>
 <p>•<strong>MAKERS@Xinmin</strong>
-<br><strong>"The future belongs to those who can innovate, create, and collaborate." ~Tom Friedman</strong>
-</p>
+<br>"The future belongs to those who can innovate, create, and collaborate."
+~Tom Friedman</p>
 <p>Through MAKERS@Xinmin, students:</p>
 <ol data-tight="true" class="tight">
 <li>
