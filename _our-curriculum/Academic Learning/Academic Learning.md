@@ -32,10 +32,9 @@ Consequently, the Upper Secondary Programme provides an array of subject
 combinations that enable Xinmin students to develop strong pre-requisites
 for post-secondary education and future work demands.</p>
 <p>Please click on the following links for more information on:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/our-curriculum/academic-learning/lower-sec-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Lower Secondary Programme (For Secondary 1 in the Academic Year 2024)</a>
+<p><a href="/our-curriculum/academic-learning/lower-sec-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Lower Secondary Programme</a>
 </p>
 </li>
 <li>
