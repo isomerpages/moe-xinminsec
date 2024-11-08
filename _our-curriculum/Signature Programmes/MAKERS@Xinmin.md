@@ -9,10 +9,7 @@ variant: tiptap
 and <strong><u>K</u></strong>nowledge for <strong><u>E</u></strong>mpowered,
 future-<strong><u>R</u></strong>eady <strong><u>S</u></strong>tudents -
 is a specially-designed two-year curriculum. All lower secondary students
-enjoy hands-on</p>
-<p>learning in digital and analogue making, and learn about the ethics and
-applications of Artificial</p>
-<p>Intelligence (AI). Through various projects, students engage in designing
-and prototyping</p>
-<p>solutions to real-world problems, focusing on collaboration and adaptive
-thinking.</p>
+enjoy hands-on learning in digital and analogue making, and learn about
+the ethics and applications of Artificial Intelligence (AI). Through various
+projects, students engage in designing and prototyping solutions to real-world
+problems, focusing on collaboration and adaptive thinking.</p>
