@@ -307,9 +307,7 @@ MTL Mathematics and Science.
 </table>
 <p>To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil
 and Non-Tamil Indian Languages (NTIL), students should preferably obtain
-either:
-<br>
-</p>
+either:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>An overall PSLE Score of 8 or better.
