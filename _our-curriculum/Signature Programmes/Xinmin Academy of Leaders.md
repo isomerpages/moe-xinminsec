@@ -67,7 +67,7 @@ initiated during the module.</p>
 <p><strong>Xinmin Academy of Leaders Level 4 Module:</strong> 
 <br><strong>Creating Lasting Change</strong>: Students are encouraged to leave
 a lasting legacy as leaders in this module that facilitates student proposals
-geared towards bettering the school experience for the student body. Peers
+geared towards bettering the school experience for the student body. Peer
 Support Champions, CCA leaders, Class Committee Members and Student Councilors
 come together to brainstorm and understand the core processes towards building
 a legacy.</p>
