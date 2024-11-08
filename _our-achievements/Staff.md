@@ -9,9 +9,7 @@ variant: tiptap
 </p>
 <p><strong><u>National Day Awards</u></strong>
 <br>The Singapore National Day Awards are a means of recognizing various forms
-of merit and service to Singapore.
-<br>
-</p>
+of merit and service to Singapore.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Commendation Medal: This Medal is awarded to individuals who has distinguished
