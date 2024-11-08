@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://xinminsec-moe-edu-sg-admin.cwp.sg/xinmin-scholarship/
+external: https://https://www.xinminsec.moe.edu.sg/xinmin-scholarship/
 ---
