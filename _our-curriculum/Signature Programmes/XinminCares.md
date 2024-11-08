@@ -10,23 +10,24 @@ variant: tiptap
 <br>The XinminCares Programme is our signature Values-In-Action (VIA) programme
 in the Character and Citizenship Education curriculum. This programme actively
 includes all Secondary 1 and 2 students.</p>
-<p><strong>Why we do it?</strong>
+<p><strong>Why do we do it?</strong>
 <br>Through XinminCares, we hope to develop every Xinmin student into a compassionate
 contributor who respects diverse perspectives and needs of different individuals
 and recognises his/her ability to address issues in our community.</p>
-<p><strong>How we do it?</strong>
+<p><strong>How do we do it?</strong>
 <br>We prioritise teaching our students the value of sincerity in their time
 and efforts. We start by guiding them to think about the needs of the organisations
 and individuals they are interacting with. This understanding helps them
 connect on a deeper level, enabling them to act and contribute in a genuinely
 meaningful way.</p>
-<p><strong>Our Students’ XinminCares Projects</strong> XinminCares provides
-opportunities for students to play a part to make their greater community
-a more inclusive and caring place for everyone. During the XinminCares
-Fair, students will first understand the needs of the beneficiaries before
-they decide as a class the community they wish to support. Some beneficiaries
-include Singapore Cancer Society, Thye Hwa Kuan Nursing Home and Migrant
-Worker’s Centre (MWC).</p>
+<p><strong>Our Students’ XinminCares Projects</strong>
+</p>
+<p>XinminCares provides opportunities for students to play a part to make
+their greater community a more inclusive and caring place for everyone.
+During the XinminCares Fair, students will first understand the needs of
+the beneficiaries before they decide as a class the community they wish
+to support. Some beneficiaries include Singapore Cancer Society, Thye Hwa
+Kuan Nursing Home and Migrant Worker’s Centre (MWC).</p>
 <p><strong>We want to make a difference!</strong>
 <br>Through XinminCares, our students are encouraged to be active and reflective
 contributors who take responsibility for their community. Through taking
