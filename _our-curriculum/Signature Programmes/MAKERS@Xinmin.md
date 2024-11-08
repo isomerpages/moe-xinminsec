@@ -5,4 +5,14 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:90%;" height="auto" width="100%" alt="Coding@Xinmin" src="/images/Coding1.jpeg"></div><p>“Technology has forever changed the world we live in…”</p><p>Computational thinking has been identified to be as fundamental as literacy and numeracy in a future where technology pervades all aspects of life. Technology will also be key to the development of every single industry in the future. To give our students a head start in such a digital age, it is imperative that we educate them to be conversant in harnessing the affordances of technology.</p><p>Undergirded by computational thinking, our Coding@Xinmin programme exposes students to basic coding and encourages them to engage in active learning (i.e., learn by doing). They acquire and practise coding skills through creating animations and games, and learn to make things work by tinkering.</p><p>Above all, we want our students to learn that technology should be used to improve the lives of others. Beyond creating gadgets and games for personal use, our programme requires our students to develop solutions to authentic problems and create positive impact to society.</p><p>Students who wish to further develop their interest in coding may offer Computing as an O-Level subject at Secondary Three.</p>
+<p>MAKERS@Xinmin - <strong><u>M</u></strong>aking with <strong><u>A</u></strong>gility
+and <strong><u>K</u></strong>nowledge for <strong><u>E</u></strong>mpowered,
+future-<strong><u>R</u></strong>eady <strong><u>S</u></strong>tudents -
+is a specially-designed two-year curriculum. All lower secondary students
+enjoy hands-on</p>
+<p>learning in digital and analogue making, and learn about the ethics and
+applications of Artificial</p>
+<p>Intelligence (AI). Through various projects, students engage in designing
+and prototyping</p>
+<p>solutions to real-world problems, focusing on collaboration and adaptive
+thinking.</p>
