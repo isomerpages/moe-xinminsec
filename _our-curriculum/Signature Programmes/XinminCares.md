@@ -23,7 +23,7 @@ and efforts. We start by guiding them to think about the needs of the organisati
 and individuals they are interacting with. This understanding helps them
 connect on a deeper level, enabling them to act and contribute in a genuinely
 meaningful way.</p>
-<p><strong>Our Students’ XinminCares Projects </strong>
+<p><strong>Our Students’ XinminCares Projects</strong>
 </p>
 <p>XinminCares provides opportunities for students to play a part to make
 their greater community a more inclusive and caring place for everyone.
