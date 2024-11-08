@@ -95,8 +95,8 @@ a legacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin%20Academy%20of%20Leaders/x_a_l_4c.jpg">
 </div>
-<p>Xinmin Student Council are the caring responsible and adaptable leaders
-determined to serve the school and the community. The Council consists
+<p>The Xinmin Student Council consists of the caring responsible and adaptable
+leaders determined to serve the school and the community. The Council consists
 of 4 sub-committees that best suit the passion of our leaders in Events
 and Initiatives, Welfare and Feedback, Mentoring and Public Relations.
 With a core motto to lead, listen and learn, the Xinmin Student Council
