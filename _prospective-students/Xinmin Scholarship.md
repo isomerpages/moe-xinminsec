@@ -4,7 +4,7 @@ permalink: /xinmin-scholarship/
 variant: tiptap
 description: ""
 ---
-<h4><strong>The Xinmin Scholarship</strong></h4>
+<h4><strong>Xinmin Scholarship</strong></h4>
 <p>With Xinmin Secondary's 80th Anniversary in 2025, our <strong>School Advisory Committee (SAC)</strong> is
 introducing the Xinmin Scholarship as part of our school's talent development
 plan. This scholarship recognises incoming Secondary 1 students with outstanding
