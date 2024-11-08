@@ -175,9 +175,8 @@ enabling them to better manage their lives for the present and future.</p>
 Xinmin students are further exposed to two essential experiential modules
 to hone their 21st century skills and competencies further.</p>
 <p>•<strong>MAKERS@Xinmin</strong>
-<br>‘If you want to uncover the secrets of the universe, or you want to pursue
-a career in the 21st century, basic computer programming is an essential
-skill to learn.’ ~ Stephen Hawkings</p>
+<br><strong>"The future belongs to those who can innovate, create, and collaborate." ~Tom Friedman</strong>
+</p>
 <p>Through Coding@Xinmin, students:
 <br>
 </p>
