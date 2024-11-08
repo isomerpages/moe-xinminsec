@@ -276,6 +276,107 @@ in the education service.</p>
 <p><strong><u>MOE Service Excellence Awards</u></strong>
 <br>The MOE Service Excellence Award (MSEA) is an MOE-wide award that recognizes
 staff who demonstrate desired qualities for service excellence.</p>
+<p><strong>2024</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Awardee</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Qabeer Bin Sulaiman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Joo Chen, Terry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Tong Hock</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Faritha Begum D/O Abdul Salam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liew Li Lian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Mei Yin Tiffany</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Aliff Bin Selamat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Lee Hua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Salina Bte Osman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Song Mei'En Lyn</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2023</strong>
 </p>
 <table style="minWidth: 50px">
