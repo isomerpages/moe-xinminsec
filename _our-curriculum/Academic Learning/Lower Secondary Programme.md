@@ -199,8 +199,8 @@ and creative thinking.</p>
 </li>
 </ol>
 <p>• <strong>RefleXions@Xinmin</strong>
-<br>Drama education teaches students how to communicate, how to listen, and
-how to be empathetic.’ ~ Andrew Lloyd Webber</p>
+<br>"Drama education teaches students how to communicate, how to listen, and
+how to be empathetic." ~ Andrew Lloyd Webber</p>
 <p>Through RefleXions@Xinmin, students:
 <br>
 </p>
