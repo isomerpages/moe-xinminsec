@@ -41,9 +41,11 @@ indicate <strong>Xinmin Secondary School as first choice</strong>
 (1) conduct (Very Good) and (2) meeting the common academic requirement
 for progression to the next level</p>
 </li>
+<li>
+<p><strong>Dedicated mentoring</strong>, incorporating Xinmin’s Talent Development
+Approach</p>
+</li>
 </ul>
-<p>o&nbsp;&nbsp; <strong>Dedicated mentoring</strong>, incorporating Xinmin’s
-Talent Development Approach</p>
 </li>
 <li>
 <p>Maximum of 5 recipients per cohort</p>
