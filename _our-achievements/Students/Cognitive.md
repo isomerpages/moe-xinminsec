@@ -232,9 +232,25 @@ Explore Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="13" colspan="1">
 <p>2023</p>
 </td>
+<td rowspan="1" colspan="2">
+<p>93.4% of O-Level students were eligible for progression to A-Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
+Programme</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>North Zone Schools Chinese Speech Competition</p>
 </td>
