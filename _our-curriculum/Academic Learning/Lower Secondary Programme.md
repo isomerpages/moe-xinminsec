@@ -201,9 +201,7 @@ and creative thinking through eco sustainability challenges.</p>
 <p>• <strong>RefleXions@Xinmin</strong>
 <br>"Drama education teaches students how to communicate, how to listen, and
 how to be empathetic." ~ Andrew Lloyd Webber</p>
-<p>Through RefleXions@Xinmin, students:
-<br>
-</p>
+<p>Through RefleXions@Xinmin, students:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Gain exposure and learn to apply elements of drama skills.
