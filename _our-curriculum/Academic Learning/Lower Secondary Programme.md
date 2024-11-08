@@ -96,7 +96,6 @@ common curriculum. Differentiated instruction (D.I.), customisation and
 project-based learning are key levers to achieve these developmental objectives
 among diverse learners:
 <br>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
