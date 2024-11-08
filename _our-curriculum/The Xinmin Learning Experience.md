@@ -32,7 +32,7 @@ adaptability, and resourcefulness in the process.</p>
 </li>
 </ul>
 <p>The next ring shows the Desired Xinmin Outcomes (DXOs) which articulate
-what we aim to develop in our students in their 4-5 years in the school.
+what we aim to develop in our students in their secondary school journey.
 In summary, we would like every student to graduate from Xinmin as a Curious
 Learner, a Compassionate Contributor and a Confident Leader. The three
 broad outcomes are described as follows:</p>
