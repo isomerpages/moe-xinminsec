@@ -92,7 +92,7 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drone Odyssey chanllenge 2024 -AI Visual Sensing Challenge</p>
+<p>Drone Odyssey challenge 2024 -AI Visual Sensing Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st in Best Presentation Award&nbsp;</p>
