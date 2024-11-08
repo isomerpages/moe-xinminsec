@@ -96,7 +96,6 @@ common curriculum. Differentiated instruction (D.I.), customisation and
 project-based learning are key levers to achieve these developmental objectives
 among diverse learners:
 <br>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -174,39 +173,35 @@ enabling them to better manage their lives for the present and future.</p>
 <p>Experiential Modules Beyond the core subjects and the common curriculum,
 Xinmin students are further exposed to two essential experiential modules
 to hone their 21st century skills and competencies further.</p>
-<p>•<strong>Coding@Xinmin</strong>
-<br>‘If you want to uncover the secrets of the universe, or you want to pursue
-a career in the 21st century, basic computer programming is an essential
-skill to learn.’ ~ Stephen Hawkings</p>
-<p>Through Coding@Xinmin, students:
-<br>
-</p>
+<p>•<strong>MAKERS@Xinmin</strong>
+<br>"The future belongs to those who can innovate, create, and collaborate."
+~Tom Friedman</p>
+<p>Through MAKERS@Xinmin, students:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Discover and develop computational thinking.
+<p>Develop curiosity and lifelong passion for making
 <br>
 </p>
 </li>
 <li>
-<p>Acquire fundamental programming skills and languages.
+<p>Foster adaptive and inventive thinking.
 <br>
 </p>
 </li>
 <li>
-<p>Attempt challenges requiring conceptualisation and problem-solving.
+<p>Acquire design, prototyping, and iteration skills.
 <br>
 </p>
 </li>
 <li>
-<p>Learn through gamification.</p>
+<p>Acquire 21st Century skills in AI, digital literacy, problem-solving,
+and creative thinking through eco sustainability challenges.</p>
 </li>
 </ol>
 <p>• <strong>RefleXions@Xinmin</strong>
-<br>Drama education teaches students how to communicate, how to listen, and
-how to be empathetic.’ ~ Andrew Lloyd Webber</p>
-<p>Through RefleXions@Xinmin, students:
-<br>
-</p>
+<br>"Drama education teaches students how to communicate, how to listen, and
+how to be empathetic." ~ Andrew Lloyd Webber</p>
+<p>Through RefleXions@Xinmin, students:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Gain exposure and learn to apply elements of drama skills.
@@ -229,7 +224,7 @@ how to be empathetic.’ ~ Andrew Lloyd Webber</p>
 </p>
 </li>
 </ol>
-<h3>Secondary 1 students entering in 2024</h3>
+<h3>Secondary 1 students entering from 2024</h3>
 <p>Starting from the 2024 Secondary 1 cohort, Full Subject-Based Banding
 (SBB) will be implemented in our secondary education system. Secondary
 1 students will benefit from the Full SBB experience, which provides greater
@@ -310,9 +305,7 @@ MTL Mathematics and Science.
 </table>
 <p>To offer Higher Mother Tongue Languages (HMTL) - Chinese, Malay, Tamil
 and Non-Tamil Indian Languages (NTIL), students should preferably obtain
-either:
-<br>
-</p>
+either:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>An overall PSLE Score of 8 or better.
@@ -448,9 +441,9 @@ well for their WAs and End-of-Year (EOY) Examination.</p>
 </table>
 <p><em>*Note: From 2024 onwards, students must at least offer G1 Humanities. G2 and G3 Humanities will be offered to all eligible Secondary 1 students ONLY at this point. There is no cap on the number of subjects students can take at MDL.</em>
 </p>
-<p>For more details on the lower secondary curriculum 2024, you may also
-refer to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s Full SBB microsite</a>.</p>
-<h3>Secondary 2 students (In Academic Year 2025)</h3>
+<p>For more details on the lower secondary curriculum, you may also refer
+to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s Full SBB microsite</a>.</p>
+<h3>Secondary 2 students</h3>
 <ul>
 <li>
 <p>The lower secondary programme spans over 2 years so students will continue
