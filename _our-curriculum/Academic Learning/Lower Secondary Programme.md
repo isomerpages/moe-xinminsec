@@ -177,27 +177,26 @@ to hone their 21st century skills and competencies further.</p>
 <p>•<strong>MAKERS@Xinmin</strong>
 <br><strong>"The future belongs to those who can innovate, create, and collaborate." ~Tom Friedman</strong>
 </p>
-<p>Through Coding@Xinmin, students:
-<br>
-</p>
+<p>Through MAKERS@Xinmin, students:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Discover and develop computational thinking.
+<p>Develop curiosity and lifelong passion for making
 <br>
 </p>
 </li>
 <li>
-<p>Acquire fundamental programming skills and languages.
+<p>Foster adaptive and inventive thinking.
 <br>
 </p>
 </li>
 <li>
-<p>Attempt challenges requiring conceptualisation and problem-solving.
+<p>Acquire design, prototyping, and iteration skills.
 <br>
 </p>
 </li>
 <li>
-<p>Learn through gamification.</p>
+<p>Acquire 21st Century skills in AI, digital literacy, problem-solving,
+and creative thinking</p>
 </li>
 </ol>
 <p>• <strong>RefleXions@Xinmin</strong>
