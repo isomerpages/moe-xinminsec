@@ -227,7 +227,7 @@ how to be empathetic.’ ~ Andrew Lloyd Webber</p>
 </p>
 </li>
 </ol>
-<h3>Secondary 1 students entering in 2024</h3>
+<h3>Secondary 1 students entering from 2024</h3>
 <p>Starting from the 2024 Secondary 1 cohort, Full Subject-Based Banding
 (SBB) will be implemented in our secondary education system. Secondary
 1 students will benefit from the Full SBB experience, which provides greater
