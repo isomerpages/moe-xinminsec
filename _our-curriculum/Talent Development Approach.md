@@ -48,15 +48,17 @@ of students.</p>
 five domains when he/she graduates. The following table provides examples
 of the talent development opportunities available for different domains
 and levels:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent%20Development/talent_development.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent Development/Talent_development_2_table.png">
 </div>
 <p>A key component of our Talent Development Framework are our processes
 of identification, development, student ownership, monitoring and recognition
 that happens in all levels of development.</p>
 <p>In summary, our Talent Development Framework is as follows:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TD Pic" src="/images/TD%20Pic.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent Development/Talent_development_1.png">
 </div>
 <p>You may wish to check out the department pages to find out more about
 the talent development opportunities they provide.</p>
