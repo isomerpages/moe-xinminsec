@@ -447,7 +447,7 @@ well for their WAs and End-of-Year (EOY) Examination.</p>
 </p>
 <p>For more details on the lower secondary curriculum 2024, you may also
 refer to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s Full SBB microsite</a>.</p>
-<h3>Secondary 2 students (In Academic Year 2025)</h3>
+<h3>Secondary 2 students</h3>
 <ul>
 <li>
 <p>The lower secondary programme spans over 2 years so students will continue
