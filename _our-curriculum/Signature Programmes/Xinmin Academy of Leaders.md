@@ -97,7 +97,7 @@ a legacy.</p>
 </div>
 <p>The Xinmin Student Council consists of the caring responsible and adaptable
 leaders determined to serve the school and the community. The Council consists
-of 4 sub-committees that best suit the passion of our leaders in Events
+of 4 sub-committees that best suit the passions of our leaders in Events
 and Initiatives, Welfare and Feedback, Mentoring and Public Relations.
 With a core motto to lead, listen and learn, the Xinmin Student Council
 takes ownership of core school events like All Staff Day and the Secondary
