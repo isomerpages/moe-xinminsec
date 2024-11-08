@@ -445,8 +445,8 @@ well for their WAs and End-of-Year (EOY) Examination.</p>
 </table>
 <p><em>*Note: From 2024 onwards, students must at least offer G1 Humanities. G2 and G3 Humanities will be offered to all eligible Secondary 1 students ONLY at this point. There is no cap on the number of subjects students can take at MDL.</em>
 </p>
-<p>For more details on the lower secondary curriculum 2024, you may also
-refer to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s Full SBB microsite</a>.</p>
+<p>For more details on the lower secondary curriculum, you may also refer
+to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s Full SBB microsite</a>.</p>
 <h3>Secondary 2 students</h3>
 <ul>
 <li>
