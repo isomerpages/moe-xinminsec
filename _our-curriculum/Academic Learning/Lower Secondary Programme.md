@@ -174,7 +174,7 @@ enabling them to better manage their lives for the present and future.</p>
 <p>Experiential Modules Beyond the core subjects and the common curriculum,
 Xinmin students are further exposed to two essential experiential modules
 to hone their 21st century skills and competencies further.</p>
-<p>•<strong>Coding@Xinmin</strong>
+<p>•<strong>MAKERS@Xinmin</strong>
 <br>‘If you want to uncover the secrets of the universe, or you want to pursue
 a career in the 21st century, basic computer programming is an essential
 skill to learn.’ ~ Stephen Hawkings</p>
