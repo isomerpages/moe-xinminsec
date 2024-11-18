@@ -125,7 +125,7 @@ how they can apply what they've learned in their future endeavors.</p>
 <br>Mini Projects (Pygame) are open-ended tasks carried out as part of Secondary
 3 curriculum over 8 weeks. The project will be based on authentic tasks
 founded on real-world problems. There are 2 proposed implementations for
-the Mini Project, either hardware-based or software based. Students can
+the Mini Project, either hardware-based or software-based. Students can
 choose to use either Halocode/Microbit microcontroller to create contraptions
 as a solution prototype to an identified problem in the community. Past
 projects include Recycling Shower for Toilet Flushes and Medicine boxes
