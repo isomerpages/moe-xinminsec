@@ -73,12 +73,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Coding@Xinmin</p>
+<p>MAKERS@Xinmin</p>
 </li>
 <li>
-<p>RefleXions@Xinmin.</p>
+<p>RefleXions@Xinmin</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
