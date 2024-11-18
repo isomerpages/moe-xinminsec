@@ -1004,7 +1004,6 @@ period.)
 <p>BB</p>
 <p>GB</p>
 <p>NCC</p>
-<p>NPCC</p>
 <p>SJB</p>
 </td>
 <th rowspan="1" colspan="1">
@@ -1037,38 +1036,6 @@ period.)
 <td rowspan="1" colspan="1">
 <p>CCA Chairperson/</p>
 <p>Vice-Chairperson</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NPCC</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lance Corporal
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporal
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sergeant
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff Sergeant
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Station Inspector
-<br>
-</p>
 </td>
 </tr>
 <tr>
