@@ -38,7 +38,7 @@ looks exceptionally bright for this talented group of athletes.</p>
 <p>Wednesdays: 330 pm - 6 pm ('B' Division)</p>
 </li>
 <li>
-<p>Fridays: 3 pm - 6 pm ('B' Divisions)</p>
+<p>Fridays: 3 pm - 6 pm ('B' Division)</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
