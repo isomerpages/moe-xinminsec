@@ -100,7 +100,7 @@ art pieces.</p>
 </li>
 <li>
 <p>Varied STEM activities organised by Singapore Science Centre that has
-design elements e.g Satay Bridge Competition</p>
+design elements e.g Satay Bridge Competition.</p>
 </li>
 </ul>
 <table style="minWidth: 25px">
