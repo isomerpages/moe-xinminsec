@@ -8,8 +8,8 @@ variant: tiptap
 <h2>Belief</h2>
 <p>Studying Computing/Computer Applications (CPA) goes beyond syntax or block
 programming in XMS. As an extension to MAKERS@Xinmin, we offer our students
-Computing as GCE-O Level Subject/G3 level (Upper Secondary) and Computer
-Applications as GCE-N Level subject/G1 level (Upper Sec).</p>
+Computing as a GCE-O Level Subject/G3 level and Computer Applications as
+a GCE-N Level subject/G1 level.</p>
 <p>Computing/CPA will foster our students the necessary digital literacies,
 whilst enhancing their problem-solving abilities through computational
 thinking. Based on the Computer Education Framework (MOE), students are
