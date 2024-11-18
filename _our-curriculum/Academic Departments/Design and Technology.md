@@ -49,7 +49,7 @@ rubrics for their submissions and they will</p>
 <p>Understanding digital rubric demands and inquire for further refinement</p>
 </li>
 <li>
-<p>Digital Prototyping through Sketchbook (Lower Sec) Application.</p>
+<p>Digital Prototyping through Sketchbook (Lower Sec) Application-.</p>
 </li>
 <li>
 <p>Doing 3-D sketching and transfer designs to Google Sketchup (Upper Sec)</p>
@@ -58,7 +58,7 @@ rubrics for their submissions and they will</p>
 <p>Use Google Classroom and SLS for Lesson Objects</p>
 </li>
 <li>
-<p>Compare and contrast similar function items.</p>
+<p>Compare and contrast similar function items-.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
