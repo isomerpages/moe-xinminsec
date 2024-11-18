@@ -581,38 +581,6 @@ Groups (UG) below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NPCC</strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Core Proficiency Level 1
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Core Proficiency Level 2
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Core Proficiency Level 3
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Best Unit Cadet badge by NPCC HQ
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPF - NPCC Badge
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>NCC</strong>
 <br>
 </p>
