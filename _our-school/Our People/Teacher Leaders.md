@@ -423,7 +423,6 @@ third_nav_title: Our People
         </div>
       </td>
     </tr>
-		
       <tr style="margin: 0px; outline: 0px; padding: 0px">
         <td style="margin: 0px;
             outline: 0px;
@@ -489,6 +488,5 @@ third_nav_title: Our People
           </div>
         </td>
       </tr>
-			
   </tbody>
 </table>
