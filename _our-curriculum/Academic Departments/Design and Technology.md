@@ -46,7 +46,7 @@ rubrics for their submissions and they will</p>
 <p>Conduct peer evaluation and constructive critique</p>
 </li>
 <li>
-<p>Understanding digital rubric demands and inquire for further refinement</p>
+<p>Understand digital rubric demands and inquire for further refinement</p>
 </li>
 <li>
 <p>Carry out Digital Prototyping through Sketchbook (Lower Sec) Application-.</p>
