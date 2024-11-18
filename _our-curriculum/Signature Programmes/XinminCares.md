@@ -42,7 +42,7 @@ a positive impact to address such issues within their sphere of influence.</p>
 will consolidate their learning and reflection by advocating the needs
 of the beneficiaries they worked with to their peers. In addition, XinminCares
 Day is also an important event where students acquire deeper understanding
-on the challenges that people with disabilities face daily through experiential
+of the challenges that people with disabilities face daily through experiential
 learning. Activities such as seated volleyball and goalball also provide
 opportunities for students to participate in paralympic sports.</p>
 <div class="isomer-image-wrapper">
