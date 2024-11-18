@@ -53,7 +53,7 @@ their daily life.</p>
 <p>Students work collaboratively across all the Arts Education opportunities
 in Xinmin. It is through collaborative work that students learn to manage
 themselves and their relationships, whilst gaining a deeper understanding
-of the world around them. With Art, Music and RefleXions@Xinmin (Drama)
+of the world around them. With Art, Music and RefleXions@Xinmin (Drama),
 all encouraging group-based collaborations whether physically or through
 online platforms like Padlet, Jamboard and Google Classroom, students are
 continually reflecting upon their ability to consider perspectives of their
