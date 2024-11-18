@@ -43,7 +43,7 @@ equipment to produce the prototype of the design solution.</p>
 rubrics for their submissions and they will</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Peer evaluation and constructive critique</p>
+<p>Conduct peer evaluation and constructive critique</p>
 </li>
 <li>
 <p>Understanding digital rubric demands and inquiring for further refinement</p>
