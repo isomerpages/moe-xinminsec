@@ -81,7 +81,7 @@ modules:</p>
 of hands-on activities, projects, and problem-solving exercises.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Coding assignments and debugging tasks are carried out using Google Colab</p>
+<p>Coding assignments and debugging tasks are carried out using Google Colab.</p>
 </li>
 <li>
 <p>Lesson resources through Google Classroom/SLS with hybrid learning modes
