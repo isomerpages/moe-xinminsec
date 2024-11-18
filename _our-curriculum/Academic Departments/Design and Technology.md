@@ -52,8 +52,7 @@ rubrics for their submissions and they will</p>
 <p>Digital Prototyping through Sketchbook (Lower Sec) Application.</p>
 </li>
 <li>
-<p>Doing 3-D sketching and transferring designs to Google Sketchup (Upper
-Sec)</p>
+<p>Doing 3-D sketching and transfer designs to Google Sketchup (Upper Sec)</p>
 </li>
 <li>
 <p>Google Classroom and SLS for Lesson Objects</p>
