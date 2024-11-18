@@ -66,7 +66,7 @@ variant: tiptap
 <p>Design &amp; Technology (D&amp;T)</p>
 </li>
 <li>
-<p>Food &amp; Consumer Education (FCE).</p>
+<p>Food &amp; Consumer Education (FCE)</p>
 </li>
 </ul>
 </td>
