@@ -46,13 +46,13 @@ rubrics for their submissions and they will</p>
 <p>Conduct peer evaluation and constructive critique</p>
 </li>
 <li>
-<p>Understanding digital rubric demands and inquiring for further refinement</p>
+<p>Understanding digital rubric demands and inquire for further refinement</p>
 </li>
 <li>
 <p>Digital Prototyping through Sketchbook (Lower Sec) Application.</p>
 </li>
 <li>
-<p>Doing 3d sketching and transferring designs to Google Sketchup (Upper
+<p>Doing 3-D sketching and transferring designs to Google Sketchup (Upper
 Sec)</p>
 </li>
 <li>
