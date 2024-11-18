@@ -10,7 +10,7 @@ variant: tiptap
 programming in XMS. As an extension to MAKERS@Xinmin, we offer our students
 Computing as a GCE-O Level Subject/G3 level and Computer Applications as
 a GCE-N Level subject/G1 level.</p>
-<p>Computing/CPA will foster our students the necessary digital literacies,
+<p>Computing/CPA will foster in our students the necessary digital literacies,
 whilst enhancing their problem-solving abilities through computational
 thinking. Based on the Computer Education Framework (MOE), students are
 instill with many concepts that will inculcate them the necessary 21CC
