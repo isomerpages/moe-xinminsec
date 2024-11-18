@@ -201,7 +201,7 @@ award winner 2023.</p>
 </tr>
 </tbody>
 </table>
-<h3>Elements of Business Skills.</h3>
+<h3>Elements of Business Skills</h3>
 <p>The Technology &amp; Business Department oversees Elements of Business
 Skills (EBS), which is offered as an elective subject during Secondary
 3 for the Normal (Technical) course. The curriculum is designed to introduce
