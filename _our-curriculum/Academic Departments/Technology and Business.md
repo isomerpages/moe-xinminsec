@@ -112,7 +112,7 @@ cases that will inform the student on the quality of their coding.</p>
 </li>
 <li>
 <p>Coding assignments that have peer evaluations, to gauge student understanding
-and promote critique..</p>
+and promote critique..-</p>
 </li>
 <li>
 <p>Reflection component after every extension activity : Encourage students
