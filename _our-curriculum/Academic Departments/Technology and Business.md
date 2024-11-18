@@ -13,8 +13,8 @@ a GCE-N Level subject/G1 level.</p>
 <p>Computing/CPA will foster in our students the necessary digital literacies,
 whilst enhancing their problem-solving abilities through computational
 thinking. Based on the Computer Education Framework (MOE), students are
-instilled with many concepts that will inculcate them the necessary 21CC
-through the different lesson designs.</p>
+instilled with many concepts that will inculcate in them the necessary
+21CC through the different lesson designs.</p>
 <p>Through various online platforms, students will become adaptable and proficient
 in many digital tools that can later be applied in different fields. This
 not only opens up diverse career opportunities but also instills ethical
