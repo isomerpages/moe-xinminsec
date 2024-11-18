@@ -19,7 +19,7 @@ through the different lesson designs.</p>
 in many digital tools that can later be applied in different fields. This
 not only opens up diverse career opportunities but also instills ethical
 awareness. With extensive hands-on experience, our students will enjoy
-applying their new found skills through many challenges competitions.</p>
+applying their newfound skills through many challenges competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Computing%20and%20CPA/computing_cpa_1.png">
 </div>
