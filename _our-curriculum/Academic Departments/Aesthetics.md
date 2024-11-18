@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Aesthetics Department vision</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop inquisitiveness towards the Arts</p>
+<p>To develop inquisitiveness towards the Arts.</p>
 </li>
 <li>
 <p>To develop student voice and choice through the Arts.</p>
