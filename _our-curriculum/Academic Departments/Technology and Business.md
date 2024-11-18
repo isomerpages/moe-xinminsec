@@ -77,7 +77,7 @@ modules:</p>
 </li>
 </ul>
 <p><strong>Pedagogical Approach</strong>
-<br>In XMS, active Learning by students is encouraged. There are a variety
+<br>In XMS, active learning by students is encouraged. There is a variety
 of hands-on activities, projects, and problem-solving exercises.</p>
 <ul data-tight="true" class="tight">
 <li>
