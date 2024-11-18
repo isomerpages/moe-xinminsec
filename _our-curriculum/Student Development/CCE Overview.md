@@ -89,9 +89,9 @@ about their struggles during Circuit Breaker</p>
 for students to develop self-awareness and empathy. This helps them understand
 the perspectives of people with different backgrounds or cultures, and
 to become more sensitive to the social environment and the needs of others.
-Using this approach, student learn to apply moral reasoning and sound values-based
-judgements in the choices they make, and understanding the impact and consequences
-of their actions on others.</p>
+Using this approach, students learn to apply moral reasoning and sound
+values-based judgements in the choices they make, and understanding the
+impact and consequences of their actions on others.</p>
 <p><strong>Student-Centric Pedagogy</strong>
 <br>The use of instructional and facilitation strategies such as circle structure,
 four corners, freeze frame, hot seat, round table, role-play, debate etc,
