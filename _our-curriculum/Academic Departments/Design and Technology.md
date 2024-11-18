@@ -55,10 +55,10 @@ rubrics for their submissions and they will</p>
 <p>Doing 3-D sketching and transfer designs to Google Sketchup (Upper Sec)</p>
 </li>
 <li>
-<p>Google Classroom and SLS for Lesson Objects</p>
+<p>Use Google Classroom and SLS for Lesson Objects</p>
 </li>
 <li>
-<p>Compare and contrast of similar function items.</p>
+<p>Compare and contrast similar function items.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
