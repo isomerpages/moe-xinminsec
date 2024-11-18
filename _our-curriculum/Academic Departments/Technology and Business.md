@@ -108,7 +108,7 @@ help students learn from each other and improve their communication skills.</p>
 cases that will inform the student on the quality of their coding.</p>
 </li>
 <li>
-<p>Variety of online Kahoot quizzes and mini-games</p>
+<p>Variety of online Kahoot quizzes and mini-games.</p>
 </li>
 <li>
 <p>Coding assignments that have peer evaluations, to gauge student understanding
