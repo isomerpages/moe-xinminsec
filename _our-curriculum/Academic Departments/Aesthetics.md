@@ -41,7 +41,7 @@ performances with original beats or rhythms using physical instruments
 as well as music created with the help of apps like Bandlabs. Art lessons
 steer students towards considering perspectives of 2D and 3D works. The
 end result ranges from creative and eye-catching paintings, agamographs
-and tunnel book that can be found showcased around Xinmin. Their art-work
+and tunnel books that can be found showcased around Xinmin. Their art-work
 even goes online through the use of applications like FlipaClip that help
 build creative animations. RefleXions@ Xinmin allows students to ‘play’
 via Drama as they explore stories and provide their perspective and responses
