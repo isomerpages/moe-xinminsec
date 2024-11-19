@@ -66,19 +66,30 @@ variant: tiptap
 <p>Design &amp; Technology (D&amp;T)</p>
 </li>
 <li>
-<p>Food &amp; Consumer Education (FCE).</p>
+<p>Food &amp; Consumer Education (FCE)</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Coding@Xinmin</p>
+<p>MAKERS@Xinmin</p>
 </li>
 <li>
-<p>RefleXions@Xinmin.</p>
+<p>RefleXions@Xinmin</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -87,7 +98,8 @@ variant: tiptap
 <br>With the implementation of Full Subject Based Banding (FSBB), students
 can learn the core subjects at the level that best caters to their overall
 strengths, interests and learning needs. Certain core subjects will be
-offered at a more demanding level (MDL) at three specific junctures.</p>
+offered at a more demanding level (MDL) at three specific junctures in
+Secondary 1.</p>
 <p><strong>Common Curriculum Subjects</strong>
 <br>Under Full SBB, Express, N(A), and N(T) streams will be phased out . Xinmin
 students will be placed in mixed form classes at lower secondary where
@@ -224,8 +236,9 @@ how to be empathetic." ~ Andrew Lloyd Webber</p>
 </p>
 </li>
 </ol>
-<h3>Secondary 1 students entering from 2024</h3>
-<p>Starting from the 2024 Secondary 1 cohort, Full Subject-Based Banding
+<h3>Secondary 1 students</h3>
+<p><strong><u>Secondary 1 Start-Of-Year</u></strong>
+<br>Starting from the 2024 Secondary 1 cohort, Full Subject-Based Banding
 (SBB) will be implemented in our secondary education system. Secondary
 1 students will benefit from the Full SBB experience, which provides greater
 customisation and flexibility for each student’s learning.</p>

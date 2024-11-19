@@ -8,7 +8,7 @@ variant: tiptap
 <h2>Aesthetics Department vision</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop inquisitiveness towards the Arts</p>
+<p>To develop inquisitiveness towards the Arts.</p>
 </li>
 <li>
 <p>To develop student voice and choice through the Arts.</p>
@@ -41,7 +41,7 @@ performances with original beats or rhythms using physical instruments
 as well as music created with the help of apps like Bandlabs. Art lessons
 steer students towards considering perspectives of 2D and 3D works. The
 end result ranges from creative and eye-catching paintings, agamographs
-and tunnel book that can be found showcased around Xinmin. Their art-work
+and tunnel books that can be found showcased around Xinmin. Their art-work
 even goes online through the use of applications like FlipaClip that help
 build creative animations. RefleXions@ Xinmin allows students to ‘play’
 via Drama as they explore stories and provide their perspective and responses
@@ -53,11 +53,11 @@ their daily life.</p>
 <p>Students work collaboratively across all the Arts Education opportunities
 in Xinmin. It is through collaborative work that students learn to manage
 themselves and their relationships, whilst gaining a deeper understanding
-of the world around them. With Art, Music and RefleXions (Drama) all encouraging
-group-based collaborations whether physically or through online platforms
-like Padlet, Jamboard and Google Classroom, students are continually reflecting
-upon their ability to consider perspectives of their group mates and leading
-one another through presentations.</p>
+of the world around them. With Art, Music and RefleXions@Xinmin (Drama),
+all encouraging group-based collaborations whether physically or through
+online platforms like Padlet, Jamboard and Google Classroom, students are
+continually reflecting upon their ability to consider perspectives of their
+group mates and leading one another through presentations.</p>
 <p>Students also have opportunities to sample the cultural offerings from
 around the world! World Music exposure allows students to do things like
 appreciate Malay rhythmic music. Art lessons allow students to understand

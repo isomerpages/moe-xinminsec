@@ -154,7 +154,8 @@ to refine our skills and broaden our experiences.</p>
 develop resilience and learn to navigate challenges on the court. Each
 competition offers valuable lessons, fostering both personal and team growth.</p>
 <h4><strong>Accomplishments</strong></h4>
-<p>a) Achievements for 2021</p>
+<p><strong>a) Achievements for 2021</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NSG North Zone Inter-School Volleyball Championship</p>

@@ -146,8 +146,8 @@ upcycled products.</p>
 <p><strong>Vice Presidents</strong>: Tiana Shashi De Silva, Aura Airwan</p>
 </li>
 <li>
-<p><strong>Heads Of Managements: </strong>Wang Yu Qi Kailyn, Lee Ze Hui,
-Hasikka D/O T Shanker, Ives Low Hong Yi</p>
+<p><strong>Heads Of Management: </strong>Wang Yu Qi Kailyn, Lee Ze Hui, Hasikka
+D/O T Shanker, Ives Low Hong Yi</p>
 </li>
 <li>
 <p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
