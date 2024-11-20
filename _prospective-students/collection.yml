@@ -2,7 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
-      - Open House 2024.md
       - Secondary 1 Posting.md
       - Xinmin Scholarship.md
       - Direct School Admission.md
