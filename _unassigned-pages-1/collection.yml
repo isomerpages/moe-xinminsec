@@ -1,6 +1,0 @@
-collections:
-  unassigned-pages-1:
-    output: true
-    order:
-      - 2021.md
-      - 2022.md
