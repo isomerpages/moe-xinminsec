@@ -30,9 +30,9 @@ to the curriculum.</p>
 <li>
 <p>At the end of Secondary 2 and Secondary 3, students need to meet the academic
 requirement to offer subjects at the same subject levels:</p>
-<p>Pass^ (a) EL and 2 subjects, or</p>
 </li>
 </ul>
+<p>Pass^ (a) EL and 2 subjects, or</p>
 <p>(b) at least half the total number of examinable subjects* offered</p>
 <ul data-tight="true" class="tight">
 <li>
