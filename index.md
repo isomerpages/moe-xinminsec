@@ -22,14 +22,14 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Open House 2024
+      title: Xinmin Scholarship
       id: infopic
-      description: Join us at Xinmin Secondary School’s Open House! Discover what
-        makes Xinmin Secondary a special place for learning and growth.
+      description: In celebration of Xinmin Secondary's 80th Anniversary, the Xinmin
+        Scholarship will be launched for incoming 2025 Secondary 1 students.
       button: Find out more
-      url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/open-house-2024/
+      url: https://www.xinminsec.moe.edu.sg/xinmin-scholarship/
       alt: Image alt text
-      image: /images/Open_House/Open_House_Pic_1.jpg
+      image: /images/Prospectus/Xinmin_scholarship.jpg
   - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
