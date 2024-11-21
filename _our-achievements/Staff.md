@@ -792,6 +792,35 @@ participating actively in community discussions.</p>
 <br>The Singapore Learning Designers Circle (SgLDC) is an online networked
 learning community to provide educators in Singapore a safe space to collectively
 inquire into the use of technology in education</p>
+<p><strong>2024</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Designer Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Xiao Yan Fei</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2023</strong>
 </p>
 <table style="minWidth: 50px">
