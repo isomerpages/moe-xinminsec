@@ -24,8 +24,8 @@ sections:
   - infopic:
       title: Xinmin Scholarship
       id: infopic
-      description: With Xinmin Secondary's 80th Anniversary in 2025, our School
-        Advisory Committee (SAC) is introducing the Xi
+      description: In celebration of Xinmin Secondary's 80th Anniversary, the Xinmin
+        Scholarship will be launched for incoming 2025 Secondary 1 students.
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/xinmin-scholarship/
       alt: Image alt text
