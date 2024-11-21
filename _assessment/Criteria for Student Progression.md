@@ -17,9 +17,9 @@ strengths, interests and learning needs, and</p>
 to learn for life.</p>
 </li>
 </ul>
-<p>All students generally progress to the next year of learning, guided by
-a common academic requirement that applies at the end of Secondary 2 and
-Secondary 3.</p>
+<p><strong>All students generally progress to the next year of learning</strong>,
+guided by a common academic requirement that applies at the end of Secondary
+2 and Secondary 3.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 1 students will progress to Secondary 2 as the lower secondary
