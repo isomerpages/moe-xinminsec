@@ -4,7 +4,7 @@ permalink: /resources/students/assessment/criteria-for-promotion/
 description: ""
 variant: tiptap
 ---
-<h4>2025 Secondary 1 and Secondary 2 Students</h4>
+<h4><strong>2025 Secondary 1 and Secondary 2 Students</strong></h4>
 <p>Under Full Subject-Based Banding, the criteria for student progression
 aligns to the broader efforts by MOE to:</p>
 <ul data-tight="true" class="tight">
@@ -55,5 +55,109 @@ subjects and/or offer subjects at less demanding level (LDL).</p>
 <p><em>^ ‘Pass’ refers to subject overall mark of at least 50%, regardless of subject level.</em>
 </p>
 <p><em>* ‘Examinable subjects’ do not include CCE, PE and lower secondary Music.</em>
+</p>
+<h4><strong>2025 Secondary 3 Students</strong></h4>
+<p>To be promoted to Secondary 4, students will have to meet the minimum
+attainment level for their respective streams:</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Promotion Criteria (Minimum Attainment Level)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Met Minimum Attainment Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Met Minimum Attainment Level AND Lateral Transfer Guideline^</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Not Met Minimum Attainment Level<sup>@</sup></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3E<sup>#</sup>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 6 or better in EL and 2 other subjects&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promoted to Sec 4E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retained at Sec 3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3N(A)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade 5 or better in:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>EL and 2 other subjects OR 4 subjects</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promoted to Sec 4N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N/A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retained at Sec 3N(A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3N(T)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grade D or better in 2 subjects, one of which should be EL or Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promoted to Sec 4N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laterally transferred to Sec 3N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retained at Sec 3N(T)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>^ Minimum of 70% in the overall percentage of all subjects combined.</em>
+</p>
+<p><em><sup>#</sup> For Sec 3E students who do not meet the Minimum Attainment Level, they can be advanced to Sec 4E if they meet Advancement Criteria of Grade 6 or better in 5 subjects.&nbsp;</em>
+</p>
+<p><em><sup>@</sup> Applicable only to students below the maximum age.</em>
 </p>
 <p></p>
