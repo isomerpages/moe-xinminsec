@@ -4,4 +4,56 @@ permalink: /resources/students/assessment/criteria-for-promotion/
 description: ""
 variant: tiptap
 ---
-<p><strong>Promotion to Secondary 2 and 3</strong></p><p>To ensure a pass and be promoted, a student in the Express Stream must obtain 50% or more in English Language and a pass percentage in the average of all subjects. A student in the Normal Stream must obtain 50% or more in English Language and two other subjects.</p><p><strong>Promotion to Secondary 4 and 5</strong></p><p>To be promoted to Secondary 4, a student in the Express Stream must secure a minimum Grade 6 in at least 3 subjects including English Language. A student in the Normal Stream must obtain a minimum Grade 5 in English Language and two other subjects to be promoted to Secondary 4 and 5.</p><p><strong>Promotion Criteria at a glance</strong></p><p>For more details, please refer to the following tables:</p><p><strong>Express Course</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Criteria for Promotion</p></th><th rowspan="1" colspan="1"><p>Pass</p></th><th rowspan="1" colspan="1"><p>Failed</p></th></tr><tr><td rowspan="1" colspan="1"><p>1E</p></td><td rowspan="1" colspan="1"><p>Pass EL and a pass percentage in the average for all subjects</p></td><td rowspan="1" colspan="1"><p>Promoted to 2E</p></td><td rowspan="1" colspan="1"><p>Transferred to 2N(A)</p></td></tr><tr><td rowspan="1" colspan="1"><p>2E</p></td><td rowspan="1" colspan="1"><p>Pass EL and a pass percentage in the average for all subjects</p></td><td rowspan="1" colspan="1"><p>Promoted to 3E</p></td><td rowspan="1" colspan="1"><p>Transferred to 3N(A)</p></td></tr><tr><td rowspan="2" colspan="1"><p>3E</p></td><td rowspan="1" colspan="1"><p>Grade 6 or better in EL and 2 other subject</p></td><td rowspan="1" colspan="1"><p>Promoted to 4E</p></td><td rowspan="1" colspan="1"><p>Retained in 3E<br>(Below maximum age) / Transferred to 4N(A)<br>(at or above maximum age)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Failed EL but obtained Grade 6 or better in 5 subjects</p></td><td rowspan="1" colspan="1"><p>Advanced to 4E</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr></tbody></table><p><strong>Normal (Academic) Course</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Criteria for Promotion</p></th><th rowspan="1" colspan="1"><p>Pass</p></th><th rowspan="1" colspan="1"><p>Failed</p></th></tr><tr><td rowspan="1" colspan="1"><p>1N(A)</p></td><td rowspan="1" colspan="1"><p>Grade 5 or better in<br>EL &amp; 2 other subjects or<br>4 subjects</p></td><td rowspan="1" colspan="1"><p>Promoted to 2N(A)</p></td><td rowspan="1" colspan="1"><p>Retained in 1N(A)</p></td></tr><tr><td rowspan="1" colspan="1"><p>2N(A)</p></td><td rowspan="1" colspan="1"><p>Grade 5 or better in<br>EL &amp; 2 other subjects or<br>4 subjects</p></td><td rowspan="1" colspan="1"><p>Promoted to 3N(A)</p></td><td rowspan="1" colspan="1"><p>Retained in 2N(A)</p></td></tr><tr><td rowspan="1" colspan="1"><p>3N(A)</p></td><td rowspan="1" colspan="1"><p>Grade 5 or better in<br>EL &amp; 2 other subjects or<br>4 subjects</p></td><td rowspan="1" colspan="1"><p>Promoted to 4N(A)</p></td><td rowspan="1" colspan="1"><p>Retained in 3N(A)</p></td></tr><tr><td rowspan="1" colspan="4"><p>* Applicable only to students below the maximum age</p></td></tr></tbody></table><p><strong>Normal (Technical) Course</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Criteria for Promotion</p></th><th rowspan="1" colspan="1"><p>Pass</p></th><th rowspan="1" colspan="1"><p>Failed</p></th></tr><tr><td rowspan="1" colspan="1"><p>1N(T)</p></td><td rowspan="1" colspan="1"><p>Grade 5 or better in 2 subjects, one of which should be EL or Math</p></td><td rowspan="1" colspan="1"><p>Promoted to 2N(T)</p></td><td rowspan="1" colspan="1"><p>Retained in 1N(T)</p></td></tr><tr><td rowspan="1" colspan="1"><p>2N(T)</p></td><td rowspan="1" colspan="1"><p>Grade 5 or better in 2 subjects, one of which should be EL or Math</p></td><td rowspan="1" colspan="1"><p>Promoted to 3N(T)</p></td><td rowspan="1" colspan="1"><p>Retained in 2N(T)</p></td></tr><tr><td rowspan="1" colspan="1"><p>3N(T)</p></td><td rowspan="1" colspan="1"><p>Grade 5 or better in 2 subjects, one of which should be EL or Math</p></td><td rowspan="1" colspan="1"><p>Promoted to 4N(T)</p></td><td rowspan="1" colspan="1"><p>Retained in 3N(T)</p></td></tr><tr><td rowspan="1" colspan="4"><p>* Applicable only to students below the maximum age</p></td></tr></tbody></table><p></p>
+<h4>2025 Secondary 1 and Secondary 2 Students </h4>
+<p>Under Full Subject-Based Banding, the criteria for student progression
+aligns to the broader efforts by MOE to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>give students greater ownership of their learning according to their readiness,
+strengths, interests and learning needs, and</p>
+</li>
+<li>
+<p>encourage students to develop a growth mindset and an intrinsic motivation
+to learn for life.</p>
+</li>
+</ul>
+<p>All students generally progress to the next year of learning, guided by
+a common academic requirement that applies at the end of Secondary 2 and
+Secondary 3.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 students will progress to Secondary 2 as the lower secondary
+curriculum is a two-year block. This eases the transition of a student
+from primary to secondary school and provides time for students to adjust
+to the curriculum.</p>
+</li>
+<li>
+<p>At the end of Secondary 2 and Secondary 3, students need to meet the academic
+requirement to offer subjects at the same subject levels:</p>
+</li>
+</ul>
+<p>Pass^ (a) EL and 2 subjects, or</p>
+<p>(b) at least half the total number of examinable subjects* offered</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 and 2 students progressing to the next year of learning have
+opportunities to calibrate curricular load based on the school’s holistic
+considerations of what is educationally meaningful for each student.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who have met the academic requirement and have done well could
+consider offering subjects at more demanding level (MDL). To offer a subject
+at MDL, students need to have obtained ≥75% in subject overall marks.</p>
+</li>
+<li>
+<p>Students who have not met the academic requirement are to offer fewer
+subjects and/or offer subjects at less demanding level (LDL).</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><em>^ ‘Pass’ refers to subject overall mark of at least 50%, regardless of subject level.</em>
+</p>
+<p><em>* ‘Examinable subjects’ do not include CCE, PE and lower secondary Music.</em>
+</p>
+<p></p>
