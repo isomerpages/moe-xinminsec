@@ -4,7 +4,7 @@ permalink: /resources/students/assessment/criteria-for-promotion/
 description: ""
 variant: tiptap
 ---
-<h4>2025 Secondary 1 and Secondary 2 Students </h4>
+<h4>2025 Secondary 1 and Secondary 2 Students</h4>
 <p>Under Full Subject-Based Banding, the criteria for student progression
 aligns to the broader efforts by MOE to:</p>
 <ul data-tight="true" class="tight">
