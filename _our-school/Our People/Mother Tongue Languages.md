@@ -31,7 +31,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<p><strong> Ms Li Jiaying</strong>
+<p><strong>Ms Li Jiaying</strong>
 </p>
 <p>Designation: Head of Department - Mother Tongue Languages</p>
 <p>Department: Mother Tongue Languages</p>
