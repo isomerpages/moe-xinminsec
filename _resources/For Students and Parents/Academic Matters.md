@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/criteria-for-promotion/" rel="noopener noreferrer nofollow" target="_blank">Criteria for Promotion</a>
+<p><a href="/resources/students/assessment/criteria-for-promotion/" rel="noopener noreferrer nofollow" target="_blank">Criteria for Student Progression</a>
 </p>
 </li>
 <li>
