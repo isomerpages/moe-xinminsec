@@ -475,6 +475,82 @@ staff who demonstrate desired qualities for service excellence.</p>
 <br>The Outstanding Contribution Awards are given by MOE in recognition of
 significant value-added contributions made by individual staff and teams
 in schools.</p>
+<p><strong>2024</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discipline Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Media Club CCA Teachers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lu Wenqi Kevin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Li Lian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pang Hui Chin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarah Teo Xuening</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Chwee Choo</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2023</strong>
 </p>
 <table style="minWidth: 50px">
