@@ -245,7 +245,7 @@ customisation and flexibility for each student’s learning.</p>
 <p>Students will be allocated a set of subjects ranging from G1 to G3 which
 are comparable to the respective Achievement Levels (AL). This allocation
 is committed by MOE’s placement branch. The guidelines below apply to English,
-MTL Mathematics and Science.
+Mathematics, MTL and Science.
 <br>
 <br>
 </p>
