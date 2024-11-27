@@ -338,7 +338,7 @@ Secondary 1, based on their academic performance in school, as well as
 by demonstrating positive attitude towards learning.</p>
 <p><strong><u>Secondary 1 Mid-Year</u></strong>
 <br>At this point, students can take these subjects at MDL if they perform
-well for their Weighted Assessments WA).</p>
+well for their Weighted Assessments (WAs).</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
