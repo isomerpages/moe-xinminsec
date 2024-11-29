@@ -489,7 +489,7 @@ variant: markdown
         </div>
       </td>
     </tr>
-			<tr style="margin: 0px; outline: 0px; padding: 0px">
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
@@ -516,7 +516,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lee Yen Nee</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lai Min Lee</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -550,11 +550,11 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:lee_yen_nee@schools.gov.sg">lee_yen_nee@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:lai_min_lee@schools.gov.sg">lai_min_lee@schools.gov.sg</a>
         </div>
       </td>
     </tr>
-		<tr style="margin: 0px; outline: 0px; padding: 0px">
+			<tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
