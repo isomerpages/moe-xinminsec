@@ -99,59 +99,78 @@ variant: markdown
         </div>
       </td>
 		</tr>
- </tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 110px;
-            height: 148px;" height="auto" width="100%" alt="Tau Jun Hui.jpg" src="/images/Mother_Tongue/li_jiaying_1.jpg">
-</div>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<p><strong>Ms Li Jiaying</strong>
-</p>
-<p>Designation: Head of Department - Mother Tongue Languages</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:li_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>li_jiaying@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 107px;
-            height: 137px;" height="auto" width="100%" alt="sl_a_lady.png" src="/images/Mother_Tongue/Carol.jpg">
-</div>
-<p>
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/School_Leaders/vanessa_cheng1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Chong Xing Le Carol</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Head of Department -&nbsp;Character and Citizenship Education
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:chong_xing_le_carol@schools.gov.sg">chong_xing_le_carol@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+ </tbody>
+</table>
+
 <br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+
+
 <p>
 <br>
 </p>
@@ -161,10 +180,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:chong_xing_le_carol@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>chong_xing_le_carol@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
           outline: 0px;
@@ -178,8 +197,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -189,10 +208,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:ang_yan_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>ang_yan_chee@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
           outline: 0px;
@@ -206,8 +225,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -217,10 +236,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:xiao_yanfei@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>xiao_yanfei@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -231,8 +250,8 @@ variant: markdown
             width: 102px;
             height: 142px;" height="auto" width="100%" alt="Norliza Bte Ali web.jpg" src="/images/Mother_Tongue/Norliza%20Bte%20Ali%20web.jpeg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -242,10 +261,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:norliza_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>norliza_ali@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -259,8 +278,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -270,10 +289,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:ang_koon_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>ang_koon_yong@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -287,8 +306,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -298,10 +317,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:koh_cher_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>koh_cher_yee@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -315,8 +334,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -326,10 +345,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:lee_yen_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>lee_yen_nee@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -343,8 +362,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -354,10 +373,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:lim_kok_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>lim_kok_chong@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -371,8 +390,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -382,10 +401,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:nor_ain_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>nor_ain_ismail@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
           outline: 0px;
@@ -399,8 +418,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -410,10 +429,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:Nur_Fatimah_Khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>nur_fatimah_khalid@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -427,8 +446,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -438,10 +457,10 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:siaw_pey_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>siaw_pey_shin@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+
+
+
+
 <div class="isomer-image-wrapper">
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
@@ -455,8 +474,8 @@ variant: markdown
 <p>
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+
+
 <p>
 <br>
 </p>
@@ -466,8 +485,8 @@ variant: markdown
 <p>Department: Mother Tongue Languages</p>
 <p>Email:&nbsp;<a href="mailto:wong_siew_har@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>wong_siew_har@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+
+
 <p></p>
