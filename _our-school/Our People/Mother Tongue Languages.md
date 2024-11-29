@@ -71,7 +71,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Principal
+          Designation: Head of Department - Mother Tongue Languages
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -81,7 +81,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Department: School Leaders
+          Department: Mother Tongue Languages
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -95,7 +95,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:tan_soon_hui@schools.gov.sg">tan_soon_hui@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:li_jiaying@schools.gov.sg">li_jiaying@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
