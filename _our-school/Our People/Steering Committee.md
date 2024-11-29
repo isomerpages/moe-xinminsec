@@ -1184,7 +1184,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Year Head - Upper Secondary
+          Designation: Year Head - Lower Secondary
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1209,6 +1209,72 @@ variant: markdown
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;" target="" href="mailto:ang_tong_hock@schools.gov.sg">ang_tong_hock@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 114px;
+            height: 145px;" class="ive\_eobj\_left" alt="Tiffany_lim.jpg" src="/images/Science/tiffany_lim_1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lim Mei Yin, Tiffany
+            <div style="margin: 0px;
+                outline: 0px;
+                padding: 0px;
+                line-height: 24.99px;
+                color: rgb(0, 0, 0);
+                font-family: Helvetica, sans-serif;
+                font-size: 17px;
+                font-weight: 400;">
+              Designation: Year Head - Upper Secondary
+            </div>
+            <div style="margin: 0px;
+                outline: 0px;
+                padding: 0px;
+                line-height: 24.99px;
+                color: rgb(0, 0, 0);
+                font-family: Helvetica, sans-serif;
+                font-size: 17px;
+                font-weight: 400;">
+              Department: Science
+              <div style="margin: 0px;
+                  outline: 0px;
+                  padding: 0px;
+                  line-height: 24.99px;
+                  color: rgb(0, 0, 0);
+                  font-family: Helvetica, sans-serif;
+                  font-size: 17px;
+                  font-weight: 400;">
+                Email:&nbsp;<a style="margin: 0px;
+                    outline: 0px;
+                    padding: 0px;
+                    color: rgb(42, 103, 183);
+                    text-decoration: underline;" target="" href="mailto:tiffany_lim@schools.gov.sg">tiffany_lim@schools.gov.sg</a>
+              </div>
+            </div>
+          </b>
         </div>
       </td>
     </tr>
@@ -1277,72 +1343,6 @@ variant: markdown
         </div>
       </td>
 		</tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 114px;
-            height: 145px;" class="ive\_eobj\_left" alt="Tiffany_lim.jpg" src="/images/Science/tiffany_lim_1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lim Mei Yin, Tiffany
-            <div style="margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                line-height: 24.99px;
-                color: rgb(0, 0, 0);
-                font-family: Helvetica, sans-serif;
-                font-size: 17px;
-                font-weight: 400;">
-              Designation: Assistant Year Head - Sec 3
-            </div>
-            <div style="margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                line-height: 24.99px;
-                color: rgb(0, 0, 0);
-                font-family: Helvetica, sans-serif;
-                font-size: 17px;
-                font-weight: 400;">
-              Department: Science
-              <div style="margin: 0px;
-                  outline: 0px;
-                  padding: 0px;
-                  line-height: 24.99px;
-                  color: rgb(0, 0, 0);
-                  font-family: Helvetica, sans-serif;
-                  font-size: 17px;
-                  font-weight: 400;">
-                Email:&nbsp;<a style="margin: 0px;
-                    outline: 0px;
-                    padding: 0px;
-                    color: rgb(42, 103, 183);
-                    text-decoration: underline;" target="" href="mailto:tiffany_lim@schools.gov.sg">tiffany_lim@schools.gov.sg</a>
-              </div>
-            </div>
-          </b>
-        </div>
-      </td>
-    </tr>
 			 <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
