@@ -111,7 +111,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 107px;
-            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/School_Leaders/vanessa_cheng1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Carol.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -167,19 +167,6 @@ variant: markdown
  </tbody>
 </table>
 
-<br>
-<p></p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms Chong Xing Le Carol</strong>
-</p>
-<p>Designation: Head of Department -&nbsp;Character and Citizenship Education</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:chong_xing_le_carol@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>chong_xing_le_carol@schools.gov.sg</u></a>
-</p>
 
 
 
