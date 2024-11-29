@@ -244,7 +244,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 133px;" class="ive_eobj_left" alt="Lyn Song MeiEn.jpg" src="/images/Food_And_Nutrition/Lyn%20Song%20MeiEn.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 133px;" class="ive_eobj_left" alt="Lyn Song MeiEn.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -296,7 +296,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:song_meien_lyn@schools.gov.sg">song_meien_lyn@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:xin_ying_una_hsu@schools.gov.sg">xin_ying_una_hsu@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
