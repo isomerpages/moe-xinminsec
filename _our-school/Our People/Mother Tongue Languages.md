@@ -359,44 +359,75 @@ variant: markdown
         </div>
       </td>
     </tr>
+			<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Norliza%20Bte%20Ali%20web.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mdm Norliza Bte Ali</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Senior Teacher - Malay Language
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:norliza_ali@schools.gov.sg">norliza_ali@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
  </tbody>
 </table>
 
-
-
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-          outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 114px;
-          height: 145px;" height="auto" width="100%" alt="Xiao Yan Fei.jpg" src="/images/Mother_Tongue/Xiao%20Yan%20Fei.jpeg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Mdm Xiao Yan Fei</strong>
-</p>
-<p>Designation: Senior Teacher - Chinese Language</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:xiao_yanfei@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>xiao_yanfei@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
+isomer-image-wrapper"&gt;
 <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
@@ -405,7 +436,7 @@ variant: markdown
             float: left;
             width: 102px;
             height: 142px;" height="auto" width="100%" alt="Norliza Bte Ali web.jpg" src="/images/Mother_Tongue/Norliza%20Bte%20Ali%20web.jpeg">
-</div>
+
 
 
 <p>
