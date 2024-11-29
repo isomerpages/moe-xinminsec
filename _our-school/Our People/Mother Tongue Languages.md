@@ -424,256 +424,525 @@ variant: markdown
         </div>
       </td>
     </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Ang%20Koon%20Yong.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Ang Koon Yong</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:ang_koon_yong@schools.gov.sg">ang_koon_yong@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+			<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Koh%20Cher%20Yee.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Kor Cher Yee</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:koh_cher_yee@schools.gov.sg">koh_cher_yee@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+			<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lee Yen Nee</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:lee_yen_nee@schools.gov.sg">lee_yen_nee@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Lim%20Kok%20Chong.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Lim Kok Chong</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:lim_kok_chong@schools.gov.sg">lim_kok_chong@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Norain%20Binte%20Ismail.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Nor'ain Binte Ismail</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:nor_ain_ismail@schools.gov.sg">nor_ain_ismail@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/nur fatimah binte khalid.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Nur Fatimah Binte Khalid</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:nur_fatimah_khalid@schools.gov.sg">nur_fatimah_khalid@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/siaw%20pey%20chin.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Siaw Pey Shin</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:siaw_pey_shin@schools.gov.sg">siaw_pey_shin@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Wong Siew Har</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:wong_siew_har@schools.gov.sg">wong_siew_har@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
  </tbody>
 </table>
-
-isomer-image-wrapper"&gt;
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 102px;
-            height: 142px;" height="auto" width="100%" alt="Norliza Bte Ali web.jpg" src="/images/Mother_Tongue/Norliza%20Bte%20Ali%20web.jpeg">
-
-
-
-<p>
-<br>
-</p>
-<p><strong>Mdm Norliza Bte Ali</strong>
-</p>
-<p>Designation: Senior Teacher - Malay Language</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:norliza_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>norliza_ali@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 112px;
-            height: 141px;" height="auto" width="100%" alt="Ang Koon Yong.jpg" src="/images/Mother_Tongue/Ang%20Koon%20Yong.jpeg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Mr Ang Koon Yong</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:ang_koon_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>ang_koon_yong@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 115px;
-            height: 137px;" height="auto" width="100%" alt="Koh Cher Yee.jpg" src="/images/Mother_Tongue/Koh%20Cher%20Yee.jpeg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms Koh Cher Yee</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:koh_cher_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>koh_cher_yee@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 104px;
-            height: 141px;" height="auto" width="100%" alt="Pang Hui Chin web.jpg" src="/images/sl_a_lady.png">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms Lee Yen Nee</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:lee_yen_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>lee_yen_nee@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 116px;
-            height: 154px;" height="auto" width="100%" alt="Lim Kok Chong.jpg" src="/images/Mother_Tongue/Lim%20Kok%20Chong.jpeg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Mr Lim Kok Chong</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:lim_kok_chong@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>lim_kok_chong@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 117px;
-            height: 139px;" height="auto" width="100%" alt="Norain Binte Ismail.jpg" src="/images/Mother_Tongue/Norain%20Binte%20Ismail.jpeg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms Nor'ain Binte Ismail</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:nor_ain_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>nor_ain_ismail@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-          outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 110px;
-          height: 149px;" height="auto" width="100%" alt="pic.jpg" src="/images/Mother_Tongue/nur fatimah binte khalid.jpg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms Nur Fatimah Binte Khalid</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:Nur_Fatimah_Khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>nur_fatimah_khalid@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 114px;
-            height: 142px;" height="auto" width="100%" alt="siaw pey chin.jpg" src="/images/Mother_Tongue/siaw%20pey%20chin.jpeg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms Siaw Pey Shin</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:siaw_pey_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>siaw_pey_shin@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 104px;
-            height: 141px;" height="auto" width="100%" alt="Pang Hui Chin web.jpg" src="/images/sl_a_lady.png">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms Wong Siew Har</strong>
-</p>
-<p>Designation: Teacher</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:wong_siew_har@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>wong_siew_har@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<p></p>
