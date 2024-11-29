@@ -294,37 +294,76 @@ variant: markdown
         </div>
       </td>
     </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 107px;
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Xiao%20Yan%20Fei.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mdm Xiao Yan Fei</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Senior Teacher - Chinese Language
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:xiao_yanfei@schools.gov.sg">xiao_yanfei@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
  </tbody>
 </table>
 
 
 
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
-          outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 111px;
-          height: 144px;" height="auto" width="100%" alt="Ang_yan_chee" src="/images/Mother_Tongue/ang_yan_chee.png">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Ms&nbsp;Ang Yan Chee Sophia</strong>
-</p>
-<p>Designation: Subject Head - Mother Tongue Languages</p>
-<p>Department: Mother Tongue Languages</p>
-<p>Email:&nbsp;<a href="mailto:ang_yan_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>ang_yan_chee@schools.gov.sg</u></a>
-</p>
 
 
 
