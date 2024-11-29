@@ -203,7 +203,7 @@ variant: markdown
               Designation:&nbsp;<span style="margin: 0px;
                   outline: 0px;
                   padding: 0px;
-                  background-color: initial;">Assistant Year Head - Sec 3
+                  background-color: initial;">Year Head - Upper Sec
                 <div style="margin: 0px;
                     outline: 0px;
                     padding: 0px;
@@ -259,7 +259,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lyn Song Mei'En</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Hsu Xin Ying Una</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -269,7 +269,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Assistant Year Head - Sec 4 &amp; 5 (Acting)
+          Designation: Assistant Year Head - Sec 3
         </div>
         <div style="margin: 0px;
             outline: 0px;
