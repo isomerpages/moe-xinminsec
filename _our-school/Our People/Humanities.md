@@ -46,7 +46,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 112px;
-            height: 145px;" class="ive_eobj_left" alt="Latifah Bte Abdul Latiff.jpg" src="/images/Humanities/Latifah%20Bte%20Abdul%20Latiff.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 145px;" class="ive_eobj_left" alt="Latifah Bte Abdul Latiff.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -61,7 +61,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Latifah Bte Abdul Latiff</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lim Aiwen Bernardine</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -95,7 +95,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:latifah_abdul_latiff@schools.gov.sg">latifah_abdul_latiff@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:bernadine_lim_aiwen@schools.gov.sg">bernadine_lim_aiwen@schools.gov.sg</a>
         </div>
       </td>
     </tr>
