@@ -833,7 +833,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 107px;
-            height: 147px;" class="ive_eobj_left" alt="Lim Boon Ping.jpg" src="/images/Science/Lim%20Boon%20Ping.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 147px;" class="ive_eobj_left" alt="Lim Boon Ping.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
