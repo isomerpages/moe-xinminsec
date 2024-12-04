@@ -162,62 +162,136 @@ third_nav_title: Our People
         </div>
       </td>
     </tr>
-  </tbody>
-</table>
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
+		 <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
-            width: 110px;
-            height: 137px;" height="auto" width="100%" alt="Michael Rodrigues.jpg" src="/images/Science/Michael%20Rodrigues.jpeg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p>
-<br>
-</p>
-<p><strong>Mr Michael Rodrigues</strong>
-</p>
-<p>Designation: Senior Teacher - Biology</p>
-<p>Department: Science</p>
-<p>Email:&nbsp;<a href="mailto:rodrigues_michael_vincent@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>rodrigues_michael_vincent@schools.gov.sg</u></a>
-</p>
-
-
-
-
-<div class="isomer-image-wrapper">
-<img style="margin: 0px 10px 0px 0px;
+            width: 109px;
+            height: 127px;" class="ive_eobj_left" alt="Amy Luisita.jpg" src="/images/English Language/Chan%20Shu%20Min%20Charlene.jpg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
           outline: 0px;
-          padding: 0px;
-          border: none;
-          max-width: 100%;
-          float: left;
-          width: 109px;
-          height: 146px;" height="auto" width="100%" alt="Chan Shu Min Charlene.jpg" src="/images/English Language/Chan%20Shu%20Min%20Charlene.jpg">
-</div>
-<p>
-<br>
-</p>
-
-
-<p><strong><br>Ms Chan Shu Min Charlene</strong>
-</p>
-<p>Designation: Senior Teacher - Character and Citizenship Education</p>
-<p>Department: English Language and Literature</p>
-<p>Email:&nbsp;<a href="mailto:chan_shu_min_charlene@schools.gov.sg" rel="noopener noreferrer nofollow" target=""><u>chan_shu_min_charlene@schools.gov.sg</u></a>
-</p>
-
-
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Chan Shu Min Charlene<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Senior Teacher - Character and Citizenship Education
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: English Language and Literature
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:&nbsp;<a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:chan_shu_min_charlene@schools.gov.sg">chan_shu_min_charlene@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		 <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 109px;
+            height: 127px;" class="ive_eobj_left" alt="Amy Luisita.jpg" src="/images/Mother_Tongue/Xiao%20Yan%20Fei.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mdm Xiao Yan Fei<br style="margin: 0px; outline: 0px; padding: 0px"></b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Senior Teacher - Chinese Language
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Mother Tongue Languages
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:&nbsp;<a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:xiao_yanfei@schools.gov.sg">xiao_yanfei@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <div class="isomer-image-wrapper">
