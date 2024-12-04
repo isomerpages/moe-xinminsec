@@ -256,7 +256,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Teo Sze Ying</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Zhang Hua'an Noah</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -266,7 +266,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Assistant Year Head - Sec 2
+          Designation: Assistant Year Head - Sec 1
         </div>
         <div style="margin: 0px;
             outline: 0px;
