@@ -61,7 +61,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Lim Boon Ping</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Estella Chin Ning</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -95,7 +95,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:lim_boon_ping@schools.gov.sg">lim_boon_ping@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:estella_chin_ning@schools.gov.sg">estella_chin_ning@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
