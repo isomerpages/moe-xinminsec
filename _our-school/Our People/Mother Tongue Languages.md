@@ -436,7 +436,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 107px;
-            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/Mother_Tongue/Koh%20Cher%20Yee.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 161px;" class="ive_eobj_left" alt="Wu Danping.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
