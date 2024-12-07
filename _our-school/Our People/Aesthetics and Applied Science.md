@@ -194,7 +194,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Edna Pan</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Chan Ying Ying</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -224,11 +224,11 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a href="mailto:pan_yunxin_edna@schools.gov.sg" target="" style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">pan_yunxin_edna@schools.gov.sg</a>
+              text-decoration: underline;"></a>
         </div>
       </td>
 		</tr>
