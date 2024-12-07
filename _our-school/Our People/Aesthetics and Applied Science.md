@@ -228,7 +228,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;"></a>
+              text-decoration: underline;">-</a>
         </div>
       </td>
 		</tr>
