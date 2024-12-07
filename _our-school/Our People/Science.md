@@ -836,7 +836,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 116px;
-            height: 129px;" class="ive_eobj_left" alt="Hafizah1.jpg" src="/images/Science/Hafizah1.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 129px;" class="ive_eobj_left" alt="Hafizah1.jpg" src="/images/gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -851,7 +851,8 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Noor Hafizah Binte Mohamed Alias</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Mohammed Noor Hishamuddin Bin Haslir
+</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -885,7 +886,8 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:noor_hafizah_mohamed_alias@schools.gov.sg">noor_hafizah_mohamed_alias@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:mohammed_noor_hishamuddin_haslir@schools.gov.sg">mohammed_noor_hishamuddin_haslir@schools.gov.sg
+</a>
         </div>
       </td>
     </tr>
