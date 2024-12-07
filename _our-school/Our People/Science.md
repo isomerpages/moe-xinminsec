@@ -556,7 +556,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:"> -</a>
+              text-decoration: underline;" target="" href="mailto:chen_qixian_daphne_a@schools.gov.sg">chen_qixian_daphne_a@schools.gov.sg</a>
         </div>
       </td>
     </tr>
