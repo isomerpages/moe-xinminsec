@@ -201,7 +201,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Senior Special Educational Needs Officer
+          Designation: Senior Student Welfare Officer
         </div>
         <div style="margin: 0px;
             outline: 0px;
