@@ -971,7 +971,7 @@ variant: markdown
               font-family: Helvetica, sans-serif;
               font-size: 17px;
               font-weight: 400;">
-            <b style="margin: 0px; outline: 0px; padding: 0px">Mdm Tan Li Meng</b>
+            <b style="margin: 0px; outline: 0px; padding: 0px">Mr Tok Hong Da</b>
           </div>
           <div style="margin: 0px;
               outline: 0px;
@@ -1005,7 +1005,7 @@ variant: markdown
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:Tan_Li_Meng_A@schools.gov.sg">tan_li_meng_a@schools.gov.sg</a>
+                text-decoration: underline;" target="" href="mailto:tok_hong_da@schools.gov.sg">tok_hong_da@schools.gov.sg</a>
           </div>
         </td>
       </tr>
