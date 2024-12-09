@@ -286,11 +286,11 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a href="mailto:sarah_teo@schools.gov.sg" target="" style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:benjamin_low@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">sarah_teo@schools.gov.sg</a>
+              text-decoration: underline;">benjamin_low@schools.gov.sg</a>
         </div>
       </td>
 			</tr>
