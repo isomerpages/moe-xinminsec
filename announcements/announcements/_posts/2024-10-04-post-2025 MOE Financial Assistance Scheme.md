@@ -64,10 +64,26 @@ Cousins and others)
 <br><em>[GGAS : Government and Government-Aided Schools]</em>
 </p>
 <p>Application forms must be completed and submitted together with the required
-supporting documents by <strong><em><u>Friday, 1st November 2024</u></em></strong>.
+supporting documents by <strong><em><u>13th December 2024</u></em></strong>.
 This is to ensure that our FAS students receive their school uniform and
 textbooks by December 2024, before the start of the new school term on
 2 January 2025.&nbsp;</p>
+<p><strong><u>For year 2025 Secondary One Students</u></strong>
+</p>
+<p>Application forms should be completed and submitted with the supporting
+documents by 5pm on Friday, 20 December 2024. This is to ensure that our
+approved MOE FAS applications for Secondary One to receive their school
+uniform and textbooks before the new school term commences on Thursday,
+2 January 2025.</p>
+<p>For MOE FAS applications <strong><u>approved by respective primary schools, or their siblings’ schools</u></strong>,
+please click the below link or scan the QR code to submit the approval
+letter for our processing.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/MOE FAS/s1qr.png">
+</div>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1-moefas</a>
+</p>
 <p>If you wish to know more about MOE FAS or the eligibility calculator,
 you may visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
 <p>Singaporean students who do not meet the eligibility criteria for MOE

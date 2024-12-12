@@ -46,7 +46,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 112px;
-            height: 145px;" class="ive_eobj_left" alt="Latifah Bte Abdul Latiff.jpg" src="/images/Humanities/Latifah%20Bte%20Abdul%20Latiff.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 145px;" class="ive_eobj_left" alt="Latifah Bte Abdul Latiff.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -61,7 +61,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Latifah Bte Abdul Latiff</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lim Aiwen Bernardine</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -95,72 +95,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:latifah_abdul_latiff@schools.gov.sg">latifah_abdul_latiff@schools.gov.sg</a>
-        </div>
-      </td>
-    </tr>
-		 <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 109px;
-            height: 145px;" class="ive_eobj_left" alt="Ng Lee Hua.jpg" src="/images/Humanities/Ng%20Lee%20Hua.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Ng Lee Hua</b>
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Designation: Year Head - Lower Secondary
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Department: Humanities
-        </div>
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          Email:<span>&nbsp;</span><a style="margin: 0px;
-              outline: 0px;
-              padding: 0px;
-              color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:ng_lee_hua@schools.gov.sg">ng_lee_hua@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:bernadine_lim_aiwen@schools.gov.sg">bernadine_lim_aiwen@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -266,7 +201,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Assistant Year Head - Sec 1
+          Designation: Assistant Year Head - Sec 2
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -291,6 +226,71 @@ variant: markdown
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;">teo_sze_ying@schools.gov.sg</a>
+        </div>
+      </td>
+		</tr>
+			<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/gentleman.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 98px;
+            height: 141px;"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Zhang Hua'an Noah</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Assistant Year Head - Sec 1
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Humanities
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a href="mailto:Zhang_Huaan_Noah@schools.gov.sg" target="" style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;">zhang_huaan_noah@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
@@ -331,7 +331,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Character and Citizenship Education (Acting)
+          Designation: Subject Head - Character and Citizenship Education
         </div>
         <div style="margin: 0px;
             outline: 0px;

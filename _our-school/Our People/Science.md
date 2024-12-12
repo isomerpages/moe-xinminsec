@@ -46,7 +46,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 108px;
-            height: 148px;" class="ive_eobj_left" alt="Lim Boon Ping.jpg" src="/images/Science/Lim%20Boon%20Ping.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 148px;" class="ive_eobj_left" alt="Lim Boon Ping.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -61,7 +61,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Lim Boon Ping</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Estella Chin Ning</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -95,10 +95,78 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:lim_boon_ping@schools.gov.sg">lim_boon_ping@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:estella_chin_ning@schools.gov.sg">estella_chin_ning@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
+			  <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img src="/images/Science/tiffany_lim.png" alt="Low Yan Jin.jpg" class="ive\_eobj\_left" style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 114px;
+            height: 138px;"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lim Mei Yin, Tiffany
+            <div style="margin: 0px;
+                outline: 0px;
+                padding: 0px;
+                line-height: 24.99px;
+                color: rgb(0, 0, 0);
+                font-family: Helvetica, sans-serif;
+                font-size: 17px;
+                font-weight: 400;">
+              Designation:&nbsp;<span style="margin: 0px;
+                  outline: 0px;
+                  padding: 0px;
+                  background-color: initial;">Year Head - Upper Sec
+                <div style="margin: 0px;
+                    outline: 0px;
+                    padding: 0px;
+                    line-height: 24.99px;
+                    color: rgb(0, 0, 0);
+                    font-family: Helvetica, sans-serif;
+                    font-size: 17px;
+                    font-weight: 400;">
+                  Department: Science
+                  <div style="margin: 0px;
+                      outline: 0px;
+                      padding: 0px;
+                      line-height: 24.99px;
+                      color: rgb(0, 0, 0);
+                      font-family: Helvetica, sans-serif;
+                      font-size: 17px;
+                      font-weight: 400;">
+                    Email:&nbsp;<a href="mailto:Tiffany_Lim@schools.gov.sg" target="" style="margin: 0px;
+                        outline: 0px;
+                        padding: 0px;
+                        color: rgb(42, 103, 183);
+                        text-decoration: underline;">tiffany_lim@schools.gov.sg</a>
+                  </div>
+                </div></span>
+            </div></b>
+        </div>
+      </td>
+    </tr>
 			<tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -164,74 +232,6 @@ variant: markdown
         </div>
       </td>
 		</tr>
-		  <tr style="margin: 0px; outline: 0px; padding: 0px">
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <img src="/images/Science/tiffany_lim.png" alt="Low Yan Jin.jpg" class="ive\_eobj\_left" style="margin: 0px 10px 0px 0px;
-            outline: 0px;
-            padding: 0px;
-            border: none;
-            max-width: 100%;
-            float: left;
-            width: 114px;
-            height: 138px;"><br style="margin: 0px; outline: 0px; padding: 0px">
-      </td>
-      <td style="margin: 0px;
-          outline: 0px;
-          padding: 0px 15px 15px 0px;
-          vertical-align: top;">
-        <br style="margin: 0px; outline: 0px; padding: 0px">
-        <div style="margin: 0px;
-            outline: 0px;
-            padding: 0px;
-            line-height: 24.99px;
-            color: rgb(0, 0, 0);
-            font-family: Helvetica, sans-serif;
-            font-size: 17px;
-            font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lim Mei Yin, Tiffany
-            <div style="margin: 0px;
-                outline: 0px;
-                padding: 0px;
-                line-height: 24.99px;
-                color: rgb(0, 0, 0);
-                font-family: Helvetica, sans-serif;
-                font-size: 17px;
-                font-weight: 400;">
-              Designation:&nbsp;<span style="margin: 0px;
-                  outline: 0px;
-                  padding: 0px;
-                  background-color: initial;">Assistant Year Head - Sec 3
-                <div style="margin: 0px;
-                    outline: 0px;
-                    padding: 0px;
-                    line-height: 24.99px;
-                    color: rgb(0, 0, 0);
-                    font-family: Helvetica, sans-serif;
-                    font-size: 17px;
-                    font-weight: 400;">
-                  Department: Science
-                  <div style="margin: 0px;
-                      outline: 0px;
-                      padding: 0px;
-                      line-height: 24.99px;
-                      color: rgb(0, 0, 0);
-                      font-family: Helvetica, sans-serif;
-                      font-size: 17px;
-                      font-weight: 400;">
-                    Email:&nbsp;<a href="mailto:Tiffany_Lim@schools.gov.sg" target="" style="margin: 0px;
-                        outline: 0px;
-                        padding: 0px;
-                        color: rgb(42, 103, 183);
-                        text-decoration: underline;">tiffany_lim@schools.gov.sg</a>
-                  </div>
-                </div></span>
-            </div></b>
-        </div>
-      </td>
-    </tr>
 				 <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -244,7 +244,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 133px;" class="ive_eobj_left" alt="Lyn Song MeiEn.jpg" src="/images/Food_And_Nutrition/Lyn%20Song%20MeiEn.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 133px;" class="ive_eobj_left" alt="Lyn Song MeiEn.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -259,7 +259,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lyn Song Mei'En</b>
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Hsu Xin Ying Una</b>
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -269,7 +269,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Assistant Year Head - Sec 4 &amp; 5 (Acting)
+          Designation: Assistant Year Head - Sec 3
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -296,7 +296,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:song_meien_lyn@schools.gov.sg">song_meien_lyn@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:xin_ying_una_hsu@schools.gov.sg">xin_ying_una_hsu@schools.gov.sg</a>
         </div>
       </td>
 		</tr>
@@ -365,6 +365,71 @@ variant: markdown
         </div>
       </td>
 		</tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 110px;
+            height: 137px;" class="ive_eobj_left" alt="Michael Rodrigues.jpg" src="/images/gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Mr Koh Tat Siang</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Senior Teacher - Physics
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Science
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:koh_tat_siang@schools.gov.sg">koh_tat_siang@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
     <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
@@ -492,6 +557,71 @@ variant: markdown
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;" target="" href="mailto:tan_annie_a@schools.gov.sg">tan_annie_a@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		 <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 113px;
+            height: 143px;" class="ive_eobj_left" alt="Kris Chua.jpg" src="/images/sl_a_lady.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Chen Qixian Daphne</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Science
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:chen_qixian_daphne_a@schools.gov.sg">chen_qixian_daphne_a@schools.gov.sg</a>
         </div>
       </td>
     </tr>
@@ -694,7 +824,7 @@ variant: markdown
         </div>
       </td>
     </tr>
-    <tr style="margin: 0px; outline: 0px; padding: 0px">
+		  <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
           padding: 0px 15px 15px 0px;
@@ -770,6 +900,71 @@ variant: markdown
             border: none;
             max-width: 100%;
             float: left;
+            width: 112px;
+            height: 141px;" class="ive_eobj_left" alt="Lin Shun Yi.jpg" src="/images/Food_And_Nutrition/Lyn Song MeiEn.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Lyn Song Mei'En</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Science
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:song_meien_lyn@schools.gov.sg">song_meien_lyn@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+    <tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
             width: 113px;
             height: 134px;" class="ive_eobj_left" alt="Seetoh Lai Yip.jpg" src="/images/Science/Seetoh%20Lai%20Yip.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
@@ -821,6 +1016,73 @@ variant: markdown
               padding: 0px;
               color: rgb(42, 103, 183);
               text-decoration: underline;" target="" href="mailto:low_lai_yip@schools.gov.sg">low_lai_yip@schools.gov.sg</a>
+        </div>
+      </td>
+    </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <img style="margin: 0px 10px 0px 0px;
+            outline: 0px;
+            padding: 0px;
+            border: none;
+            max-width: 100%;
+            float: left;
+            width: 116px;
+            height: 129px;" class="ive_eobj_left" alt="Hafizah1.jpg" src="/images/gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+      </td>
+      <td style="margin: 0px;
+          outline: 0px;
+          padding: 0px 15px 15px 0px;
+          vertical-align: top;">
+        <br style="margin: 0px; outline: 0px; padding: 0px">
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          <b style="margin: 0px; outline: 0px; padding: 0px">Ms Mohammed Noor Hishamuddin Bin Haslir
+</b>
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Designation: Teacher
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Department: Science
+        </div>
+        <div style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            line-height: 24.99px;
+            color: rgb(0, 0, 0);
+            font-family: Helvetica, sans-serif;
+            font-size: 17px;
+            font-weight: 400;">
+          Email:<span>&nbsp;</span><a style="margin: 0px;
+              outline: 0px;
+              padding: 0px;
+              color: rgb(42, 103, 183);
+              text-decoration: underline;" target="" href="mailto:mohammed_noor_hishamuddin_haslir@schools.gov.sg">mohammed_noor_hishamuddin_haslir@schools.gov.sg
+</a>
         </div>
       </td>
     </tr>
