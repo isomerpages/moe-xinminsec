@@ -64,7 +64,7 @@ Cousins and others)
 <br><em>[GGAS : Government and Government-Aided Schools]</em>
 </p>
 <p>Application forms must be completed and submitted together with the required
-supporting documents by <strong><em><u>Friday, 1st November 2024</u></em></strong>.
+supporting documents by <strong><em><u>13th December 2024</u></em></strong>.
 This is to ensure that our FAS students receive their school uniform and
 textbooks by December 2024, before the start of the new school term on
 2 January 2025.&nbsp;</p>
