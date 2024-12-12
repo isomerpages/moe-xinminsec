@@ -79,7 +79,11 @@ uniform and textbooks before the new school term commences on Thursday,
 please click the below link or scan the QR code to submit the approval
 letter for our processing.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE FAS/s1qr.png">
+</div>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1-moefas</a>
+</p>
 <p>If you wish to know more about MOE FAS or the eligibility calculator,
 you may visit MOE website at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>.</p>
 <p>Singaporean students who do not meet the eligibility criteria for MOE
