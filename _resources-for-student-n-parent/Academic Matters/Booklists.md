@@ -8,12 +8,11 @@ variant: tiptap
 <h4><strong>Sec 1</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist/2025/XMSS_Booklist_2025__Sec_1__Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Booklist</a>
+<p><a href="/files/Booklist/2025/Sec_1_Booklist_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
 </p>
 </li>
 </ul>
-<p><strong>(dates of sales to be confirmed after MOE announces Sec 1 posting allocation)</strong>
-</p>
+<p></p>
 <h4><strong>Sec 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
