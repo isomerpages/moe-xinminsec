@@ -52,8 +52,9 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/uniform.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Uniform_Supplier_2025.png">
 </div>
 <p><strong>Important:-</strong>
 </p>
