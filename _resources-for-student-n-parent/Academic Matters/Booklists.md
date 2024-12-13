@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p><strong>(dates of sales to be confirmed after MOE announces Sec 1 posting allocation)</strong>
+<p><strong>(dates of sales included)</strong>
 </p>
 <h4><strong>Sec 2</strong></h4>
 <ul data-tight="true" class="tight">
