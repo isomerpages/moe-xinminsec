@@ -22,15 +22,6 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Xinmin Scholarship
-      id: infopic
-      description: In celebration of Xinmin Secondary's 80th Anniversary, the Xinmin
-        Scholarship will be launched for incoming 2025 Secondary 1 students.
-      button: Find out more
-      url: https://www.xinminsec.moe.edu.sg/xinmin-scholarship/
-      alt: Image alt text
-      image: /images/Prospectus/Xinmin_scholarship.jpg
-  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess
