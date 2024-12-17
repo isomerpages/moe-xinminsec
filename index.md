@@ -22,6 +22,16 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
+      title: Welcome to Xinmin!
+      id: infopic
+      description: Dear Parents / Guardians and Students,  Welcome to our Xinmin
+        Family! We are excited to be part of your growth journey. Please check
+        the link for key info.
+      button: 2025 Secondary 1 Posting
+      alt: Image alt text
+      url: https://www.xinminsec.moe.edu.sg/prospective-students/secondary-one-posting/
+      image: /images/Announcement Front Images/Welcome_Sec_1_img.png
+  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess
@@ -52,13 +62,6 @@ sections:
       url: https://www.xinminsec.moe.edu.sg/programmes/xinmin-academy-of-leaders/
       image: /images/Announcement Front Images/Curious, Compassion
         Confident/leader.jpg
-      alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
   - resources:
       title: Announcements
