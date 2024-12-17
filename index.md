@@ -53,7 +53,14 @@ sections:
       image: /images/Announcement Front Images/Curious, Compassion
         Confident/leader.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: Announcements
-      button: More Posts
+      id: resources
 ---
