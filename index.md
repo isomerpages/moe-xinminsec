@@ -22,6 +22,16 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
+      title: Welcome to Xinmin!
+      id: infopic
+      description: Dear Parents / Guardians and Students,  Welcome to our Xinmin
+        Family! We are excited to be part of your growth journey. Please check
+        the link for key info.
+      button: 2025 SEC 1 POSTING MICROSITE
+      alt: Image alt text
+      url: https://sites.google.com/xinminss.edu.sg/info-for-2025-sec-1/welcome-to-xinmin?authuser=0
+      image: /images/Announcement Front Images/Welcome_Sec_1_img.png
+  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess
@@ -55,5 +65,6 @@ sections:
       alt: Image alt text
   - resources:
       title: Announcements
-      button: More Posts
+      id: resources
+      button: MORE POSTS
 ---
