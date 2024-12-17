@@ -28,9 +28,10 @@ be considered for the transfer.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>PSLE score range of 2023</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>PSLE score range of 2025 Sec 1 Cohort</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
