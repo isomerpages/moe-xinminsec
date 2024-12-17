@@ -52,6 +52,6 @@ be considered for the transfer.
 <p>
 <br>For appeal for school transfer to Xinmin Secondary after Secondary 1 Posting
 Exercise, you may complete the <a href="https://go.gov.sg/xmsseconeappeal2025" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Appeal form</a> and
-submit it by Monday 23 December 2024, 12 pm. Late application will not
-be considered. As vacancies are limited, only successful candidates will
-be notified by the school.</p>
+submit it by <strong>Monday 23 December 2024, 12 pm</strong>. Late application
+will not be considered. As vacancies are limited, only successful candidates
+will be notified by the school.</p>
