@@ -63,4 +63,5 @@ sections:
   - resources:
       title: Announcements
       id: resources
+      button: MORE POSTS
 ---
