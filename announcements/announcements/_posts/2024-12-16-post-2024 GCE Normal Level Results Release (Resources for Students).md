@@ -14,6 +14,8 @@ informed decisions about your next step in your education journey.</p>
 <p>If you have any questions about ECG-related matters, you can contact your
 Form Teachers, Subject Teachers or our ECG Counsellor.</p>
 <p>All the best!</p>
+<p><a href="/files/Announcements/N Level/2024_GCE_Normal_Academic_Level_Zoom_Sharing_on_Pathways.pdf" rel="noopener nofollow" target="_blank">2024_GCE_Normal_Academic_Level_Zoom_Sharing_on_Pathways.pdf</a>
+</p>
 <p><a href="/files/Announcements/N Level/1__2024_N_Level_Briefing_Slides_161224.pdf" rel="noopener nofollow" target="_blank">1__2024_N_Level_Briefing_Slides_161224.pdf</a>
 </p>
 <p><a href="/files/Announcements/N Level/2__N_Level_Infographics_Resource_for_Students.pdf" rel="noopener nofollow" target="_blank">2__N_Level_Infographics_Resource_for_Students.pdf</a>
