@@ -34,24 +34,24 @@ be considered for the transfer.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Posting Group 3: 8 - 15</p>
+<p>Posting Group 3: To be updated</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Posting Group 2: 21 - 23</p>
+<p>Posting Group 2: To be updated</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Posting Group 1: 25 - 27</p>
+<p>Posting Group 1: To be updated</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
 <br>For appeal for school transfer to Xinmin Secondary after Secondary 1 Posting
-Exercise, you may complete the <a href="https://go.gov.sg/xmssappealsecone" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Appeal form</a> and
+Exercise, you may complete the <a href="https://go.gov.sg/xmsseconeappeal2025" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Appeal form</a> and
 submit it by <strong>Tuesday 26 December 2023, 12 pm</strong>. Late application
 will not be considered. As vacancies are limited, only successful candidates
 will be notified by the school.</p>
