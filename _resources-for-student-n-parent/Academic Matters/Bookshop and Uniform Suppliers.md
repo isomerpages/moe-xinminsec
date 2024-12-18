@@ -28,7 +28,7 @@ variant: tiptap
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Bookshop_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Bookshop_2025_1.png">
 </div>
 <p><strong>Important:-</strong>
 <br><strong>Please do not purchase any textbooks or uniform if you are applying for 2025 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
@@ -52,9 +52,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Uniform_Supplier_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Bookshop_2025_2.png">
 </div>
 <p><strong>Important:-</strong>
 </p>
@@ -63,7 +62,7 @@ variant: tiptap
 <p><strong>EOY Xinmin Sec Uniform Sales Schedule</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/uniform_sales_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Bookshop_2025_3.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/uniform_size.png">
