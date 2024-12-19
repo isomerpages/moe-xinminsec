@@ -138,7 +138,7 @@ variant: markdown
               Designation:&nbsp;<span style="margin: 0px;
                   outline: 0px;
                   padding: 0px;
-                  background-color: initial;">Year Head - Upper Sec
+                  background-color: initial;">Year Head - Upper Secondary
                 <div style="margin: 0px;
                     outline: 0px;
                     padding: 0px;
