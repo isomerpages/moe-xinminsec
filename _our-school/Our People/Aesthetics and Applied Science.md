@@ -687,6 +687,75 @@ variant: markdown
       </div>
     </td>
   </tr>
+		<tr style="margin: 0px; outline: 0px; padding: 0px">
+    <td style="margin: 0px;
+        outline: 0px;
+        padding: 0px 15px 15px 0px;
+        vertical-align: top;
+        width: 120px;">
+      <img style="margin: 0px 10px 0px 0px;
+          outline: 0px;
+          padding: 0px;
+          border: none;
+          max-width: 100%;
+          float: left;
+          width: 116px;
+          height: 127px;" class="ive_eobj_left" alt="Izyan Ayuni Binte Azmi.jpg" src="/images/Food_And_Nutrition/Izyan%20Ayuni%20Binte%20Azmi.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+    </td>
+    <td style="margin: 0px;
+        outline: 0px;
+        padding: 0px 15px 15px 0px;
+        vertical-align: top;">
+      <br style="margin: 0px; outline: 0px; padding: 0px">
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        <b style="margin: 0px; outline: 0px; padding: 0px">Ms Izyan Ayuni Binte Azmi</b>
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        Designation: Teacher
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        Department:&nbsp;<span style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            background-color: initial;">Science</span>
+      </div>
+      <div style="margin: 0px;
+          outline: 0px;
+          padding: 0px;
+          line-height: 24.99px;
+          color: rgb(0, 0, 0);
+          font-family: Helvetica, sans-serif;
+          font-size: 17px;
+          font-weight: 400;">
+        Email:<span>&nbsp;</span><a style="margin: 0px;
+            outline: 0px;
+            padding: 0px;
+            color: rgb(42, 103, 183);
+            text-decoration: underline;" target="" href="mailto:izyan_ayuni_binte_azmi@schools.gov.sg">izyan_ayuni_binte_azmi@schools.gov.sg</a>
+      </div>
+    </td>
+  </tr>
 		 <tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
