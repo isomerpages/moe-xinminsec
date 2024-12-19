@@ -478,7 +478,7 @@ third_nav_title: Our People
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;" target="" href="mailto:yap_bee_leng@schools.gov.sg">yap_bee_leng@schools.gov.sg</a>
+              text-decoration: underline;" target="" href="mailto:koh_tat_siang@schools.gov.sg">koh_tat_siang@schools.gov.sg</a>
         </div>
       </td>
     </tr>
