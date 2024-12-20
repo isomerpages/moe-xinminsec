@@ -335,7 +335,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Head of Department - Aesthetics and Applied Science (Acting)
+          Designation: Head of Department - Aesthetics and Applied Science
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -1466,11 +1466,11 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Email:<span>&nbsp;</span><a href="mailto:benjamin_low@schools.gov.sg" target="" style="margin: 0px;
+          Email:<span>&nbsp;</span><a href="mailto:low_chee_lum_benjamin@schools.gov.sg" target="" style="margin: 0px;
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">benjamin_low@schools.gov.sg</a>
+              text-decoration: underline;">low_chee_lum_benjamin@schools.gov.sg</a>
         </div>
       </td>
 			</tr>
@@ -1706,7 +1706,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Humanities (Acting) and Senior Teacher - Geography
+          Designation: Subject Head - Humanities
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -2031,7 +2031,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Subject Head - Student Leadership (Acting)
+          Designation: Subject Head - Student Management (Acting)
         </div>
         <div style="margin: 0px;
             outline: 0px;
