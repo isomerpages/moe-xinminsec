@@ -15,10 +15,6 @@ can always turn to your teachers for support.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.scamalert.sg/resources/videos" rel="noopener noreferrer nofollow" target="_blank">https://www.scamalert.sg/resources/videos</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.csa.gov.sg/gosafeonline" rel="noopener noreferrer nofollow" target="_blank">https://www.csa.gov.sg/gosafeonline</a>
 </p>
 </li>
