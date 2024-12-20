@@ -858,7 +858,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Teacher
+          Designation: Aesthetics and Applied Science
         </div>
         <div style="margin: 0px;
             outline: 0px;
