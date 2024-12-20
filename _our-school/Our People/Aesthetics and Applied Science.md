@@ -738,7 +738,7 @@ variant: markdown
         Department:&nbsp;<span style="margin: 0px;
             outline: 0px;
             padding: 0px;
-            background-color: initial;">Science</span>
+            background-color: initial;">Aesthetics and Applied Science</span>
       </div>
       <div style="margin: 0px;
           outline: 0px;
@@ -803,7 +803,7 @@ variant: markdown
         font-family: Helvetica, sans-serif;
         font-size: 17px;
         font-weight: 400;">
-      Department: Science
+      Department: Aesthetics and Applied Science
     </div>
     <div style="margin: 0px;
         outline: 0px;
