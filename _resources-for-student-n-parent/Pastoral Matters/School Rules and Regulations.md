@@ -595,15 +595,30 @@ and another.</p>
 as a whole and individuals or smaller groups</p>
 <p>3. Legal Justice directs the relationship of individuals to the good of
 the community at large.</p>
-<p>Consequences for offences in <strong>Category A </strong>include warning,
-suspension from class, detention, demerit points, confiscation, appropriate
-restitution, and corrective work orders.</p>
-<p>Confiscation of mobile electronic devices will be for 5 school days with
-1 demerit point. Repeat offenders will have demerit points in addition
-to the confiscation for 5 school days.</p>
+<p>Consequences for offences in Category A include, but not limited to, warning,
+suspension from class, detention, demerit points appropriate restitution,
+corrective work orders and confiscation:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confiscation due to unauthorised usage, possession and/or misuse of digital
+devices for first time offences will be for 1 school day (collection after
+school the next day, except for Friday). If the confiscation is on Friday,
+students may collect the digital device after school but will have to surrender
+it again at the start of the next school day .</p>
+</li>
+<li>
+<p>For second time offences (across all digital devices, not necessarily
+the same device type) , the confiscation will be for 3 days, which will
+include the weekend (if applicable).</p>
+</li>
+<li>
+<p>For third time offences onwards, the confiscation will be for 5 days which
+will include the weekend (if applicable) for each instance</p>
+</li>
+</ul>
 <p>For attire offences, immediate corrective action will be taken by the
-school to bring about compliance. These will include bringing students
-for haircut, confiscating unauthorised items or apparel.</p>
+school to bring about compliance. These include bringing students for haircut
+and confiscating unauthorised items or apparel.</p>
 <p>While undergoing suspension or detention, students may be required to
 write reflections, essays or a letter of undertaking promising not to commit
 the offence again and undergo in-house counselling by teachers. Repeat
@@ -617,9 +632,11 @@ behaviour and further disciplinary actions or follow up.</p>
 programmes deemed fit by the school management.</p>
 <p>The school may partner with external agencies to organise intervention
 programmes which the students will be required to participate in.</p>
-<p>For <strong>Category C </strong>offences, over and above the measures described
+<p>For <strong>Category C</strong> offences, over and above the measures described
 in Category A and B, Category C offences warrant additional demerit points,
 caning and suspension from school.</p>
+<p>Students who commit Cat C offences may be demoted from leadership positions,
+barred or benched from tournaments/competitions.</p>
 <p>Students who are suspended from school will not be allowed to re-sit any
 tests or exams missed as a result of the suspension. Re-admission to school
 after suspension will be based on the conditions set by the School Management.</p>
@@ -629,6 +646,7 @@ required to perform community services or responsibility programmes.</p>
 Recalcitrant offenders who do not respond positively to the school’s intervention
 measures may be required to withdraw from school or face expulsion from
 school.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
