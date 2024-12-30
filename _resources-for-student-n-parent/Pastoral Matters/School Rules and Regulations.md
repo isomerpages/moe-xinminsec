@@ -403,16 +403,6 @@ will be considered for overseas trips organized by the school.</p>
 <li>
 <p>Tobacco products and alcohol</p>
 </li>
-<li>
-<p>Contraband or duty unpaid items</p>
-</li>
-<li>
-<p>All items that the school management may deem inappropriate or potentially
-dangerous for students, such as penknives</p>
-</li>
-<li>
-<p>All items prohibited under Singapore Law</p>
-</li>
 </ul>
 <p></p>
 <p><strong>Restricted Items</strong>
