@@ -436,61 +436,56 @@ dangerous for students, such as penknives</p>
 <p>Any pupil who violates the school rules will face consequences that commensurate
 with the severity, frequency and manner in which the offence was committed.
 The 3 categories of offences here define the seriousness of the offence.</p>
-<p></p>
-<p><strong>TYPE OF OFFENCES</strong>
-</p>
-<p></p>
+<p>TYPE OF OFFENCES</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Category A Offences</strong>
-</p>
+<p>• Category A Offences</p>
 </li>
 <li>
-<p>A1 - Late for class/lesson/school activity</p>
+<p>A1 – Late for class/lesson/school activity</p>
 </li>
 <li>
-<p>A2 - Improper attire/appearance/grooming</p>
+<p>A2 – Improper attire/appearance/grooming</p>
 </li>
 <li>
-<p>A3 - Littering/Spitting</p>
+<p>A3 – Littering/Spitting</p>
 </li>
 <li>
-<p>A4 - Bringing drinks/food out of designated areas</p>
+<p>A4 – Bringing drinks/food out of designated areas</p>
 </li>
 <li>
-<p>A5 - Eating in classrooms</p>
+<p>A5 – Eating in classrooms</p>
 </li>
 <li>
-<p>A6 - Failure to perform classroom duties</p>
+<p>A6 – Failure to perform classroom duties</p>
 </li>
 <li>
-<p>A7 - Failure to return utensils in the canteen</p>
+<p>A7 – Failure to return utensils in the canteen</p>
 </li>
 <li>
-<p>A8 - Bringing Schedule A items</p>
+<p>A8 – Bringing Schedule A items</p>
 </li>
 <li>
-<p>A9 – Misuse of mobile electronic devices</p>
+<p>A9 – Unauthorised usage, possession and/or misuse of digital devices (e.g.
+PLDs, laptops, tablets, mobile phones, smartwatches)</p>
 </li>
 <li>
-<p>A10 - Using school property/facilities without proper authorisation</p>
-<p></p>
+<p>A10 – Using school property/facilities without proper authorisation</p>
 </li>
 <li>
-<p><strong>Category B Offences</strong>
-</p>
+<p>Category B Offences</p>
 </li>
 <li>
-<p>B1 - Skipping school activities/lessons</p>
+<p>B1 – Skipping school activities/lessons</p>
 </li>
 <li>
-<p>B2 - Defaulting on homework/assignments</p>
+<p>B2 – Defaulting on homework/assignments</p>
 </li>
 <li>
 <p>B3 – Late for school</p>
 </li>
 <li>
-<p>B4 –Misbehaving in class</p>
+<p>B4 – Misbehaving in class</p>
 </li>
 <li>
 <p>B5 – Disrupting class/activities</p>
@@ -502,10 +497,10 @@ The 3 categories of offences here define the seriousness of the offence.</p>
 <p>B7 – Rude or disobedient to student leaders</p>
 </li>
 <li>
-<p>B8 - Use of coarse, rude/abusive/vulgar language</p>
+<p>B8 – Use of coarse, rude/abusive/vulgar language</p>
 </li>
 <li>
-<p>B9 - Failure recite Student Creed</p>
+<p>B9 – Failure recite Student Creed</p>
 </li>
 <li>
 <p>B10 – Lying</p>
@@ -515,17 +510,15 @@ The 3 categories of offences here define the seriousness of the offence.</p>
 </li>
 <li>
 <p>B12 – Bringing Schedule B items</p>
-<p></p>
 </li>
 <li>
-<p><strong>Category C Offences</strong>
-</p>
+<p>Category C Offences</p>
 </li>
 <li>
-<p>C1 - Repeatedly flouting any school rule/rules</p>
+<p>C1 – Repeatedly flouting any school rule/rules</p>
 </li>
 <li>
-<p>C2 – Bringing Schedule C items</p>
+<p>• C2 – Bringing Schedule C items</p>
 </li>
 <li>
 <p>C3 – Threatening/Bullying/Intimidating others</p>
@@ -547,16 +540,16 @@ e-vaporizers)</p>
 <p>C8 – Causing hurt</p>
 </li>
 <li>
-<p>C9 - Leaving school without permission</p>
+<p>C9 – Leaving school without permission</p>
 </li>
 <li>
 <p>C10 – Truancy/Wilful absenteeism</p>
 </li>
 <li>
-<p>C11 - Forging of signature/document</p>
+<p>C11 – Forging of signature/document</p>
 </li>
 <li>
-<p>C12 - Cheating</p>
+<p>C12 – Cheating</p>
 </li>
 <li>
 <p>C13 – Affray/Fighting</p>
@@ -565,7 +558,7 @@ e-vaporizers)</p>
 <p>C14 – Causing public nuisance</p>
 </li>
 <li>
-<p>C15 - Vandalism</p>
+<p>C15 – Vandalism</p>
 </li>
 <li>
 <p>C16 – Theft/Misappropriation</p>
@@ -589,6 +582,7 @@ e-vaporizers)</p>
 <p>C22 – Defamation of the school, staff, nation or nation’s leaders</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In meting out disciplinary consequences for various offences, the school
