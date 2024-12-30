@@ -416,14 +416,6 @@ dangerous for students, such as penknives</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Restricted Items</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All electronic devices other than student PLDs</p>
-</li>
-</ul>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
