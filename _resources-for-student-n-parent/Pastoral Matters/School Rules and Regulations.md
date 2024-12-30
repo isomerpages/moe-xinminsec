@@ -259,15 +259,20 @@ be no sleeping in class, disruptive behaviour or tardiness).</p>
 <h3>Demerit Point System</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Demerit points will be awarded by the Discipline Committee for any offence
-committed.</p>
+<p>Demerit points will be administered by the Discipline Committee for any
+offence committed.</p>
 </li>
 <li>
 <p>Demerit points awarded will be commensurate with the severity, frequency,
 or manner in which the offence was committed.</p>
 </li>
 <li>
-<p>Every student will have their demerit points reset at the end of the semester.</p>
+<p>Students will receive a conduct grade at the end of each semester based
+on their demerit points for that semester</p>
+</li>
+<li>
+<p>Every student will have their demerit points reset at the end of each
+semester. Graduating students do not get a reset.</p>
 </li>
 <li>
 <p>Boys who accumulate 20 or more demerit points may be caned.</p>
@@ -281,15 +286,8 @@ or suspended from school.</p>
 year will also not receive a Testimonial from the school.</p>
 </li>
 <li>
-<p>Graduating students who accumulate more than 3 demerit points in the academic
-year will have their Leadership points (L.E.A.P.S) reduced.</p>
-</li>
-<li>
-<p>Only students with conduct grades that are ‘Very Good’ or better will
-be considered for overseas trips organised by the school.</p>
-</li>
-<li>
-<p>Students’ conduct grades are dependent on the demerit points accumulated.</p>
+<p>Only students with ‘Very Good’ or better for the last 2 conduct grades
+will be considered for overseas trips organized by the school.</p>
 </li>
 </ul>
 <p></p>
