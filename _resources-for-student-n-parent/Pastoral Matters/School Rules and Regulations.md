@@ -6,12 +6,12 @@ third_nav_title: Pastoral Matters
 variant: tiptap
 ---
 <h3>Introduction</h3>
-<p>In enforcing the school rules and regulations, the school aims to teach
-students the school values of Respect, Responsibility, and Resilience.
-We hope to teach students how to uphold standards of behaviour that are
-acceptable in school and society. Overall, the rules and regulations are
-designed to create a safe and secure environment for all students to learn
-and for staff to carry out their duties.</p>
+<p>In enforcing the school rules and regulations, we aim to teach students
+the values of Respect, Responsibility, and Resilience. We hope to teach
+students how to uphold standards of behaviour that are acceptable in school
+and society. Overall, the rules and regulations are designed to create
+a safe and secure environment for all students to learn and for staff to
+carry out their duties.</p>
 <h3>Respect</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,30 +45,34 @@ to the uniform is not allowed.</p>
 <p>Only the Xinmin Jacket, which is part of the school uniform, can be worn.</p>
 </li>
 <li>
-<p>Xinmin PE T-shirts and shorts are to be worn for PE lessons. Students
-are not to wear PE attire on days they do not have PE.</p>
+<p>Students may report to school in half uniform on days when they have PE
+(Half uniform is defined as PE top and uniform bottom) and when allowed
+by the School Management (for hot weather, haze, science practical exams)</p>
+</li>
+<li>
+<p>Xinmin PE T-shirts and shorts are to be worn for PE lessons and students
+are to change back to half uniform after the lesson. Students are not to
+wear PE attire when they are not at PE, unless permission is given by the
+teacher (e.g. CCA activity, cohort camps).</p>
 </li>
 <li>
 <p>Class T-shirts are only for graduating classes (Sec 4 and Sec 5) and their
 design and use must be approved by the School Management.</p>
 </li>
 <li>
-<p>Students may report to school in half uniform on days when they have PE
-(Half uniform is defined as PE top and uniform bottom).</p>
-</li>
-<li>
 <p>Students should not wear jewellery, accessories (other than those stated
 here), makeup or items not in the prescribed school uniform. Female students
 may wear hair accessories such as hair bands and clips, which are to be
-black, dark brown or dark blue. Female students may wear a pair of small
-ear-studs. The ear stud must not be more than 5mm in diameter. Earrings
+black, dark brown or dark blue. Female students may only wear one ear stud
+per earlobe. The ear stud must not be more than 5mm in diameter. Earrings
 are not allowed.</p>
 </li>
 <li>
 <p>Fingernails are to be short and unpainted.</p>
 </li>
 <li>
-<p>Ear sticks and earrings or studs are not allowed on boys.</p>
+<p>Hair accessories, ear sticks and earrings or studs are not allowed on
+boys.</p>
 </li>
 <li>
 <p>Piercing of any other part of the body is not allowed.</p>
@@ -94,19 +98,15 @@ is given.</p>
 is allowed.</p>
 </li>
 <li>
-<p>Only girls are allowed to wear hair accessories such as hair bands and
-clips, which are to be black, dark brown or dark blue.</p>
-</li>
-<li>
 <p>Students are to be respectful to school staff.</p>
 </li>
 <li>
-<p>Students are to treat each other with respect (e.g. no vulgar, sexual
+<p>Students are to treat each other with respect (e.g., no vulgar, sexual
 or crude language, no bullying, threatening, intimidating, impersonation
 or causing annoyance or hurt to anyone by any means).</p>
 </li>
 <li>
-<p>Students are not to be intimate with one another (e.g. no hugging, holding
+<p>Students are not to be intimate with one another (e.g., no hugging, holding
 of hands, kissing, writing of intimate correspondence, sitting in close
 proximity etc.).</p>
 </li>
@@ -118,7 +118,7 @@ proximity etc.).</p>
 <h3>Responsibility</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are to be good ambassadors of the school at all times.</p>
+<p>Students are to always be good ambassadors of the school.</p>
 </li>
 <li>
 <p>Students must be standing with their class in the assigned venue punctually
@@ -126,9 +126,9 @@ and participate in the Flag Raising Ceremony.</p>
 </li>
 <li>
 <p>Absence from school or any school activity must be substantiated by a
-valid medical certificate (MC) or documented valid reason (other than MCs,
-reasons for absence are only deemed valid upon acceptance by, and at the
-discretion of the school).</p>
+valid medical certificate (MC) clearly stating the doctor’s diagnosis,
+or documented valid reason (other than MCs, reasons for absence are only
+deemed valid upon acceptance by, and at the discretion of the school).</p>
 </li>
 <li>
 <p>Students must submit their MCs/documents within 3 working days upon their
@@ -140,11 +140,11 @@ may be granted in special cases. For such cases, parents or legal guardians
 must write in to the Year Head and Form Teachers at least 2 weeks beforehand.</p>
 </li>
 <li>
-<p>Students must demonstrate civic mindedness – e.g. queue up, return utensils
+<p>Students must demonstrate civic mindedness – e.g., queue up, return utensils
 in the canteen, keep the school clean, return lost and found items.</p>
 </li>
 <li>
-<p>Students must keep their classrooms clean, neat and tidy at all times.</p>
+<p>Students must keep their classrooms clean, neat, and tidy always.</p>
 </li>
 <li>
 <p>If food and drinks are consumed in the classrooms, disposable packaging
@@ -153,9 +153,6 @@ along the corridor and not in the classroom wastepaper basket.</p>
 </li>
 <li>
 <p>During lesson time, students are not to have food and drink on their tables.</p>
-</li>
-<li>
-<p>Students are not allowed to consume food and drink during free periods.</p>
 </li>
 <li>
 <p>Students must use school facilities and equipment with proper authorisation
@@ -176,31 +173,49 @@ equipment or property.</p>
 as assemblies, celebrations, sports day.</p>
 </li>
 <li>
-<p>Students who need to leave a lesson for valid reasons (e.g. going to the
-toilet, feeling unwell, official duties) must seek the permission of the
-teacher present.</p>
+<p>Students who need to leave a lesson for valid reasons (e.g., going to
+the toilet, feeling unwell, official duties) must seek the permission of
+the teacher present.</p>
 </li>
 <li>
 <p>Students are to diligently perform all duties assigned to them.</p>
 </li>
 <li>
-<p>During lessons, all mobile phones must be locked in student lockers unless
-specific permission from school staff is given.</p>
+<p>Mobile phones must be locked in students’ own lockers from 0725hrs (0825hrs
+on Thursdays) to at least 1140hrs.</p>
 </li>
 <li>
-<p>Students are to take care of their Personal Learning Devices (PLDs) and
-lock them in their lockers when not in use.</p>
+<p>During all lessons (timetabled and additional, e.g. Structured Intervention
+Programme), mobile phones must be locked in students’ own lockers.</p>
+</li>
+<li>
+<p>To promote balanced screen use amongst students , usage of mobile phones
+within the school compound is not allowed till after 1140hrs. Usage after
+the allowed time may be restricted by school staff if it interferes with
+school programmes or activities.</p>
+</li>
+<li>
+<p>Mobile phones are not allowed in the library at all times.</p>
+</li>
+<li>
+<p>During lessons, Personal Learning Devices (PLDs) and other digital devices/accessories
+can only be used when directed by teachers and for purposes authorised
+by teachers.</p>
+</li>
+<li>
+<p>Students are to take care of their PLDs and lock them in their lockers
+when not in use.</p>
 </li>
 <li>
 <p>Students are to bring home their PLDs every day and charge them at home.</p>
 </li>
 <li>
-<p>Lockers are the property of the school and are provided on loan to students.
-Students are to take care of their lockers and provide their own locks.</p>
+<p>Students are to hand over their mobile phones or PLDs for confiscation
+as a disciplinary measure or for the purpose of investigation.</p>
 </li>
 <li>
-<p>Usage of mobile phones outside of time-tabled time may be restricted by
-school staff if it interferes with school programmes or activities.</p>
+<p>Lockers are the property of the school and are provided on loan to students.
+Students are to take care of their lockers and provide their own locks.</p>
 </li>
 <li>
 <p>Students must uphold the law and report those who break the law.</p>
@@ -244,15 +259,20 @@ be no sleeping in class, disruptive behaviour or tardiness).</p>
 <h3>Demerit Point System</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Demerit points will be awarded by the Discipline Committee for any offence
-committed.</p>
+<p>Demerit points will be administered by the Discipline Committee for any
+offence committed.</p>
 </li>
 <li>
 <p>Demerit points awarded will be commensurate with the severity, frequency,
 or manner in which the offence was committed.</p>
 </li>
 <li>
-<p>Every student will have their demerit points reset at the end of the semester.</p>
+<p>Students will receive a conduct grade at the end of each semester based
+on their demerit points for that semester</p>
+</li>
+<li>
+<p>Every student will have their demerit points reset at the end of each
+semester. Graduating students do not get a reset.</p>
 </li>
 <li>
 <p>Boys who accumulate 20 or more demerit points may be caned.</p>
@@ -266,19 +286,20 @@ or suspended from school.</p>
 year will also not receive a Testimonial from the school.</p>
 </li>
 <li>
-<p>Graduating students who accumulate more than 3 demerit points in the academic
-year will have their Leadership points (L.E.A.P.S) reduced.</p>
-</li>
-<li>
-<p>Only students with conduct grades that are ‘Very Good’ or better will
-be considered for overseas trips organised by the school.</p>
-</li>
-<li>
-<p>Students’ conduct grades are dependent on the demerit points accumulated.</p>
+<p>Only students with ‘Very Good’ or better for the last 2 conduct grades
+will be considered for overseas trips organized by the school.</p>
 </li>
 </ul>
 <p></p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -391,18 +412,15 @@ dangerous for students, such as penknives</p>
 </li>
 <li>
 <p>All items prohibited under Singapore Law</p>
+<p></p>
 </li>
 </ul>
 <p></p>
-<p><strong>Restricted Items</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>All electronic devices other than student PLDs</p>
-</li>
-</ul>
-<p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -418,61 +436,56 @@ dangerous for students, such as penknives</p>
 <p>Any pupil who violates the school rules will face consequences that commensurate
 with the severity, frequency and manner in which the offence was committed.
 The 3 categories of offences here define the seriousness of the offence.</p>
-<p></p>
-<p><strong>TYPE OF OFFENCES</strong>
-</p>
-<p></p>
+<p>TYPE OF OFFENCES</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Category A Offences</strong>
-</p>
+<p>• Category A Offences</p>
 </li>
 <li>
-<p>A1 - Late for class/lesson/school activity</p>
+<p>A1 – Late for class/lesson/school activity</p>
 </li>
 <li>
-<p>A2 - Improper attire/appearance/grooming</p>
+<p>A2 – Improper attire/appearance/grooming</p>
 </li>
 <li>
-<p>A3 - Littering/Spitting</p>
+<p>A3 – Littering/Spitting</p>
 </li>
 <li>
-<p>A4 - Bringing drinks/food out of designated areas</p>
+<p>A4 – Bringing drinks/food out of designated areas</p>
 </li>
 <li>
-<p>A5 - Eating in classrooms</p>
+<p>A5 – Eating in classrooms</p>
 </li>
 <li>
-<p>A6 - Failure to perform classroom duties</p>
+<p>A6 – Failure to perform classroom duties</p>
 </li>
 <li>
-<p>A7 - Failure to return utensils in the canteen</p>
+<p>A7 – Failure to return utensils in the canteen</p>
 </li>
 <li>
-<p>A8 - Bringing Schedule A items</p>
+<p>A8 – Bringing Schedule A items</p>
 </li>
 <li>
-<p>A9 – Misuse of mobile electronic devices</p>
+<p>A9 – Unauthorised usage, possession and/or misuse of digital devices (e.g.
+PLDs, laptops, tablets, mobile phones, smartwatches)</p>
 </li>
 <li>
-<p>A10 - Using school property/facilities without proper authorisation</p>
-<p></p>
+<p>A10 – Using school property/facilities without proper authorisation</p>
 </li>
 <li>
-<p><strong>Category B Offences</strong>
-</p>
+<p>Category B Offences</p>
 </li>
 <li>
-<p>B1 - Skipping school activities/lessons</p>
+<p>B1 – Skipping school activities/lessons</p>
 </li>
 <li>
-<p>B2 - Defaulting on homework/assignments</p>
+<p>B2 – Defaulting on homework/assignments</p>
 </li>
 <li>
 <p>B3 – Late for school</p>
 </li>
 <li>
-<p>B4 –Misbehaving in class</p>
+<p>B4 – Misbehaving in class</p>
 </li>
 <li>
 <p>B5 – Disrupting class/activities</p>
@@ -484,10 +497,10 @@ The 3 categories of offences here define the seriousness of the offence.</p>
 <p>B7 – Rude or disobedient to student leaders</p>
 </li>
 <li>
-<p>B8 - Use of coarse, rude/abusive/vulgar language</p>
+<p>B8 – Use of coarse, rude/abusive/vulgar language</p>
 </li>
 <li>
-<p>B9 - Failure recite Student Creed</p>
+<p>B9 – Failure recite Student Creed</p>
 </li>
 <li>
 <p>B10 – Lying</p>
@@ -497,17 +510,15 @@ The 3 categories of offences here define the seriousness of the offence.</p>
 </li>
 <li>
 <p>B12 – Bringing Schedule B items</p>
-<p></p>
 </li>
 <li>
-<p><strong>Category C Offences</strong>
-</p>
+<p>Category C Offences</p>
 </li>
 <li>
-<p>C1 - Repeatedly flouting any school rule/rules</p>
+<p>C1 – Repeatedly flouting any school rule/rules</p>
 </li>
 <li>
-<p>C2 – Bringing Schedule C items</p>
+<p>• C2 – Bringing Schedule C items</p>
 </li>
 <li>
 <p>C3 – Threatening/Bullying/Intimidating others</p>
@@ -529,16 +540,16 @@ e-vaporizers)</p>
 <p>C8 – Causing hurt</p>
 </li>
 <li>
-<p>C9 - Leaving school without permission</p>
+<p>C9 – Leaving school without permission</p>
 </li>
 <li>
 <p>C10 – Truancy/Wilful absenteeism</p>
 </li>
 <li>
-<p>C11 - Forging of signature/document</p>
+<p>C11 – Forging of signature/document</p>
 </li>
 <li>
-<p>C12 - Cheating</p>
+<p>C12 – Cheating</p>
 </li>
 <li>
 <p>C13 – Affray/Fighting</p>
@@ -547,7 +558,7 @@ e-vaporizers)</p>
 <p>C14 – Causing public nuisance</p>
 </li>
 <li>
-<p>C15 - Vandalism</p>
+<p>C15 – Vandalism</p>
 </li>
 <li>
 <p>C16 – Theft/Misappropriation</p>
@@ -571,6 +582,7 @@ e-vaporizers)</p>
 <p>C22 – Defamation of the school, staff, nation or nation’s leaders</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In meting out disciplinary consequences for various offences, the school
@@ -583,15 +595,30 @@ and another.</p>
 as a whole and individuals or smaller groups</p>
 <p>3. Legal Justice directs the relationship of individuals to the good of
 the community at large.</p>
-<p>Consequences for offences in <strong>Category A </strong>include warning,
-suspension from class, detention, demerit points, confiscation, appropriate
-restitution, and corrective work orders.</p>
-<p>Confiscation of mobile electronic devices will be for 5 school days with
-1 demerit point. Repeat offenders will have demerit points in addition
-to the confiscation for 5 school days.</p>
+<p>Consequences for offences in Category A include, but not limited to, warning,
+suspension from class, detention, demerit points appropriate restitution,
+corrective work orders and confiscation:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Confiscation due to unauthorised usage, possession and/or misuse of digital
+devices for first time offences will be for 1 school day (collection after
+school the next day, except for Friday). If the confiscation is on Friday,
+students may collect the digital device after school but will have to surrender
+it again at the start of the next school day .</p>
+</li>
+<li>
+<p>For second time offences (across all digital devices, not necessarily
+the same device type) , the confiscation will be for 3 days, which will
+include the weekend (if applicable).</p>
+</li>
+<li>
+<p>For third time offences onwards, the confiscation will be for 5 days which
+will include the weekend (if applicable) for each instance</p>
+</li>
+</ul>
 <p>For attire offences, immediate corrective action will be taken by the
-school to bring about compliance. These will include bringing students
-for haircut, confiscating unauthorised items or apparel.</p>
+school to bring about compliance. These include bringing students for haircut
+and confiscating unauthorised items or apparel.</p>
 <p>While undergoing suspension or detention, students may be required to
 write reflections, essays or a letter of undertaking promising not to commit
 the offence again and undergo in-house counselling by teachers. Repeat
@@ -605,9 +632,11 @@ behaviour and further disciplinary actions or follow up.</p>
 programmes deemed fit by the school management.</p>
 <p>The school may partner with external agencies to organise intervention
 programmes which the students will be required to participate in.</p>
-<p>For <strong>Category C </strong>offences, over and above the measures described
+<p>For <strong>Category C</strong> offences, over and above the measures described
 in Category A and B, Category C offences warrant additional demerit points,
 caning and suspension from school.</p>
+<p>Students who commit Cat C offences may be demoted from leadership positions,
+barred or benched from tournaments/competitions.</p>
 <p>Students who are suspended from school will not be allowed to re-sit any
 tests or exams missed as a result of the suspension. Re-admission to school
 after suspension will be based on the conditions set by the School Management.</p>
@@ -617,6 +646,7 @@ required to perform community services or responsibility programmes.</p>
 Recalcitrant offenders who do not respond positively to the school’s intervention
 measures may be required to withdraw from school or face expulsion from
 school.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
