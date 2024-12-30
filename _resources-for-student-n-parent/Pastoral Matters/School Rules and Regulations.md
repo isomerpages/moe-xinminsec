@@ -6,12 +6,12 @@ third_nav_title: Pastoral Matters
 variant: tiptap
 ---
 <h3>Introduction</h3>
-<p>In enforcing the school rules and regulations, the school aims to teach
-students the school values of Respect, Responsibility, and Resilience.
-We hope to teach students how to uphold standards of behaviour that are
-acceptable in school and society. Overall, the rules and regulations are
-designed to create a safe and secure environment for all students to learn
-and for staff to carry out their duties.</p>
+<p>In enforcing the school rules and regulations, we aim to teach students
+the values of Respect, Responsibility, and Resilience. We hope to teach
+students how to uphold standards of behaviour that are acceptable in school
+and society. Overall, the rules and regulations are designed to create
+a safe and secure environment for all students to learn and for staff to
+carry out their duties.</p>
 <h3>Respect</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -45,30 +45,34 @@ to the uniform is not allowed.</p>
 <p>Only the Xinmin Jacket, which is part of the school uniform, can be worn.</p>
 </li>
 <li>
-<p>Xinmin PE T-shirts and shorts are to be worn for PE lessons. Students
-are not to wear PE attire on days they do not have PE.</p>
+<p>Students may report to school in half uniform on days when they have PE
+(Half uniform is defined as PE top and uniform bottom) and when allowed
+by the School Management (for hot weather, haze, science practical exams)</p>
+</li>
+<li>
+<p>Xinmin PE T-shirts and shorts are to be worn for PE lessons and students
+are to change back to half uniform after the lesson. Students are not to
+wear PE attire when they are not at PE, unless permission is given by the
+teacher (e.g. CCA activity, cohort camps).</p>
 </li>
 <li>
 <p>Class T-shirts are only for graduating classes (Sec 4 and Sec 5) and their
 design and use must be approved by the School Management.</p>
 </li>
 <li>
-<p>Students may report to school in half uniform on days when they have PE
-(Half uniform is defined as PE top and uniform bottom).</p>
-</li>
-<li>
 <p>Students should not wear jewellery, accessories (other than those stated
 here), makeup or items not in the prescribed school uniform. Female students
 may wear hair accessories such as hair bands and clips, which are to be
-black, dark brown or dark blue. Female students may wear a pair of small
-ear-studs. The ear stud must not be more than 5mm in diameter. Earrings
+black, dark brown or dark blue. Female students may only wear one ear stud
+per earlobe. The ear stud must not be more than 5mm in diameter. Earrings
 are not allowed.</p>
 </li>
 <li>
 <p>Fingernails are to be short and unpainted.</p>
 </li>
 <li>
-<p>Ear sticks and earrings or studs are not allowed on boys.</p>
+<p>Hair accessories, ear sticks and earrings or studs are not allowed on
+boys.</p>
 </li>
 <li>
 <p>Piercing of any other part of the body is not allowed.</p>
@@ -94,19 +98,15 @@ is given.</p>
 is allowed.</p>
 </li>
 <li>
-<p>Only girls are allowed to wear hair accessories such as hair bands and
-clips, which are to be black, dark brown or dark blue.</p>
-</li>
-<li>
 <p>Students are to be respectful to school staff.</p>
 </li>
 <li>
-<p>Students are to treat each other with respect (e.g. no vulgar, sexual
+<p>Students are to treat each other with respect (e.g., no vulgar, sexual
 or crude language, no bullying, threatening, intimidating, impersonation
 or causing annoyance or hurt to anyone by any means).</p>
 </li>
 <li>
-<p>Students are not to be intimate with one another (e.g. no hugging, holding
+<p>Students are not to be intimate with one another (e.g., no hugging, holding
 of hands, kissing, writing of intimate correspondence, sitting in close
 proximity etc.).</p>
 </li>
@@ -278,7 +278,15 @@ be considered for overseas trips organised by the school.</p>
 </li>
 </ul>
 <p></p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -402,7 +410,11 @@ dangerous for students, such as penknives</p>
 </li>
 </ul>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
