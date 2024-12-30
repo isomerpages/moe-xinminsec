@@ -118,7 +118,7 @@ proximity etc.).</p>
 <h3>Responsibility</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are to be good ambassadors of the school at all times.</p>
+<p>Students are to always be good ambassadors of the school.</p>
 </li>
 <li>
 <p>Students must be standing with their class in the assigned venue punctually
@@ -126,9 +126,9 @@ and participate in the Flag Raising Ceremony.</p>
 </li>
 <li>
 <p>Absence from school or any school activity must be substantiated by a
-valid medical certificate (MC) or documented valid reason (other than MCs,
-reasons for absence are only deemed valid upon acceptance by, and at the
-discretion of the school).</p>
+valid medical certificate (MC) clearly stating the doctor’s diagnosis,
+or documented valid reason (other than MCs, reasons for absence are only
+deemed valid upon acceptance by, and at the discretion of the school).</p>
 </li>
 <li>
 <p>Students must submit their MCs/documents within 3 working days upon their
@@ -140,11 +140,11 @@ may be granted in special cases. For such cases, parents or legal guardians
 must write in to the Year Head and Form Teachers at least 2 weeks beforehand.</p>
 </li>
 <li>
-<p>Students must demonstrate civic mindedness – e.g. queue up, return utensils
+<p>Students must demonstrate civic mindedness – e.g., queue up, return utensils
 in the canteen, keep the school clean, return lost and found items.</p>
 </li>
 <li>
-<p>Students must keep their classrooms clean, neat and tidy at all times.</p>
+<p>Students must keep their classrooms clean, neat, and tidy always.</p>
 </li>
 <li>
 <p>If food and drinks are consumed in the classrooms, disposable packaging
@@ -153,9 +153,6 @@ along the corridor and not in the classroom wastepaper basket.</p>
 </li>
 <li>
 <p>During lesson time, students are not to have food and drink on their tables.</p>
-</li>
-<li>
-<p>Students are not allowed to consume food and drink during free periods.</p>
 </li>
 <li>
 <p>Students must use school facilities and equipment with proper authorisation
@@ -176,31 +173,49 @@ equipment or property.</p>
 as assemblies, celebrations, sports day.</p>
 </li>
 <li>
-<p>Students who need to leave a lesson for valid reasons (e.g. going to the
-toilet, feeling unwell, official duties) must seek the permission of the
-teacher present.</p>
+<p>Students who need to leave a lesson for valid reasons (e.g., going to
+the toilet, feeling unwell, official duties) must seek the permission of
+the teacher present.</p>
 </li>
 <li>
 <p>Students are to diligently perform all duties assigned to them.</p>
 </li>
 <li>
-<p>During lessons, all mobile phones must be locked in student lockers unless
-specific permission from school staff is given.</p>
+<p>Mobile phones must be locked in students’ own lockers from 0725hrs (0825hrs
+on Thursdays) to at least 1140hrs.</p>
 </li>
 <li>
-<p>Students are to take care of their Personal Learning Devices (PLDs) and
-lock them in their lockers when not in use.</p>
+<p>During all lessons (timetabled and additional, e.g. Structured Intervention
+Programme), mobile phones must be locked in students’ own lockers.</p>
+</li>
+<li>
+<p>To promote balanced screen use amongst students , usage of mobile phones
+within the school compound is not allowed till after 1140hrs. Usage after
+the allowed time may be restricted by school staff if it interferes with
+school programmes or activities.</p>
+</li>
+<li>
+<p>Mobile phones are not allowed in the library at all times.</p>
+</li>
+<li>
+<p>During lessons, Personal Learning Devices (PLDs) and other digital devices/accessories
+can only be used when directed by teachers and for purposes authorised
+by teachers.</p>
+</li>
+<li>
+<p>Students are to take care of their PLDs and lock them in their lockers
+when not in use.</p>
 </li>
 <li>
 <p>Students are to bring home their PLDs every day and charge them at home.</p>
 </li>
 <li>
-<p>Lockers are the property of the school and are provided on loan to students.
-Students are to take care of their lockers and provide their own locks.</p>
+<p>Students are to hand over their mobile phones or PLDs for confiscation
+as a disciplinary measure or for the purpose of investigation.</p>
 </li>
 <li>
-<p>Usage of mobile phones outside of time-tabled time may be restricted by
-school staff if it interferes with school programmes or activities.</p>
+<p>Lockers are the property of the school and are provided on loan to students.
+Students are to take care of their lockers and provide their own locks.</p>
 </li>
 <li>
 <p>Students must uphold the law and report those who break the law.</p>
