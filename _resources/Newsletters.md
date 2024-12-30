@@ -7,7 +7,7 @@ variant: tiptap
 <h2>Newsletters</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://xinminsec-moe-edu-sg-admin.cwp.sg/2025/" rel="noopener nofollow" target="_blank">2025</a>
+<p><a href="https://www.xinminsec.moe.edu.sg/resources/parents/newsletters/2025/" rel="noopener nofollow" target="_blank">2025</a>
 </p>
 </li>
 <li>
