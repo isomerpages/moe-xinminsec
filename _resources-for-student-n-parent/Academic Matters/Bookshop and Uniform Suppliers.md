@@ -26,7 +26,36 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
+<p><strong>BOOKSHOP NOTICE FOR PARENTS</strong>
+</p>
+<p>To ensure smooth operations, parents are kindly requested to avoid purchasing
+textbooks during the following peak hours:</p>
+<p>Day 1 (2 Jan 2025):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>9:40 am - 11:00 am (Recess)</p>
+</li>
+<li>
+<p>12:30 pm - 1:30 pm (Lunch)</p>
+</li>
+</ul>
+<p>Day 2 (3 Jan 2025):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>8:00 am - 8:40 am (Recess)</p>
+</li>
+</ul>
+<p>Recommended visiting times:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Day 1: 9:00 am - 9:30 am, 11:00 am - 12:00 noon</p>
+</li>
+<li>
+<p>Day 2: 9:00 am - 2:00 pm</p>
+</li>
+</ul>
+<p>During peak hours, priority will be given to students. We appreciate your
+understanding and cooperation. Thank you.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Bookshop_2025_1.png">
 </div>
