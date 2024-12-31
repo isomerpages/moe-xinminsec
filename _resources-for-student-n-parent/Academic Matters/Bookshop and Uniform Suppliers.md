@@ -48,10 +48,10 @@ textbooks during the following peak hours:</p>
 <p>Recommended visiting times:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Day 1: 9:00 am - 9:30 am, 11:00 am - 12:20 pm</p>
+<p>Day 1: 9:00 am - 9:30 am, 11:00 am - 12:00 noon</p>
 </li>
 <li>
-<p>Day 2: 9:00 am - 3:00 pm</p>
+<p>Day 2: 9:00 am - 2:00 pm</p>
 </li>
 </ul>
 <p>During peak hours, priority will be given to students. We appreciate your
