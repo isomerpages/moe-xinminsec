@@ -47,4 +47,4 @@ more tips and resources for students, parents, and guardians.</p>
 </p>
 </li>
 </ul>
-<p>s</p>
+<p></p>
