@@ -26,13 +26,26 @@ they should exercise social responsibility and wear a mask.</p>
 more tips and resources for students, parents, and guardians.</p>
 <p>Thank you for your continued support and partnership.</p>
 <p>Attachment</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/O Level/2024/2024_GCE_O_Level_Results_Release___Supporting_Your_Teen_Copy.pdf" rel="noopener nofollow" target="_blank">2024 GCE O-Level Results Release - Supporting Your Teen</a>
 </p>
+</li>
+<li>
 <p><a href="/files/O Level/2024/Infosheet_for_Parents__O_Level__Copy.pdf" rel="noopener nofollow" target="_blank">2024 O-Level Info Sheet for Parents</a>
 </p>
+</li>
+<li>
 <p><a href="/files/O Level/2024/Resource_for_Students_Copy.pdf" rel="noopener nofollow" target="_blank">Resource for Students</a>
 </p>
+</li>
+<li>
 <p><a href="/files/O Level/2024/2025_JAE_Information_Sheet_Copy.pdf" rel="noopener nofollow" target="_blank">2025 JAE Info Sheet</a>
 </p>
+</li>
+<li>
 <p><a href="/files/O Level/2024/Guide_to_CourseFinder_and_SchoolFinder_Copy.pdf" rel="noopener nofollow" target="_blank">Guide to CourseFinder and SchoolFinder</a>
 </p>
+</li>
+</ul>
+<p></p>
