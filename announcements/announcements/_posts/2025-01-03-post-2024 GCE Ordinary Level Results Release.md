@@ -25,8 +25,6 @@ they should exercise social responsibility and wear a mask.</p>
 <p>Please refer to links below for a message and information sheet that contains
 more tips and resources for students, parents, and guardians.</p>
 <p>Thank you for your continued support and partnership.</p>
-<p><strong><u>Attachment</u></strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/O Level/2024/2024_GCE_O_Level_Results_Release___Supporting_Your_Teen_Copy.pdf" rel="noopener nofollow" target="_blank">2024 GCE O-Level Results Release - Supporting Your Teen</a>
@@ -49,4 +47,4 @@ more tips and resources for students, parents, and guardians.</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p>s</p>
