@@ -24,9 +24,9 @@ sections:
   - infopic:
       title: 2024 GCE Ordinary Level Results Release
       id: infopic
-      description: Dear Students Parents, The results of the GCE O-Level exams will be
-        released on Friday, 10 Jan at 2 pm. Please access the link below for
-        more details.
+      description: Dear students and parents, the results of the GCE O-Level exams
+        will be released on Friday, 10 Jan at 2 pm. Please access the link below
+        for more details.
       button: Announcement
       alt: Image alt text
       url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/2024-gce-ordinary-level-results-release/
