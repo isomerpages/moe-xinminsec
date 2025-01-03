@@ -142,13 +142,13 @@ lasting memories together!</p>
 <p>Ms Edna Pan (IC)</p>
 </li>
 <li>
-<p>Ms Susan Lee Boon Hong</p>
+<p>Ms Nur Ellyana</p>
 </li>
 <li>
-<p>Ms Ong Chiew Inn</p>
+<p>Ms Asniza Hassan</p>
 </li>
 <li>
-<p>Ms Nur Ellyana Binti Roslan</p>
+<p>Ms Francesca Peck</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
