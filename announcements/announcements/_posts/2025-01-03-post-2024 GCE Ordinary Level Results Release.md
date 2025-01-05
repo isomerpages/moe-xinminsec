@@ -10,8 +10,8 @@ variant: tiptap
 <p>Dear Students, Parents, and Guardians,</p>
 <p>The Ministry of Education (MOE) and the Singapore Examinations and Assessment
 Board (SEAB) have announced that the results of the Singapore-Cambridge
-GCE O-Level Examinations will be released on <strong>Friday, 10 January at 2 pm</strong>.</p>
-<p>Students should report to the <strong>Multi-Purpose Hall at 1.30 pm</strong>.
+GCE O-Level Examinations will be released on <strong>Friday, 10 January at 2.30 pm</strong>.</p>
+<p>Students should report to the <strong>Multi-Purpose Hall at 2.00 pm</strong>.
 You are reminded to be in your school uniform, and to adhere to the school’s
 attire and grooming guidelines. Parents and guardians are welcome to accompany
 students to school to collect their results.</p>
