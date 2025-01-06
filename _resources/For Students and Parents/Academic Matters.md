@@ -61,10 +61,10 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Personal Digital Learning Programme (PDLP)</h2>
+<h2>National Digital Learning Programme (NDLP)</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/xinminss.edu.sg/ndlpxmss/ndlpxinmin" rel="noopener noreferrer nofollow" target="_blank">PDLP Site</a>
+<p><a href="https://sites.google.com/xinminss.edu.sg/ndlpxmss/ndlpxinmin" rel="noopener noreferrer nofollow" target="_blank">NDLP Site</a>
 </p>
 </li>
 </ul>
