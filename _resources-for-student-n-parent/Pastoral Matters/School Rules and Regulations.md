@@ -64,8 +64,8 @@ design and use must be approved by the School Management.</p>
 here), makeup or items not in the prescribed school uniform. Female students
 may wear hair accessories such as hair bands and clips, which are to be
 black, dark brown or dark blue. Female students may only wear one ear stud
-per earlobe. The ear stud must not be more than 5mm in diameter. Loop earrings
-are not allowed.</p>
+per earlobe. The ear stud must not be more than 5mm in diameter. Only stud
+earrings are allowed.</p>
 </li>
 <li>
 <p>Fingernails are to be short and unpainted.</p>
