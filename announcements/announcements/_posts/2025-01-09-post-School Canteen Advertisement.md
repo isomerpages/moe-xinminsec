@@ -53,7 +53,7 @@ standards set by the&nbsp;<strong>Health Promotion Board</strong>&nbsp;under
 the&nbsp;<strong>“Healthy Meals in Schools Programme (HMSP)”</strong>&nbsp;guidelines.</p>
 </li>
 </ul>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
+<p><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
