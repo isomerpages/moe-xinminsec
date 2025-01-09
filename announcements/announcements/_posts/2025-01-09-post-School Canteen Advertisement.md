@@ -154,5 +154,38 @@ date of work commencement at the Stall)</p>
 </tbody>
 </table>
 </li>
+<li>
+<p>Submit the completed Application Form and documents via email OR to the
+School’s General Office by the closing date.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: Xinmin Secondary School, 11 Hougang Ave 8, Singapore 538789</p>
+</li>
+<li>
+<p>Contact No: 62889382</p>
+</li>
+<li>
+<p>Email: <a href="mohamed_qabeer_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_qabeer_sulaiman@schools.gov.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Mohamed Qabeer Bin Sulaiman</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>How to get there?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Hougang MRT (NE14)</p>
+</li>
+<li>
+<p>Bus number: &nbsp;25, 55, 74, 112, 132, 147, 165, 854</p>
+</li>
+</ul>
+</li>
 </ol>
+<p></p>
 <p></p>
