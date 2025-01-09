@@ -267,9 +267,7 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Note to successful applicants:</strong>
+<p><strong>&nbsp;Note to successful applicants:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
