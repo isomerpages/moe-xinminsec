@@ -46,5 +46,9 @@ more tips and resources for students, parents, and guardians.</p>
 <p><a href="/files/O Level/2024/Guide_to_CourseFinder_and_SchoolFinder_Copy.pdf" rel="noopener nofollow" target="_blank">Guide to CourseFinder and SchoolFinder</a>
 </p>
 </li>
+<li>
+<p><a href="/files/O Level/2024/2024_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank">2024 O-Level Briefing Slides for Students</a>
+</p>
+</li>
 </ul>
 <p></p>
