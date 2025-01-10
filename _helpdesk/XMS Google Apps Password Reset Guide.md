@@ -1,5 +1,5 @@
 ---
-title: Google Apps Password Reset Guide
+title: XMS Google Apps Password Reset Guide
 permalink: /resources/students/helpdesk/google-apps-password-reset-guide/
 description: ""
 variant: tiptap
