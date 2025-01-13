@@ -501,7 +501,7 @@ variant: markdown
               max-width: 100%;
               float: left;
               width: 108px;
-              height: 137px;" class="ive_eobj_left" alt="Joanne_Kong.jpg" src="/images/gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 137px;" class="ive_eobj_left" alt="Joanne_Kong.jpg" src="/images/Mathematics/Hui_Win_Sun.png"><br style="margin: 0px; outline: 0px; padding: 0px">
         </td>
         <td style="margin: 0px;
             outline: 0px;
