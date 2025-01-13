@@ -1412,9 +1412,9 @@ variant: markdown
 				<tr style="margin: 0px; outline: 0px; padding: 0px">
       <td style="margin: 0px;
           outline: 0px;
-          padding: 0px 15px 15px 0px;
+          padding: 0px px 15px 0px;
           vertical-align: top;">
-        <img src="/images/gentleman.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px px px;
+        <img src="/images/Mathematics/benjamin_low.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px px px;
             outline: 0px;
             padding: 0px;
             border: none;
