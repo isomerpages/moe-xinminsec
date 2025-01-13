@@ -234,7 +234,7 @@ variant: markdown
           outline: 0px;
           padding: 0px 15px 15px 0px;
           vertical-align: top;">
-        <img src="/images/gentleman.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
+        <img src="/images/Mathematics/benjamin_low.png" alt="Pang Hui Chin web.jpg" class="ive_eobj_left" style="margin: 0px 10px 0px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
@@ -290,7 +290,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">benjamin_low@schools.gov.sg</a>
+              text-decoration: underline;">low_chee_lum_benjamin@schools.gov.sg </a>
         </div>
       </td>
 			</tr>
