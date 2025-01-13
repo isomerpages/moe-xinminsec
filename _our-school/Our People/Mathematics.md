@@ -891,7 +891,7 @@ variant: markdown
               max-width: 100%;
               float: left;
               width: 112px;
-              height: 145px;" class="ive_eobj_left" alt="Tan Li Meng.jpg" src="/images/gentleman.png"><br style="margin: 0px; outline: 0px; padding: 0px">
+              height: 145px;" class="ive_eobj_left" alt="Tan Li Meng.jpg" src="/images/Mathematics/tok_hong_da.png"><br style="margin: 0px; outline: 0px; padding: 0px">
         </td>
         <td style="margin: 0px;
             outline: 0px;
