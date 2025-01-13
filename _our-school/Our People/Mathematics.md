@@ -290,7 +290,7 @@ variant: markdown
               outline: 0px;
               padding: 0px;
               color: rgb(42, 103, 183);
-              text-decoration: underline;">benjamin_low@schools.gov.sg</a>
+              text-decoration: underline;">low_chee_lum_benjamin@schools.gov.sg </a>
         </div>
       </td>
 			</tr>
