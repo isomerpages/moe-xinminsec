@@ -35,7 +35,7 @@ variant: tiptap
 <p>Chinese Mixed Rice Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 January 2025</p>
+<p>23 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -43,6 +43,13 @@ variant: tiptap
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
 and stall assistant. Able to provide good service and quality food at reasonable
 prices.</p>
+</li>
+<li>
+<p>Open to Halal and non-halal stallholders.</p>
+</li>
+<li>
+<p>Individual stallholders and business entities are invited to apply for
+this stall.</p>
 </li>
 <li>
 <p>Ability to provide good service and quality food at reasonable prices.</p>
