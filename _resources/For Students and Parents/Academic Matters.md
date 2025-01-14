@@ -16,12 +16,10 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1Wnx1Hn9S9AAb_9xHo3k5yKKwE2uN4KVBRcrRYNgxjsI/edit?gid=2112711109#gid=2112711109" rel="noopener noreferrer nofollow" target="_blank">Sec 1 to 3 Home-Based Learning (23/7 to 25/7)</a>
-</p>
+<p>Sec 1 to 3 Home-Based Learning</p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1zCTEhBie9RnReL50NgGRnai1IBsTmHFR_FpSUDCeTk8/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
-</p>
+<p>Weighted Assessment Schedule</p>
 </li>
 </ul>
 <h2>Assessment</h2>
