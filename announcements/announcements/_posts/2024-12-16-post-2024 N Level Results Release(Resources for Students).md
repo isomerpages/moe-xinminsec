@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Students,</p>
+<p>Congratulations on reaching another significant milestone in your life.</p>
+<p>Below are some materials that you may find useful in helping you make
+informed decisions about your next step in your education journey.</p>
+<p>If you have any questions about ECG-related matters, you can contact your
+Form Teachers, Subject Teachers or our ECG Counsellor.</p>
+<p>All the best!</p>
+<p></p>
