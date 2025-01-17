@@ -34,7 +34,7 @@ third_nav_title: Students
 <tr>
 <td rowspan="1" colspan="2">
 <p>98.0% of O-Level students were eligible for progression to A-Level and
-Polytechnic</p>
+Polytechnics</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ Programme</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>99.0% of O-Level students were eligible for progression to A-Level and
-Polytechnic</p>
+Polytechnics</p>
 </td>
 </tr>
 <tr>
