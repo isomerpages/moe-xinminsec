@@ -330,52 +330,6 @@ Programme</p>
 <p>Quarterfinalist</p>
 </td>
 </tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>85.5% of O-Level students eligible for progression to JC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
-Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>YEAR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>COMPETITION/PLATFORM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
-Programme</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
