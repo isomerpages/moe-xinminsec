@@ -24,7 +24,53 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="24" colspan="1">
+<td rowspan="6" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>90.0% of O-Level students were eligible for progression to A-Level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>98.0% of O-Level students were eligible for progression to A-Level and
+Polytechnics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>98.7% of N(A)-Level students were eligible for progression to Sec 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
+Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="27" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -33,12 +79,28 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>More than 30 of our O-Level students scored 7 to 9 Distinctions</p>
+<p>99.0% of O-Level students were eligible for progression to A-Level and
+Polytechnics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
+<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>93.4% of N(A)-Level students were eligible for progression to Sec 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
 </tr>
@@ -211,15 +273,6 @@ Explore Tracks</p>
 <p>Certificate of Accomplishment</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>YEAR</p>
@@ -232,7 +285,7 @@ Explore Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="13" colspan="1">
+<td rowspan="14" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -246,7 +299,12 @@ Explore Tracks</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
+<p>93.9% of N(A)-Level students were eligible for progression to Sec 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
 </tr>
@@ -328,52 +386,6 @@ Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quarterfinalist</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>85.5% of O-Level students eligible for progression to JC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
-Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>YEAR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>COMPETITION/PLATFORM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
-Programme</p>
 </td>
 </tr>
 </tbody>
