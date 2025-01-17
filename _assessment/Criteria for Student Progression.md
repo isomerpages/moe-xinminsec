@@ -146,7 +146,7 @@ attainment level for their respective streams:</p>
 <p>Promoted to Sec 4N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laterally transferred to Sec 3N(A)</p>
+<p>Take Sec 3 in 2026 with most subjects at G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Retained at Sec 3N(T)</p>
