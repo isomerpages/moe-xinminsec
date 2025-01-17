@@ -232,7 +232,7 @@ Explore Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="13" colspan="1">
+<td rowspan="14" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -246,7 +246,12 @@ Explore Tracks</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
+<p>93.9% of N(A)-Level students were eligible for progression to Sec 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
 </tr>
