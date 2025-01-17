@@ -386,11 +386,6 @@ Programme</p>
 <p>Quarterfinalist</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
