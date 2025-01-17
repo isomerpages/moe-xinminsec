@@ -24,7 +24,7 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="24" colspan="1">
+<td rowspan="27" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -33,12 +33,27 @@ third_nav_title: Students
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>More than 30 of our O-Level students scored 7 to 9 Distinctions</p>
+<p>99.0% of O-Level students were eligible for progression to A-Level/Polytechnic</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>1 in 2 of our N(A)-Level students were eligible for Polytechnic Foundation
+<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>93.4% of N(A)-Level students were eligible for progression to Sec 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
 </tr>
