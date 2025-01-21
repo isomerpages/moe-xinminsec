@@ -158,10 +158,7 @@ Yu Wen, Sarah (305, 2024)</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Norfarhana Abdullah (IC)</p>
-</li>
-<li>
-<p>Ms Norhuda Bte Maksum</p>
+<p>Ms Norhuda Bte Maksum (IC)</p>
 </li>
 <li>
 <p>Ms Chua Ai Zhen Kris</p>
@@ -170,7 +167,10 @@ Yu Wen, Sarah (305, 2024)</p>
 <p>Mr Annie Ng</p>
 </li>
 <li>
-<p>Ms Nor'ain Binte Ismail
+<p>Ms Nor'ain Binte Ismail</p>
+</li>
+<li>
+<p>Ms Lee Lu May (Mrs May Ng)
 <br>
 </p>
 </li>
