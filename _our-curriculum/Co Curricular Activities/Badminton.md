@@ -131,13 +131,10 @@ both personal and collective growth with every competition.</p>
 <h4><strong>&nbsp;Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Lim Kok Chong (IC)</p>
+<p>Ms Noor Hafizah (IC)</p>
 </li>
 <li>
 <p>Ms Anny Roezza Abdul Aziz</p>
-</li>
-<li>
-<p>Ms Noor Hafizah</p>
 </li>
 <li>
 <p>Ms Siaw Pey Shin</p>
