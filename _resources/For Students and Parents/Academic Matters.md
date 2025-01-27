@@ -16,7 +16,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Sec 1 to 3 Home-Based Learning</p>
+<p><a href="https://go.gov.sg/xms-hbl-schedule" rel="noopener nofollow" target="_blank">Home-Based Learning Schedule</a>
+</p>
 </li>
 <li>
 <p>Weighted Assessment Schedule</p>
