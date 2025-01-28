@@ -1,5 +1,0 @@
-collections:
-  schedule:
-    output: true
-    order:
-      - WA1 schedules.md
