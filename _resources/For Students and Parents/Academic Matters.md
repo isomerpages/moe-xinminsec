@@ -20,7 +20,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Weighted Assessment Schedule</p>
+<p><a href="https://drive.google.com/drive/folders/1vCIRXe0Yr_V7iWTv768DyyU9VjuK1jzk" rel="noopener nofollow" target="_blank">Weighted Assessment Schedule</a>
+</p>
 </li>
 </ul>
 <h2>Assessment</h2>
