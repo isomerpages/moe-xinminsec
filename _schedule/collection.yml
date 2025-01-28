@@ -1,4 +1,5 @@
 collections:
   schedule:
     output: true
-    order: []
+    order:
+      - WA1 schedules.md
