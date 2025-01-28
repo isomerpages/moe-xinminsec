@@ -1,0 +1,4 @@
+collections:
+  schedule:
+    output: true
+    order: []
