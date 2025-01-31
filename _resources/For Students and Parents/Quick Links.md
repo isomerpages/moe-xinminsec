@@ -5,21 +5,6 @@ description: ""
 third_nav_title: For Students and Parents
 variant: tiptap
 ---
-<h2>Schedules</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://calendar.google.com/calendar/u/0/embed?src=c_k7p87vuspth3eedj4n2mair55g@group.calendar.google.com&amp;ctz=Asia/Singapore" rel="noopener noreferrer nofollow" target="_blank">Academic Calendar</a>
-</p>
-</li>
-<li>
-<p><a href="/resources/students/timetables/school-timetable" rel="noopener noreferrer nofollow" target="_blank">School Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/spreadsheets/d/1S7lChpa_rMRRRJwkNGCqUNMqqJzcWTRenVWWpUSvCEc/edit#gid=1582931388" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
-</p>
-</li>
-</ul>
 <h2>Quick Links</h2>
 <ul data-tight="true" class="tight">
 <li>
