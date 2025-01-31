@@ -39,6 +39,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Insurance for Students works</a>
+</p>
+</li>
+<li>
 <p><a href="https://classroom.google.com/" rel="noopener noreferrer nofollow" target="_blank">Google Classroom</a>
 </p>
 </li>
