@@ -22,15 +22,6 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: 2024 GCE Ordinary Level Results Release
-      id: infopic
-      description: The results of the GCE O-Level Examinations will be released on
-        Friday, 10 January at 2.30 pm. Visit the link below for more details.
-      button: Announcement
-      alt: Image alt text
-      url: https://staging-lite.d2yq52rjo0ldv3.amplifyapp.com/2024-gce-ordinary-level-results-release/
-      image: /images/Exams/o_level.png
-  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess
