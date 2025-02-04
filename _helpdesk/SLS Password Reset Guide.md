@@ -4,4 +4,20 @@ permalink: /resources/students/helpdesk/sls-password-reset-guide/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Slide3" src="/images/Slide3.jpeg"></div><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Online Password Reset Form:&nbsp;&nbsp;<a href="https://tinyurl.com/pwrform-xmss" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/pwrform-xmss</u></a></strong></p></td></tr></tbody></table><p><strong>SLS Helpdesk contact</strong></p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 41px; height: 41px;" height="auto" width="100%" alt="phone.jpg" src="/images/phone.jpeg"></div></td><td rowspan="1" colspan="1"><p>6702 6513 (9am-3pm)</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 41px; height: 41px;" height="auto" width="100%" alt="mail.jpg" src="/images/mail.jpeg"></div></td><td rowspan="1" colspan="1"><p>helpdesk@sls.ufinity.com</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 41px; height: 41px;" height="auto" width="100%" alt="globe.jpg" src="/images/globe.jpeg"></div></td><td rowspan="1" colspan="1"><p>SLS User guide</p><p><a href="https://go.gov.sg/loginissues" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/loginissues</u></a></p></td></tr></tbody></table><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Slide3" src="/images/Slide3.jpeg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Online Password Reset Form:&nbsp;&nbsp;<a href="https://tinyurl.com/pwrform-xmss" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/pwrform-xmss</u></a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
