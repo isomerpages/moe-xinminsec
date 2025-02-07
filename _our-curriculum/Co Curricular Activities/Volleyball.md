@@ -99,7 +99,7 @@ events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>S<strong>tudent ICs</strong>: Lim Ke En Adrienna (201, 2025), Emma Tay
+<p><strong>Student ICs</strong>: Lim Ke En Adrienna (201, 2025), Emma Tay
 Le Xuan (201, 2025), Iszabelle Lai Jia Xuan (201, 2025), Ezanne Lim Chia
 Soan (208, 2025)</p>
 </li>
@@ -112,42 +112,48 @@ Soan (208, 2025)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain:</strong> Sim Wei Xuan, Jamie (302, 2024)</p>
+<p><strong>Captain:</strong> Sim Wei Xuan, Jamie (402, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain:</strong> Lim Han Xuan Trisha (303, 2024)</p>
+<p><strong>Vice-Captain:</strong> Lim Han Xuan Trisha (403, 2025)</p>
 </li>
 <li>
-<p><strong>Head of Publicity:</strong> Goh Zi Xuan, Mathilda (307, 2024)</p>
+<p><strong>Head of Publicity:</strong> Goh Zi Xuan, Mathilda (407, 2025)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>C Division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain:</strong> Jovan Lum Ka Fai (204, 2024)</p>
+<p><strong>Captain</strong>: Goh Ik Xi (203, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captains:</strong> Tan Justin (203, 2024) &amp; Jayden Huang
-(204, 2024)</p>
+<p><strong>Vice-Captains</strong>: Javier Koo Dong Yi (201, 2025) &amp; Lucas
+Lim Ding Cheng (209, 2025)</p>
 </li>
 <li>
-<p><strong>Assistant Head of Publicity:</strong> Nicholas Lo Tian Long (205,
-2024) &amp; Lee Yuan Rui (208, 2024)</p>
+<p><strong>Head of Publicity</strong>: Lim Zu Le Richemont (203, 2025) &amp;
+Tey Yi Liang (203, 2025)</p>
 </li>
 </ul>
+<p></p>
 <p><strong>B Division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain:</strong> Timothy Lim Sheuan Horng (302, 2024)</p>
+<p><strong>Snr &amp; Jnr Captain</strong>: Timothy Lim Sheuan Horng (402,
+2025) &amp; Jovan Lum Ka Fai (305, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captains:</strong> Swee Wee Herng Jeroy (302, 2024) &amp;
-Tan Woo Yew Samuel (302, 2024)</p>
+<p><strong>Snr &amp; Jnr Vice-Captains</strong>: Swee Wee Herng Jeroy (402,
+2025) &amp; Tan Woo Yew Samuel (402, 2025), Tan Justin (305, 2025) &amp;
+Jayden Huang (301, 2025)</p>
 </li>
 <li>
-<p><strong>Head of Publicity:</strong> Evan Lee Yee Fan (302, 2024)</p>
+<p><strong>Snr &amp; Jnr Head of Publicity</strong>: Evan Lee Yee Fan (402,
+2025), Nicholas Lo Tian Long (306, 2025) &amp; Lee Yuan Rui (306, 2025)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -313,25 +319,22 @@ discipline, and sportsmanship!</p>
 <h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Low Yan Jin (Boys IC)</p>
+<p>Ms Elias Loo (Boys IC)</p>
 </li>
 <li>
-<p>Mr Ang Koon Yong</p>
+<p>Ms Koh Shi Li</p>
 </li>
 <li>
-<p>Mr Elias Loo</p>
+<p>Mr Tok Hong Da</p>
 </li>
 <li>
 <p>Ms Joey Tay (Girls IC)</p>
 </li>
 <li>
-<p>Ms Ee Ai Lin</p>
+<p>Mdm Norfarhana Abdullah</p>
 </li>
 <li>
 <p>Ms Shalyn Thng</p>
-</li>
-<li>
-<p>Mdm Sophia Ang</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
