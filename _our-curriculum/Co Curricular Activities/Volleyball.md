@@ -57,28 +57,34 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1: Tuesday (4pm – 7pm), Wednesday (3.45pm – 6.45pm), Friday
+<p>Secondary 1: Tuesday (2.30pm – 5.30pm), Wednesday (3.45pm – 6.45pm), Friday
 (1 – 4pm)</p>
 </li>
 <li>
-<p>C Division: Tuesday (4pm – 7pm), Wednesday (3.45pm – 6.45pm), Friday (1
-– 4pm)</p>
+<p>C Division: Tuesday (2.30pm – 5.30pm), Wednesday (3.45pm – 6.45pm), Friday
+(1 – 4pm)</p>
 </li>
 <li>
-<p>B Division: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (4 – 7pm)</p>
+<p>B Division: Tuesday (2.30pm – 6.30pm), Thursday (5pm – 7pm), Friday (4
+– 7pm)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (1 – 4pm)</p>
+<p>Secondary 1: Tuesday (2.30 – 6.30pm), Thursday (5 – 7pm), Friday (1 –
+4pm)</p>
 </li>
 <li>
-<p>C Division: Tuesday (4pm – 7pm), Thursday (4pm – 7pm), Friday (1 – 4pm)</p>
+<p>C + B2 Division: Tuesday (2.30 – 6.30pm), Thursday (5 – 7pm), Friday (1
+– 4pm) till mid-Apr 2025</p>
 </li>
 <li>
-<p>B Division: Monday (4pm – 7pm), Wednesday (4pm – 7pm), Friday (1 – 4pm)</p>
+<p>B1 Division: Monday (4 – 7pm), Wednesday (3.45 – 6.45pm), Friday (1 –
+4pm)</p>
+<p></p>
 </li>
 </ul>
 <p>*Training frequencies are subjected to changes prior to competitions</p>
@@ -88,22 +94,20 @@ enhance their leadership skills by guiding the team through warm-ups, gym
 sessions, training, competitions, and debriefs. They also lead various
 events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
 <p></p>
-<h4><strong>2024 Student Leaders</strong></h4>
+<h4><strong>2025 Student Leaders</strong></h4>
 <p><strong>C Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Co-Captains:</strong> Tan Xin Man (201, 2024) &amp; Mia Chua (202,
-2024)</p>
+<p>S<strong>tudent ICs</strong>: Lim Ke En Adrienna (201, 2025), Emma Tay
+Le Xuan (201, 2025), Iszabelle Lai Jia Xuan (201, 2025), Ezanne Lim Chia
+Soan (208, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain:</strong> Jaslyn Koh Wei Xuan (208, 2024)</p>
-</li>
-<li>
-<p><strong>Assistant Head of Publicity:</strong> Lim Kai Qi, Mikaella (202,
-2024)</p>
+<p><strong>Assistant Head of Publicity</strong>: Nicia Poh (201, 2025)</p>
 </li>
 </ul>
+<p></p>
 <p><strong>B Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
