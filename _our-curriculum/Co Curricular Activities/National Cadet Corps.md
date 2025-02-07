@@ -86,9 +86,6 @@ enhancing their skills to guide and mentor their juniors effectively.</p>
 <p>1SG Danial Bin Abdul Halim</p>
 </li>
 <li>
-<p>1SG Harry Chong You Bo</p>
-</li>
-<li>
 <p>1SG Cedric Chong Chee Shun</p>
 </li>
 <li>
@@ -98,7 +95,10 @@ enhancing their skills to guide and mentor their juniors effectively.</p>
 <p>1SG Soon Hong Wei Jayden</p>
 </li>
 <li>
-<p>3SG Muhammad Randy Syibli Bin Mohammad Hisham</p>
+<p>1SG Harry Chong You Bo</p>
+</li>
+<li>
+<p>2SG Muhammad Randy Syibli Bin Mohammad Hisham</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
@@ -118,7 +118,7 @@ embarking on thrilling adventures and lifelong friendships!</p>
 <p>Mr Ganesan Selvarathnam (IC)</p>
 </li>
 <li>
-<p>Mr Lin Shunyi</p>
+<p>Mr Ang Koon Yong</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
