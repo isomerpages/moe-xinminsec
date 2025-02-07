@@ -31,10 +31,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1t248E5FWt5HWDXUDYVrc4y2DFG0D72exbWzZUCYagrw/edit?usp=sharing" rel="noopener nofollow" target="_blank">Announcement Book</a>
-</p>
-</li>
-<li>
 <p><a href="https://portal.commzgate.com/" rel="noopener noreferrer nofollow" target="_blank">Commzgate SMS</a>
 </p>
 </li>
