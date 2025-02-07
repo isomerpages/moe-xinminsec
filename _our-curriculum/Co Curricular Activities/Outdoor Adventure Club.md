@@ -68,17 +68,17 @@ teamwork.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Presidents: Lee Li Xuan (301), Lee Yong Le (301)</p>
+<p>Presidents: Lee Li Xuan (401), Lee Yong Le (401)</p>
 </li>
 <li>
-<p>Vice-Presidents: Anas Bin Mohamad Rizal (308), Pang Min Qi, Iris (301)</p>
+<p>Vice-Presidents: Anas Bin Mohamad Rizal (408), Pang Min Qi, Iris (301)</p>
 </li>
 <li>
-<p>Quartermaster: Tay Jing Ying, Andria (303)</p>
+<p>Quartermaster: Tay Jing Ying, Andria (403)</p>
 </li>
 <li>
-<p>Executive Committee Members: Sim Khim Yew (Shen Jingyu) (301),Goh Zhi
-Yi (304)</p>
+<p>Executive Committee Members: Sim Khim Yew (Shen Jingyu) (401),Goh Zhi
+Yi (404)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
@@ -104,13 +104,7 @@ Yi (304)</p>
 <p>Ms Belinda Lim Ee Gek</p>
 </li>
 <li>
-<p>Ms Vanessa Chia Su Qing</p>
-</li>
-<li>
-<p>Mr Tan Zhen Wei</p>
-</li>
-<li>
-<p>Ms Koh Shi Li</p>
+<p>Ms Una Hsu</p>
 </li>
 </ul>
 <p><em>Affiliate</em>
