@@ -67,20 +67,23 @@ involved.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘C’ Division Captains: NUR IMAN BINTE MUHAMMAD FADHLY (203)</p>
+<p>C’ Division Captain: NG ZIQI (208)</p>
 </li>
 <li>
-<p>‘C’ Division Vice-Captains: CAI JIA YING TRIXY (205)</p>
+<p>‘C’ Division Vice-Captains: TEH KAYLEE (203) &amp; MEGAN WONG JING EN
+(208)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>B Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘B’ Division Captains: VENUS TAY YU XI (304)</p>
+<p>‘B’ Division Captain: VENUS TAY YU XI (404)</p>
 </li>
 <li>
-<p>‘B’ Division Vice-Captains: NG XI YUAN, SYLVIE (301)</p>
+<p>‘B’ Division Vice-Captains: NG XI YUAN, SYLVIE (401)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
