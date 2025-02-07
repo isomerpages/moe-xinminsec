@@ -66,34 +66,36 @@ engage the school and community.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President</strong>: Chew En Rui, Hayden (301, 2024)</p>
+<p><strong>President</strong>: Chew En Rui, Hayden (401)</p>
 </li>
 <li>
-<p><strong>Vice Presidents (Music)</strong>: Pang Yun Fan Nicole (303, 2024),
-Lim Qian Shan, Joan (305, 2024)
-<br><strong>Vice President (Well-being)</strong>: Lim Qian Hui, Joana (304,
-2024)</p>
+<p><strong>Vice Presidents (Music)</strong>: Pang Yun Fan Nicole (403), Lim
+Qian Shan, Joan (405)</p>
 </li>
 <li>
-<p><strong>Heads of Publicity</strong>: Ng Yong En, Kathlyn (303), Ji Rujing
-(301, 2024)</p>
+<p><strong>Vice President (Well-being)</strong>: Lim Qian Hui, Joana (404)</p>
 </li>
 <li>
-<p><strong>Publicity Team</strong>: Natalie Purnomo Tan Shi Ning (203, 2024),
-Ashlyn Zhu Jingying (202, 2024)</p>
+<p><strong>Heads of Publicity</strong>: Ng Yong En, Kathlyn (403), Ji Rujing
+(401)</p>
+</li>
+<li>
+<p><strong>Publicity Team</strong>: Natalie Purnomo Tan Shi Ning (304, 2025),
+Ashlyn Zhu Jingying (303)</p>
 </li>
 <li>
 <p><strong>Heads of Logistics</strong>: Queenie Toh Jia Ying (301, 2024),
-Deiondre Quek Xin Yu (304, 2024)</p>
+Deiondre Quek Xin Yu (304)</p>
 </li>
 <li>
-<p><strong>Logistics Team</strong>: Raine Fung Rui Xuan (201, 2024), Cheong
-Wai Kei (207, 2024), Quan Ruixuan Chevelle (207)</p>
+<p><strong>Logistics Team</strong>: Raine Fung Rui Xuan (307), Cheong Wai
+Kei (302), Quan Ruixuan Chevelle (304)</p>
 </li>
 <li>
-<p><strong>Level Leaders</strong>: Tan Hui Xin Celine (306, 2024), Tan Yang
-Yee (301, 2024), Wang Tianyue (201, 2024), Scarlett Tan Jun Ying (201,
-2024), Sammi Tan Yan Ying (202, 2024), Yee Xin Lei Faith (205, 2024)</p>
+<p><strong>Level Leaders</strong>: Tan Hui Xin Celine (406), Tan Yang Yee
+(401), Wang Tianyue (303), Scarlett Tan Jun Ying (304), Sammi Tan Yan Ying
+(309), Yee Xin Lei Faith (302)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
