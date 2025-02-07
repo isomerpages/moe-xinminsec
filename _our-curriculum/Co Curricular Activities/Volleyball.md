@@ -319,7 +319,7 @@ discipline, and sportsmanship!</p>
 <h4>Teachers-in-charge</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Elias Loo (Boys IC)</p>
+<p>Mr Elias Loo (Boys IC)</p>
 </li>
 <li>
 <p>Ms Koh Shi Li</p>
