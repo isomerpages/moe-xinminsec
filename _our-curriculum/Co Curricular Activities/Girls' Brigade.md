@@ -35,11 +35,11 @@ need to overcome challenges and thrive in every aspect of life.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Head Girl</strong>: Claris Hong Kai Ning (305, 2024)</p>
+<p><strong>Head Girl: </strong>Claris Hong Kai Ning (305, 2025)</p>
 </li>
 <li>
-<p><strong>Vice Heads</strong>: Foo Si Jia Faith (302, 2024) &amp; Yeow Xuan
-Ning (304, 2024)</p>
+<p><strong>Vice Heads: </strong>Foo Si Jia Faith (402, 2025) &amp; Yeow Xuan
+Ning (404, 2025)</p>
 </li>
 </ul>
 <h4><strong>2024 Awards:</strong></h4>
@@ -76,7 +76,7 @@ and Discipline within our GB 42nd Company!</p>
 <p>Mrs Amy Chan (IC)</p>
 </li>
 <li>
-<p>Ms Teo Sze Ying</p>
+<p>Ms Ee Ai Lin</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
