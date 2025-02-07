@@ -63,10 +63,7 @@ and push our limits!<strong>&nbsp;</strong>
 <p>Miss Estee See Toh Sijia (IC)</p>
 </li>
 <li>
-<p>Mr Thiruselvan SO Arivazhagian</p>
-</li>
-<li>
-<p>Miss Liew Ziyi</p>
+<p>Miss Vanessa Chia</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
