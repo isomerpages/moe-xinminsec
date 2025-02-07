@@ -51,76 +51,76 @@ audiences.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Drum Major –</strong> Chan Hao Hian Brendan (303, 2024)</p>
+<p><strong>Drum Major –</strong> Chan Hao Hian Brendan (403, 2025)</p>
 </li>
 <li>
-<p><strong>Band Major (Music) –</strong> Lin Rui’En, Claire (304, 2024)</p>
+<p><strong>Band Major (Music) –</strong> Lin Rui’En, Claire (404, 2025)</p>
 </li>
 <li>
-<p><strong>Band Major (Admin) –</strong> Ng Yi Xuan (302, 2024)
-<br><strong>Secretary &amp; Media –</strong> Seah Xin Le, Joy (307, 2024)</p>
+<p><strong>Band Major (Admin) –</strong> Ng Yi Xuan (402, 2025)
+<br><strong>Secretary &amp; Media –</strong> Seah Xin Le, Joy (407, 2025)</p>
 </li>
 <li>
-<p><strong>Librarian –</strong> Bu Weixuan Klara (IC) (303, 2024), Ong Yu
-Ming (306, 2024), Caleb Gan Jian Ann (307, 2024)</p>
+<p><strong>Librarian –</strong> Bu Weixuan Klara (IC) (403, 2025), Ong Yu
+Ming (406, 2025), Caleb Gan Jian Ann (407, 2025)</p>
 </li>
 <li>
-<p><strong>Quarter Master –</strong> Wu Zhengting (306, 2024), Tey Yi Xuan
-(301, 2024)</p>
+<p><strong>Quarter Master –</strong> Wu Zhengting (306, 2025), Tey Yi Xuan
+(401, 2025)</p>
 </li>
 <li>
-<p><strong>Bandroom Mannagement –</strong> Yu Hong Yin (303, 2024), Zayden
-Ng Jun Herng (307, 2024)</p>
+<p><strong>Bandroom Mannagement –</strong> Yu Hong Yin (403, 2025), Zayden
+Ng Jun Herng (407, 2025)</p>
 </li>
 <li>
-<p><strong>Uniform Management – </strong>Daniel Tan Yi An (303, 2024), Tan
-Hong Yu (306, 2024)</p>
+<p><strong>Uniform Management – </strong>Daniel Tan Yi An (403, 2025), Tan
+Hong Yu (406, 2025)</p>
 </li>
 <li>
-<p><strong>Welfare &amp; Activities –</strong> Kang Kai Rui (304, 2024), Ng
-Yi Xuan (302, 2024)</p>
+<p><strong>Welfare &amp; Activities –</strong> Kang Kai Rui (404, 2025), Ng
+Yi Xuan (402, 2025)</p>
 </li>
 </ul>
 <h4><strong>Section Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Flute – Koh Sher Min (304, 2024)</p>
+<p>Flute – Koh Sher Min (404, 2025)</p>
 </li>
 <li>
-<p>Oboe – Ong Meng Xin (308, 2024)</p>
+<p>Oboe – Ong Meng Xin (408, 2025)</p>
 </li>
 <li>
-<p>Bassoon – Yu Hong Yin (303, 2024)</p>
+<p>Bassoon – Yu Hong Yin (403, 2025)</p>
 </li>
 <li>
-<p>Clarinet – Kang Kai Rui (304, 2024), Elijah Ho Wei Zheng (Asst.) (305,
-2024)</p>
+<p>Clarinet – Kang Kai Rui (404, 2025), Elijah Ho Wei Zheng (Asst.) (405,
+2025)</p>
 </li>
 <li>
-<p>Saxophone – Daniel Tan Yi An (303, 2024)</p>
+<p>Saxophone – Daniel Tan Yi An (403, 2025)</p>
 </li>
 <li>
-<p>French Horn – Tey Yi Xuan (301, 2024)</p>
+<p>French Horn – Tey Yi Xuan (401, 2025)</p>
 </li>
 <li>
-<p>Trumpet – Lim Kai Heng, Kaden (303, 2024), Chan Hao Hian Brendan (Asst.)
-(303, 2024)</p>
+<p>Trumpet – Lim Kai Heng, Kaden (403, 2025), Chan Hao Hian Brendan (Asst.)
+(403, 2025)</p>
 </li>
 <li>
-<p>Trombone – Wong Ethan (307, 2024)</p>
+<p>Trombone – Wong Ethan (407, 2025)</p>
 </li>
 <li>
-<p>Euphonium – <em>(under Double Bass Section SL)</em>
-</p>
+<p>Euphonium – (under Double Bass Section SL)</p>
 </li>
 <li>
-<p>Tuba – Zayden Ng Jun Herng (307, 2024)</p>
+<p>Tuba – Zayden Ng Jun Herng (407, 2025)</p>
 </li>
 <li>
-<p>Double Bass – Lin Rui’En, Claire (304, 2024)</p>
+<p>Double Bass – Lin Rui’En, Claire (404, 2025)</p>
 </li>
 <li>
-<p>Percussion – Caleb Gan Jian Ann (307, 2024)</p>
+<p>Percussion – Caleb Gan Jian Ann (407, 2025)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
