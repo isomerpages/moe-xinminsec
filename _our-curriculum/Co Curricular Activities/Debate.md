@@ -56,10 +56,7 @@ refine their skills.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3:45pm to 6.00pm</p>
-</li>
-<li>
-<p>Fridays: 2.15pm to 4:30pm</p>
+<p>Fridays: 2pm to 6pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -72,16 +69,16 @@ growth of the club.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairperson: Edison Lee Rui Yang (302, 2024)</p>
+<p>Chairperson: Edison Lee Rui Yang (402, 2025)</p>
 </li>
 <li>
-<p>Vice-Chairperson: Dave Krivish Vishal (302, 2024)</p>
+<p>Vice-Chairperson: Dave Krivish Vishal (402, 2025)</p>
 </li>
 <li>
-<p>Head of Welfare: Koann Kwok Ke En (301, 2024)</p>
+<p>Head of Welfare: Koann Kwok Ke En (401, 2025)</p>
 </li>
 <li>
-<p>Head of Publicity: Chakarin Tongchanachai (303, 2024)</p>
+<p>Head of Publicity: Chakarin Tongchanachai (403, 2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -129,9 +126,6 @@ change, and grow together!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Nanthini Gunasekaran (IC)</p>
-</li>
-<li>
-<p>Ms Nadhrah Zainalabiden</p>
 </li>
 <li>
 <p>Ms Junice Chia</p>
