@@ -57,8 +57,7 @@ activities and bonding exercises.</p>
 <p><strong>Captain - </strong>Lim Kai Jie Brandon (403, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain - </strong>Tan Shu De (402, 2025)<strong> </strong>
-</p>
+<p><strong>Vice-Captain - </strong>Tan Shu De (402, 2025)</p>
 </li>
 <li>
 <p><strong>Team Manager - </strong>Ng Zhong Yi (402, 2025)</p>
@@ -82,8 +81,7 @@ activities and bonding exercises.</p>
 </li>
 <li>
 <p><strong>Team Manager – </strong>Muhammad Rais Bin Noor Iskandar Shah (305,
-2025)<strong> </strong>
-</p>
+2025)</p>
 </li>
 <li>
 <p><strong>Physical Training IC – </strong>Chin Bin Wei (304, 2025)</p>
@@ -109,6 +107,13 @@ floorball as their future CCA.</p>
 </li>
 <li>
 <p>Second runner ups in Pesta Sukan U17 Boys 2024</p>
+</li>
+<li>
+<p>Champion U15 Northbrooks Invitational Competition 2024</p>
+</li>
+<li>
+<p>First runner ups U14 Northbrooks Invitational Competition 2024</p>
+<p></p>
 </li>
 </ul>
 <p>Join us on our floorball journey at Xinmin, where creativity, teamwork,
