@@ -128,13 +128,13 @@ create unforgettable performances together!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Pang Hui Chin (IC)</p>
+<p>Ms Hailey Tan</p>
+</li>
+<li>
+<p>Ms Lai Min Lee</p>
 </li>
 <li>
 <p>Ms Cindy Oh</p>
-</li>
-<li>
-<p>Ms Hailey Tan</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
