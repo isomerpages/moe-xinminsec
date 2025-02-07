@@ -194,10 +194,7 @@ our community!</p>
 <p>Ms Nur Amalina Bte Mohamed Zain (IC)</p>
 </li>
 <li>
-<p>Ms Koh Cher Yee</p>
-</li>
-<li>
-<p>Mdm Asniza Hassan</p>
+<p>Ms Nadhrah Binte Zainalabiden</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
