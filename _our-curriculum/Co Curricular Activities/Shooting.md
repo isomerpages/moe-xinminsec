@@ -171,29 +171,31 @@ Training, unless otherwise stated in monthly training schedule.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 Student Leaders</strong></h4>
+<h4><strong>2024/2025 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Ai Zhixuan (305, 2024)</p>
+<p><strong>Captain</strong>: Ai Zhixuan (405, 2025)</p>
 </li>
 <li>
-<p><strong>Head of Welfare</strong>: Syon Lu Ziming (301, 2024)</p>
+<p><strong>Head of Welfare</strong>: Syon Lu Ziming (401, 2025)</p>
 </li>
 <li>
-<p><strong>Heads of Training</strong>: Ping Kai Yi, Matthew (302, 2024)</p>
+<p><strong>Heads of Training</strong>: Ping Kai Yi, Matthew (402, 2025)</p>
 </li>
 <li>
-<p><strong>Heads of Admin</strong>: Kayley Tien (303, 2024)</p>
+<p><strong>Heads of Admin</strong>: Kayley Tien (403, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 1 Level Head</strong>: Tay Zhong Zhi Zaxis (304, 2024), Tan
-Yu Wen, Sarah (305, 2024)</p>
+<p><strong>Sec 1 Level Head</strong>: Tay Zhong Zhi Zaxis (404, 2025),</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Head</strong>: Kenji Ong Kai Jie (304, 2024)</p>
+<p><strong>Sec 2 Level Head</strong>: Tan Yu Wen, Sarah (405, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Head</strong>: Torres New Zong Ming (306, 2024)</p>
+<p><strong>Sec 3 Level Head</strong>: Kenji Ong Kai Jie (404, 2025)</p>
+</li>
+<li>
+<p><strong>Sec 4/5 Level Head</strong>: Torres New Zong Ming (406, 2025)</p>
 </li>
 </ul>
 <h4><strong>Teachers-in-charge</strong></h4>
