@@ -73,10 +73,10 @@ pride in:</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fridays: 2.00pm to 4.00pm</p>
+<p>Fridays (ad hoc): 2.00pm - 4.00pm</p>
 </li>
 <li>
-<p>Saturdays: 7.30am to 12pm</p>
+<p>Saturdays (Main) (7.30am - 12pm)</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -141,13 +141,14 @@ boy!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tiffany Lim (IC)</p>
-</li>
-<li>
-<p>Mr Winston Bay</p>
+<p>Mr Noah Zhang (IC)</p>
 </li>
 <li>
 <p>Mr Ang Choon Peng</p>
+</li>
+<li>
+<p>Mr Benjamin Low</p>
+<p></p>
 </li>
 </ul>
 <p><strong>The BB45th Officers, Primers and Volunteers</strong>
