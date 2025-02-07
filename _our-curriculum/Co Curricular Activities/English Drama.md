@@ -116,7 +116,7 @@ self-expression, and excitement. Break a leg!</p>
 <p>Ms Rebecca Abey</p>
 </li>
 <li>
-<p>Mrs May Ng</p>
+<p>Ms Nur Amalina Bte Mohamed Zain</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
