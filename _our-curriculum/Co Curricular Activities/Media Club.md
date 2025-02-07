@@ -136,7 +136,6 @@ Club is the place for you!</p>
 <p>Ms Tan Lay Lay (Infocomm IC)</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
 <br>
