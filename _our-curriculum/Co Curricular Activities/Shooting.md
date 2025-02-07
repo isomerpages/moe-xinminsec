@@ -57,7 +57,7 @@ at the 2024 NSG Shooting Championship.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<p><strong>[<a href="https://go.gov.sg/xmss-shooting-comp-schedule" rel="noopener noreferrer nofollow" target="_blank">https:</a><a href="https:go.gov.sg/xmss-shooting-comp-schedule" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/xmss-shooting-comp-schedule</a>]</strong>
+<p><strong>[https:<a href="https:go.gov.sg/xmss-shooting-2025schedule" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/xmss-shooting-2025schedule</a>]</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -70,66 +70,107 @@ competition period.
 </p>
 </li>
 </ul>
-<p>Sec 3-5</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mon: 4-5.30pm</p>
-</li>
-<li>
-<p>Weds: 3:30pm to 5.00pm</p>
-</li>
-<li>
-<p>Fridays: 1.30pm to 3:30pm</p>
-</li>
-</ul>
-<p>Sec 1-2</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tues: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
-</li>
-<li>
-<p>Thurs: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
-</li>
-</ul>
-<p><u>April – July (NSG C div period)</u>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Jan – April (NSG B Div period)</strong>
 </p>
-<p>Sec 1 DSA + Sec 2</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mon: 4-5.30pm</p>
-</li>
-<li>
-<p>Weds: 3:30pm to 5.00pm</p>
-</li>
-<li>
-<p>Fridays: 1.30pm to 3:30pm</p>
-</li>
-</ul>
-<p>Sec 1 + Sec 3</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tues: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
-</li>
-<li>
-<p>Thurs: Session 1 (3:30pm to 5.30pm), Session 2 (5-6.30pm)</p>
-</li>
-</ul>
-<p><u>August – Sep</u>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>April – July (NSG C Div period)</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tues: Sec 1 (3.30pm to 5.30pm)</p>
-</li>
-<li>
-<p>Weds: Sec 2 (3.30pm to 5.30pm)</p>
-</li>
-<li>
-<p>Thurs: All shooters (Bonding/PT/ Admin Day) (3.30pm to 5.30pm)</p>
-</li>
-<li>
-<p>Fri: Sec 3 (3.30pm to 5.30pm)</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>August – September</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 3, 4, 5</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Mon:</strong> 3.30-5.30pm/5.00-6.30pm</p>
+<p><strong>Wed:</strong> 3.30-5.30pm/5.00-6.30pm</p>
+<p><strong>Fri:</strong> 2.00-4.00pm/3.30-5.00pm</p>
+<p><u>&nbsp;</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 2</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Mon: </strong>4.00 – 6.00pm</p>
+<p><strong>Wed: </strong>3.30 – 5.30pm</p>
+<p><strong>Fri: </strong>2.00 – 4.00pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 2, 3</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Wed:</strong> 3.30-5.30pm/5.00-6.30pm</p>
+<p><strong>Fri: </strong>2.00-4.00pm/3.30-5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1, 2</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Tues: </strong>2.30-4.30pm/4.00-5.30pm</p>
+<p><strong>Thu: </strong>3.30-5.30pm/5.00-6.30pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1, 3</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Tues: </strong>2.30-4.30pm/4.00-5.30pm</p>
+<p><strong>Thu: </strong>3.30-5.30pm/5.00-6.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Tues: </strong>2.30-4.30pm</p>
+<p><strong>Thu: </strong>4.00-6.00pm</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Shooters report for 1 session only for each CCA day, allocated by air
+weapon/respective level. All CCA sessions include 30 minutes of Physical
+Training, unless otherwise stated in monthly training schedule.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2024 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
