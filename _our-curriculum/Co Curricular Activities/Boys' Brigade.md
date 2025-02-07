@@ -88,18 +88,16 @@ day-to-day operations.</p>
 <h4><strong>2024 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Company Sergeant Major: </strong>SGT Ethan Yap Ern Xin (301, 2024)</p>
+<p>Company Sergeant Major: SGT Ethan Yap Ern Xin (401, 2025)</p>
 </li>
 <li>
-<p><strong>Assistant Company Sergeant Major: </strong>SGT Ko Qi Yuan (304,
-2024)</p>
+<p>Assistant Company Sergeant Major: SGT Ko Qi Yuan (404, 2025)</p>
 </li>
 <li>
-<p><strong>Quartermaster: </strong>SGT Seow Zhi Qin (307, 2024)</p>
+<p>Quartermaster: SGT Seow Zhi Qin (407, 2025)</p>
 </li>
 <li>
-<p><strong>Assistant Quartermaster: </strong>SGT Braven Wee Zhi Neng (308,
-2024)</p>
+<p>Assistant Quartermaster: SGT Braven Wee Zhi Neng (408, 2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
