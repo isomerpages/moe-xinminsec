@@ -26,10 +26,12 @@ need to overcome challenges and thrive in every aspect of life.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 4.00 pm to 6.00 pm</p>
+<p>Saturdays: Regular training from 8:30 am to 12 noon</p>
 </li>
 <li>
-<p>Saturdays: 8:30 am to 12 noon</p>
+<p>Wednesdays: Extra training from 4.00 pm to 6.00 pm (Students will be informed
+via PG on a termly basis)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Student Leaders</strong></h4>
