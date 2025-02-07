@@ -73,10 +73,10 @@ pride in:</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fridays: 2.00pm to 4.00pm</p>
+<p>Fridays (ad hoc): 2.00pm - 4.00pm</p>
 </li>
 <li>
-<p>Saturdays: 7.30am to 12pm</p>
+<p>Saturdays (Main) (7.30am - 12pm)</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -88,18 +88,18 @@ day-to-day operations.</p>
 <h4><strong>2024 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Company Sergeant Major: </strong>SGT Ethan Yap Ern Xin (301, 2024)</p>
+<p><strong>Company Sergeant Major</strong>: SGT Ethan Yap Ern Xin (401, 2025)</p>
 </li>
 <li>
-<p><strong>Assistant Company Sergeant Major: </strong>SGT Ko Qi Yuan (304,
-2024)</p>
+<p><strong>Assistant Company Sergeant Major</strong>: SGT Ko Qi Yuan (404,
+2025)</p>
 </li>
 <li>
-<p><strong>Quartermaster: </strong>SGT Seow Zhi Qin (307, 2024)</p>
+<p><strong>Quartermaster</strong>: SGT Seow Zhi Qin (407, 2025)</p>
 </li>
 <li>
-<p><strong>Assistant Quartermaster: </strong>SGT Braven Wee Zhi Neng (308,
-2024)</p>
+<p><strong>Assistant Quartermaster</strong>: SGT Braven Wee Zhi Neng (408,
+2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -141,13 +141,14 @@ boy!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tiffany Lim (IC)</p>
-</li>
-<li>
-<p>Mr Winston Bay</p>
+<p>Mr Noah Zhang (IC)</p>
 </li>
 <li>
 <p>Mr Ang Choon Peng</p>
+</li>
+<li>
+<p>Mr Benjamin Low</p>
+<p></p>
 </li>
 </ul>
 <p><strong>The BB45th Officers, Primers and Volunteers</strong>

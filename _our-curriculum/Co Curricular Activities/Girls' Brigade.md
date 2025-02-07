@@ -26,20 +26,22 @@ need to overcome challenges and thrive in every aspect of life.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 4.00 pm to 6.00 pm</p>
+<p>Saturdays: Regular training from 8:30 am to 12 noon</p>
 </li>
 <li>
-<p>Saturdays: 8:30 am to 12 noon</p>
+<p>Wednesdays: Extra training from 4.00 pm to 6.00 pm (Students will be informed
+via PG on a termly basis)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Head Girl</strong>: Claris Hong Kai Ning (305, 2024)</p>
+<p><strong>Head Girl: </strong>Claris Hong Kai Ning (305, 2025)</p>
 </li>
 <li>
-<p><strong>Vice Heads</strong>: Foo Si Jia Faith (302, 2024) &amp; Yeow Xuan
-Ning (304, 2024)</p>
+<p><strong>Vice Heads: </strong>Foo Si Jia Faith (402, 2025) &amp; Yeow Xuan
+Ning (404, 2025)</p>
 </li>
 </ul>
 <h4><strong>2024 Awards:</strong></h4>
@@ -76,7 +78,7 @@ and Discipline within our GB 42nd Company!</p>
 <p>Mrs Amy Chan (IC)</p>
 </li>
 <li>
-<p>Ms Teo Sze Ying</p>
+<p>Ms Ee Ai Lin</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

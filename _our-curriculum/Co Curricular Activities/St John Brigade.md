@@ -69,41 +69,42 @@ the Passing Out Parade and inter-UG hikes.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Sergeant Major: Sergeant Jaeden Chin (301)</p>
+<p>Corps Sergeant Major: Sergeant Jaeden Chin (401)</p>
 </li>
 <li>
-<p>Head of Trainings: Corporal Jaden Tay Yu Yang (302)</p>
+<p>Head of Trainings: Corporal Jaden Tay Yu Yang (402)</p>
 </li>
 <li>
-<p>Head of Departments: Sergeant Soh Si Ning, Shannon (301)</p>
+<p>Head of Departments: Sergeant Soh Si Ning, Shannon (401)</p>
 </li>
 </ul>
 <p><strong>Combat:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Platoon 1 Commander: Corporal Elodie Sim (301)</p>
+<p>Platoon 1 Commander: Corporal Elodie Sim (401)</p>
 </li>
 <li>
-<p>Platoon 2 Commander: Lance Corporal Chew Yi En (201) &amp; Lance Corporal
-Er Yi Fei Kira (207)</p>
+<p>Platoon 2 Commander: Lance Corporal Chew Yi En (301) &amp; Lance Corporal
+Er Yi Fei Kira (305)</p>
 </li>
 <li>
-<p>Platoon 3 Commander: Corporal Toh Cher Yee (304)</p>
+<p>Platoon 3 Commander: Corporal Toh Cher Yee (404)</p>
 </li>
 </ul>
 <p><strong>Departments:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Logistics Head: Corporal Lerh Yu En, Dylan (302)</p>
+<p>Logistics Head: Corporal Lerh Yu En, Dylan (402)</p>
 </li>
 <li>
-<p>Cadet Development Head: Corporal Caleb Tay (306) &amp; Corporal Siti Darwisyah
-Bte Mohammad Shahril (306)</p>
+<p>Cadet Development Head: Corporal Caleb Tay (406) &amp; Corporal Siti Darwisyah
+Bte Mohammad Shahril (406)</p>
 </li>
 <li>
-<p>Publicity Head: Lance Corporal Laurencio Elaine Rose (205)</p>
+<p>Publicity Head: Lance Corporal Laurencio Elaine Rose (205)3&amp; Lance
+Corporal Teo Zhao Hui (308)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -193,10 +194,7 @@ our community!</p>
 <p>Ms Nur Amalina Bte Mohamed Zain (IC)</p>
 </li>
 <li>
-<p>Ms Koh Cher Yee</p>
-</li>
-<li>
-<p>Mdm Asniza Hassan</p>
+<p>Ms Nadhrah Binte Zainalabiden</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

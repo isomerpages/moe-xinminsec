@@ -31,11 +31,11 @@ new students feel welcomed through engaging bonding and fitness activities.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captains:</strong> Lee Yeng Yan (402, 2024), Chew Yixiang (403,
-2024)</p>
+<p><strong>Captains:</strong> Ong Joon Jae (405, 2025), Janelle Li (401, 2025)</p>
 </li>
 <li>
-<p><strong>Vice Captain</strong>: Ong Joon Jae (305, 2024)</p>
+<p><strong>Vice Captain</strong>: Jayden Evans Pang (408, 2025), Lim Yue
+Wei (301, 2025)</p>
 </li>
 </ul>
 <h4><strong>Competitions</strong></h4>
@@ -63,10 +63,7 @@ and push our limits!<strong>&nbsp;</strong>
 <p>Miss Estee See Toh Sijia (IC)</p>
 </li>
 <li>
-<p>Mr Thiruselvan SO Arivazhagian</p>
-</li>
-<li>
-<p>Miss Liew Ziyi</p>
+<p>Miss Vanessa Chia</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

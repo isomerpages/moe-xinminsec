@@ -54,44 +54,38 @@ activities and bonding exercises.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Captain - </em></strong><em>Lim Kai Jie Brandon (303, 2024)</em>
-</p>
+<p><strong>Captain - </strong>Lim Kai Jie Brandon (403, 2025)</p>
 </li>
 <li>
-<p><strong><em>Vice-Captain - </em></strong><em>Tan Shu De (302, 2024)</em>
-</p>
+<p><strong>Vice-Captain - </strong>Tan Shu De (402, 2025)</p>
 </li>
 <li>
-<p><strong><em>Team Manager - </em></strong><em>Ng Zhong Yi (302, 2024)</em>
-</p>
+<p><strong>Team Manager - </strong>Ng Zhong Yi (402, 2025)</p>
 </li>
 <li>
-<p><strong><em>Team Manager - </em></strong><em>Arthur Mok Jia Jie (308, 2024)</em>
-</p>
+<p><strong>Team Manager - </strong>Arthur Mok Jia Jie (408, 2025)</p>
+<p></p>
 </li>
 </ul>
 <p><strong><u>C division</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><em>Captain – </em></strong><em>Yong Chang Foong (205, 2024)</em>
-</p>
+<p><strong>Captain – </strong>Yong Chang Foong (309, 2025)</p>
 </li>
 <li>
-<p><strong><em>Vice-Captain – </em></strong><em>Lim Wen Hao, Julian (201, 2024)</em>
-</p>
+<p><strong>Vice-Captain – </strong>Lim Wen Hao, Julian (304, 2025)</p>
 </li>
 <li>
-<p><strong><em>Vice-Captain – </em></strong><em>Joel Yapp Hai Tong (205, 2024)</em>
-</p>
+<p><strong>Vice-Captain – </strong>Joel Yapp Hai Tong (302, 2025)</p>
 </li>
 <li>
-<p><strong><em>Team Manager – </em></strong><em>Muhammad Rais Bin Noor Iskandar Shah (203, 2024)</em>
-</p>
+<p><strong>Team Manager – </strong>Muhammad Rais Bin Noor Iskandar Shah (305,
+2025)</p>
 </li>
 <li>
-<p><strong><em>Physical Training IC – </em></strong><em>Chin Bin Wei (202, 2024)</em>
-</p>
+<p><strong>Physical Training IC – </strong>Chin Bin Wei (304, 2025)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -113,6 +107,13 @@ floorball as their future CCA.</p>
 </li>
 <li>
 <p>Second runner ups in Pesta Sukan U17 Boys 2024</p>
+</li>
+<li>
+<p>Champion U15 Northbrooks Invitational Competition 2024</p>
+</li>
+<li>
+<p>First runner ups U14 Northbrooks Invitational Competition 2024</p>
+<p></p>
 </li>
 </ul>
 <p>Join us on our floorball journey at Xinmin, where creativity, teamwork,

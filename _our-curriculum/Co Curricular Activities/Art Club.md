@@ -85,7 +85,8 @@ and self-assurance. Here's a closer look at what we do:</p>
 <p>Wednesdays: 3:30pm to 5.30pm</p>
 </li>
 <li>
-<p>Fridays: 1.30pm to 3:30/4pm</p>
+<p>Fridays: 2:00pm-4 or 4:30pm(in view of art workshops schedule and demands)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>

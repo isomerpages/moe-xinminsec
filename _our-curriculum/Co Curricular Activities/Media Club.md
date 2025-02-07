@@ -76,22 +76,22 @@ beyond the school community.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>President: Jovan Tan Jing Xi (301)</p>
+<p>President: Jovan Tan Jing Xi (401)</p>
 </li>
 <li>
-<p>Vice-President: Goh Rui Tian (302)</p>
+<p>Vice-President: Goh Rui Tian (402)</p>
 </li>
 <li>
-<p>Head Of Department (AVA): Seah Si Yi Constance (308)</p>
+<p>Head Of Department (AVA): Seah Si Yi Constance (408)</p>
 </li>
 <li>
-<p>Head Of Department (Photography): Farihaqeel Abdul Rahman Bin Romzi (301)</p>
+<p>Head Of Department (Photography): Farihaqeel Abdul Rahman Bin Romzi (401)</p>
 </li>
 <li>
-<p>Head Of Department (Videography): Lee Shi Qi, Rae-Ann (303)</p>
+<p>Head Of Department (Videography): Lee Shi Qi, Rae-Ann (403)</p>
 </li>
 <li>
-<p>Head Of Infocomm Wing: Chiong Sheng Xiang, Gareth (301)</p>
+<p>Head Of Infocomm Wing: Chiong Sheng Xiang, Gareth (401)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
@@ -136,7 +136,6 @@ Club is the place for you!</p>
 <p>Ms Tan Lay Lay (Infocomm IC)</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
 <br>

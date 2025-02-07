@@ -156,6 +156,9 @@ resilience, and a mindset of excellence for both sports and life!</p>
 <li>
 <p>Ms Teoh Yu Han</p>
 </li>
+<li>
+<p>Mr Winston Bay</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
