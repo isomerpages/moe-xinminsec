@@ -125,10 +125,10 @@ change, and grow together!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nanthini Gunasekaran (IC)</p>
+<p>Ms Junice Chia (IC)</p>
 </li>
 <li>
-<p>Ms Junice Chia</p>
+<p>Ms Nanthini Gunasekaran</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
