@@ -148,10 +148,10 @@ never having lost!</p>
 <p>Ms Emily Lim Xin Yi (IC)</p>
 </li>
 <li>
-<p>Ms Izyan Ayuni Bte Azmi</p>
+<p>Ms Wan Shi Ting</p>
 </li>
 <li>
-<p>Ms Wan Shi Ting</p>
+<p>Ms Cheng Yoke Yee</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
