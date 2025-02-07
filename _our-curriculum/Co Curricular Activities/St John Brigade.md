@@ -191,7 +191,7 @@ our community!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nur Amalina Bte Mohamed Zain (IC)</p>
+<p>Ms Koh Cher Yee (IC)</p>
 </li>
 <li>
 <p>Ms Nadhrah Binte Zainalabiden</p>
