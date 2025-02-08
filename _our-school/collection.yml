@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - test.md
       - Principal's Foreword.md
       - Our Vision, Mission and Values.md
       - Our Identity.md
