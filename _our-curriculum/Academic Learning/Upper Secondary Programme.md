@@ -6,26 +6,10 @@ third_nav_title: Academic Learning
 variant: tiptap
 ---
 <h3>Upper Secondary Programme</h3>
-<p>At the upper secondary levels, students in each course will offer a set
-of core subjects and may offer optional subjects based on their interests
-and aptitude.</p>
-<p><strong>EXPRESS</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upper%20Sec%20Academic%20Learning/express.png">
-</div>
-<p><strong>NORMAL (ACADEMIC)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upper%20Sec%20Academic%20Learning/normal_acad.png">
-</div>
-<p><strong>NORMAL (TECHNICAL)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upper%20Sec%20Academic%20Learning/normal_tech.png">
-</div>
 <p>All our upper secondary subject combinations have been carefully designed
 to prepare our students for the various post-secondary education pathways.</p>
+<p>The tables below reflect the subject combinations which were offered to
+the 2025 Secondary Three cohort.</p>
 <p><strong>EXPRESS</strong>
 </p>
 <div class="isomer-image-wrapper">
