@@ -39,13 +39,11 @@ combinations to students who are taking all subjects at the G3 level in
 2026.</p>
 <p>Students who are interested in pursuing the 8-subject combinations must
 meet the following criteria:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject Combination/8_subject_combination.png">
 </div>
 <p>Students who are interested in pursuing Pure Science subjects and Additional
 Mathematics must meet the following criteria:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject Combination/Add_mathematics_Pure_Science.png">
 </div>
