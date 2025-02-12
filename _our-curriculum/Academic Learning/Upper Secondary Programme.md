@@ -29,7 +29,7 @@ the 2025 Secondary Three cohort.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upper%20Sec%20Academic%20Learning/normal_tech_combi.png">
 </div>
-<h3>Secondary 3 Subject Combination 2025</h3>
+<h3>2026 Secondary 3 Subject Combination</h3>
 <p>The Sec 3 Subject Combination 2025 provides students with the opportunity
 to pursue subjects they are passionate about at the upper secondary level.
 To help with the subject combination information, a microsite has been
