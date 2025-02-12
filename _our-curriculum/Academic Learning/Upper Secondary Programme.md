@@ -30,14 +30,18 @@ the 2025 Secondary Three cohort.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upper%20Sec%20Academic%20Learning/normal_tech_combi.png">
 </div>
 <h3>2026 Secondary 3 Subject Combination</h3>
-<p>The Sec 3 Subject Combination 2025 provides students with the opportunity
-to pursue subjects they are passionate about at the upper secondary level.
-To help with the subject combination information, a microsite has been
-set up for parents/guardians and students to understand more about the
-demands of certain elective subjects at the Upper Secondary level, gather
-advice on making subject combination decisions and learning more about
-post-secondary pathways. You will also find the list of subject combinations
-offered and a timeline for the Subject Combination Allocation Exercise.
-<br>
-<br>Click <a href="https://sites.google.com/xinminss.edu.sg/xms-subjectcombi/home?authuser=3" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access microsite.</p>
+<p>The school is currently working on the subject combinations for the 2026
+Secondary Three cohort, the first batch of FSBB students who are eligible
+for multiple pathways.</p>
+<p>We would continue to offer the existing 8-Subject Core Science, 8-Subject
+Hybrid, 7-Subject Core Science, 7-Subject Hybrid and 7-subject Core Arts
+combinations to students who are taking all subjects at the G3 level in
+2026.</p>
+<p>Students who are interested in pursuing the 8-subject combinations must
+meet the following criteria:</p>
+<p></p>
+<p>Students who are interested in pursuing Pure Science subjects and Additional
+Mathematics must meet the following criteria:</p>
+<p></p>
+<p>Please check back later for further updates to the 2026 Secondary Three
+Subject Combinations.</p>
