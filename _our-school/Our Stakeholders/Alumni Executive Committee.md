@@ -3,6 +3,7 @@ title: Alumni Executive Committee
 permalink: /our-school/our-stakeholders/alumni-executive-comm/
 description: ""
 third_nav_title: Our Stakeholders
+variant: markdown
 ---
 <table style="margin: auto;
     outline: 0px;
@@ -322,7 +323,7 @@ third_nav_title: Our Stakeholders
             font-weight: 400;
             text-align: center;">
           郭文发<br>
-          Kwek Boo Watt
+          Kwek Boon Watt
         </div>
       </td>
       <td style="margin: 0px;
