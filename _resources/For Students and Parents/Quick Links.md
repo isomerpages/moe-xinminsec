@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Insurance for Students works</a>
+<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Insurance for Students</a>
 </p>
 </li>
 <li>
