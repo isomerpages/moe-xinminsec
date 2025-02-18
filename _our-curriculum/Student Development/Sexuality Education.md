@@ -66,3 +66,19 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h4>At Xinmin Secondary School, the following Sexuality Education lessons will be taught in 2025:</h4>
 <p></p>
 <p></p>
+<h4>Information for Parents</h4>
+<p>10. Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
+<p>11. Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1pXWMG51GmKeh4_sYazoKpWVCxOvVjBwm/view" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 28/02/2025.</p>
+<p>12. Parents who wish to opt their children out of the eTeens programme
+need to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1l3yxSU8XOQAcEGL86Go7psc426wjLTp2/view" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 28/02/2025.</p>
+<p>13. Parents can contact the school at 62889382 or <a href="mailto:xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+<p></p>
