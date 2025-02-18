@@ -9,7 +9,7 @@ variant: tiptap
 <p>XinminCares is one of our school's signature programmes. Recognising that
 Values-In-Action is part of the key Student Development Experiences (SDEs),
 we have sought to establish XinminCares for all students across all levels.
-For more information, please click here.</p>
+For more information, please click <a href="https://www.xinminsec.moe.edu.sg/programmes/xinmincares/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>Overseas Service Learning</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cce/Overseas%20Service%20Learning/team%20vietnam%20in%20front%20of%20painted%20mural.jpg">
