@@ -9,7 +9,7 @@ variant: tiptap
 <h4><strong>What is it?</strong></h4>
 <p>The XinminCares Programme is our signature Values-In-Action (VIA) programme
 in the Character and Citizenship Education curriculum. This programme actively
-includes all Secondary 1 and 2 students.</p>
+includes all students.</p>
 <h4><strong>Why do we do it?</strong></h4>
 <p>Through XinminCares, we hope to develop every Xinmin student into a compassionate
 contributor who respects diverse perspectives and needs of different individuals
