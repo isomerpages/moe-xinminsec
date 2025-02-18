@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Student Development
 variant: tiptap
 ---
+<h4>Overseas Service Learning</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cce/Overseas%20Service%20Learning/team%20vietnam%20in%20front%20of%20painted%20mural.jpg">
 </div>
@@ -37,7 +38,8 @@ of their individual reflections, these students realise just how much they
 end up taking for granted in their day-to-day life. Following the trip,
 many have endeavoured to improve their outlook and strengthened their desire
 to continue giving back to the community, both local and overseas.</p>
-<p>The main objective of Xinmin Change Initiators (XCI) is to give students
+<h4>Xinmin Change Initiators (XCI)</h4>
+<p>The main objective of Xinmin Change Initiators(XCI) is to give students
 a platform to pursue their passion for service learning and give back to
 the community. This is especially so for the Sec 3 and 4 students who have
 completed their XinminCares programme, or for Sec 1 and 2 students who
