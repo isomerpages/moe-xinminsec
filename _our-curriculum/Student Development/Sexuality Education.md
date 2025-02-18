@@ -80,8 +80,27 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_2_3.png">
 </div>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_3_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_3_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_4_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_4_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_4_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_5_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/Sec_5_2.png">
+</div>
 <h4>Information for Parents</h4>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
@@ -97,4 +116,5 @@ The completed form is to be submitted by 28/02/2025.</p>
 <p>13. Parents can contact the school at 62889382 or <a href="mailto:xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
+<p></p>
 <p></p>
