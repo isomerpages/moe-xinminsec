@@ -35,4 +35,19 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education</p>
+<h4>Overview of Xinmin Secondary School's Sexuality Education Programme for 2025</h4>
+<p>4. Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>5. The subjects that incorporate topics on sexuality include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a. Science</p>
+</li>
+<li>
+<p>b. Character and Citizenship Education (CCE)</p>
+</li>
+</ul>
 <p></p>
