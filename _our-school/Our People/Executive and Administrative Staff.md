@@ -847,7 +847,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 124px;" class="ive_eobj_left" alt="Siti Salina Bte Osman.jpg" src="/images/EAS/Siti%20Salina%20Bte%20Osman.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 124px;" class="ive_eobj_left" alt="Siti Salina Bte Osman.jpg" src="/images/EAS/siti.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
