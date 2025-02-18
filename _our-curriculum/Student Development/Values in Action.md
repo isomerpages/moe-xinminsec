@@ -75,5 +75,5 @@ volunteer for the project. These kinds of projects are often the first
 step for students to find out more about the communities that they feel
 passionate for. This year, we had students take part in Run for Inclusion,
 a carnival where Xinmin students partnered special needs students from
-AWWA School @ Napiri for a short walk/run</p>
+AWWA School @ Napiri for a short walk/run.</p>
 <p></p>
