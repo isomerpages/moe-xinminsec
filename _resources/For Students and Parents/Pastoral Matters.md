@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sexuality Education in Schools/Sex_Edu_2025.pdf" rel="noopener nofollow" target="_blank">Sexuality Education</a>
+<p><a href="https://www.xinminsec.moe.edu.sg/sexuality-education/" rel="noopener nofollow" target="_blank">Sexuality Education</a>
 </p>
 </li>
 <li>
