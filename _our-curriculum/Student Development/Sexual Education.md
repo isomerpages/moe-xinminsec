@@ -63,4 +63,6 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
+<h4>At Xinmin Secondary School, the following Sexuality Education lessons will be taught in 2025:</h4>
+<p></p>
 <p></p>
