@@ -334,7 +334,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Administration Executive
+          Designation: Administrative Executive
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -401,7 +401,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Administration Executive
+          Designation: Administrative Executive
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -466,7 +466,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Administration Executive
+          Designation: Administrative Executive
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -840,14 +840,14 @@ variant: markdown
           outline: 0px;
           padding: 0px 7px 15px 0px;
           vertical-align: top;">
-        <img style="margin: 0px 10px 0px 0px;
+        <img style="margin: 0px 15px 10px 0px;
             outline: 0px;
             padding: 0px;
             border: none;
             max-width: 100%;
             float: left;
             width: 114px;
-            height: 124px;" class="ive_eobj_left" alt="Siti Salina Bte Osman.jpg" src="/images/EAS/Siti%20Salina%20Bte%20Osman.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 124px;" class="ive_eobj_left" alt="Siti Salina Bte Osman.jpg" src="/images/EAS/siti.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
