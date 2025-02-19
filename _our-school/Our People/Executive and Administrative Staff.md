@@ -334,7 +334,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Administration Executive
+          Designation: Administrative Executive
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -401,7 +401,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Administration Executive
+          Designation: Administrative Executive
         </div>
         <div style="margin: 0px;
             outline: 0px;
@@ -466,7 +466,7 @@ variant: markdown
             font-family: Helvetica, sans-serif;
             font-size: 17px;
             font-weight: 400;">
-          Designation: Administration Executive
+          Designation: Administrative Executive
         </div>
         <div style="margin: 0px;
             outline: 0px;
