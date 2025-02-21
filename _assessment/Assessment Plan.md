@@ -116,11 +116,9 @@ Week 3 to Week 8 (for Term 2) and Week 3 to Week 9 (for Term 3).&nbsp;
 WAs are no longer administered in a common time slot. Instead, WA will
 take place during the timetabled subject time slot in the designated week
 for the class. Specific dates on which a subject’s WA are conducted may
-hence differ amongst classes. Within the stipulated week, teachers must
-negotiate the day of the week (test dates) with their class and provide
-this information to their IP Heads. This information must be reflected
-on the XO-Test Book System and manually written on the class’s notice-board’s
-calendar to reduce clashing of test dates amongst different subjects.</p>
+hence differ amongst classes. Students who are unable to sit for their
+written assessments or submit their alternative assessments should provide
+valid medical document(s) to their form teachers and/or subject teachers..</p>
 <p>To manage our students' overall assessment load:</p>
 <ul data-tight="true" class="tight">
 <li>
