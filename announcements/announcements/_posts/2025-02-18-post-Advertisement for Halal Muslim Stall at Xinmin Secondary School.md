@@ -56,6 +56,5 @@ submit your application form via this online form: <a href="https://go.gov.sg/xm
 or you may email Mr. Qabeer at <a href="mohamed_qabeer_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_qabeer_sulaiman@schools.gov.sg</a> for
 the softcopy form.</p>
 <p>You may call Mr. Qabeer at 62889382 if you need any clarification.</p>
-<p>There will be an interview and food sampling at the applicant’s own expense
-on <strong><u>27/02/2025, 10.30am – 12.00pm</u></strong>. Only shortlisted
-applicants will be notified.</p>
+<p>There will be an interview and food sampling at the applicant’s own expense.
+Only shortlisted applicants will be notified.</p>
