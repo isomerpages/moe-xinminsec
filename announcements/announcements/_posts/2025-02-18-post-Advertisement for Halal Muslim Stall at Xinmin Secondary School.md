@@ -49,7 +49,7 @@ conducted by SkillsFuture Singapore's accredited training providers and
 then apply for a Food Stall License from the Singapore Food Agency (SFA).</p>
 </li>
 </ul>
-<p>Applications are open till <strong><u>25/02/2025</u></strong>.&nbsp; Please
+<p>Applications are open till <strong><u>21/03/2025</u></strong>.&nbsp; Please
 submit your application form via this online form: <a href="https://go.gov.sg/xmscanteenapplication" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmscanteenapplication</a>
 </p>
 <p>Hardcopy application forms may be obtained via the School General Office,
