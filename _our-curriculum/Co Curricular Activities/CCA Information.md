@@ -35,16 +35,6 @@ Parents also play an important role in reinforcing these values at home
 and hence it is our sincere hope that parents will partner the school and
 provide the support required so that every student can be an active contributor
 in his or her co – curricular journey in Xinmin.</p>
-<p>While Xinmin strives to sustain these successes, the key focus of our
-CCAs is still the emphasis on character building and the belief that the
-journey is more important than the destination. Our teachers, coaches and
-volunteers play an active role in their respective CCAs to provide students
-with a meaningful CCA experience. However this must be complemented with
-students having a resilient mindset and a positive attitude. Parents also
-play an important role in reinforcing these values at home and hence it
-is our sincere hope that parents will partner the school and provide the
-support required so that every student can be an active contributor in
-his or her co – curricular journey in Xinmin.</p>
 <h2>1.&nbsp;LEAPS 2.0 – A Recognition System</h2>
 <p>To provide students with a holistic and well-rounded experience in the
 co-curriculum, the Ministry of Education (MOE) introduced the LEAPS 2.0
