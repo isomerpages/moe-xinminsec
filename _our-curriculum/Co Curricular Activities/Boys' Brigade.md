@@ -117,28 +117,37 @@ day-to-day operations.</p>
 <h4><strong>2024 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Company Sergeant Major</strong>: SGT Ethan Yap Ern Xin (401, 2025)</p>
+<p><strong>Company Sergeant Major</strong>
+</p>
+<p>SGT Ethan Yap Ern Xin (401, 2025)</p>
+<p></p>
 </li>
 <li>
-<p><strong>Assistant Company Sergeant Major</strong>: SGT Ko Qi Yuan (404,
-2025)</p>
+<p><strong>Assistant Company Sergeant Major</strong>
+</p>
+<p>SGT Ko Qi Yuan (404, 2025)</p>
+<p></p>
 </li>
 <li>
-<p><strong>Quartermaster</strong>: SGT Seow Zhi Qin (407, 2025)</p>
+<p><strong>Quartermaster&nbsp;</strong>
+</p>
+<p>SGT Seow Zhi Qin (407, 2025)</p>
+<p></p>
 </li>
 <li>
-<p><strong>Assistant Quartermaster</strong>: SGT Braven Wee Zhi Neng (408,
-2025)</p>
+<p><strong>Assistant Quartermaster</strong>
+</p>
+<p>SGT Braven Wee Zhi Neng (408, 2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
 <p>This year, BB45th proudly celebrates three significant achievements. First,
-inclusion in the BB Blaze Competition Gold Honour Roll highlights the boys'
-resilience and teamwork in a physically challenging environment. Additionally,
-two members were awarded the prestigious Founder’s Award, recognizing their
-exemplary conduct and character. Furthermore, receiving a High Distinction
-in the JM Fraser Award for Excellence stands as a testament to the boys'
-dedication and camaraderie.</p>
+the company’s inclusion in the BB Blaze Competition Gold Honour Roll highlights
+the boys' resilience and teamwork in a physically challenging environment.
+Additionally, two members were awarded the prestigious Founder’s Award,
+recognizing their exemplary conduct and character. Furthermore, receiving
+a High Distinction in the JM Fraser Award for Excellence stands as a testament
+to the boys' dedication and camaraderie.</p>
 <p>Our participation in BB Cares was especially meaningful, as we collaborated
 with Yuying Secondary's BB to host a successful activity carnival for the
 elderly at Compassvale. This initiative not only brought joy to the seniors
@@ -148,7 +157,7 @@ challenge with determination, overcoming physical and mental obstacles
 together. Looking ahead, the Boys' Brigade remains committed to its motto,
 "Sure &amp; Steadfast," dedicated to serving with compassion and pursuing
 excellence.</p>
-<h4><strong>Accomplishments</strong></h4>
+<h4><strong>Accomplishments in 2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>JM Fraser Award for Excellence (Year of Assessment 2023) – High Distinction</p>
