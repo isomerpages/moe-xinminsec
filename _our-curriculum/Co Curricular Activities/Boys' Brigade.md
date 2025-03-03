@@ -16,13 +16,11 @@ self-disciplined leaders with an adventurous spirit and a heart for service.
 For over 32 years, our Company has been shaping young men with the values
 of obedience, reverence, discipline, self-respect, and leadership, equipping
 them with essential skills and experiences that last a lifetime.</p>
-<p>&nbsp;</p>
 <p>Our comprehensive programme challenges boys to step up as leaders through
 adventure, discipline, and service. Every week, our members plan, lead,
 and actively participate in activities that push them beyond their limits,
 helping them grow in confidence and resilience in the process. Key highlights
 include:</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Badge-Work &amp; Skills Development</strong> – From first aid and
@@ -34,8 +32,7 @@ life skills and values that prepare them for real-world challenges.</p>
 <p><strong>Outdoor Adventures &amp; Team Bonding</strong> – Whether it’s camps,
 kayaking, or overcoming fears together, our activities foster a spirit
 of camaraderie and determination. We also keep things exciting with unique
-experiences like laser tag, archery, k-pop dance, and rock</p>
-<p>climbing!</p>
+experiences like laser tag, archery, k-pop dance, and rockclimbing!</p>
 <p></p>
 </li>
 <li>
