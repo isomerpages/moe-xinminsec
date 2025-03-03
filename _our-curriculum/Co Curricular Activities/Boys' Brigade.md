@@ -10,55 +10,79 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/bb.jpg">
 </div>
 <h4><strong>45<sup>th</sup> Boys’ Brigade Company, Xinmin Secondary School</strong></h4>
-<p>The mission of the 45th Boys' Brigade (BB) Company at Xinmin is to instil
-key values of obedience, reverence, discipline, self-respect, and leadership
-in its members.</p>
-<p>Our comprehensive programme offers a wide range of opportunities for the
-boys to plan, lead, and actively participate in. These include adventure
-camps, badge-work activities, and drills, all while emphasizing the importance
-of caring for others and serving the community. We also equip our boys
-with essential life skills such as first aid and field cooking, preparing
-them to face any challenges that may arise.</p>
-<p>While we maintain high UG standards, we also ensure the boys experience
-plenty of fun and excitement. Our adventure camps incorporate unique activities
-like aerial yoga, K-pop dance, neon laser tag, and rock climbing to strengthen
-camaraderie and team spirit among the company.</p>
-<p>Throughout their four to five years in Boys' Brigade, we aim to nurture
-every boy's social, educational, spiritual, and physical development, empowering
-them to take on leadership roles and mentor their juniors.</p>
-<p>Come experience for yourself the exciting activities that our boys take
-pride in:</p>
-<h4><strong>Activities</strong></h4>
+<p>The <strong>Boys' Brigade (BB) 45<sup>th </sup>&nbsp;Singapore Company at Xinmin Secondary School</strong> is
+more than just a uniformed group — it is a family where boys grow into
+self-disciplined leaders with an adventurous spirit and a heart for service.
+For over 32 years, our Company has been shaping young men with the values
+of obedience, reverence, discipline, self-respect, and leadership, equipping
+them with essential skills and experiences that last a lifetime.</p>
+<p>Our comprehensive programme challenges boys to step up as leaders through
+adventure, discipline, and service. Every week, our members plan, lead,
+and actively participate in activities that push them beyond their limits,
+helping them grow in confidence and resilience in the process. Key highlights
+include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>CCA Orientation Booth</p>
+<p><strong>Badge-Work &amp; Skills Development</strong> – From first aid and
+field cooking to advanced navigation and drills, boys pick up essential
+life skills and values that prepare them for real-world challenges.</p>
+<p></p>
 </li>
 <li>
-<p>Enrolment and Dedication Ceremony</p>
+<p><strong>Outdoor Adventures &amp; Team Bonding</strong> – Whether it’s camps,
+kayaking, or overcoming fears together, our activities foster a spirit
+of camaraderie and determination. We also keep things exciting with unique
+experiences like laser tag, archery, k-pop dance, and rockclimbing!</p>
+<p></p>
 </li>
 <li>
-<p>Recruit Training and Leadership Development Camp – March</p>
+<p><strong>Community Service &amp; Leadership</strong> – The heart of the
+Boys' Brigade lies in serving others. Through initiatives like Boys’ Brigade
+Cares and BB Week, our boys learn the joy of giving back and mentoring
+their juniors, preparing them to be future leaders.</p>
+<p></p>
+</li>
+</ul>
+<p>As we look forward to another year of growth, we celebrate the dedication
+of our mentors, volunteers, and alumni who make this journey possible.
+With their support, our boys continue to <strong>learn, serve, and lead</strong>—shaping
+not just themselves, but also the community around them.</p>
+<p>Come <strong>be a part of this journey</strong> with us at the <strong>45th Boys' Brigade Company</strong>,
+where every boy finds <strong>brotherhood, adventure, and purpose</strong>!</p>
+<h4><strong>Activities in 2025</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Orientation Booth – January</p>
 </li>
 <li>
-<p>BB Blaze Competition (National) – March</p>
+<p>BB Day – January</p>
 </li>
 <li>
-<p>BB Week Fundraising</p>
+<p>BB Parents Engagement Session &amp; CNY Celebration – February</p>
 </li>
 <li>
-<p>Company Training Camp (Local/Overseas) – June</p>
+<p>BB Week Fundraising – March – April</p>
 </li>
 <li>
-<p>BB Cares (Community Service) – July</p>
+<p>BB Blaze Competition (National) – April</p>
 </li>
 <li>
-<p>1-Star Kayaking Course</p>
+<p>Enrolment and Dedication Ceremony – May</p>
+</li>
+<li>
+<p>Recruit Training and Leadership Development Camp – June</p>
+</li>
+<li>
+<p>BB Cares (Community Service) – Aug</p>
 </li>
 <li>
 <p>BB Character Quest (National) – August</p>
 </li>
 <li>
 <p>CCA Booth at Open House – Nov</p>
+</li>
+<li>
+<p>Company Training Camp (Overseas) – Nov</p>
 </li>
 <li>
 <p>Company Retreat – Nov/Dec</p>
@@ -77,6 +101,8 @@ pride in:</p>
 </li>
 <li>
 <p>Saturdays (Main) (7.30am - 12pm)</p>
+<p><strong>CCA Schedule for 2025</strong>  <em><a href="https://go.gov.sg/bb45" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bb45</a><u> </u></em>(updated
+regularly)</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -88,28 +114,37 @@ day-to-day operations.</p>
 <h4><strong>2024 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Company Sergeant Major</strong>: SGT Ethan Yap Ern Xin (401, 2025)</p>
+<p><strong>Company Sergeant Major</strong>
+</p>
+<p>SGT Ethan Yap Ern Xin (401, 2025)</p>
+<p></p>
 </li>
 <li>
-<p><strong>Assistant Company Sergeant Major</strong>: SGT Ko Qi Yuan (404,
-2025)</p>
+<p><strong>Assistant Company Sergeant Major</strong>
+</p>
+<p>SGT Ko Qi Yuan (404, 2025)</p>
+<p></p>
 </li>
 <li>
-<p><strong>Quartermaster</strong>: SGT Seow Zhi Qin (407, 2025)</p>
+<p><strong>Quartermaster&nbsp;</strong>
+</p>
+<p>SGT Seow Zhi Qin (407, 2025)</p>
+<p></p>
 </li>
 <li>
-<p><strong>Assistant Quartermaster</strong>: SGT Braven Wee Zhi Neng (408,
-2025)</p>
+<p><strong>Assistant Quartermaster</strong>
+</p>
+<p>SGT Braven Wee Zhi Neng (408, 2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
 <p>This year, BB45th proudly celebrates three significant achievements. First,
-inclusion in the BB Blaze Competition Gold Honour Roll highlights the boys'
-resilience and teamwork in a physically challenging environment. Additionally,
-two members were awarded the prestigious Founder’s Award, recognizing their
-exemplary conduct and character. Furthermore, receiving a High Distinction
-in the JM Fraser Award for Excellence stands as a testament to the boys'
-dedication and camaraderie.</p>
+the company’s inclusion in the BB Blaze Competition Gold Honour Roll highlights
+the boys' resilience and teamwork in a physically challenging environment.
+Additionally, two members were awarded the prestigious Founder’s Award,
+recognizing their exemplary conduct and character. Furthermore, receiving
+a High Distinction in the JM Fraser Award for Excellence stands as a testament
+to the boys' dedication and camaraderie.</p>
 <p>Our participation in BB Cares was especially meaningful, as we collaborated
 with Yuying Secondary's BB to host a successful activity carnival for the
 elderly at Compassvale. This initiative not only brought joy to the seniors
@@ -119,7 +154,7 @@ challenge with determination, overcoming physical and mental obstacles
 together. Looking ahead, the Boys' Brigade remains committed to its motto,
 "Sure &amp; Steadfast," dedicated to serving with compassion and pursuing
 excellence.</p>
-<h4><strong>Accomplishments</strong></h4>
+<h4><strong>Accomplishments in 2024</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>JM Fraser Award for Excellence (Year of Assessment 2023) – High Distinction</p>
@@ -212,3 +247,7 @@ boy!</p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><em><a href="https://www.instagram.com/bb45th/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/bb45th/</a></em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
+</div>
+<p></p>
