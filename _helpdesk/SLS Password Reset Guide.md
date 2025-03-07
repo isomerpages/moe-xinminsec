@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Online Password Reset Form:&nbsp;&nbsp;<a href="https://tinyurl.com/pwrform-xmss" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/pwrform-xmss</u></a></strong>
+<p><strong>Online Password Reset Form:&nbsp;&nbsp;<a href="https://go.gov.sg/xmss-pwd-reset" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-pwd-reset</a></strong>
 </p>
 </td>
 </tr>
