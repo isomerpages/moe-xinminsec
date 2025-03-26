@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://tinyurl.com/pwrform-xmss" rel="noopener noreferrer nofollow" target="_blank">Student ICON Password Reset Guide</a>
+<p><a href="https://go.gov.sg/xmss-pwd-reset" rel="noopener noreferrer nofollow" target="_blank">Student ICON Password Reset Guide</a>
 </p>
 </li>
 <li>
