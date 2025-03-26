@@ -940,7 +940,7 @@ variant: markdown
                 outline: 0px;
                 padding: 0px;
                 color: rgb(42, 103, 183);
-                text-decoration: underline;" target="" href="mailto:lim_zi_yi_b@schools.gov.sg">lim_zi_yi_b@schools.gov.sg</a>
+                text-decoration: underline;" target="" href="mailto:loh_si_lan_b@schools.gov.sg">loh_si_lan_b@schools.gov.sg</a>
           </div>
         </td>
       </tr>
