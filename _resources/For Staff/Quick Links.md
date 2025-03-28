@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1zCTEhBie9RnReL50NgGRnai1IBsTmHFR_FpSUDCeTk8/edit?gid=1142341474#gid=1142341474" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
+<p><a href="https://drive.google.com/drive/folders/1ixk4EdnS8uy6zoUVuQj0R51x5kiL6muL?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
 </p>
 </li>
 </ul>
