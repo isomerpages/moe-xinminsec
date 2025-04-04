@@ -102,22 +102,28 @@ and time management skills.</p>
 <p><strong>POSB Smart Buddy <sup>(1) - </sup></strong>- Not applicable for
 School Smart Card (student's ez-link card) holders who are registered under
 the Financial Assistance Scheme (FAS) School Meal Subsidy Programme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/smartbuddy.png">
+</div>
 <h3>B) Uniform Supplier Information</h3>
 <p>Jeep Sing Fashion
 <br>Blk 4012 Ang Mo Kio Ave 10
 <br>#01-09 Techplace 1
 <br>Singapore 569628
 <br>Fax: 63862407
-<br>Support Centre: <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a>
-</p>
+<br>Tel: 64563198</p>
 <h4>Quick Link:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>To Order online: <a href="https://jeepsinguniform.com/collections/xinmin-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/xinmin-secondary-school</a>
+<p>Support Centre:&nbsp;<u> </u><a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
 </p>
 </li>
 <li>
-<p>To Book a slot: <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>&nbsp;<strong>(For 2025 Sec 1 only)</strong>
+<p>To Order Online:&nbsp;<a href="https://jeepsinguniform.com/collections/xinmin-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/xinmin-secondary-school</a>
+</p>
+</li>
+<li>
+<p>Video directions to our Retail Outlet: <a href="https://youtu.be/BazMFlH6TBs" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/BazMFlH6TBs</a>
 </p>
 </li>
 </ul>
