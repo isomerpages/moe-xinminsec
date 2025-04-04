@@ -127,12 +127,86 @@ the Financial Assistance Scheme (FAS) School Meal Subsidy Programme.</p>
 </p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Bookshop_2025_2.png">
-</div>
-<p><strong>Important:-</strong>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
 </p>
-<p><strong>Please do not purchase any textbooks or uniform if you are applying for 2025 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mode of Purchase</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Information</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mode of Payment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Online Purchase /</strong>
+</p>
+<p><strong>Walk-in purchase</strong>
+</p>
+<p><strong>@ Retail Outlet</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>* </strong>For more details, please refer to</p>
+<p><strong>EOY Xinmin Sec Uniform Sales Schedule</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>*</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Walk-in purchase</strong>
+</p>
+<p><strong>In School</strong>
+</p>
+<p><strong>@School Bookshop</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Purchase of School uniform, PE attire and School Jacket are available
+at School Bookshop from mid of February 2024 onwards.</p>
+<p>&nbsp;</p>
+<p><strong>** </strong>Please refer to Bookshop Supplier Information for
+details.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>**</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Important:-</strong>
+<br><strong>Please do not purchase any textbooks or uniform if you are applying for Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
 </p>
 <p><strong>EOY Xinmin Sec Uniform Sales Schedule</strong>
 </p>
