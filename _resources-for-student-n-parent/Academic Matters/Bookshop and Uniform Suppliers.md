@@ -68,16 +68,15 @@ and time management skills.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Walk-in purchase</strong>
+<p><strong>&nbsp;Walk-in purchase</strong>
 </p>
 <p><strong>in School</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operating Hours:</p>
-<p>7:30am to 3pm &nbsp;&nbsp;Mondays to Wednesday, Fridays</p>
+<p>7:30am to 3pm</p>
+<p>Mondays to Wednesday, Fridays</p>
 <p>8:30am to 3pm&nbsp;&nbsp; Thursdays</p>
 <p>&nbsp;</p>
 <p>Closed on Home-based Learning days,</p>
@@ -102,7 +101,7 @@ and time management skills.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>ImImportant:-</strong>
+<p><strong>Important:-</strong>
 <br><strong>Please do not purchase any textbooks or uniform if you are applying for Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
 </p>
 <p><strong>POSB Smart Buddy <sup>(1) - </sup></strong>- Not applicable for
