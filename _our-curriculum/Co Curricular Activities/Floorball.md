@@ -29,7 +29,7 @@ looks exceptionally bright for this talented group of athletes.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesdays: 330 pm - 6 pm ('C' Division)</p>
+<p>Tuesdays: 3 pm - 530 pm ('C' Division)</p>
 </li>
 <li>
 <p>Fridays: 2 pm – 5 pm ('C' Division)</p>
@@ -54,16 +54,20 @@ activities and bonding exercises.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain - </strong>Lim Kai Jie Brandon (403, 2025)</p>
+<p><strong>Captain </strong>– Yong Chang Foong (309, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain - </strong>Tan Shu De (402, 2025)</p>
+<p><strong>Vice-Captain</strong> – Lim Wen Hao, Julian (304, 2025)</p>
 </li>
 <li>
-<p><strong>Team Manager - </strong>Ng Zhong Yi (402, 2025)</p>
+<p><strong>Vice-Captain</strong> – Joel Yapp Hai Tong (302, 2025)</p>
 </li>
 <li>
-<p><strong>Team Manager - </strong>Arthur Mok Jia Jie (408, 2025)</p>
+<p><strong>Team Manage</strong>r – Muhammad Rais Bin Noor Iskandar Shah (305,
+2025)</p>
+</li>
+<li>
+<p><strong>Physical Training IC</strong> – Chin Bin Wei (304, 2025)</p>
 <p></p>
 </li>
 </ul>
@@ -71,21 +75,19 @@ activities and bonding exercises.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain – </strong>Yong Chang Foong (309, 2025)</p>
+<p><strong>Captain </strong>– Chua Raiker (207, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain – </strong>Lim Wen Hao, Julian (304, 2025)</p>
+<p><strong>Vice-Captain</strong> – Chin Kai Xian Xanden (201, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain – </strong>Joel Yapp Hai Tong (302, 2025)</p>
+<p><strong>Team Manager</strong> – Oon Si Jun (202, 2025)</p>
 </li>
 <li>
-<p><strong>Team Manager – </strong>Muhammad Rais Bin Noor Iskandar Shah (305,
-2025)</p>
+<p>T<strong>eam Manager</strong> – Chen Yongfu, Ethan (205, 2025)</p>
 </li>
 <li>
-<p><strong>Physical Training IC – </strong>Chin Bin Wei (304, 2025)</p>
-<p></p>
+<p><strong>Physical Training IC</strong> – Liaw Kai Le, Jarren (207, 2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -129,6 +131,12 @@ strive for greatness!</p>
 </li>
 <li>
 <p>Ms Nur Fatimah Khalid</p>
+</li>
+</ul>
+<h4><strong>Coach</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Ysaac</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
