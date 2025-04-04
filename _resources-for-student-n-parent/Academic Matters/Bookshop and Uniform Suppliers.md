@@ -85,12 +85,18 @@ and time management skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>ü&nbsp;Cash</p>
-<p>&nbsp;</p>
-<p>ü&nbsp;PayNow</p>
-<p>&nbsp;</p>
-<p>ü&nbsp;POSB Smart Buddy <strong><sup>(1)</sup></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cash&nbsp;</p>
+</li>
+<li>
+<p>PayNow&nbsp;</p>
+</li>
+<li>
+<p>POSB Smart Buddy <strong><sup>(1)</sup></strong>
 </p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
