@@ -13,16 +13,14 @@ variant: tiptap
 <br>Tel: 63877804
 <br>Email: <a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
-<h4>Quick Link:</h4>
+<h4><strong>Quick Link</strong>:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>To Order online:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
+<p>Email for General Enquires:&nbsp;<a href="order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
 </li>
 <li>
-<p>To Book a slot:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://go.gov.sg/s1textbk-uniform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>&nbsp;<strong>(For 2025 Sec 1 only)</strong>
+<p>To Order Online:&nbsp;<a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 </li>
 </ul>
