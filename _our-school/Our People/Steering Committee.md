@@ -21,13 +21,13 @@ variant: tiptap
 <br>Head of Department - Aesthetics and Applied Science
 <br>Email: harvinder_singh@schools.gov.sg</p>
 <p><strong>Ms. Chong Xing Le Carol</strong>
-<br><em>Head of Department - Character and Citizenship Education</em>
+<br>Head of Department - Character and Citizenship Education
 <br>Email: chong_xing_le_carol@schools.gov.sg</p>
 <p><strong>Mr. Hardev Singh</strong>
 <br><em>Head of Department - Discipline</em>
 <br>Email: singh_hardev@schools.gov.sg</p>
 <p><strong>Ms. Lim Tze Ting Jasmine</strong>
-<br><em>Head of Department - English Language and Literature</em>
+<br>Head of Department - English Language and Literature
 <br>Email: lim_tze_ting_jasmine@schools.gov.sg</p>
 <p><strong>Ms. Lim Aiwen Bernadine</strong>
 <br>Head of Department - Humanities
