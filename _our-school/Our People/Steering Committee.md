@@ -19,17 +19,17 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Mdm. Komathi Kesavan</strong>
-<br><em>Vice-Principal</em>
+<br>Vice-Principal
 <br>Email: komathi_kesavan@schools.gov.sg</p>
 </li>
 <li>
 <p><strong>Mr. Tan Kok Kwang</strong>
-<br><em>Vice-Principal (Admin)</em>
+<br>Vice-Principal (Admin)
 <br>Email: tan_kok_kwang@schools.gov.sg</p>
 </li>
 <li>
 <p><strong>Mr. Harvinder Singh</strong>
-<br><em>Head of Department - Aesthetics and Applied Science</em>
+<br>Head of Department - Aesthetics and Applied Science
 <br>Email: harvinder_singh@schools.gov.sg</p>
 </li>
 <li>
