@@ -46,7 +46,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 108px;
-            height: 127px;" class="ive_eobj_left" alt="Lim Tze Ting Jasmine.jpg" src="/images/English Language/Lim%20Tze%20Ting%20Jasmine.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 127px;" class="ive_eobj_left" alt="Lim Tze Ting Jasmine.jpg" src="/images/Generic_Images/empty.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
