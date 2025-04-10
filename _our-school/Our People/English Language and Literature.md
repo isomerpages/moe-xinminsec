@@ -110,7 +110,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 109px;
-            height: 127px;" class="ive_eobj_left" alt="Amy Luisita.jpg" src="/images/English Language/Amy%20Luisita.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 127px;" class="ive_eobj_left" alt="Amy Luisita.jpg" src="/images/Generic_Images/empty.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
@@ -174,7 +174,7 @@ variant: markdown
             max-width: 100%;
             float: left;
             width: 113px;
-            height: 133px;" class="ive_eobj_left" alt="Sharon Ong Ling Hui.jpg" src="/images/English Language/Sharon%20Ong%20Ling%20Hui.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px">
+            height: 133px;" class="ive_eobj_left" alt="Sharon Ong Ling Hui.jpg" src="/images/Generic_Images/empty.png"><br style="margin: 0px; outline: 0px; padding: 0px">
       </td>
       <td style="margin: 0px;
           outline: 0px;
