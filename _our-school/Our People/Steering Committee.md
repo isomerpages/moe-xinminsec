@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <p><strong>Mr. Tan Soon Hui</strong>
 <br>Designation: Principal
-<br>Email: <a href="mailto:tan_soon_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soon_hui@schools.gov.sg</a>
-</p>
+<br>Email: tan_soon_hui@schools.gov.sg</p>
 <p><strong>Mr. Goh Kar Whee</strong>
 <br>Designation: <em>Vice-Principal</em>
 <br>Email: goh_kar_whee@schools.gov.sg</p>
