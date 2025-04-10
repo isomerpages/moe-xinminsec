@@ -175,4 +175,3 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:teng_leeh_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_leeh_bing@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
