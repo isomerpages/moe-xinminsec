@@ -8,47 +8,47 @@ variant: tiptap
 <p><strong>Mr Tan Soon Hui</strong>
 <br>Designation: Principal
 <br>Department: School Leaders
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">tan_soon_hui@schools.gov.sg</a>
+<br>Email: <a href="mailto:tan_soon_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_soon_hui@schools.gov.sg</a>
 </p>
 <p><strong>Mr Goh Kar Whee</strong>
 <br>Designation: Vice-Principal
 <br>Department: School Leaders
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">goh_kar_whee@schools.gov.sg</a>
+<br>Email: <a href="mailto:goh_kar_whee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kar_whee@schools.gov.sg</a>
 </p>
 <p><strong>Mdm Komathi Kesavan</strong>
 <br>Designation: Vice-Principal
 <br>Department: School Leaders
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">komathi_kesavan@schools.gov.sg</a>
+<br>Email: <a href="mailto:komathi_kesavan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">komathi_kesavan@schools.gov.sg</a>
 </p>
 <p><strong>Mr Tan Kok Kwang</strong>
 <br>Designation: Vice-Principal (Admin)
 <br>Department: School Leaders
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">tan_kok_kwang@schools.gov.sg</a>
+<br>Email: <a href="mailto:tan_kok_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_kwang@schools.gov.sg</a>
 </p>
 <p><strong>Mr Harvinder Singh</strong>
 <br>Designation: Head of Department - Aesthetics and Applied Science
 <br>Department: Aesthetics and Applied Science
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">harvinder_singh@schools.gov.sg</a>
+<br>Email: <a href="mailto:harvinder_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">harvinder_singh@schools.gov.sg</a>
 </p>
 <p><strong>Ms Chong Xing Le Carol</strong>
 <br>Designation: Head of Department - Character and Citizenship Education
 <br>Department: Mother Tongue Languages
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">chong_xing_le_carol@schools.gov.sg</a>
+<br>Email: <a href="mailto:chong_xing_le_carol@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_xing_le_carol@schools.gov.sg</a>
 </p>
 <p><strong>Mr Hardev Singh</strong>
 <br>Designation: Head of Department - Discipline
 <br>Department: Physical Education
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">singh_hardev@schools.gov.sg</a>
+<br>Email: <a href="mailto:singh_hardev@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">singh_hardev@schools.gov.sg</a>
 </p>
 <p><strong>Ms Lim Tze Ting Jasmine</strong>
 <br>Designation: Head of Department - English Language and Literature
 <br>Department: English Language and Literature
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">lim_tze_ting_jasmine@schools.gov.sg</a>
+<br>Email: <a href="mailto:lim_tze_ting_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ting_jasmine@schools.gov.sg</a>
 </p>
 <p><strong>Ms Lim Aiwen Bernadine</strong>
 <br>Designation: Head of Department - Humanities
 <br>Department: Humanities
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">bernadine_lim_aiwen@schools.gov.sg</a>
+<br>Email: <a href="mailto:bernadine_lim_aiwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bernadine_lim_aiwen@schools.gov.sg</a>
 </p>
 <p><strong>Mr Chua Chee Pheng Johnson</strong>
 <br>Designation: Head of Department - Mathematics
