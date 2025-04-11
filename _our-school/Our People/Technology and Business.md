@@ -23,7 +23,7 @@ variant: tiptap
 <p><strong>Ms Neo Hao Ting Jaclyn</strong>
 <br>Designation: Teacher
 <br>Department: Technology and Business
-<br>Email: <a href="mailto:neo_hao_ting_jaclyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_hao_ting_jaclyn@schools.gov.sg</a>
+<br>Email: <a href="mailto:norhuda_maksum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_hao_ting_jaclyn@schools.gov.sg</a>
 </p>
 <p><strong>Ms Norhuda bte Maksum</strong>
 <br>Designation: Teacher
