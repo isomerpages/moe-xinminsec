@@ -63,7 +63,8 @@ variant: tiptap
 <p><strong>Mdm Noor Siyah Bte Salleh</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
-<br>Email: -</p>
+<br>Email: <a href="mailto:noor_siyah_salleh_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_siyah_salleh_a@schools.gov.sg</a>
+</p>
 <p><strong>Ms Nor'ain Binte Ismail</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
