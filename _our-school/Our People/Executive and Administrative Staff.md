@@ -73,5 +73,5 @@ variant: tiptap
 <p><strong>Mr Aris Bin Anwar</strong>
 <br>Designation: Operations Support Officer
 <br>Department: Operations
-<br>Email: <a href="mailto:Aris_Anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Aris_Anwar@schools.gov.sg</a>
+<br>Email: <a href="mailto:aris_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aris_anwar@schools.gov.sg</a>
 </p>
