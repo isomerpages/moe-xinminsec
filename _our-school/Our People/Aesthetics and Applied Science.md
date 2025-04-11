@@ -63,7 +63,8 @@ variant: tiptap
 <p><strong>Mr Mageswaran S/O Gnanasegaran</strong>
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
-<br>Email: -</p>
+<br>Email: <a href="mailto:mageswaran_gnanasegaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mageswaran_gnanasegaran@schools.gov.sg</a>
+</p>
 <p><strong>Ms Shalyn Thng</strong>
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
