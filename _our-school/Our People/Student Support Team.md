@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<hr>
 <p><strong>Mdm Lee Chye Poh Lynne</strong>
 <br>Designation: Senior School Counsellor
 <br>Department: Counselling
