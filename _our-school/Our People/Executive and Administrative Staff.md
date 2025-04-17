@@ -70,11 +70,6 @@ variant: tiptap
 <br>Department: Administration
 <br>Email: <a href="mailto:siti_salina_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_salina_osman@schools.gov.sg</a>
 </p>
-<p><strong>Mr Yap Hock Heng</strong>
-<br>Designation: Desktop Engineer
-<br>Department: Information Technology
-<br>Email: <a href="mailto:macgyver.yap@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">macgyver.yap@ncs.com.sg</a>
-</p>
 <p><strong>Mr Aris Bin Anwar</strong>
 <br>Designation: Operations Support Officer
 <br>Department: Operations
@@ -99,4 +94,9 @@ variant: tiptap
 <br>Designation: Operations Support Officer
 <br>Department: Operations
 <br>Email: <a href="mailto:SOH_JIA_YI_JENNY@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jia_yi_jenny@schools.gov.sg</a>
+</p>
+<p><strong>Mr Yap Hock Heng</strong>
+<br>Designation: Desktop Engineer
+<br>Department: Information Technology
+<br>Email: <a href="mailto:macgyver.yap@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">macgyver.yap@ncs.com.sg</a>
 </p>
