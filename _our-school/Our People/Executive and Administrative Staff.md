@@ -75,3 +75,13 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:aris_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aris_anwar@schools.gov.sg</a>
 </p>
+<p><strong>Mr Lim Thiam Bee</strong>
+<br>Designation: Operations Support Officer
+<br>Department: Operations
+<br>Email: <a href="mailto:Lim_Thiam_bee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_thiam_bee@schools.gov.sg</a>
+</p>
+<p><strong>Ms Nur Hidayah Binte Ridzuan </strong>
+<br>Designation: Operations Support Officer
+<br>Department: Operations
+<br>Email: <a href="mailto:Nur_Hidayah_Ridzuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_ridzuan@schools.gov.sg</a>
+</p>
