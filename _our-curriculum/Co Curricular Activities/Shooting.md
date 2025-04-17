@@ -83,7 +83,7 @@ at the 2025 NSG Shooting Championship.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<p><strong>[https:<a href="https:go.gov.sg/xmss-shooting-2025schedule" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/xmss-shooting-2025schedule</a>]</strong>
+<p><a href="https://go.gov.sg/xmss-shooting-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-shooting-schedule</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -96,9 +96,6 @@ competition period.
 </p>
 </li>
 </ul>
-<h4><strong>Training Schedule</strong></h4>
-<p><a href="https://go.gov.sg/xmss-shooting-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-shooting-schedule</a>
-</p>
 <h4><strong>2024/2025 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
