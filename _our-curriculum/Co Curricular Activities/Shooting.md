@@ -20,7 +20,33 @@ Under the guidance of our professional coaches, we have nurtured at least
 18 Xinmin students who have been invited to train with the National Youth
 Team.</p>
 <p>Our shooters have put in tremendous effort to achieve impressive results
-at the 2024 NSG Shooting Championship.</p>
+at the 2025 NSG Shooting Championship.</p>
+<h4><strong>2025 Accomplishments</strong></h4>
+<p><strong><u>NSG B Division 2025</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3rd</p>
+</li>
+<li>
+<p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
+1st</p>
+</li>
+</ul>
+<p><strong><u>Individual Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual B Div Air Pistol Women 1st: Tey Shee Suan</p>
+</li>
+<li>
+<p>Individual B Div Air Pistol Women 3rd : Lee Zi Jia Reese</p>
+</li>
+<li>
+<p>Individual B Div Air Rifle Men 4th : Joshua Lee Kai En</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>2024 Accomplishments</strong></h4>
 <p><u>B Div:</u>
 </p>
@@ -70,107 +96,9 @@ competition period.
 </p>
 </li>
 </ul>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Jan – April (NSG B Div period)</strong>
+<h4><strong>Training Schedule</strong></h4>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-shooting-schedule</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>April – July (NSG C Div period)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>August – September</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 3, 4, 5</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Mon:</strong> 3.30-5.30pm/5.00-6.30pm</p>
-<p><strong>Wed:</strong> 3.30-5.30pm/5.00-6.30pm</p>
-<p><strong>Fri:</strong> 2.00-4.00pm/3.30-5.00pm</p>
-<p><u>&nbsp;</u>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 2</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Mon: </strong>4.00 – 6.00pm</p>
-<p><strong>Wed: </strong>3.30 – 5.30pm</p>
-<p><strong>Fri: </strong>2.00 – 4.00pm</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 2, 3</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Wed:</strong> 3.30-5.30pm/5.00-6.30pm</p>
-<p><strong>Fri: </strong>2.00-4.00pm/3.30-5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 1, 2</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>2.30-4.30pm/4.00-5.30pm</p>
-<p><strong>Thu: </strong>3.30-5.30pm/5.00-6.30pm</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 1, 3</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>2.30-4.30pm/4.00-5.30pm</p>
-<p><strong>Thu: </strong>3.30-5.30pm/5.00-6.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 1</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>2.30-4.30pm</p>
-<p><strong>Thu: </strong>4.00-6.00pm</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>Shooters report for 1 session only for each CCA day, allocated by air
-weapon/respective level. All CCA sessions include 30 minutes of Physical
-Training, unless otherwise stated in monthly training schedule.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>2024/2025 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
