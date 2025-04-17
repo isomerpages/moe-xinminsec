@@ -75,6 +75,11 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:aris_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aris_anwar@schools.gov.sg</a>
 </p>
+<p><strong>Mr Kamsani Bin Palil</strong>
+<br>Designation: Operations Support Officer
+<br>Department: Operations
+<br>Email: <a href="mailto:kamsani_palil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamsani_palil@schools.gov.sg</a>
+</p>
 <p><strong>Mr Lim Thiam Bee</strong>
 <br>Designation: Operations Support Officer
 <br>Department: Operations
