@@ -97,7 +97,7 @@ competition period.
 </li>
 </ul>
 <h4><strong>Training Schedule</strong></h4>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-shooting-schedule</a>
+<p><a href="https://go.gov.sg/xmss-shooting-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-shooting-schedule</a>
 </p>
 <h4><strong>2024/2025 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
