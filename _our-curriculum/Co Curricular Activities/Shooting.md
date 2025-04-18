@@ -82,47 +82,33 @@ at the 2025 NSG Shooting Championship.</p>
 <p>Individual C Div Bronze Medallist (Air Pistol Women): Xerlyn Tay Zhi Xin</p>
 </li>
 </ul>
-<h4><strong>CCA Schedule</strong></h4>
-<p><a href="https://go.gov.sg/xmss-shooting-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-shooting-schedule</a>
-</p>
+<h4><strong>2025/2026 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>*CCA schedule is updated in the google sheet every month.</p>
+<p><strong>Captain: </strong>Tey Shee Suan (304, 2025)</p>
 </li>
 <li>
-<p>*Shooters to check schedule regularly for updates especially closer to
-competition period.
-<br><u>Jan -April (NSG B div period)</u>
-</p>
+<p><strong>Vice-Captain (Admin):  </strong>Peh Ning Yi, Phedra (305, 2025)</p>
+</li>
+<li>
+<p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (309, 2025)</p>
+</li>
+<li>
+<p><strong>Vice-Captain (Training):  </strong>Joshua Lee Kai En (305, 2025)</p>
+</li>
+<li>
+<p><strong>Sec 1 Level Head:  </strong>Yuki Tey Chu Tong (302, 2025)</p>
+<p><strong>                                        </strong>Batrisyia binte
+Isham (309, 2025)</p>
+</li>
+<li>
+<p><strong>Sec 2 Level Head: </strong> Clarice Chua Xin Ting (302, 2025)</p>
+</li>
+<li>
+<p><strong>Sec 3 Level Head:  </strong>Lee Zi Jia, Reese (303, 2025)</p>
 </li>
 </ul>
-<h4><strong>2024/2025 Student Leaders</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Captain</strong>: Ai Zhixuan (405, 2025)</p>
-</li>
-<li>
-<p><strong>Head of Welfare</strong>: Syon Lu Ziming (401, 2025)</p>
-</li>
-<li>
-<p><strong>Heads of Training</strong>: Ping Kai Yi, Matthew (402, 2025)</p>
-</li>
-<li>
-<p><strong>Heads of Admin</strong>: Kayley Tien (403, 2025)</p>
-</li>
-<li>
-<p><strong>Sec 1 Level Head</strong>: Tay Zhong Zhi Zaxis (404, 2025),</p>
-</li>
-<li>
-<p><strong>Sec 2 Level Head</strong>: Tan Yu Wen, Sarah (405, 2025)</p>
-</li>
-<li>
-<p><strong>Sec 3 Level Head</strong>: Kenji Ong Kai Jie (404, 2025)</p>
-</li>
-<li>
-<p><strong>Sec 4/5 Level Head</strong>: Torres New Zong Ming (406, 2025)</p>
-</li>
-</ul>
+<p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
