@@ -106,7 +106,6 @@ at the 2025 NSG Shooting Championship.</p>
 <p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (303, 2025)</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
