@@ -37,7 +37,7 @@ at the 2025 NSG Shooting Championship.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Individual B Div Air Pistol Women 1st: Tey Shee Suan</p>
+<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
 </li>
 <li>
 <p>Individual B Div Air Pistol Women 3rd : Lee Zi Jia Reese</p>
@@ -46,7 +46,6 @@ at the 2025 NSG Shooting Championship.</p>
 <p>Individual B Div Air Rifle Men 4th : Joshua Lee Kai En</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>2024 Accomplishments</strong></h4>
 <p><u>B Div:</u>
 </p>
@@ -88,24 +87,23 @@ at the 2025 NSG Shooting Championship.</p>
 <p><strong>Captain: </strong>Tey Shee Suan (304, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Admin):  </strong>Peh Ning Yi, Phedra (305, 2025)</p>
+<p><strong>Vice-Captain (Admin): </strong>Peh Ning Yi, Phedra (305, 2025)</p>
 </li>
 <li>
 <p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (309, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Training):  </strong>Joshua Lee Kai En (305, 2025)</p>
+<p><strong>Vice-Captain (Training): </strong>Joshua Lee Kai En (305, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 1 Level Head:  </strong>Yuki Tey Chu Tong (302, 2025)</p>
-<p><strong>                                        </strong>Batrisyia binte
-Isham (309, 2025)</p>
+<p><strong>Sec 1 Level Head: </strong>Yuki Tey Chu Tong (302, 2025)</p>
+<p>Batrisyia binte Isham (309, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Head: </strong> Clarice Chua Xin Ting (302, 2025)</p>
+<p><strong>Sec 2 Level Head: </strong>Clarice Chua Xin Ting (302, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Head:  </strong>Lee Zi Jia, Reese (303, 2025)</p>
+<p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (303, 2025)</p>
 </li>
 </ul>
 <p></p>
