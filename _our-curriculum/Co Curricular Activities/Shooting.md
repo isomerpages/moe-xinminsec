@@ -96,8 +96,8 @@ at the 2025 NSG Shooting Championship.</p>
 <p><strong>Vice-Captain (Training): </strong>Joshua Lee Kai En (305, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 1 Level Head: </strong>Yuki Tey Chu Tong (302, 2025)</p>
-<p>Batrisyia binte Isham (309, 2025)</p>
+<p><strong>Sec 1 Level Head: </strong>Yuki Tey Chu Tong (302, 2025), Batrisyia
+binte Isham (309, 2025)</p>
 </li>
 <li>
 <p><strong>Sec 2 Level Head: </strong>Clarice Chua Xin Ting (302, 2025)</p>
@@ -127,6 +127,5 @@ at the 2025 NSG Shooting Championship.</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
-<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting/</a>
-<br>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting</a>
 </p>
