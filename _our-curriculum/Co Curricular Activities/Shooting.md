@@ -20,7 +20,32 @@ Under the guidance of our professional coaches, we have nurtured at least
 18 Xinmin students who have been invited to train with the National Youth
 Team.</p>
 <p>Our shooters have put in tremendous effort to achieve impressive results
-at the 2024 NSG Shooting Championship.</p>
+at the 2025 NSG Shooting Championship.</p>
+<h4><strong>2025 Accomplishments</strong></h4>
+<p><strong><u>NSG B Division 2025</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3rd</p>
+</li>
+<li>
+<p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
+1st</p>
+</li>
+</ul>
+<p><strong><u>Individual Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
+</li>
+<li>
+<p>Individual B Div Air Pistol Women 3rd : Lee Zi Jia Reese</p>
+</li>
+<li>
+<p>Individual B Div Air Rifle Men 4th : Joshua Lee Kai En</p>
+</li>
+</ul>
 <h4><strong>2024 Accomplishments</strong></h4>
 <p><u>B Div:</u>
 </p>
@@ -56,146 +81,29 @@ at the 2024 NSG Shooting Championship.</p>
 <p>Individual C Div Bronze Medallist (Air Pistol Women): Xerlyn Tay Zhi Xin</p>
 </li>
 </ul>
-<h4><strong>CCA Schedule</strong></h4>
-<p><strong>[https:<a href="https:go.gov.sg/xmss-shooting-2025schedule" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/xmss-shooting-2025schedule</a>]</strong>
-</p>
+<h4><strong>2025/2026 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>*CCA schedule is updated in the google sheet every month.</p>
+<p><strong>Captain: </strong>Tey Shee Suan (304, 2025)</p>
 </li>
 <li>
-<p>*Shooters to check schedule regularly for updates especially closer to
-competition period.
-<br><u>Jan -April (NSG B div period)</u>
-</p>
-</li>
-</ul>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Jan – April (NSG B Div period)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>April – July (NSG C Div period)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>August – September</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 3, 4, 5</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Mon:</strong> 3.30-5.30pm/5.00-6.30pm</p>
-<p><strong>Wed:</strong> 3.30-5.30pm/5.00-6.30pm</p>
-<p><strong>Fri:</strong> 2.00-4.00pm/3.30-5.00pm</p>
-<p><u>&nbsp;</u>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 2</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Mon: </strong>4.00 – 6.00pm</p>
-<p><strong>Wed: </strong>3.30 – 5.30pm</p>
-<p><strong>Fri: </strong>2.00 – 4.00pm</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 2, 3</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Wed:</strong> 3.30-5.30pm/5.00-6.30pm</p>
-<p><strong>Fri: </strong>2.00-4.00pm/3.30-5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 1, 2</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>2.30-4.30pm/4.00-5.30pm</p>
-<p><strong>Thu: </strong>3.30-5.30pm/5.00-6.30pm</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 1, 3</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>2.30-4.30pm/4.00-5.30pm</p>
-<p><strong>Thu: </strong>3.30-5.30pm/5.00-6.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Sec 1</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>2.30-4.30pm</p>
-<p><strong>Thu: </strong>4.00-6.00pm</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>Shooters report for 1 session only for each CCA day, allocated by air
-weapon/respective level. All CCA sessions include 30 minutes of Physical
-Training, unless otherwise stated in monthly training schedule.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>2024/2025 Student Leaders</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Captain</strong>: Ai Zhixuan (405, 2025)</p>
+<p><strong>Vice-Captain (Admin): </strong>Peh Ning Yi, Phedra (305, 2025)</p>
 </li>
 <li>
-<p><strong>Head of Welfare</strong>: Syon Lu Ziming (401, 2025)</p>
+<p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (309, 2025)</p>
 </li>
 <li>
-<p><strong>Heads of Training</strong>: Ping Kai Yi, Matthew (402, 2025)</p>
+<p><strong>Vice-Captain (Training): </strong>Joshua Lee Kai En (305, 2025)</p>
 </li>
 <li>
-<p><strong>Heads of Admin</strong>: Kayley Tien (403, 2025)</p>
+<p><strong>Sec 1 Level Head: </strong>Yuki Tey Chu Tong (302, 2025), Batrisyia
+binte Isham (309, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 1 Level Head</strong>: Tay Zhong Zhi Zaxis (404, 2025),</p>
+<p><strong>Sec 2 Level Head: </strong>Clarice Chua Xin Ting (302, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Head</strong>: Tan Yu Wen, Sarah (405, 2025)</p>
-</li>
-<li>
-<p><strong>Sec 3 Level Head</strong>: Kenji Ong Kai Jie (404, 2025)</p>
-</li>
-<li>
-<p><strong>Sec 4/5 Level Head</strong>: Torres New Zong Ming (406, 2025)</p>
+<p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (303, 2025)</p>
 </li>
 </ul>
 <h4><strong>Teachers-in-charge</strong></h4>
@@ -219,6 +127,5 @@ Training, unless otherwise stated in monthly training schedule.</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
-<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting/</a>
-<br>
+<p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting</a>
 </p>
