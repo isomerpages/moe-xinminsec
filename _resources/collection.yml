@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students and Parents/Links for students.md
       - For Students and Parents/.keep
       - For Students and Parents/Academic Matters.md
       - For Students and Parents/Pastoral Matters.md
