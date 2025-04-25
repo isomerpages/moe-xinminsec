@@ -70,6 +70,11 @@ variant: tiptap
 <br>Department: Administration
 <br>Email: <a href="mailto:siti_salina_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_salina_osman@schools.gov.sg</a>
 </p>
+<p><strong>Mdm Tan Swee Beng</strong>
+<br>Designation: Administrative Assistant
+<br>Department: Administration
+<br>Email: <a href="mailto:tan_swee_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_swee_beng@schools.gov.sg</a>
+</p>
 <p><strong>Mr Aris Bin Anwar</strong>
 <br>Designation: Operations Support Officer
 <br>Department: Operations
