@@ -16,6 +16,10 @@ third_nav_title: For Students and Parents
 </p>
 </li>
 <li>
+<p><a href="https://form.gov.sg/67bff993af7ee7f40f0a135f" rel="noopener nofollow" target="_blank">X-Fixit</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/x-outbullyingform" rel="noopener nofollow" target="_blank">X-Out Bullying form</a>
 </p>
 </li>
