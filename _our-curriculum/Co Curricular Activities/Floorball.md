@@ -54,20 +54,20 @@ activities and bonding exercises.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain </strong>– Yong Chang Foong (309, 2025)</p>
+<p><strong>Captain </strong>– Chua Qi Han Darrius (302, 2025)</p>
+</li>
+<li>
+<p><strong>Vice-Captain</strong> – Chiu Bo Hao (303, 2025)</p>
 </li>
 <li>
 <p><strong>Vice-Captain</strong> – Lim Wen Hao, Julian (304, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain</strong> – Joel Yapp Hai Tong (302, 2025)</p>
-</li>
-<li>
 <p><strong>Team Manage</strong>r – Muhammad Rais Bin Noor Iskandar Shah (305,
-2025)</p>
+2025))</p>
 </li>
 <li>
-<p><strong>Physical Training IC</strong> – Chin Bin Wei (304, 2025)</p>
+<p><strong>Physical Training IC</strong> – Yong Chang Foong (309, 2025)</p>
 <p></p>
 </li>
 </ul>
