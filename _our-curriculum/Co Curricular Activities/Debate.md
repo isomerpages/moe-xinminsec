@@ -100,10 +100,10 @@ competitions.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SSSDC (Semi-finalist, 2022 and quarterfinalist, 2023)</p>
+<p>SSSDC (Semi-finalist, 2022 and quarterfinalist, 2023, Semi-finalist, 2025)</p>
 </li>
 <li>
-<p>Overall best speaker SSSDC in 2022</p>
+<p>Overall best speaker SSSDC in 2022, Top 20 Speake in 2025</p>
 </li>
 <li>
 <p>Mid-Year Debate Invitationals (1st Runner up, 2023)</p>
