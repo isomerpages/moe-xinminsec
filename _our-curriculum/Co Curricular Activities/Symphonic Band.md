@@ -84,43 +84,28 @@ Yi Xuan (402, 2025)</p>
 <h4><strong>Section Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Flute – Koh Sher Min (404, 2025)</p>
+<p>Flute &amp; Oboe – Reuben Lee (305, 2025)</p>
 </li>
 <li>
-<p>Oboe – Ong Meng Xin (408, 2025)</p>
+<p>Clarinet – Zac Png (305, 2025), Velda Wong (Asst.) (302, 2025)</p>
 </li>
 <li>
-<p>Bassoon – Yu Hong Yin (403, 2025)</p>
+<p>Saxophone &amp; Bassoon – Abel Lau (301, 2025)</p>
 </li>
 <li>
-<p>Clarinet – Kang Kai Rui (404, 2025), Elijah Ho Wei Zheng (Asst.) (405,
-2025)</p>
+<p>·Trumpet – Hong Jing Xien (302, 2025)</p>
 </li>
 <li>
-<p>Saxophone – Daniel Tan Yi An (403, 2025)</p>
+<p>Trombone – Chloe Lim (303, 2025)</p>
 </li>
 <li>
-<p>French Horn – Tey Yi Xuan (401, 2025)</p>
+<p>French Horn – Marcus Ong (304, 2025)</p>
 </li>
 <li>
-<p>Trumpet – Lim Kai Heng, Kaden (403, 2025), Chan Hao Hian Brendan (Asst.)
-(403, 2025)</p>
+<p>Euphonium, Tuba &amp; Double Bass – Jason Liew (303, 2025)</p>
 </li>
 <li>
-<p>Trombone – Wong Ethan (407, 2025)</p>
-</li>
-<li>
-<p>Euphonium – (under Double Bass Section SL)</p>
-</li>
-<li>
-<p>Tuba – Zayden Ng Jun Herng (407, 2025)</p>
-</li>
-<li>
-<p>Double Bass – Lin Rui’En, Claire (404, 2025)</p>
-</li>
-<li>
-<p>Percussion – Caleb Gan Jian Ann (407, 2025)</p>
-<p></p>
+<p>Percussion – Theodore Hee (301, 2025), Poh Jia An (Asst.) (305, 2025)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
