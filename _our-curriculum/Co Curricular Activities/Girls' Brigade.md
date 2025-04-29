@@ -60,14 +60,17 @@ and servant-leadership, standing as role models for others.</p>
 <h4><em>&nbsp;</em><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dr Low Guat Tin Challenge: 2 Gold, 2 Silver and 5 Bronze awards</p>
+<p>Dr Low Guat Tin Challenge (2024): 2 Gold, 2 Silver and 5 Bronze awards</p>
 </li>
 <li>
-<p>Pioneer Brigadier Brooch awardees: Janine Chia Ning (408, 2024), Sara
-Tay Jing Lin (402, 2024) and Heng Zeng Ru (402, 2024)</p>
+<p>GB National Drill Competition (2025): 2 Gold awards</p>
 </li>
 <li>
-<p>Company Award: Gold</p>
+<p>Pioneer Brigadier Brooch awardees: Foo Si Jia Faith (402, 2025), Yeow
+Xuan Ning (404, 2025), Lee Yu Xi (401, 2025) and Clara Yar (401, 2024)</p>
+</li>
+<li>
+<p>2024 Company Award: Gold</p>
 </li>
 </ul>
 <p>Join us as we continue to live out the core values of Family, Friendship,
