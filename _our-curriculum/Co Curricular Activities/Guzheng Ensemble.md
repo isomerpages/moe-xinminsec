@@ -136,6 +136,9 @@ create unforgettable performances together!</p>
 <li>
 <p>Ms Cindy Oh</p>
 </li>
+<li>
+<p>Ms Xiao Yanfei</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p>Instagram <a href="https://instagram.com/xms.guzheng" rel="noopener noreferrer nofollow" target="_blank">https://instagram.com/xms.guzheng</a>
