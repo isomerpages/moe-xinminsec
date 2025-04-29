@@ -115,7 +115,6 @@ floorball as their future CCA.</p>
 </li>
 <li>
 <p>First runner ups U14 Northbrooks Invitational Competition 2024</p>
-<p></p>
 </li>
 </ul>
 <p>Join us on our floorball journey at Xinmin, where creativity, teamwork,
