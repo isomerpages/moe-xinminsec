@@ -82,7 +82,6 @@ Yang Yui Kong (308, 2025)</p>
 2025)</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Section Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
