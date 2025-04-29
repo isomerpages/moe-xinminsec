@@ -104,10 +104,7 @@ enhancing their skills to guide and mentor their juniors effectively.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>2023 Unit Recognition Award – Distinction</p>
-</li>
-<li>
-<p>2023 Outstanding Cadet Award – Chuck Char Han Caden (403, 2024) – USM</p>
+<p>2024 Unit Recognition Award – Distinction</p>
 </li>
 </ul>
 <p>Join the Xinmin NCC to build resilience, discipline, and leadership while
