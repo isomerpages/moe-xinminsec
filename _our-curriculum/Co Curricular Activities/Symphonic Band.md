@@ -51,36 +51,38 @@ audiences.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Drum Major –</strong> Chan Hao Hian Brendan (403, 2025)</p>
+<p>Drum Major – Ethan Wong (302, 2025)</p>
 </li>
 <li>
-<p><strong>Band Major (Music) –</strong> Lin Rui’En, Claire (404, 2025)</p>
+<p>Band Major (Music) – Javier Zhao (301, 2025)</p>
 </li>
 <li>
-<p><strong>Band Major (Admin) –</strong> Ng Yi Xuan (402, 2025)
-<br><strong>Secretary &amp; Media –</strong> Seah Xin Le, Joy (407, 2025)</p>
+<p>Band Major (Admin) – Velda Wong (302, 2025)</p>
 </li>
 <li>
-<p><strong>Librarian –</strong> Bu Weixuan Klara (IC) (403, 2025), Ong Yu
-Ming (406, 2025), Caleb Gan Jian Ann (407, 2025)</p>
+<p>Secretary &amp; Media – Mak Yu Xuan (304, 2025)</p>
 </li>
 <li>
-<p><strong>Quarter Master –</strong> Wu Zhengting (306, 2025), Tey Yi Xuan
-(401, 2025)</p>
+<p>Librarian – Puah Yan Wen (304, 2025), Cayman Tan (307, 2025), Poh Jia
+An (305, 2025)</p>
 </li>
 <li>
-<p><strong>Bandroom Mannagement –</strong> Yu Hong Yin (403, 2025), Zayden
-Ng Jun Herng (407, 2025)</p>
+<p>Quartermaster – Jason Liew (303, 2025), Leor Wong (307, 2025), Abel Lau
+(301, 2025)</p>
 </li>
 <li>
-<p><strong>Uniform Management – </strong>Daniel Tan Yi An (403, 2025), Tan
-Hong Yu (406, 2025)</p>
+<p>Band Room Management – Kong Hansheng (303, 2025), Lucas Foo (309, 2025),
+Yang Yui Kong (308, 2025)</p>
 </li>
 <li>
-<p><strong>Welfare &amp; Activities –</strong> Kang Kai Rui (404, 2025), Ng
-Yi Xuan (402, 2025)</p>
+<p>Uniform Management – Puah Yan Wen (304, 2025), Sofiyah Naznin (304, 2025)</p>
+</li>
+<li>
+<p>Welfare &amp; Activities – Kong Hansheng (303, 2025), Ethan Wong (302,
+2025)</p>
 </li>
 </ul>
+<p></p>
 <h4><strong>Section Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
