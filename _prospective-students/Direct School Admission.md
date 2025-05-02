@@ -17,9 +17,7 @@ parents and students to join us at the 2025 DSA Webinar on Friday, 16 May
 upon your registration by completing this form which can be access by clicking
 on this <a href="https://form.gov.sg/680feba2423184f46119cc45" rel="noopener nofollow" target="_blank">link</a> This
 webinar will provide valuable insights and information to support your
-understanding of our school's offerings and the DSA process.</p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/680feba2423184f46119cc45"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2025/DSA_Image.png"></a>
+understanding of our school's offerings and the DSA process.</p><a class="isomer-image-wrapper" href="https://form.gov.sg/680feba2423184f46119cc45"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2025/DSA_Image.png"></a>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
@@ -76,5 +74,4 @@ assessing the potential of the applicants.</p>
 an offer.</p>
 <p>3. Due to different profiles of applicants, selection/shortlisting trends
 may differ year on year</p>
-<p></p>
 <p></p>
