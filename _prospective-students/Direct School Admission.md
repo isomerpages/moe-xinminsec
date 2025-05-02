@@ -43,8 +43,8 @@ of questionnaires/ trials/ auditions/ interviews if they have applied for
 more than one talent area.</p>
 </li>
 <li>
-<p>The questionnaires/ trials/ interviews for shortlisted candidates will
-be conducted between 14 July 2025 and 1 August 2025 at Xinmin Secondary
+<p>The questionnaires / trials/ auditions / interviews for shortlisted candidates
+will be conducted between 14 July 2025 and 1 August 2025 at Xinmin Secondary
 School.</p>
 </li>
 </ul>
@@ -59,7 +59,7 @@ them of the outcome,</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1- 4/5.</p>
-<h2>2025 Talent Areas and Criteria</h2>
+<h2>2025 Talent Areas and Selection Considerations</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Direct School Admissions/2025/Performing_Arts_2025.pdf" rel="noopener nofollow" target="_blank">Performing Arts</a>
