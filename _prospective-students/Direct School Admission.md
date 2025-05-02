@@ -34,6 +34,27 @@ to 3 Jun 2024, 3pm.</p>
 </p>
 <p><a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">How to apply</a>
 </p>
+<h2>SELECTION PROCESS</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shortlisted candidates will be notified latest by 4 July 2025 .</p>
+</li>
+<li>
+<p>Shortlisted candidates will be required to sit for the required questionnaires,
+trials, auditions and interviews sessions as specified under the different
+talent areas.</p>
+</li>
+<li>
+<p>Please note that shortlisted candidates will have to attend separate sessions
+of questionnaires/ trials/ auditions/ interviews if they have applied for
+more than one talent area.</p>
+</li>
+<li>
+<p>The questionnaires/ trials/ interviews for shortlisted candidates will
+be conducted between 14 July 2025 and 1 August 2025 at Xinmin Secondary
+School.</p>
+</li>
+</ul>
 <h2>Results of Application</h2>
 <p>All final results will be notified by post to the applicants to inform
 them of the outcome,</p>
