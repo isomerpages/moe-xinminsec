@@ -6,30 +6,24 @@ variant: tiptap
 ---
 <p>Under the Direct School Admission Exercise, students with exceptional
 talents listed below may be considered for direct entry to Xinmin Secondary
-School for the Secondary 1 cohort of 2025.</p>
+School for the Secondary 1 cohort of 2026.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the students' aptitudes and strengths, bearing in mind the schools' academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>To learn more about our school's curriculum and DSA Talent Areas, we invite
-parents and students to join us at the 2024 DSA Webinar on Friday, 10 May
-2024 from 6:15pm to 7:15pm. This webinar will provide valuable insights
-and information to support your understanding of our school's offerings
-and the DSA process.</p>
+parents and students to join us at the 2025 DSA Webinar on Friday, 16 May
+2025 from 6:15pm to 7:15pm . The webinar details will be emailed to you
+upon your registration by completing this form which can be access by clicking
+on this <a href="https://form.gov.sg/680feba2423184f46119cc45" rel="noopener nofollow" target="_blank">link</a> This
+webinar will provide valuable insights and information to support your
+understanding of our school's offerings and the DSA process.</p>
 <p></p>
-<p><strong><u>Details of Webinar:</u></strong>
-</p>
-<p>To join the webinar, please click the following link:</p>
-<p><a href="https://moe-singapore.zoom.us/j/84783675824" rel="noopener noreferrer nofollow" target="_blank">XMS DSA Webinar Zoom Link</a> and
-use the passcode: xinmindsa or using the details below:</p>
-<p>Date and Time: May 10, 2024 (Friday). Webinar will be open at 6pm.</p>
-<p>Zoom Webinar ID: 84783675824</p>
-<p>Passcode: xinmindsa</p>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/680feba2423184f46119cc45"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2025/DSA_Image.png"></a>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm.</p>
-<p>The application is free-of-charge.
+The application is free-of-charge and will be open from 7 May 2025, 11am
+to 3 Jun 2025, 3pm.
 <br>For more details, please refer to MOE website -&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>
 </p>
 <p><a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">How to apply</a>
