@@ -111,30 +111,37 @@ shaping the brigade and fostering the boys’ holistic growth. They hone
 their leadership skills by leading many of our key programmes, providing
 mentorship and guidance to younger boys, and forming the backbone of our
 day-to-day operations.</p>
-<h4><strong>2024 NCO Council</strong></h4>
+<h4><strong>2025 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Company Sergeant Major</strong>
 </p>
-<p>SGT Ethan Yap Ern Xin (401, 2025)</p>
+<p>SGT Emmanuel Yeo Xiang Yong (302, 2025)</p>
 <p></p>
 </li>
 <li>
 <p><strong>Assistant Company Sergeant Major</strong>
 </p>
-<p>SGT Ko Qi Yuan (404, 2025)</p>
+<p>SGT Neo Hao Yu (306, 2025)</p>
 <p></p>
 </li>
 <li>
 <p><strong>Quartermaster&nbsp;</strong>
 </p>
-<p>SGT Seow Zhi Qin (407, 2025)</p>
+<p>SGT Luke Tang Yan Zhen (304, 2025)</p>
 <p></p>
 </li>
 <li>
-<p><strong>Assistant Quartermaster</strong>
+<p><strong>Training Head</strong>
 </p>
-<p>SGT Braven Wee Zhi Neng (408, 2025)</p>
+<p>SGT Aaron Teo Yu Hao (303, 2025)</p>
+<p></p>
+</li>
+<li>
+<p><strong>Publications Head</strong>
+</p>
+<p>SGT Xavier Tong Zi Jun (301, 2025)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
