@@ -161,10 +161,10 @@ challenge with determination, overcoming physical and mental obstacles
 together. Looking ahead, the Boys' Brigade remains committed to its motto,
 "Sure &amp; Steadfast," dedicated to serving with compassion and pursuing
 excellence.</p>
-<h4><strong>Accomplishments in 2024</strong></h4>
+<h4><strong>Accomplishments in 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>JM Fraser Award for Excellence (Year of Assessment 2023) – High Distinction</p>
+<p>JM Fraser Award for Excellence (Year of Assessment 2024) – High Distinction</p>
 </li>
 <li>
 <p>BB Blaze 2024 – Gold Honour Roll</p>
@@ -176,6 +176,19 @@ excellence.</p>
 <p>Founder's Award Recipients:
 <br>SSG Phong Kai Tong (401)
 <br>SSG Nigel Foo Ce Liang (409)</p>
+</li>
+<li>
+<p>Most Improved NCO Award 2025: SSG Braven Wee</p>
+</li>
+<li>
+<p>Outstanding NCO Award 2025: SSG Ethan Yap</p>
+</li>
+<li>
+<p>Servant Leadership Award 2025: SCL Owen Saw</p>
+</li>
+<li>
+<p>Best Recruit 2025: LCP Jayden Quan</p>
+<p></p>
 </li>
 </ul>
 <p>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast
@@ -257,4 +270,4 @@ boy!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
 </div>
-<p></p>
+<p>5</p>
