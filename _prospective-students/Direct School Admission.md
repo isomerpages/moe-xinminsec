@@ -26,7 +26,7 @@ to 3 Jun 2025, 3pm.
 </p>
 <p><a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener noreferrer nofollow" target="_blank">How to apply</a>
 </p>
-<h2>SELECTION PROCESS</h2>
+<h2>Selection Process</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates will be notified latest by 4 July 2025 .</p>
