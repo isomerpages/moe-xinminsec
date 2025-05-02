@@ -46,6 +46,31 @@ at the 2025 NSG Shooting Championship.</p>
 <p>Individual B Div Air Rifle Men 4th : Joshua Lee Kai En</p>
 </li>
 </ul>
+<h4><strong>2025 Accomplishments</strong></h4>
+<p><u>NSG B Division 2025</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3rd</p>
+</li>
+<li>
+<p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
+1st</p>
+</li>
+</ul>
+<p><u>Individual Medal</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
+</li>
+<li>
+<p>Individual B Div Air Pistol Women 3rd : Lee Zi Jia Reese</p>
+</li>
+<li>
+<p>Individual B Div Air Rifle Men 4th : Joshua Lee Kai En</p>
+</li>
+</ul>
 <h4><strong>2024 Accomplishments</strong></h4>
 <p><u>B Div:</u>
 </p>

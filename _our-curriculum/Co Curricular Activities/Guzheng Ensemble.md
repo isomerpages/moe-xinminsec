@@ -120,7 +120,7 @@ the ensemble prestigious accolades at the Singapore Youth Festival since
 <ul data-tight="true" class="tight">
 <li>
 <p>Attained the Certificate of Distinction in Singapore Youth Festival (SYF)
-Arts Presentation [2013, 2015, 2017, 2019, 2021, 2023]</p>
+Arts Presentation [2013, 2015, 2017, 2019, 2021, 2023, 2025]</p>
 </li>
 </ul>
 <p>Join the Xinmin Guzheng Ensemble to master music, build friendships, and
@@ -135,6 +135,9 @@ create unforgettable performances together!</p>
 </li>
 <li>
 <p>Ms Cindy Oh</p>
+</li>
+<li>
+<p>Ms Xiao Yanfei</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

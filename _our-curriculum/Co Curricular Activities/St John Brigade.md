@@ -138,23 +138,19 @@ St. John curriculum through the Cadet Proficiency Badge scheme.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Achievement Award 2023- Gold</p>
+<p>Corps Achievement Award 2024- Gold</p>
 </li>
 <li>
-<p>Northeast District First Aid Competition 2024:</p>
-</li>
-<li>
-<p>Ambulance Adult Category- Overall Champion</p>
+<p>Northeast District First Aid Competition 2025:</p>
 </li>
 <li>
 <p>Nursing Adult Category- Overall Champion</p>
 </li>
 <li>
-<p>Ambulance Cadet Category- 2nd Runner-up</p>
-</li>
-</ul>
+<p>Ambulance Cadet Category- 1st Runner-up</p>
+<p></p>
 <p>Chief Commissioner’s Badge 2024:</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Toh Jun Yu (402)</p>
 </li>

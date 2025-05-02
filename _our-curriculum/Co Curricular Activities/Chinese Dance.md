@@ -118,15 +118,11 @@ titled 春语 and achieved a Certificate of Distinction.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
-2019</p>
-</li>
-<li>
-<p>Attained Certificate of Distinction and Certificate of Accomplishment
-in Singapore Youth Festival (SYF) 2021</p>
+2023</p>
 </li>
 <li>
 <p>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
-2023</p>
+2025</p>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>

@@ -94,6 +94,14 @@ serve as a platform for players to build resilience and learn to navigate
 challenges on the court. As a team, we gain invaluable lessons, fostering
 both personal and collective growth with every competition.</p>
 <h4><strong>Accomplishments</strong></h4>
+<p>NSG Badminton Championships (North Zone) 2025:</p>
+<p>• ‘B’ Division Girls: Champions</p>
+<p>NSG Badminton Championships (Nationals) 2025:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B’ Division Girls: 4th</p>
+</li>
+</ul>
 <p>NSG Badminton Championships (North Zone) 2024:</p>
 <ul data-tight="true" class="tight">
 <li>

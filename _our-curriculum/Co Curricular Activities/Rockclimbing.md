@@ -99,24 +99,16 @@ showcase the strength and resilience that Xinmin students are known for.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Inter-School Bouldering Championships C Division Girls Overall Champions</em>
-</p>
+<p>Inter-School Bouldering Championship C Division Boys – 1st Runner Up</p>
 </li>
 <li>
-<p><em>Inter-Schools Bouldering Championships C Division Boys Overall 1<sup>st</sup> Runner Up</em>
-</p>
+<p>Inter-School Bouldering Championship C Division Girls – 1st Runner Up</p>
 </li>
 <li>
-<p><em>Inter-Schools Bouldering Championships B Division Girls Overall 2<sup>nd</sup> Runner Up</em>
-</p>
+<p>Inter-School Bouldering Championship B Division Boys – 1st Runner Up</p>
 </li>
 <li>
-<p><em>Inter-Schools Bouldering Championships B Division Boys Overall 2<sup>nd</sup> Runner Up</em>
-</p>
-</li>
-<li>
-<p><em>Inter-Schools Bouldering Championships B Division Boys Individual 1<sup>st</sup> Runner Up – Jacob Paul Marie Ee (Class 303)</em>
-</p>
+<p>Inter-School Bouldering Championship B Division Girls – Champion</p>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
