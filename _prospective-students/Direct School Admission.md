@@ -25,7 +25,6 @@ use the passcode: xinmindsa or using the details below:</p>
 <p>Date and Time: May 10, 2024 (Friday). Webinar will be open at 6pm.</p>
 <p>Zoom Webinar ID: 84783675824</p>
 <p>Passcode: xinmindsa</p>
-<p></p>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
@@ -41,6 +40,8 @@ them of the outcome,</p>
 <p>(i) Confirmed Offer (CO),
 <br>(ii) Wait List (WL),
 <br>(iii) Unsuccessful.</p>
+<p>All candidates will receive notification of results between 25 Aug and
+4 September 2025.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1- 4/5.</p>
