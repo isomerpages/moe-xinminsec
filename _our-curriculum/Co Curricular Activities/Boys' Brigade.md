@@ -174,8 +174,8 @@ excellence.</p>
 </li>
 <li>
 <p>Founder's Award Recipients:
-<br>SSG Phong Kai Tong (401)
-<br>SSG Nigel Foo Ce Liang (409)</p>
+<br>- SSG Phong Kai Tong (401)
+<br>- SSG Nigel Foo Ce Liang (409)</p>
 </li>
 <li>
 <p>Most Improved NCO Award 2025: SSG Braven Wee</p>
