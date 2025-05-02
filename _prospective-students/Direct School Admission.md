@@ -59,13 +59,20 @@ them of the outcome,</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1- 4/5.</p>
 <h2>2025 Talent Areas and Criteria</h2>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/Direct School Admissions/2025/Performing_Arts_2025.pdf" rel="noopener nofollow" target="_blank">Performing Arts</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Direct School Admissions/2025/Sports_and_Games_2025.pdf" rel="noopener nofollow" target="_blank">Sports and Games</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Direct School Admissions/2025/Uniformed_Groups_2025.pdf" rel="noopener nofollow" target="_blank">Uniformed Groups</a>
 </p>
-<p></p>
+</li>
+</ul>
 <p>Important note:</p>
 <p>1. Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
