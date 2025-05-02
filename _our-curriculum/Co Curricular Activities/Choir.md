@@ -116,7 +116,7 @@ School in 2023.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attained the Certificate of Distinction in Singapore Youth Festival (SYF)
-2013, 2015, 2017, 2019, 2021, 2023</p>
+2013, 2015, 2017, 2019, 2021, 2023, 2025</p>
 </li>
 <li>
 <p>Hosted a Combined-Schools Choir Concert SuperNova in 2022</p>
