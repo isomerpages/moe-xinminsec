@@ -62,7 +62,7 @@ related to the talent they are selected for from year 1- 4/5.</p>
 <h2>2025 Talent Areas and Selection Considerations</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Direct School Admissions/2025/Performing_Arts_2025.pdf" rel="noopener nofollow" target="_blank">Performing Arts</a>
+<p><a href="/files/Direct School Admissions/Performing_Arts_2025.pdf" rel="noopener nofollow" target="_blank">Performing Arts</a>
 </p>
 </li>
 <li>

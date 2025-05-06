@@ -57,34 +57,31 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1: Tuesday (2.30pm – 5.30pm), Wednesday (3.45pm – 6.45pm), Friday
-(1 – 4pm)</p>
+<p>Secondary 1: Tuesday (Odd: 2.45pm – 6.45pm, Even: 2.45pm – 6.45pm), Wednesday
+(3.45pm – 6.45pm), Friday (Odd: 1pm – 3pm, Even: 4pm – 6pm)</p>
 </li>
 <li>
-<p>C Division: Tuesday (2.30pm – 5.30pm), Wednesday (3.45pm – 6.45pm), Friday
-(1 – 4pm)</p>
+<p>C Division: Tuesday (Odd: 3.45pm – 6.45pm, Even: 2.45pm – 6.45pm), Wednesday
+(3.45pm – 6.45pm), Friday (Odd: 1pm – 4pm, Even: 4pm – 6pm)</p>
 </li>
 <li>
-<p>B Division: Tuesday (2.30pm – 6.30pm), Thursday (5pm – 7pm), Friday (4
-– 7pm)</p>
-<p></p>
+<p>B Division: Tuesday (Odd: 3.45pm – 6.45pm), Wednesday (3.45pm – 6.45pm),
+Friday (Odd: 3pm – 6pm, Even: 1pm – 4pm)</p>
 </li>
 </ul>
 <p><strong>Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1: Tuesday (2.30 – 6.30pm), Thursday (5 – 7pm), Friday (1 –
+<p>Secondary 1: Tuesday (3.45 – 6.45pm), Thursday (4 – 7pm), Friday (1 –
 4pm)</p>
 </li>
 <li>
-<p>C + B2 Division: Tuesday (2.30 – 6.30pm), Thursday (5 – 7pm), Friday (1
-– 4pm) till mid-Apr 2025</p>
+<p>C Division: Monday (4.00 – 7.00pm), Tuesday (3 – 6pm) or Thursday (5 –
+7pm), Friday (1 – 4pm) till Aug 2025</p>
 </li>
 <li>
-<p>B1 Division: Monday (4 – 7pm), Wednesday (3.45 – 6.45pm), Friday (1 –
-4pm)</p>
-<p></p>
+<p>B Division: Monday (4 – 7pm), Wednesday (3.45 – 6.45pm), Friday (1 – 4pm)</p>
 </li>
 </ul>
 <p>*Training frequencies are subjected to changes prior to competitions</p>
