@@ -326,9 +326,6 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 <p><em>Boys (Tier 1): 1<sup>st</sup></em>
 </p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p><strong>e) Achievements for 2025</strong>
 </p>
