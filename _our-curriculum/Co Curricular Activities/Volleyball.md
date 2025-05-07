@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Volleyball/volleyball_2023.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Volleyball/Volleyball_2025.jpg">
 </div>
 <p><strong>"Motivation gets you going, but discipline keeps you growing."</strong>
 </p>
