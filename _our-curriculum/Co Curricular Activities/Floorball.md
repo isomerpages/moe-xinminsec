@@ -54,21 +54,19 @@ activities and bonding exercises.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain </strong>– Chua Qi Han Darrius (302, 2025)</p>
+<p>Chua Qi Han Darrius (302, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain</strong> – Chiu Bo Hao (303, 2025)</p>
+<p>Chiu Bo Hao (303, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain</strong> – Lim Wen Hao, Julian (304, 2025)</p>
+<p>Lim Wen Hao, Julian (304, 2025)</p>
 </li>
 <li>
-<p><strong>Team Manage</strong>r – Muhammad Rais Bin Noor Iskandar Shah (305,
-2025))</p>
+<p>Muhammad Rais Bin Noor Iskandar Shah (305, 2025))</p>
 </li>
 <li>
-<p><strong>Physical Training IC</strong> – Yong Chang Foong (309, 2025)</p>
-<p></p>
+<p>Yong Chang Foong (309, 2025)</p>
 </li>
 </ul>
 <p><strong><u>C division</u></strong>
