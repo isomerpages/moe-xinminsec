@@ -44,7 +44,7 @@ more than one talent area.</p>
 </li>
 <li>
 <p>The questionnaires / trials/ auditions / interviews for shortlisted candidates
-will be conducted between 14 July 2025 and 1 August 2025 at Xinmin Secondary
+will be conducted between 21 July 2025 and 7 August 2025 at Xinmin Secondary
 School.</p>
 </li>
 </ul>
