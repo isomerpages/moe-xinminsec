@@ -22,6 +22,14 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
+      title: Direct School Admissions
+      id: infopic
+      description: Infopic description
+      button: Find out more
+      url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
+      image: /images/DSA/2025/DSA_E_banner_XinminWebsite.gif
+      alt: Image alt text
+  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess
