@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Direct School Admission.md
-      - Xinmin Scholarship.md
       - Secondary 1 Posting.md
+      - Xinmin Scholarship.md
       - Prospectus.md
       - 360 Campus Tour.md
       - Other Admissions/.keep
