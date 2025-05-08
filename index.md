@@ -22,9 +22,11 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Direct School Admissions
+      title: Aspiring to turn passion into purpose?
       id: infopic
-      description: Infopic description
+      description: We welcome aspiring individuals who are ready to grow and
+        contribute to our vibrant school community through Direct School
+        Admission (DSA).
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
       image: /images/DSA/2025/DSA_E_banner_XinminWebsite.gif
