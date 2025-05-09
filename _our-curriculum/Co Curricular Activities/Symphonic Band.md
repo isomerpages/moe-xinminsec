@@ -103,7 +103,10 @@ Yang Yui Kong (308, 2025)</p>
 <p>French Horn – Marcus Ong (304, 2025)</p>
 </li>
 <li>
-<p>Euphonium, Tuba &amp; Double Bass – Jason Liew (303, 2025)</p>
+<p>Euphonium &amp; Tuba - – Jason Liew (303, 2025)</p>
+</li>
+<li>
+<p>Double Bass – Goh Chee Henk (Asst.) (201, 2025)</p>
 </li>
 <li>
 <p>Percussion – Theodore Hee (301, 2025), Poh Jia An (Asst.) (305, 2025)</p>
@@ -112,7 +115,7 @@ Yang Yui Kong (308, 2025)</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival (SYF) 2013, 2015, 2017, 2023 – Certificate of
+<p>Singapore Youth Festival (SYF) 2015, 2017, 2023, 2025 – Certificate of
 Distinction</p>
 </li>
 </ul>
