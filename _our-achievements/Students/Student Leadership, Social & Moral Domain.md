@@ -32,7 +32,7 @@ variant: tiptap
 </td>
 <td rowspan="11" colspan="1">
 <p><strong>Boys' Brigade</strong>
-<br>J M Fraser Award for Excellence – High Distinction (for Year 2023 - 2024)
+<br>J M Fraser Award for Excellence – High Distinction
 <br>
 <br><strong>National Police Cadet Corps</strong>
 <br>Unit Overall Proficiency Award – Distinction
