@@ -31,8 +31,7 @@ variant: tiptap
 <p>National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ongoing - achievements thus far:</p>
-<p>&nbsp;</p>
+<p>Ongoing - achievements thus far:&nbsp;</p>
 <p><strong>Badminton</strong>
 <br>B Division Girls - Zonal 1st, National 4th
 <br>
