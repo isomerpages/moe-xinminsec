@@ -60,7 +60,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -176,10 +175,96 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="24" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="20" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="20" colspan="1">
+<p><strong>Badminton</strong>
 </p>
+<p>B Division Girls - Zonal 3rd, National Top 16
+<br>C Division Girls - Zonal 3rd, National Top 8</p>
 <p>
+<br><strong>Cross Country</strong>
+<br>B Division Girls - Team 23rd, Individual 4th
+<br>B Division Boys - Team 36th
+<br>C Division Boys - Team 14th</p>
+<p>
+<br><strong>Floorball</strong>
+<br>C Division Boys - National Top 8</p>
+<p>
+<br><strong>Shooting</strong>
+<br>B Division Girls (Pistol) - Team 5th, Individual 6th</p>
+<p>B Division Girls (Rifle) - Team 6th, Individual 3rd</p>
+<p>B Division Boys (Pistol) - Team 1st, Individual 1st &amp; 4th</p>
+<p>B Division Boys (Rifle) - Team 1st, Individual 5th</p>
+<p>C Division Girls (Pistol) - Team 6th, Individual 6th</p>
+<p>C Division Girls (Rifle) - Team 4th, Individual 3rd</p>
+<p>C Division Boys (Pistol) - Team 6th</p>
+<p>C Division Boys (Rifle) - Team 4th, Individual 3rd &amp; 7th
 <br>
+<br><strong>Volleyball</strong>
+<br>B Division Girls - Zonal 1st, National Top 16
+<br>C Division Girls - Zonal 1st, National 4th</p>
+<p>C Division Boys - Zonal 2nd, National 2nd</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Inter-Schools Bouldering Championships (ISBC)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p><strong>Rockclimbing</strong>
 </p>
+<p>B Division Girls - Team 2nd, Individual 3rd
+<br>B Division Boys - Team 3rd, Individual 3rd &amp; 5th
+<br>C Division Girls - Team 1st, Individual 5th
+<br>C Division Boys - Team 2nd, Individual 3rd</p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
 <p></p>
