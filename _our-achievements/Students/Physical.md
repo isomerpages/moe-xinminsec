@@ -49,8 +49,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Rockclimbing</strong>
-<br>B Division Girls - Team 1st B Division Boys - Team 2nd
-<br>B Division Boys - Zonal 1st, National 2nd</p>
+<br>B Division Girls - Team 1st B Division Boys - Team 2nd C Division Girls
+- Team 2nd C Division Boys - Team 2nd</p>
+<p></p>
 <p></p>
 </td>
 </tr>
