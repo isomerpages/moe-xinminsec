@@ -38,8 +38,7 @@ variant: tiptap
 <br><strong>Shooting</strong>
 <br>B Division Girls - Team 1st, Individual Pistol 3rd, Individual Rifle 1st</p>
 <p>B Division Boys - Team 3rd, Individual Pistol 5th, Individual Rifle 4th</p>
-<p>
-<br><strong>Volleyball</strong>
+<p><strong>Volleyball</strong>
 <br>B Division Girls - Zonal 1st, National 2nd
 <br>B Division Boys - Zonal 1st, National 2nd</p>
 </td>
