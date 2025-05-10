@@ -25,6 +25,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance - Distinction</p>
+<p>Choir - Distinction</p>
+<p>Drama - Distinction</p>
+<p>Guzheng Ensemble - Distinction</p>
+<p>Symphonic Band – Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COMPETITION/PLATFORM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ACHIEVEMENT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +117,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -122,6 +156,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>
 <br>
 </p>
