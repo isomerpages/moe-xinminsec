@@ -252,11 +252,10 @@ variant: tiptap
 </td>
 <td rowspan="4" colspan="1">
 <p><strong>Rockclimbing</strong>
-</p>
-<p>B Division Girls - Team 2nd, Individual 3rd
-<br>B Division Boys - Team 3rd, Individual 3rd &amp; 5th
-<br>C Division Girls - Team 1st, Individual 5th
-<br>C Division Boys - Team 2nd, Individual 3rd</p>
+<br>B Division Girls - Team 2nd, Individual 3rd</p>
+<p>B Division Boys - Team 3rd, Individual 3rd &amp; 5th</p>
+<p>C Division Girls - Team 1st, Individual 5th</p>
+<p>C Division Boys - Team 2nd, Individual 3rd</p>
 </td>
 </tr>
 <tr></tr>
