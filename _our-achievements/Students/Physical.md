@@ -54,6 +54,7 @@ variant: tiptap
 <p>B Division Boys - Team 2nd</p>
 <p>C Division Girls - Team 2nd</p>
 <p>C Division Boys - Team 2nd</p>
+<p></p>
 </td>
 </tr>
 </tbody>
