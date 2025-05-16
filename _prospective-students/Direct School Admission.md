@@ -4,6 +4,22 @@ permalink: /resources/students/admissions/direct-school-admission/
 description: ""
 variant: tiptap
 ---
+<p>Thank you for your interest in the DSA@Xinmin 2025 Webinar. We are excited
+to have you join us as we share more about how Xinmin Secondary School
+nurtures talents and supports our students' growth.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>🗓️ Date: Friday, 16 May 2025</p>
+</li>
+<li>
+<p>🕡 Time: 6:15pm to 7:15pm</p>
+</li>
+<li>
+<p>💻 Webinar Link: <a href="https://go.gov.sg/xms-dsa-webinar" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-dsa-webinar</a>
+</p>
+<p>___________________________________________________________________________</p>
+</li>
+</ul>
 <p>Under the Direct School Admission Exercise, students with exceptional
 talents listed below may be considered for direct entry to Xinmin Secondary
 School for the Secondary 1 cohort of 2026.</p>
