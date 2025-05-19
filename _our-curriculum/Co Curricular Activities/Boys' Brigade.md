@@ -138,7 +138,7 @@ day-to-day operations.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Publications Head</strong>
+<p><strong>Publicit Head</strong>
 </p>
 <p>SGT Xavier Tong Zi Jun (301, 2025)</p>
 <p></p>
