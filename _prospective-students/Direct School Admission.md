@@ -4,6 +4,9 @@ permalink: /resources/students/admissions/direct-school-admission/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2025/DSA_E_banner_XinminWebsite.gif">
+</div>
 <p>Under the Direct School Admission Exercise, students with exceptional
 talents listed below may be considered for direct entry to Xinmin Secondary
 School for the Secondary 1 cohort of 2026.</p>
