@@ -71,9 +71,8 @@ the Financial Assistance Scheme (FAS) School Meal Subsidy Programme.</p>
 </p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/bookshop2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2025/Unform_Supplier_Info.png">
 </div>
 <p><strong>Important:-</strong>
 <br><strong>Please do not purchase any textbooks or uniform if you are applying for Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>

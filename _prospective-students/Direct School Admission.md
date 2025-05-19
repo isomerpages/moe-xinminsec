@@ -4,22 +4,9 @@ permalink: /resources/students/admissions/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<p>Thank you for your interest in the DSA@Xinmin 2025 Webinar. We are excited
-to have you join us as we share more about how Xinmin Secondary School
-nurtures talents and supports our students' growth.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>🗓️ Date: Friday, 16 May 2025</p>
-</li>
-<li>
-<p>🕡 Time: 6:15pm to 7:15pm</p>
-</li>
-<li>
-<p>💻 Webinar Link: <a href="https://go.gov.sg/xms-dsa-webinar" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-dsa-webinar</a>
-</p>
-<p>___________________________________________________________________________</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2025/DSA_E_banner_XinminWebsite.gif">
+</div>
 <p>Under the Direct School Admission Exercise, students with exceptional
 talents listed below may be considered for direct entry to Xinmin Secondary
 School for the Secondary 1 cohort of 2026.</p>
@@ -27,14 +14,6 @@ School for the Secondary 1 cohort of 2026.</p>
 the students' aptitudes and strengths, bearing in mind the schools' academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>To learn more about our school's curriculum and DSA Talent Areas, we invite
-parents and students to join us at the 2025 DSA Webinar on Friday, 16 May
-2025 from 6:15pm to 7:15pm . The webinar details will be emailed to you
-upon your registration by completing this form which can be access by clicking
-on this <a href="https://form.gov.sg/680feba2423184f46119cc45" rel="noopener nofollow" target="_blank">link.</a> This
-webinar will provide valuable insights and information to support your
-understanding of our school's offerings and the DSA process.</p>
-<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/680feba2423184f46119cc45"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2025/DSA_Xinmin_Poster_Final__002_.png"></a>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
