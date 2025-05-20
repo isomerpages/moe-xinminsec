@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Use of Media for School Use.md
       - Principal's Foreword.md
       - Our Vision, Mission and Values.md
       - Our Identity.md
@@ -26,3 +25,4 @@ collections:
       - Our Stakeholders/Alumni Executive Committee.md
       - Our Stakeholders/Parents@Xinmin.md
       - Contact Us.md
+      - Use of Media for School Use.md
