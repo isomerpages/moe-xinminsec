@@ -17,5 +17,5 @@ child /ward.</p>
 with respect and dignity. We take your consent as deemed for the abovementioned.
 If you wish to withdraw your consent for the collection, use of photographs
 and videos for our school publications and collaterals, please send an
-email to us at <a href="xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg</a>
+email to us at <a href="xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg.</a>
 </p>
