@@ -25,6 +25,7 @@ left into Hougang Ave 8. After the bend, turn left into the HDB car park
 just before the school soccer field. Our school entrance is on the right.</p>
 <p>Click <a href="https://go.gov.sg/xmssreflectionstheatrebooking" rel="noopener nofollow" target="_blank">here </a>to
 download the <strong>Reflections Theatre Booking Form</strong>.</p>
+<h4>Media for School Use</h4>
 <p>Photographs or video images of you and/or your child/ward may be taken
 during school activities and events, in the course of your child’s/ward’s
 secondary school life. The school may use and publish such photographs,
