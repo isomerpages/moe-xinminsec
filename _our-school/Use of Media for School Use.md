@@ -14,8 +14,8 @@ within our premises and on our external wall, or other communication channels.
 The publications may include the name, class, and/or CCA group of your
 child /ward.</p>
 <p>We wish to assure you that we will always portray our parents and students
-with respect and dignity. Hence, we take your consent as deemed. If you
-wish to withdraw your consent for the collection, use of photographs and
-videos for our school publications and collaterals, please send an email
-to us at <a href="xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg</a>
+with respect and dignity. We take your consent as deemed for the abovementioned.
+If you wish to withdraw your consent for the collection, use of photographs
+and videos for our school publications and collaterals, please send an
+email to us at <a href="xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg</a>
 </p>
