@@ -14,6 +14,16 @@ School for the Secondary 1 cohort of 2026.</p>
 the students' aptitudes and strengths, bearing in mind the schools' academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
+<h2>DSA@Xinmin Webinar 2025</h2>
+<p>Thank you to all parents and students who joined us for the DSA@Xinmin
+Webinar on 16 May 2025. For those who were unable to attend or would like
+to revisit the information shared, the full recording of the session is
+now available below. The webinar provides insights into Xinmin Secondary
+School’s curriculum, DSA Talent Areas, and how we support students in developing
+their strengths through our distinctive programmes.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sQuUvswztNg?si=9RW-m705_2xzEO76"></iframe>
+</div>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2025, 11am
