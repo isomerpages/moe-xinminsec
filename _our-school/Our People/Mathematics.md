@@ -70,11 +70,6 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:lim_zi_yi_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zi_yi_b@schools.gov.sg</a>
 </p>
-<p><strong>Mrs Loh Si Lan</strong>
-<br>Designation: Teacher
-<br>Department: Mathematics
-<br>Email: <a href="mailto:loh_si_lan_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_si_lan_b@schools.gov.sg</a>
-</p>
 <p><strong>Mr Tok Hong Da</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
