@@ -32,10 +32,9 @@ photographs, video recordings or live streaming in school publications,
 the school’s website, official social media channels, yearbook, posters
 and banners within our premises and on our external wall, or other communication
 channels.</p>
-<p>We wish to assure you that we will always portray our parents and students
-with respect and dignity. We take your consent as deemed for the abovementioned.
-If you wish to withdraw your consent for the collection, use of photographs
-and videos for our school publications and collaterals, please send an
-email to us at <a href="xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg.</a>
+<p>We take your consent as deemed for the abovementioned. If you wish to
+withdraw your consent for the collection, use of photographs and videos
+for our school publications and collaterals, please send an email to us
+at <a href="xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg.</a>
 </p>
 <p></p>
