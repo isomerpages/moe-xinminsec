@@ -75,11 +75,6 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:siaw_pey_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siaw_pey_shin@schools.gov.sg</a>
 </p>
-<p><strong>Ms Wang Xiaonan</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:wang_xiaonan_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_xiaonan_b@schools.gov.sg</a>
-</p>
 <p><strong>Ms Wong Siew Har</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
