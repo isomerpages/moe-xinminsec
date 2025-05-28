@@ -40,11 +40,6 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:bay_swee_chon_winston@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bay_swee_chon_winston@schools.gov.sg</a>
 </p>
-<p><strong>Mr Hui Win Sun</strong>
-<br>Designation: Teacher
-<br>Department: Mathematics
-<br>Email: <a href="mailto:hui_win_sun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_win_sun@schools.gov.sg</a>
-</p>
 <p><strong>Ms Joanne Kong Min</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
