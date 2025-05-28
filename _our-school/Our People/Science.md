@@ -60,11 +60,6 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:low_lai_yip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_lai_yip@schools.gov.sg</a>
 </p>
-<p><strong>Mr Mohammed Noor Hishamuddin Bin Haslir</strong>
-<br>Designation: Teacher
-<br>Department: Science
-<br>Email: <a href="mailto:mohammed_noor_hishamuddin_haslir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_noor_hishamuddin_haslir@schools.gov.sg</a>
-</p>
 <p><strong>Ms Noor Hafizah Binte Mohamed Alias</strong>
 <br>Designation: Teacher
 <br>Department: Science
