@@ -80,8 +80,3 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:wong_siew_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_siew_har@schools.gov.sg</a>
 </p>
-<p><strong>Ms Yeo Leng Leng</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:yeo_leng_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_leng_leng@schools.gov.sg</a>
-</p>
