@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Celebrate 80 years of Xinmin’s legacy with us!
+      title: "XMS80 - Decades of Dedication :: Shaping Future Generations"
       id: infopic
       description: Celebrate 80 years of Xinmin! Relive memories, honour our legacy,
         and join us for special events including the XMS80 Dinner on 9 Nov 2025.
