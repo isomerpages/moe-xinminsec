@@ -70,6 +70,11 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:nur_fatimah_khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_khalid@schools.gov.sg</a>
 </p>
+<p><strong>Ms Siti Nur Khairiah Binte Zakariah</strong>
+<br>Designation: Teacher
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:siaw_pey_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siaw_pey_shin@schools.gov.sg</a>
+</p>
 <p><strong>Ms Siaw Pey Shin</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
@@ -80,3 +85,9 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:wong_siew_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_siew_har@schools.gov.sg</a>
 </p>
+<p><strong>Ms Xuan Xuan</strong>
+<br>Designation: Teacher
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:oth_xuan_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oth_xuan_xuan@schools.gov.sg</a>
+</p>
+<p></p>
