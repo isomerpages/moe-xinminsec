@@ -40,6 +40,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:bay_swee_chon_winston@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bay_swee_chon_winston@schools.gov.sg</a>
 </p>
+<p><strong>Mr Chong Weng Chiew Vincent</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:chong_weng_chiew_vincent_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_weng_chiew_vincent_a@schools.gov.sg</a>
+</p>
 <p><strong>Mr Goy Wee Seng</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
