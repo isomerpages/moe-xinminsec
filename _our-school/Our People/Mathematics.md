@@ -40,10 +40,25 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:bay_swee_chon_winston@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bay_swee_chon_winston@schools.gov.sg</a>
 </p>
+<p><strong>Mr Chong Weng Chiew Vincent</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:chong_weng_chiew_vincent_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_weng_chiew_vincent_a@schools.gov.sg</a>
+</p>
+<p><strong>Mr Goy Wee Seng</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:goy_wee_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goy_wee_seng@schools.gov.sg</a>
+</p>
 <p><strong>Ms Joanne Kong Min</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
 <br>Email: <a href="mailto:joanne_kong_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_kong_min@schools.gov.sg</a>
+</p>
+<p><strong>Mr Kan Kong Keat</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:kan_kong_keat_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kan_kong_keat_b@schools.gov.sg</a>
 </p>
 <p><strong>Ms Koh Xue Ting</strong>
 <br>Designation: Teacher

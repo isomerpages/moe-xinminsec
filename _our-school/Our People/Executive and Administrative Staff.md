@@ -100,6 +100,11 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:SOH_JIA_YI_JENNY@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jia_yi_jenny@schools.gov.sg</a>
 </p>
+<p><strong>Mr Muhammad Fariduddin Yusoff </strong>
+<br>Designation: CAC Ops Executive
+<br>Department: Operations
+<br>Email: <a href="mailto:muhammad_fariduddin_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fariduddin_yusoff@schools.gov.sg</a>
+</p>
 <p><strong>Mr Yap Hock Heng</strong>
 <br>Designation: Desktop Engineer
 <br>Department: Information Technology
