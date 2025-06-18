@@ -35,10 +35,6 @@ variant: tiptap
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 </li>
-<li>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScWvF2EV-frqUT1dH3xXSyeeYiGlzmA1ArUCo8sYUgERuOljA/viewform?usp=sf_link" rel="noopener noreferrer nofollow" target="_blank">XMSS Media Club Service Request form</a>
-</p>
-</li>
 </ul>
 <h2>Assessment</h2>
 <ul data-tight="true" class="tight">
