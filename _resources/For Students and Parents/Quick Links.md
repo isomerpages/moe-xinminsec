@@ -16,14 +16,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://portal.commzgate.com/" rel="noopener noreferrer nofollow" target="_blank">Commzgate SMS</a>
-</p>
-</li>
-<li>
-<p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">ICON</a>
-</p>
-</li>
-<li>
 <p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Insurance for Students</a>
 </p>
 </li>
