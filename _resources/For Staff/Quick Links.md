@@ -114,17 +114,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>T&amp;L Resources</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/resources/staff/tnl-resources/school-premium-apps" rel="noopener noreferrer nofollow" target="_blank">School Premium Apps</a>
-</p>
-</li>
-<li>
-<p><a href="https://sites.google.com/xinminss.edu.sg/tlbulletin-2020/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">T&amp;L Bulletin</a>
-</p>
-</li>
-</ul>
 <h2>Other Resources</h2>
 <ul data-tight="true" class="tight">
 <li>
