@@ -114,13 +114,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Other Resources</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MESRC</a>
-</p>
-</li>
-</ul>
 <h2>Assessment</h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -136,4 +129,12 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h2>Other Resources</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MESRC</a>
+</p>
+</li>
+</ul>
+<h2></h2>
 <p></p>
