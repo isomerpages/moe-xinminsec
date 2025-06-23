@@ -148,8 +148,8 @@ day-to-day operations.</p>
 <p>The Boys’ Brigade Development Programme (BDP) is the 45th Singapore Company's
 flagship leadership and talent development initiative, launched in 2025
 to nurture future-ready Stewards grounded in character, service, and initiative.</p>
-<p>BDP is a two-year programme for selected Secondary 1 and 2 Boys who demonstrate
-potential in leadership, teamwork, and contribution.</p>
+<p>BDP is a <strong>two-year programme</strong> for selected Secondary 1 and
+2 Boys who demonstrate potential in leadership, teamwork, and contribution.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Boys who join the Company through the Direct School Admission (DSA) pathway
