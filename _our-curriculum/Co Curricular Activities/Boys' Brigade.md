@@ -144,7 +144,58 @@ day-to-day operations.</p>
 <p></p>
 </li>
 </ul>
-<h4><strong>Excellence:</strong></h4>
+<h4><strong>The Boys’ Brigade Development Programme (BDP)</strong></h4>
+<p>The Boys’ Brigade Development Programme (BDP) is the 45th Singapore Company's
+flagship leadership and talent development initiative, launched in 2025
+to nurture future-ready Stewards grounded in character, service, and initiative.</p>
+<p>BDP is a two-year programme for selected Secondary 1 and 2 Boys who demonstrate
+potential in leadership, teamwork, and contribution.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Boys who join the Company through the Direct School Admission (DSA) pathway
+are automatically emplaced in the programme.</p>
+</li>
+<li>
+<p>Other Boys may apply through an annual application process, which includes
+submitting their Xinmin e-Portfolio and attending an interview with the
+Officer team.</p>
+</li>
+</ul>
+<p>The programme is designed to cultivate Stewards with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The heart to serve – by contributing meaningfully to the Company and school
+community</p>
+</li>
+<li>
+<p>The initiative to lead – through structured opportunities to plan, speak,
+and guide</p>
+</li>
+<li>
+<p>The character to grow – through self-reflection, peer interaction, and
+personal ownership</p>
+</li>
+</ul>
+<p>BDP aims to develop Boys who are confident in their voice, committed to
+values, and capable of making a positive difference in their squads, school,
+and beyond.</p>
+<p>At the end of their second year, Boys who complete the programme will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Receive a certificate designating them as BDP Stewards and be formally
+recognised for their growth at Company events</p>
+</li>
+<li>
+<p>Build essential leadership competencies that position them well for selection
+into the NCO Council</p>
+</li>
+<li>
+<p>Gain meaningful experiences and develop strong values that can be showcased
+in their Xinmin e-Portfolio as evidence of their leadership journey and
+personal growth</p>
+</li>
+</ul>
+<h4><strong>Excellence</strong></h4>
 <p>This year, BB45th proudly celebrates three significant achievements. First,
 the company’s inclusion in the BB Blaze Competition Gold Honour Roll highlights
 the boys' resilience and teamwork in a physically challenging environment.
