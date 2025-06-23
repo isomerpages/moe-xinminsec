@@ -105,7 +105,7 @@ where every boy finds <strong>brotherhood, adventure, and purpose</strong>!</p>
 regularly)</p>
 </li>
 </ul>
-<h4><strong>Leadership Development:</strong></h4>
+<h4><strong>Non-Commissioned Officer (NCO) Council</strong></h4>
 <p>The Non-Commissioned Officer (NCO) Council plays a pivotal role in both
 shaping the brigade and fostering the boys’ holistic growth. They hone
 their leadership skills by leading many of our key programmes, providing
@@ -270,4 +270,4 @@ boy!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
 </div>
-<p>5</p>
+<p></p>
