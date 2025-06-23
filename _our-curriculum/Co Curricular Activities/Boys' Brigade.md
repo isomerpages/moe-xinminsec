@@ -257,8 +257,7 @@ boy!</p>
 <p></p>
 </li>
 </ul>
-<p><strong>The BB45th Officers, Primers and Volunteers</strong>
-</p>
+<h4><strong>The BB45th Officers, Primers and Volunteers</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Captain LTA Kenric Seah</p>
