@@ -83,7 +83,7 @@ variant: tiptap
 <p><strong>Ms Poey Xuan Ru</strong>
 <br>Designation: Teacher
 <br>Department: Science
-<br>Email: <a href="mailto:oh_hwee_kiang_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">-</a>
+<br>Email: <a href="mailto:poey_xuan_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poey_xuan_ru@schools.gov.sg</a>
 </p>
 <p><strong>Ms Tham Lai Paik Nicole</strong>
 <br>Designation: Teacher
