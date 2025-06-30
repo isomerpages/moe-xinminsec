@@ -225,8 +225,8 @@ excellence.</p>
 </li>
 <li>
 <p>Founder's Award Recipients:
-<br>- SSG Phong Kai Tong (401)
-<br>- SSG Nigel Foo Ce Liang (409)</p>
+<br>- SSG ETHAN YAP ERN XIN (401)</p>
+<p>- SSG SEOW ZHI QIN (407)</p>
 </li>
 <li>
 <p>Most Improved NCO Award 2025: SSG Braven Wee</p>
@@ -317,9 +317,9 @@ boy!</p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xmsbb45th/" rel="noopener nofollow" target="_blank">https://www.instagram.com/xmsbb45th/</a>
 </p>
-<p>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast
-boy!</p>
+<h4>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast boy!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
 </div>
+<h4></h4>
 <p></p>
