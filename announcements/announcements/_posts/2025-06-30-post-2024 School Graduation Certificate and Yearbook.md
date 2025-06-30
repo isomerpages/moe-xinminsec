@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear 2023 Graduands,</p>
+<p>Dear 2024 Graduands,</p>
 <p>The above certificate and yearbook<strong><sup>*</sup></strong> are ready
 for collection at the General Office.</p>
 <p>Collection Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -22,13 +22,14 @@ for collection at the General Office.</p>
 <p>Closed on Saturdays, Sundays, and Public Holidays</p>
 </li>
 </ul>
-<p></p>
-<p>Do bring along your NRIC for our verification purposes and be dressed
-in proper attire.</p>
+<p>Collection Deadline: <strong>30 December 2025</strong>
+</p>
+<p>Do bring along your <strong>NRIC </strong>for our verification purposes
+and be dressed in proper attire.</p>
 <p>Should you require your parents or guardian to collect your certificate
-on your behalf, both your original NRIC as well as bearer's NRIC will be
-required for our verification purposes.</p>
+on your behalf, both your NRIC as well as bearer's NRIC will be required
+for our verification purposes.</p>
 <p>Thank you.</p>
 <p>General Office</p>
-<p><strong><sup>*&nbsp; </sup></strong><em>only applicable for graduands who made the purchase in year 2023.</em>
+<p><strong><sup>*&nbsp; </sup></strong><em>only applicable for graduands who made the purchase in year 2024.</em>
 </p>
