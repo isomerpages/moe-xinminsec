@@ -598,24 +598,9 @@ the community at large.</p>
 <p>Consequences for offences in Category A include, but not limited to, warning,
 suspension from class, detention, demerit points appropriate restitution,
 corrective work orders and confiscation:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Confiscation due to unauthorised usage, possession and/or misuse of digital
-devices for first time offences will be for 1 school day (collection after
-school the next day, except for Friday). If the confiscation is on Friday,
-students may collect the digital device after school but will have to surrender
-it again at the start of the next school day .</p>
-</li>
-<li>
-<p>For second time offences (across all digital devices, not necessarily
-the same device type) , the confiscation will be for 3 days, which will
-include the weekend (if applicable).</p>
-</li>
-<li>
-<p>For third time offences onwards, the confiscation will be for 5 days which
-will include the weekend (if applicable) for each instance</p>
-</li>
-</ul>
+<p>• Digital device offences will result in confiscation of the device and
+demerit points will be commensurate with the frequency of the offence.</p>
+<p></p>
 <p>For attire offences, immediate corrective action will be taken by the
 school to bring about compliance. These include bringing students for haircut
 and confiscating unauthorised items or apparel.</p>
