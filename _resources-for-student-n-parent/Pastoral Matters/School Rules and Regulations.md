@@ -598,7 +598,8 @@ the community at large.</p>
 <p>Consequences for offences in Category A include, but not limited to, warning,
 suspension from class, detention, demerit points appropriate restitution,
 corrective work orders and confiscation:</p>
-<p>• Digital device offences will result in confiscation of the device and
+<p></p>
+<p>Digital device offences will result in confiscation of the device and
 demerit points will be commensurate with the frequency of the offence.</p>
 <p></p>
 <p>For attire offences, immediate corrective action will be taken by the
