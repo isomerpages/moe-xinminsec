@@ -19,6 +19,9 @@ and the world of work; and</p>
 pursuing academic achievements and various interests.</p>
 </li>
 </ul>
+<p>Click <a href="- https://sites.google.com/xinminss.edu.sg/xms-subjectcombi/home?authuser=0" rel="noopener nofollow" target="_blank">here</a> to
+find out more about the subject combinations offered at Xinmin Secondary
+School.</p>
 <p>The tables below reflect the subject combinations which were offered to
 the 2025 Secondary Three cohort.</p>
 <p><strong>EXPRESS</strong>
