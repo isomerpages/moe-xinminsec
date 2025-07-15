@@ -46,6 +46,10 @@ variant: tiptap
 <p><a href="/resources/students/assessment/instructions-to-candidates/" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Prelim Exams/N_level_and_O_level_Prelim_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">N_level_and_O_level_Prelim_Timetable_2025</a>
+</p>
+</li>
 </ul>
 <h2>Booklists</h2>
 <ul data-tight="true" class="tight">
