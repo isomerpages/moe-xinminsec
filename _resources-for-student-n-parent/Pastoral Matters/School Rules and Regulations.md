@@ -437,6 +437,7 @@ dangerous for students, such as penknives</p>
 with the severity, frequency and manner in which the offence was committed.
 The 3 categories of offences here define the seriousness of the offence.</p>
 <p>TYPE OF OFFENCES</p>
+<p></p>
 <p><strong>Category A Offences</strong>
 </p>
 <ul data-tight="true" class="tight">
