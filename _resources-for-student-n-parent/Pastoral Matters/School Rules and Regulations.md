@@ -437,10 +437,9 @@ dangerous for students, such as penknives</p>
 with the severity, frequency and manner in which the offence was committed.
 The 3 categories of offences here define the seriousness of the offence.</p>
 <p>TYPE OF OFFENCES</p>
+<p><strong>     Category A Offences</strong>
+</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>• Category A Offences</p>
-</li>
 <li>
 <p>A1 – Late for class/lesson/school activity</p>
 </li>
@@ -471,9 +470,8 @@ PLDs, laptops, tablets, mobile phones, smartwatches)</p>
 </li>
 <li>
 <p>A10 – Using school property/facilities without proper authorisation</p>
-</li>
-<li>
-<p>Category B Offences</p>
+<p><strong>Category B Offences</strong>
+</p>
 </li>
 <li>
 <p>B1 – Skipping school activities/lessons</p>
