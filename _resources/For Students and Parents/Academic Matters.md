@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/end-of-year-examination-topics-and-formats/" rel="noopener noreferrer nofollow" target="_blank">End Of Year Examination Topics and Formats</a>
+<p><a href="/resources/students/assessment/end-of-year-examination-topics-and-formats/" rel="noopener noreferrer nofollow" target="_blank">End Of Year Examination Schedules, Topics and Formats</a>
 </p>
 </li>
 <li>
