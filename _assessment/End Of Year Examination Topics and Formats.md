@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>Sec 1</strong>
 </p>
-<p><a href="/files/EOY Exam Topics/2025/2025_Sec1_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 Sec1 EOY Exam Timetable</a>
+<p><a href="/files/EOY Exam Topics/2025/2025_Sec1_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec1 EOY Exam Timetable</a>
 </p>
 <p><a href="/files/EOY Exam Topics/2025/1G1_Subjects_EOY_Format_and_Topics_2025.pdf" rel="noopener nofollow" target="_blank">1G1 Subjects EOY Format and Topics 2025</a>
 </p>
