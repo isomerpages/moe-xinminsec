@@ -1,5 +1,5 @@
 ---
-title: End Of Year Examination Schedules and Formats
+title: End Of Year Examination Schedules, Topics and Formats
 permalink: /resources/students/assessment/end-of-year-examination-topics-and-formats/
 description: ""
 variant: tiptap
