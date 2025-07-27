@@ -28,6 +28,8 @@ variant: tiptap
 <p>
 <br><strong>Sec 3</strong>
 </p>
+<p><a href="/files/EOY Exam Topics/2025/2025_Sec_3E_EOY_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3E EOY Exam Timetable 2025</a>
+</p>
 <p>
 <br>
 </p>
