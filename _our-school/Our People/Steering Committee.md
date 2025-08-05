@@ -133,7 +133,7 @@ variant: tiptap
 <p><strong>Ms Shee Shi Min Shermaine</strong>
 <br>Designation: Subject Head - English Language and Literature
 <br>Department: English Language and Literature
-<br>Email: <a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">-</a>
+<br>Email: <a href="mailto:shee_shi_min_shermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shee_shi_min_shermaine@schools.gov.sg</a>
 </p>
 <p><strong>Ms Tan Sheng Ting Heidi</strong>
 <br>Designation: Subject Head - Humanities
