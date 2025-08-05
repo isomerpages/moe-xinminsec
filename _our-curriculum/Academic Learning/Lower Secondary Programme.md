@@ -185,7 +185,7 @@ enabling them to better manage their lives for the present and future.</p>
 <p>Experiential Modules Beyond the core subjects and the common curriculum,
 Xinmin students are further exposed to two essential experiential modules
 to hone their 21st century skills and competencies further.</p>
-<p>•<strong>MAKERS@Xinmin</strong>
+<p><strong>MAKERS@Xinmin</strong>
 <br>"The future belongs to those who can innovate, create, and collaborate."
 ~Tom Friedman</p>
 <p>Through MAKERS@Xinmin, students:</p>
@@ -210,7 +210,7 @@ to hone their 21st century skills and competencies further.</p>
 and creative thinking through eco sustainability challenges.</p>
 </li>
 </ol>
-<p>• <strong>RefleXions@Xinmin</strong>
+<p><strong>RefleXions@Xinmin</strong>
 <br>"Drama education teaches students how to communicate, how to listen, and
 how to be empathetic." ~ Andrew Lloyd Webber</p>
 <p>Through RefleXions@Xinmin, students:</p>
