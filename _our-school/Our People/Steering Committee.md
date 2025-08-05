@@ -125,11 +125,6 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:lu_wenqi_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_wenqi_kevin@schools.gov.sg</a>
 </p>
-<p><strong>Ms Rachel Lim Poh Yen</strong>
-<br>Designation: Subject Head - Educational Technology
-<br>Department: Science
-<br>Email: <a href="mailto:rachel_lim_poh_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_lim_poh_yen@schools.gov.sg</a>
-</p>
 <p><strong>Ms Shee Shi Min Shermaine</strong>
 <br>Designation: Subject Head - English Language and Literature
 <br>Department: English Language and Literature
