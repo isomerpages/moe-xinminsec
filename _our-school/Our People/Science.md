@@ -25,11 +25,6 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:xin_ying_una_hsu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_ying_una_hsu@schools.gov.sg</a>
 </p>
-<p><strong>Ms Rachel Lim Poh Yen</strong>
-<br>Designation: Subject Head - Educational Technology
-<br>Department: Science
-<br>Email: <a href="mailto:rachel_lim_poh_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_lim_poh_yen@schools.gov.sg</a>
-</p>
 <p><strong>Mr Michael Rodrigues</strong>
 <br>Designation: Senior Teacher - Biology
 <br>Department: Science
