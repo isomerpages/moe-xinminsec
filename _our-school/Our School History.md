@@ -36,11 +36,10 @@ not able to bring them on excursions or field trips. The teachers also
 did not get much pay from the principal as the school was low in funds.</p>
 <p>In 1954, Mr Tung Sey Yew became the Principal of Sin Min School. He recognised
 that a secondary school was sorely needed in Hougang and appealed to the
-Ministry of Education to establish a secondary school. He also opened doors
-to allow girls to attend school. When the Ministry approved his application,
-secondary school sessions were added in January 1956. This was a historical
-moment for many poor families in the neighbourhood as it symbolised a dream
-of a better future coming to realisation.</p>
+Ministry of Education to establish a secondary school. When the Ministry
+approved his application in January 1956, secondary school sessions were
+added. This was a historical moment for many poor families in the neighbourhood
+as it symbolised a dream of a better future coming to realisation.</p>
 <p>As for the teachers and students, they saw that the lack of funds deterred
 the school’s progress, and decided to come together to overcome this problem.
 In 1958, they decided to stage a 2-night concert at Broadway Theatre, New
