@@ -41,6 +41,10 @@ variant: tiptap
 <p>B Division Girls - Team 17th</p>
 <p>B Division Boys - Team 17th</p>
 <p>C Division Boys - Team 21st</p>
+<p></p>
+<p><strong>Floorball</strong>
+</p>
+<p>C Division Boys - National League 1 2nd</p>
 <p>
 <br><strong>Shooting</strong>
 <br>B Division Girls - Team 1st, Individual Pistol 3rd, Individual Rifle 1st</p>
