@@ -35,6 +35,13 @@ variant: tiptap
 <br>B Division Girls - Zonal 1st, National 4th</p>
 <p>C Division Girls - National League 1 4th
 <br>
+</p>
+<p><strong>Cross Country</strong>
+</p>
+<p>B Division Girls - Team 17th</p>
+<p>B Division Boys - Team 17th</p>
+<p>C Division Boys - Team 21st</p>
+<p>
 <br><strong>Shooting</strong>
 <br>B Division Girls - Team 1st, Individual Pistol 3rd, Individual Rifle 1st</p>
 <p>B Division Boys - Team 3rd, Individual Pistol 5th, Individual Rifle 4th</p>
