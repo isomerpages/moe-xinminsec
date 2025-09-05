@@ -33,9 +33,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Badminton</strong>
 <br>B Division Girls - Zonal 1st, National 4th</p>
-<p>C Division Girls - National League 1 4th
-<br>
-</p>
+<p>C Division Girls - National League 1 4th</p>
+<p></p>
 <p><strong>Cross Country</strong>
 </p>
 <p>B Division Girls - Team 17th</p>
