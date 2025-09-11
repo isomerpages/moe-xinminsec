@@ -320,7 +320,6 @@ in the education service.</p>
 staff who demonstrate desired qualities for service excellence.</p>
 <p><strong>2024</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -752,42 +751,6 @@ in schools.</p>
 Singapore Teachers to recognise and affirm the efforts of officers in the
 education service and partners in education for their contributions to
 the professional development of the teaching fraternity.</p>
-<p><strong>2022</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Award Category</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Awardees</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Associate Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Tze Ting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Associate Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Low Yan Jin</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Our Schools, Our Stories Photo &amp; Video Contest</u></strong>
 <br>Our Schools, Our Stories" Photo &amp; Video Contest is an annual contest
 and exhibition organised by MOE that showcases the fascinating stories
