@@ -66,7 +66,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/EOY Exam Topics/2025/3NA_Subjects_EOY_Format_and_Topics_2025.pdf" rel="noopener nofollow" target="_blank">3NA Subjects EOY Format and Topics 2025</a>
+<p><a href="/files/EOY Exam Topics/2025/3NA_Subjects_EOY_Format_and_Topics_2025_v2.pdf" rel="noopener nofollow" target="_blank">3NA Subjects EOY Format and Topics 2025</a>
 </p>
 </li>
 <li>
