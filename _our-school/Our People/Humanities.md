@@ -30,6 +30,11 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:lu_wenqi_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_wenqi_kevin@schools.gov.sg</a>
 </p>
+<p><strong>Ms Cheng Yuen Hua Marilyn</strong>
+<br>Designation: Teacher
+<br>Department: Humanities
+<br>Email: <a href="mailto:cheng_yuen_hua_marilyn_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_yuen_hua_marilyn_b@schools.gov.sg</a>
+</p>
 <p><strong>Ms Emily Lim Xin Yi</strong>
 <br>Designation: Teacher
 <br>Department: Humanities
