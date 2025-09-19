@@ -39,10 +39,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Script Checking/Script_Checking_2024_Classes_Final_2.pdf" rel="noopener nofollow" target="_blank">End of Year Script Checking Timetable</a>
-</p>
-</li>
-<li>
 <p><a href="/resources/students/assessment/instructions-to-candidates/" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
 </p>
 </li>
