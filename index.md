@@ -22,11 +22,11 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Xinmin Secondary Open House 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Discover Xinmin’s legacy of passion and excellence at Open House
+        2025 - where tradition meets transformation and every student is
+        inspired to shine.
       alt: Image alt text
   - infopic:
       title: "XMS80 - Decades of Dedication :: Shaping Future Generations"
