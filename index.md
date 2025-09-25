@@ -30,7 +30,7 @@ sections:
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/xinmin-secondary-open-house-2025/
       alt: Image alt text
-      image: /images/Open_House/OPEN_HOUSE_2025.jpg
+      image: /images/Open_House/OPEN_HOUSE_v2.jpg
   - infopic:
       title: "XMS80 - Decades of Dedication :: Shaping Future Generations"
       id: infopic
