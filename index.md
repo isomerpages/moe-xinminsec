@@ -28,6 +28,7 @@ sections:
         2025 - where tradition meets transformation and every student is
         inspired to shine.
       alt: Image alt text
+      image: /images/Open_House/OPEN_HOUSE_2025.jpg
   - infopic:
       title: "XMS80 - Decades of Dedication :: Shaping Future Generations"
       id: infopic
