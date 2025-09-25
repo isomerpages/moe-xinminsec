@@ -22,6 +22,13 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: "XMS80 - Decades of Dedication :: Shaping Future Generations"
       id: infopic
       description: Celebrate 80 years of Xinmin! Relive memories, honour our legacy,
