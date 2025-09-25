@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Xinmin Secondary Open House 2025.md
       - Direct School Admission.md
       - Secondary 1 Posting.md
       - Xinmin Scholarship.md
