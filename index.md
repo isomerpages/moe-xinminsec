@@ -22,14 +22,6 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Xinmin Secondary Open House 2025
-      id: infopic
-      description: Discover Xinmin’s legacy of passion and excellence at Open House
-        2025 - where tradition meets transformation and every student is
-        inspired to shine.
-      alt: Image alt text
-      image: /images/Open_House/OPEN_HOUSE_2025.jpg
-  - infopic:
       title: "XMS80 - Decades of Dedication :: Shaping Future Generations"
       id: infopic
       description: Celebrate 80 years of Xinmin! Relive memories, honour our legacy,
