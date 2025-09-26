@@ -1,0 +1,10 @@
+collections:
+  well-being-guide:
+    output: true
+    order:
+      - What is REACH ?.md
+      - Mental Health/.keep
+      - Mental Health/Helplines.md
+      - Mental Health/Mental Health E Kit.md
+      - Tips for Effective Learning.md
+      - School Counselling.md

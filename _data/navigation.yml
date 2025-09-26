@@ -1,0 +1,27 @@
+logo: /images/School Logo/XINMIN_SECONDARY_SCHOOL__5_.png
+links:
+  - title: Our School
+    collection: our-school
+  - title: Our Curriculum
+    url: /our-curriculum/the-xinmin-learning-experience/
+    sublinks:
+      - title: The Xinmin Learning Experience
+        url: /our-curriculum/the-xinmin-learning-experience/
+      - title: Talent Development Approach
+        url: /key-approaches/talent-development/
+      - title: Signature Programmes
+        url: /programmes/makers-at-xinmin/
+      - title: Academic Learning
+        url: /our-curriculum/academic-learning/academic-learning/
+      - title: Academic Departments
+        url: /departments/arts-education/aesthetics/
+      - title: Student Development
+        url: /student-development/level-themes/
+      - title: Co-Curricular Activities
+        url: /ccas/cca-information/
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Resources
+    collection: resources
+  - title: Prospective Students
+    collection: prospective-students

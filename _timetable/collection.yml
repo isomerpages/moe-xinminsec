@@ -1,0 +1,5 @@
+collections:
+  timetable:
+    output: true
+    order:
+      - School Timetable.md

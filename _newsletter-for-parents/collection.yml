@@ -1,0 +1,7 @@
+collections:
+  newsletter-for-parents:
+    output: true
+    order:
+      - 2025.md
+      - 2024.md
+      - 2023.md

@@ -1,0 +1,8 @@
+collections:
+  helpdesk:
+    output: true
+    order:
+      - XMS Google Apps Password Reset Guide.md
+      - SLS Password Reset Guide.md
+      - Student ICON Password Reset Guide.md
+      - SWN@SSOE Login Guide.md

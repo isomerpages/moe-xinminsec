@@ -1,0 +1,8 @@
+collections:
+  assessment:
+    output: true
+    order:
+      - Assessment Plan.md
+      - Criteria for Student Progression.md
+      - Instructions to Candidates.md
+      - End Of Year Examination Schedules, Topics and Formats.md

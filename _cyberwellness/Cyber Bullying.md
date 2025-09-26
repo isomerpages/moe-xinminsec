@@ -1,0 +1,7 @@
+---
+title: Cyber Bullying
+permalink: /cyberwellness/cyber-bullying/
+description: ""
+variant: tiptap
+---
+<h2>Cyber Bullying</h2><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_1.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_2.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_3.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_4.png"></div><p>If you or someone you know is being bullied, do not be afraid to speak up. You can report the bullying to your Form Teachers or through this Exit form (QR code below):<br>URL: <a href="https://bit.ly/EXITbullying" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/EXITbullying</a></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Well%20Being%20Guide/Cyber%20Wellness/cyberwellness_5_1.png"></div><p></p>

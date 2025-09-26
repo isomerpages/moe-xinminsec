@@ -1,0 +1,12 @@
+collections:
+  our-achievements:
+    output: true
+    order:
+      - Students/.keep
+      - Students/Cognitive.md
+      - Students/Aesthetics.md
+      - Students/Physical.md
+      - Students/Student Leadership, Social & Moral Domain.md
+      - Students/Speech Day Awards.md
+      - Staff.md
+      - School.md

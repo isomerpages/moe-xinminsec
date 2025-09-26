@@ -1,0 +1,6 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parents Gateway.md
+      - Family Matters @ School Programme.md

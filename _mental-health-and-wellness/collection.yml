@@ -1,0 +1,9 @@
+collections:
+  mental-health-and-wellness:
+    output: true
+    order:
+      - Mental Health & Wellness.md
+      - Stress Management.md
+      - Self care.md
+      - Mental Resilience.md
+      - Helplines and Support.md
