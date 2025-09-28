@@ -217,6 +217,9 @@ challenge with determination, overcoming physical and mental obstacles
 together. Looking ahead, the Boys' Brigade remains committed to its motto,
 "Sure &amp; Steadfast," dedicated to serving with compassion and pursuing
 excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_3.png">
+</div>
 <h4><strong>Accomplishments in 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
