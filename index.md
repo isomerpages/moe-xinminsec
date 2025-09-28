@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Xinmin Secondary Open House 2025
+      title: Open House 2025
       id: infopic
       description: Discover Xinmin as a home that prepares our students for the future
         – where tradition meets transformation and every student is inspired to
