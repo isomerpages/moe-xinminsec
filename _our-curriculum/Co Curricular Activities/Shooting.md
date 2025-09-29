@@ -5,47 +5,45 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/shooting_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_2.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_4.jpg">
 </div>
 <h4><strong>Welcome to Xinmin Shooting Team!</strong></h4>
-<p>The Xinmin Shooting Team was established in 2004 to ignite students’ passion
-for 10m air rifle and air pistol shooting. In this sport, both mental fortitude
-and physical strength are essential, as success hinges on consistency and
-precision. Through regular training, our shooters cultivate concentration
-and resilience, learning to overcome their greatest opponent: themselves.
-To test their skills, our team competes in invitational shooting competitions
-as well as the prestigious annual National School Games Shooting Championship.
-Under the guidance of our professional coaches, we have nurtured at least
-18 Xinmin students who have been invited to train with the National Youth
-Team.</p>
+<p>Established in 2004, the Xinmin Shooting Team aims to ignite students'
+passion for 10m air rifle and air pistol shooting. This sport requires
+both mental strength and physical skill, as success relies on consistency
+and precision. Through regular training, our athletes develop focus and
+resilience, learning to conquer their biggest challenge: themselves.</p>
+<p>Our team proudly competes in various invitational shooting competitions
+and the esteemed annual National School Games (NSG) Shooting Championship.
+With the support of our experienced coaches, we have successfully nurtured
+at least 18 Xinmin students who have been invited to train with the National
+Youth Team.</p>
 <p>Our shooters have put in tremendous effort to achieve impressive results
 at the 2025 NSG Shooting Championship.</p>
-<h4><strong>2025 Accomplishments</strong></h4>
-<p><strong><u>NSG B Division 2025</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3rd</p>
-</li>
-<li>
-<p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
-1st</p>
-</li>
-</ul>
-<p><strong><u>Individual Medal</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
-</li>
-<li>
-<p>Individual B Div Air Pistol Women 3rd : Lee Zi Jia Reese</p>
-</li>
-<li>
-<p>Individual B Div Air Rifle Men 4th : Joshua Lee Kai En</p>
-</li>
-</ul>
 <h4><strong>2025 Accomplishments</strong></h4>
 <p><u>NSG B Division 2025</u>
 </p>
