@@ -56,6 +56,13 @@ at the 2025 NSG Shooting Championship.</p>
 1st</p>
 </li>
 </ul>
+<p><u>NSG C Division 2025</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 5th</p>
+</li>
+</ul>
 <p><u>Individual Medal</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -63,10 +70,13 @@ at the 2025 NSG Shooting Championship.</p>
 <p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
 </li>
 <li>
-<p>Individual B Div Air Pistol Women 3rd : Lee Zi Jia Reese</p>
+<p>Individual B Div Air Pistol Women 3rd: Lee Zi Jia Reese</p>
 </li>
 <li>
-<p>Individual B Div Air Rifle Men 4th : Joshua Lee Kai En</p>
+<p>Individual B Div Air Rifle Men 4th: Joshua Lee Kai En</p>
+</li>
+<li>
+<p>Individual C Div Air Rifle Men 1st: Zhou Yicheng</p>
 </li>
 </ul>
 <h4><strong>2024 Accomplishments</strong></h4>
@@ -104,6 +114,114 @@ at the 2025 NSG Shooting Championship.</p>
 <p>Individual C Div Bronze Medallist (Air Pistol Women): Xerlyn Tay Zhi Xin</p>
 </li>
 </ul>
+<h4><strong>CCA Schedule</strong></h4>
+<p><a href="https://go.gov.sg/xmss-shooting-schedule" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xmss-shooting-schedule</a>
+</p>
+<p>*CCA schedule is updated in the Google Sheet every month.</p>
+<p>*Shooters to check schedule regularly for updates especially closer to
+competition periods.</p>
+<p>This is the tentative schedule for 2026:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Jan – April (NSG B Div period)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>April – July (NSG C Div period)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>August, November (Off-peak)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 3, 4, 5</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Mon:</strong> 3.00-5.00pm/4.30-6.00pm</p>
+<p><strong>Wed:</strong> 3.00-5.00pm/4.30-6.00pm</p>
+<p><strong>Fri:</strong> 2.00-4.00pm/3.30-5.00pm</p>
+<p><u>&nbsp;</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 2</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Mon: </strong>3.00 – 5.00pm</p>
+<p><strong>Wed: </strong>3.00 – 5.00pm</p>
+<p><strong>Fri: </strong>2.00 – 4.00pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 2, 3</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Wed:</strong> 3.00-5.00pm/4.30-6.00pm</p>
+<p><strong>Fri: </strong>2.00-4.00pm/3.30-5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1, 2</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Tues: </strong>3.00-5.00pm/4.30-6.00pm</p>
+<p><strong>Thu: </strong>3.00-5.00pm/4.30-6.00pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1, 3</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Tues: </strong>3.00-5.00pm/4.30-6.00pm
+<br><strong>Thu: </strong>3.00-5.00pm/4.30-6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>Tues: </strong>3.00 – 5.00pm</p>
+<p><strong>Thu: </strong>3.00 – 5.00pm</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Shooters report for 1 session only for each CCA day, allocated by air
+weapon/respective level. All CCA sessions include 30 minutes of Physical
+Training, unless otherwise stated in monthly training schedule.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2025/2026 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -147,8 +265,9 @@ binte Isham (309, 2025)</p>
 <p>Ms Lee Lu May (Mrs May Ng)
 <br>
 </p>
-</li>
-</ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting</a>
 </p>
+</li>
+</ul>
+<p></p>
