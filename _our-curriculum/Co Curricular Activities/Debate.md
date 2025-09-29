@@ -76,35 +76,28 @@ sharper, and more united with every experience.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SSSDC (Semi-finalist, 2022 and quarterfinalist, 2023, Semi-finalist, 2025)</p>
+<p>SSSDC (Semi-finalist, 2025)</p>
 </li>
 <li>
-<p>Overall best speaker SSSDC in 2022, Top 20 Speake in 2025</p>
-</li>
-<li>
-<p>Mid-Year Debate Invitationals (1st Runner up, 2023)</p>
-</li>
-<li>
-<p>Raffles Debate Association U-14s Debating Championships (Champion School
-&amp; Overall Best Speaker 2024)</p>
+<p>SSSDC (Top 5 Speaker, 2025)</p>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
-<p>Beyond honing their skills in competitive settings, Xinmin Debate Club
-members engage in friendly sparring sessions and exchange events with other
-schools, fostering a spirit of camaraderie and mutual learning. The club
-emphasizes the importance of gratitude and teamwork, recognizing that each
-member is a valuable contributor to the collective success of the group.</p>
-<p>Join the Xinmin Debate Club, where critical thinking flourishes, and every
-voice counts. Engage, debate, and excel as we challenge ideas, inspire
-change, and grow together!</p>
+<p>Beyond competitive debating, members of Xinmin Debate Club regularly take
+part in sparring sessions and collaborative exchanges with other schools,
+fostering friendships and shared learning experiences. The club places
+great value on gratitude, collaboration, and team spirit, recognising that
+every member’s contribution strengthens the group as a whole.</p>
+<p>Be part of the Xinmin Debate Club, where sharp thinking grows and every
+voice is heard. Engage, spar, and succeed as we challenge ideas, spark
+change, and rise together!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Junice Chia (IC)</p>
+<p>Ms Nanthini Gunasekaran</p>
 </li>
 <li>
-<p>Ms Nanthini Gunasekaran</p>
+<p>Ms Junice Chia (IC)</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
