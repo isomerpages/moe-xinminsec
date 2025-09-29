@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/bb.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025.jpg">
 </div>
 <h4><strong>45<sup>th</sup> Boys’ Brigade Company, Xinmin Secondary School</strong></h4>
 <p>The <strong>Boys' Brigade (BB) 45<sup>th </sup>&nbsp;Singapore Company at Xinmin Secondary School</strong> is
@@ -16,6 +15,9 @@ self-disciplined leaders with an adventurous spirit and a heart for service.
 For over 32 years, our Company has been shaping young men with the values
 of obedience, reverence, discipline, self-respect, and leadership, equipping
 them with essential skills and experiences that last a lifetime.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_1.jpg">
+</div>
 <p>Our comprehensive programme challenges boys to step up as leaders through
 adventure, discipline, and service. Every week, our members plan, lead,
 and actively participate in activities that push them beyond their limits,
@@ -111,6 +113,9 @@ shaping the brigade and fostering the boys’ holistic growth. They hone
 their leadership skills by leading many of our key programmes, providing
 mentorship and guidance to younger boys, and forming the backbone of our
 day-to-day operations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
+</div>
 <h4><strong>2025 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -212,6 +217,9 @@ challenge with determination, overcoming physical and mental obstacles
 together. Looking ahead, the Boys' Brigade remains committed to its motto,
 "Sure &amp; Steadfast," dedicated to serving with compassion and pursuing
 excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_3.png">
+</div>
 <h4><strong>Accomplishments in 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -321,5 +329,13 @@ boy!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
 </div>
-<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_6.png">
+</div>
 <p></p>

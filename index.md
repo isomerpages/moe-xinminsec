@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/xinminsec_5.gif
+      background: /images/Banner/xinminsec_4.gif
       key_highlights:
         - title: Our School
           description: ""
@@ -22,11 +22,11 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Xinmin Secondary Open House 2025
+      title: Open House 2025
       id: infopic
-      description: Discover Xinmin’s legacy of passion and excellence at Open House
-        2025 - where tradition meets transformation and every student is
-        inspired to shine
+      description: Discover Xinmin as a home that prepares our students for the future
+        – where tradition meets transformation and every student is inspired to
+        shine.
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/xinmin-secondary-open-house-2025/
       alt: Image alt text
