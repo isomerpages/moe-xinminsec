@@ -71,7 +71,6 @@ hydro dipping, stone painting, postcard designs and shrink plastic works</p>
 <p>Bonding sessions on every first week of the month</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -79,7 +78,6 @@ hydro dipping, stone painting, postcard designs and shrink plastic works</p>
 </li>
 <li>
 <p>Fridays: 2:00pm-4 or 4:30pm(in view of art workshops schedule and demands)</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -138,7 +136,6 @@ En Jancis</p>
 <li>
 <p><strong>Heads Of Department: </strong>Chee Jun Yi , Iffah Asyqin Binte
 Sulaiman, Jessica Lee Xin Hui, Lim Xuan Le Xavier</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>Artistic Excellence:</strong></h4>
