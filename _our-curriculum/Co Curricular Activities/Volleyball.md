@@ -40,7 +40,7 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 <p>Team bonding Day</p>
 </li>
 <li>
-<p>Volleyball 2D1N Camp</p>
+<p>2D1N Camp</p>
 </li>
 <li>
 <p>CCA Orientation</p>
@@ -110,10 +110,10 @@ Lai Jia Xuan (201, 2025</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain:</strong> Sim Wei Xuan, Jamie (402, 2025)</p>
+<p><strong>Senior Captain:</strong> Sim Wei Xuan, Jamie (402, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-Captain:</strong> Lim Han Xuan Trisha (403, 2025)</p>
+<p><strong>Senior Vice-Captain:</strong> Lim Han Xuan Trisha (403, 2025)</p>
 </li>
 <li>
 <p><strong>Juniors Leaders</strong>: Jaslyn Koh Wei Xuan (302, 2025), Mia
@@ -145,17 +145,17 @@ Lim Ding Cheng (209, 2025)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Snr &amp; Jnr Captain</strong>: Timothy Lim Sheuan Horng (402,
-2025) &amp; Jovan Lum Ka Fai (305, 2025)</p>
+<p><strong>Senior &amp; Junior Captain</strong>: Timothy Lim Sheuan Horng
+(402, 2025) &amp; Jovan Lum Ka Fai (305, 2025)</p>
 </li>
 <li>
-<p><strong>Snr &amp; Jnr Vice-Captains</strong>: Swee Wee Herng Jeroy (402,
-2025) &amp; Tan Woo Yew Samuel (402, 2025), Tan Justin (305, 2025) &amp;
-Jayden Huang (301, 2025)</p>
+<p><strong>Senior &amp; Junior Vice-Captains</strong>: Swee Wee Herng Jeroy
+(402, 2025) &amp; Tan Woo Yew Samuel (402, 2025), Tan Justin (305, 2025)
+&amp; Jayden Huang (301, 2025)</p>
 </li>
 <li>
-<p><strong>Snr &amp; Jnr Head of Publicity</strong>: Evan Lee Yee Fan (402,
-2025), Lee Yuan Rui (306, 2025)</p>
+<p><strong>Senior &amp; Junior Head of Publicity</strong>: Evan Lee Yee Fan
+(402, 2025), Lee Yuan Rui (306, 2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -349,6 +349,15 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 <li>
 <p><em>B Division Girls: 2<sup>nd</sup></em>
 </p>
+</li>
+</ul>
+<p>NSG National Inter-School Volleyball Championship</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C Division Boys: League 1 – Top 8</p>
+</li>
+<li>
+<p>C Division Girls: League 1 – 4th</p>
 </li>
 </ul>
 <p>Join Xinmin Volleyball Team and become part of a legacy built on camaraderie,
