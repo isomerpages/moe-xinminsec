@@ -5,9 +5,26 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/chinese_dance_2025_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>Welcome to Xinmin Chinese Dance (XMCD)!</strong></h4>
 <p>Since our founding in 1995, we have dedicated ourselves to cultivating
 a vibrant and passionate community of dancers under the guidance of our
