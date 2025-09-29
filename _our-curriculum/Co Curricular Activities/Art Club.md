@@ -40,45 +40,38 @@ and self-assurance. Here's a closer look at what we do:</p>
 <p>Art Club Camp</p>
 </li>
 <li>
-<p>Batik Painting, Linoprinting , Acrylic painting and mosaic tiling Workshop</p>
+<p>Acrylic Painting, assemblage and metal tooling workshops</p>
 </li>
 <li>
-<p>Values In Action projects</p>
-</li>
-<li>
-<p>Learning journey to Singapore Tyler Print Institute</p>
-</li>
-<li>
-<p>Stemtastic art projects and clay modelling</p>
+<p>Art Jamming with community partners</p>
 </li>
 <li>
 <p>Art competitions</p>
 </li>
 <li>
+<p>Bohemian artworks, clay works, coaster designing, fan art, bracelet making,
+hydro dipping, stone painting, postcard designs and shrink plastic works</p>
+</li>
+<li>
 <p>Digital drawing with various apps</p>
 </li>
 <li>
-<p>In-house makers arts program</p>
+<p>Diorama</p>
 </li>
 <li>
-<p>Upcycling competition for secondary 1</p>
+<p>Xpressions’ festival for school</p>
 </li>
 <li>
-<p>Plank Art with community</p>
+<p>Learning journey to Changi Airport</p>
 </li>
 <li>
-<p>Xinmin’s Design Fiesta Ball Run out competition</p>
+<p>Kaleidoscope</p>
 </li>
 <li>
-<p>Museum Visit to National Gallery Singapore Open House, Art Club Booth</p>
-</li>
-<li>
-<p>CCA Orientation Booth</p>
-</li>
-<li>
-<p>Physical training/bonding sessions on every first week of the month</p>
+<p>Bonding sessions on every first week of the month</p>
 </li>
 </ul>
+<p></p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -129,30 +122,24 @@ and self-assurance. Here's a closer look at what we do:</p>
 <p>
 <br>Our Executive Committee leaders play a crucial role in guiding the club’s
 growth and direction. They sharpen their leadership skills by leading major
-initiatives such as Xin-play, which fosters dynamic partnerships with primary
-schools. They also oversee key events like Art Jamming sessions, Open House,
-and the Secondary 1 CCA orientation, ensuring new students feel welcomed
-through creative bonding activities and immersive arts programs.
-<br>
-<br>In collaboration with our members, these leaders also organize the Upcycling
-Competition for Secondary 1 students. This event not only teaches the principles
-of upcycling but also inspires participants to create innovative and practical
-upcycled products.</p>
+initiatives such as Xpressions Festival, community projects and in-house
+programmes. They also oversee key events like Art Jamming sessions, Open
+House, and the Secondary 1 CCA orientation, ensuring new students feel
+welcomed through creative bonding activities and immersive arts programmes.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President</strong>: Ng Xue En, Chloe&nbsp;</p>
+<p><strong>President: </strong>Gan Jia Xuan Charmaine <strong> </strong>
+</p>
 </li>
 <li>
-<p><strong>Vice Presidents</strong>: Tiana Shashi De Silva, Aura Airwan</p>
+<p><strong>Vice Presidents: </strong>Lim Kye Kiat, Loh Hwee En, Huang Jie
+En Jancis</p>
 </li>
 <li>
-<p><strong>Heads Of Management: </strong>Wang Yu Qi Kailyn, Lee Ze Hui, Hasikka
-D/O T Shanker, Ives Low Hong Yi</p>
-</li>
-<li>
-<p><strong>Student Committee: </strong>Alicia, Sidd, Jia Wei, Alex, Yu Ting,
-Chanidapa Palagawong</p>
+<p><strong>Heads Of Department: </strong>Chee Jun Yi , Iffah Asyqin Binte
+Sulaiman, Jessica Lee Xin Hui, Lim Xuan Le Xavier</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Artistic Excellence:</strong></h4>
