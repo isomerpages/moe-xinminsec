@@ -18,7 +18,7 @@ Tjar Ngee, along with the ongoing support from our dedicated band teachers,
 the ensemble has grown stronger, achieving remarkable artistic heights.</p>
 <p>The Xinmin Symphonic Band has earned prestigious awards, particularly
 at the Singapore Youth Festival Arts Presentation for concert bands, receiving
-Distinction awards in 2013, 2015, 2017, and 2023. During our annual Xinmin
+Distinction awards in 2015, 2017, 2023 and 2025. During our annual Xinmin
 Arts Week (Xinfony), the Band performs a diverse array of musical pieces,
 ranging from simple ensemble works to highly acclaimed and technically
 demanding compositions transcribed from renowned musicals, operas, and
@@ -28,7 +28,7 @@ as well as external performances such as Schools In Concert and the Junior
 Band Festival, where they showcased their remarkable talents and captivated
 audiences.</p>
 <h4><strong>CCA Schedule</strong></h4>
-<p><strong>(Main Band (Sec 2-5s))</strong>
+<p><strong>(Main Band (Sec 2-5))</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,7 @@ audiences.</p>
 <p>Wednesday 3.30pm – 6.30pm</p>
 </li>
 </ul>
-<p><strong>CCA Schedule (Junior Band (Sec 1s))</strong>
+<p><strong>Junior Band (Sec 1)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
