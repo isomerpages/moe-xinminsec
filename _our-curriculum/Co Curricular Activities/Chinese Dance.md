@@ -117,25 +117,47 @@ Teo Rui Ning (204, 2025), Ng Xiao Xuan, Ariel (207, 2025)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
+<p>In 2023, the Xinmin Chinese Dance team participated in the Chinese Dance
+Fiesta, organised by the Singapore Chinese Dance Theatre, where their performance
+was met with enthusiastic applause from the audience. In 2024, the dance
+troupe had the honour of performing at the ASEAN Federation of Engineering
+Organisations' Mid-Term Welcome Reception and at The Institution of Engineers'
+58th Annual Dinner. The following year, in 2025, the troupe was selected
+to perform once again at the Chinese Dance Fiesta held at the DBS Foundation.
+These performances are in addition to the members’ participation in the
+annual Chinese New Year and Speech Day performances held in school.</p>
+<p>The troupe's journey has been defined by continuous growth and unwavering
+dedication. With each performance, they faced new challenges, pushing the
+limits of their abilities and demonstrating remarkable resilience and determination.
+Their commitment to excellence was evident as they consistently built upon
+their achievements, year after year. In 2023, the troupe performed a piece
+titled “春语” and earned a Certificate of Distinction at the SYF. Building
+on this success, they further expanded their horizons in 2025. After many
+months of discipline and preparation, the troupe performed a piece titled
+“飘·絮” at the SYF and received another Certificate of Distinction.</p>
+<h4><strong>Accomplishments</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/chinese_dance_2025_3.jpg">
 </div>
-<p>In 2022, our dancers were invited to perform at the Ang Mo Kio−Hougang
-National Day Dinner. The following year, the Xinmin Chinese Dance team
-participated in the Chinese Dance Fiesta organized by the Singapore Chinese
-Dance Theatre, where their performance received enthusiastic applause from
-the audience. In 2024, the dance troupe was honoured to perform at the
-ASEAN Federation of Engineering Organisations Mid-Term Welcome Reception,
-attended by guests from various countries.</p>
-<p>Despite the challenges posed by COVID-19 during the 2021 SYF Arts Presentation,
-new opportunities emerged. We showcased two performances, 牧歌 and 繁花, providing
-younger dancers with the chance to perform and learn on a larger platform.
-Working collaboratively, our dancers overcame these obstacles, ultimately
-earning a Certificate of Distinction and a Certificate of Accomplishment
-for their respective performances. In 2023, the troupe performed a piece
-titled 春语 and achieved a Certificate of Distinction.</p>
-<h4><strong>Accomplishments</strong></h4>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/chinese_dance_2025_4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attained a Certificate of Distinction in Singapore Youth Festival (SYF)
@@ -148,10 +170,9 @@ titled 春语 and achieved a Certificate of Distinction.</p>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
 <p>Beyond our school, XMCD is committed to connecting with the broader community.
-Participation in events like the Singapore Youth Festival (SYF) expands
-our members' horizons, enabling them to connect with fellow dancers and
-industry professionals, fostering relationships that may lead to future
-collaborations and learning opportunities.</p>
+Participating in events like the SYF expands our members' horizons, enabling
+them to connect with fellow dancers and industry professionals, thus fostering
+relationships that may lead to future collaborations and learning opportunities.</p>
 <p>Public performances, such as the Ang Mo Kio-Hougang National Day Dinner
 and the Chinese Dance Fiesta, allow us to showcase the art form to a wider
 audience, promoting cultural appreciation and understanding within the
@@ -166,6 +187,9 @@ never having lost!</p>
 </li>
 <li>
 <p>Ms Wan Shi Ting</p>
+</li>
+<li>
+<p>Ms Wu Shi Min Rachel Emily</p>
 </li>
 <li>
 <p>Ms Cheng Yoke Yee</p>
