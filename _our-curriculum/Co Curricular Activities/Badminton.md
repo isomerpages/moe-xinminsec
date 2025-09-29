@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/badminton.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Badminton/B_Div_National_Top_4_2_2025.jpg">
 </div>
 <p><strong><em>"Let’s smash goals together and build a legacy of teamwork and skill."</em></strong>
 </p>
@@ -18,9 +18,9 @@ of values such as teamwork, resilience, and leadership.</p>
 <p>Beyond training and competitions, our players have the opportunity to
 plan and organise events like the Secondary 1 Induction Programme, the
 Xinmin Invitational Competition for primary school students, and our Annual
-Badminton Camp. These experiences provide a platform for them to develop
-leadership skills and strengthen team bonds, shaping them into well-rounded
-individuals both on and off the court.</p>
+Badminton Teambuilding Day. These experiences provide a platform for them
+to develop leadership skills and strengthen team bonds, shaping them into
+well-rounded individuals both on and off the court.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,7 +36,7 @@ individuals both on and off the court.</p>
 <p>CCA Orientation</p>
 </li>
 <li>
-<p>Badminton 2D1N Camp</p>
+<p>Badminton Teambuilding Day</p>
 </li>
 <li>
 <p>Physical / Skills Training</p>
@@ -60,8 +60,8 @@ individuals both on and off the court.</p>
 They develop their leadership abilities by taking charge of warm-ups, training
 sessions, and competitive matches, while also leading debriefs. Additionally,
 they guide the team through major events such as Open Houses, CCA Orientations,
-and Induction Programs, ensuring a smooth and engaging experience for all
-involved.</p>
+and Induction Programmes, ensuring a smooth and engaging experience for
+all involved.</p>
 <h4><strong>Student Leaders</strong></h4>
 <p><strong>C Division Girls</strong>
 </p>
@@ -99,7 +99,10 @@ both personal and collective growth with every competition.</p>
 <p>NSG Badminton Championships (Nationals) 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>B’ Division Girls: 4th</p>
+<p>'B’ Division Girls: 4th</p>
+</li>
+<li>
+<p>‘C’ Division Girls: Top 4 (League 1)</p>
 </li>
 </ul>
 <p>NSG Badminton Championships (North Zone) 2024:</p>
@@ -149,6 +152,9 @@ both personal and collective growth with every competition.</p>
 </li>
 <li>
 <p>Ms Siaw Pey Shin</p>
+</li>
+<li>
+<p>Ms Siti Nur Khairiah</p>
 </li>
 </ul>
 <p><strong>Coaches</strong>
