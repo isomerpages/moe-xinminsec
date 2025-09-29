@@ -131,9 +131,10 @@ the bonds within our own team.</p>
 <p>First runner ups U14 Northbrooks Invitational Competition 2024</p>
 </li>
 </ul>
-<p>Join us on our floorball journey at Xinmin, where creativity, teamwork,
-and excellence meet. Together, we explore, challenge ourselves, and continually
-strive for greatness!</p>
+<p>At Xinmin Floorball, excellence is not just about medals. It is about
+character, brotherhood, and the courage to keep improving. Together, we
+train hard, challenge ourselves, and support one another, always striving
+to grow as athletes and as people.</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
