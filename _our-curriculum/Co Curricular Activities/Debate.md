@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Debate/debate1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Debate/Debate_Club.jpg">
 </div>
 <h4><strong>Welcome to Xinmin Debate Club!</strong></h4>
 <p>The Xinmin Debate Club cultivates critical thinking and sharp analytical
