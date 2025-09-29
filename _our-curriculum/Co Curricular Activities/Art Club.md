@@ -93,13 +93,13 @@ hydro dipping, stone painting, postcard designs and shrink plastic works</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_2.jpg">
 </div>
 </th>
 </tr>
@@ -107,13 +107,13 @@ hydro dipping, stone painting, postcard designs and shrink plastic works</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/art_club4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_4.jpg">
 </div>
 </td>
 </tr>
