@@ -129,8 +129,7 @@ welcomed through creative bonding activities and immersive arts programmes.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President: </strong>Gan Jia Xuan Charmaine <strong> </strong>
-</p>
+<p><strong>President: </strong>Gan Jia Xuan Charmaine</p>
 </li>
 <li>
 <p><strong>Vice Presidents: </strong>Lim Kye Kiat, Loh Hwee En, Huang Jie
@@ -146,24 +145,15 @@ Sulaiman, Jessica Lee Xin Hui, Lim Xuan Le Xavier</p>
 <p>Members of XAC take pride in representing our school in a variety of arts
 competitions, continually refining their artistic skills and creative expression.
 We actively engage in art initiatives, seizing every opportunity to showcase
-our talents through projects such as wall mural designs, the Xinmin Design
-Fiesta Ball Run Out competition, and other captivating artwork displays.
-Most recently, we made a significant impact by hosting our very own Art
-Club exhibition at Reflections Theatre during Homecoming Day, leaving a
-lasting impression on our school's vibrant artistic community.</p>
+our talents through projects such as wall mural designs, and other captivating
+artwork displays.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>a) Arts sharing with PCF Sparkletots Hougang</p>
+<p>Arts Jamming and community projects with our partners</p>
 </li>
 <li>
-<p>b) Upcycling Art level competition</p>
-</li>
-<li>
-<p>c) Live on art competition</p>
-</li>
-<li>
-<p>d) Avatar Art Competition</p>
+<p>Local competitions</p>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
@@ -172,14 +162,12 @@ participating in events such as the Singapore Youth Festival (SYF) art
 labs and various art workshops. These opportunities allow our members to
 gain valuable exposure, collaborate with fellow artists, and broaden their
 creative perspectives.</p>
-<p>In Term 3, we formed a partnership to design community-based dustbins,
-contributing to the vibrancy of the Hougang neighbourhood through art.</p>
 <p>Xinmin Art Club is more than just a club; it's a dynamic community where
 ideas are exchanged, friendships are built, and creativity thrives. From
 camps, art workshops, and museum visits to Co-Curricular Activity Orientations
-and partnerships with community organizations, our members actively enrich
+and partnerships with community organisations, our members actively enrich
 the school environment while exploring the limitless world of art.</p>
-<p>Join us on our artistic journey at XAC, where creativity has no boundaries,
+<p>Join us on our artistic journey at XAC, where creativity knows no bounds,
 and the pursuit of knowledge is a lifelong adventure. Together, we explore
 new possibilities, create meaningful art, and inspire one another!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
