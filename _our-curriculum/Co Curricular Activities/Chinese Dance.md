@@ -28,7 +28,7 @@ variant: tiptap
 <h4><strong>Welcome to Xinmin Chinese Dance (XMCD)!</strong></h4>
 <p>Since our founding in 1995, we have dedicated ourselves to cultivating
 a vibrant and passionate community of dancers under the guidance of our
-esteemed instructor, Ms. Zou Yi. As we continue our journey toward dance
+esteemed instructor, Ms Zou Yi. As we continue our journey toward dance
 excellence, we warmly invite you to join us and share in our passion. Welcome
 aboard!</p>
 <p>At Xinmin Chinese Dance, we believe that learning dance transcends mastering
@@ -37,23 +37,23 @@ while developing discipline, teamwork, and a deep appreciation for the
 beauty of the performing arts. The dance team practices regularly to prepare
 for various competitions, including the Singapore Youth Festival (SYF)
 Arts Presentation, as well as performances for significant events like
-Speech Day and the ASEAN Federation of Engineering Organisations Mid-Term
-Welcome Reception. Each performance allows our dancers to showcase not
-only their technical skills but also the passion and emotion that stem
+Chinese Dance Fiesta and the ASEAN Federation of Engineering Organisations
+Mid-Term Welcome Reception. Each performance allows our dancers to showcase
+not only their technical skills but also the passion and emotion that stem
 from hours of dedicated practice.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>a) Dance Camp</p>
+<p>Dance Camp</p>
 </li>
 <li>
-<p>b) Sewing and Makeup Application Workshop</p>
+<p>Sewing and Makeup Application Workshop</p>
 </li>
 <li>
-<p>c) Dance Workshops</p>
+<p>Dance Workshops</p>
 </li>
 <li>
-<p>d) Learning Journey/Dance Experience - Attending Dance Performances</p>
+<p>Learning Journey/Dance Experience - Attending Dance Performances</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
@@ -65,51 +65,55 @@ from hours of dedicated practice.</p>
 <p>Fridays: 1:45pm to 5:00pm</p>
 </li>
 </ul>
-<p>Extra practice sessions on Wednesdays, from 3.30 PM to 5.30 PM, are dedicated
+<p>Extra practice sessions on Wednesdays, from 3.30pm to 5.30pm, are dedicated
 to preparing for competitions and performances. After each session, students
 should expect to spend an additional 20 minutes to tidy up the dance room,
-cool down, and change out of their practice attire.</p>
+cool down and change out of their practice attire.</p>
 <h4><strong>Leadership Development:</strong></h4>
 <p>The journey of our club is significantly shaped by our Executive Committee
-leaders, who refine their leadership skills by spearheading key programmes.
-These individuals are given opportunities to enhance their abilities by
-orchestrating events and taking on specific roles during each dance practice
-session.</p>
+leaders, who refine their leadership skills by spearheading key events
+such as the Sec 1 Welcome Tea, Sec 4 and 5 Farewell, and the Chinese Dance
+Bonding Day. These individuals are given opportunities to enhance their
+abilities by orchestrating events and assuming specific roles during each
+dance practice session.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President:</strong> Ning Hin Suan (302, 2024)</p>
+<p><strong>President: </strong>Lim Zhining (304, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-President (Admin):</strong> Deanna Kweh (303, 2024)</p>
+<p><strong>Vice-President (Admin): </strong>Xie Yixuan (302, 2025)</p>
 </li>
 <li>
-<p><strong>Vice-President (Technique):</strong> Christalia Tay (305, 2024)</p>
+<p><strong>Vice-President (Dance Mistress): </strong>Kate Lee Yu Xing (305,
+2025)</p>
 </li>
 <li>
-<p><strong>Vice-President (Discipline):</strong> Sophia Tan (307, 2024)</p>
+<p><strong>Level Leaders: </strong>Jhudiella Jessamina Gautama (302, 2025),
+Lim Jia En Pearlyn (305, 2025), Germaine Neo (301, 2025), Li Anya Genevieve
+(203, 2025), Foo Yean Yee (304, 2025), Gooi Ying Tong, Joan (207, 2025),
+Tan Yee Woon Zeryne (202, 2025), Maggie Liu Minqi (209, 2025)</p>
 </li>
 <li>
-<p><strong>Level Leaders:</strong> Cai Yun En (303, 2024), Jermaine Soh (305,
-2024), Charis Ong (305, 2024), Leong Wen Xin (304, 2024), Jhudiella (207,
-2024), Kate Lee (201, 2024), Lim Zhining (201, 2024)&nbsp;</p>
+<p><strong>Logistics Head: </strong>Pek Lin Yi (302, 2025)</p>
 </li>
 <li>
-<p><strong>Logistics Head: </strong>Choo Jing Han (304, 2024)</p>
+<p><strong>Logistics Vice-Head: </strong>Trinity Tan (304, 2025)</p>
 </li>
 <li>
-<p><strong>Logistics Vice-Head:</strong> Sun Yi Fei (302, 2024)</p>
+<p><strong>Logistics Members: </strong>Zu Jingshu (207, 2025), Toh En Yi
+(207, 2025), Ang Xue Han, Abby (206, 2025)</p>
 </li>
 <li>
-<p><strong>Logistics Members: </strong>Annabell Seah (304, 2024), Trinity
-Tan (203, 2024), Pek Lin Yi (208, 2024), Xie Yixuan (204, 2024)</p>
+<p><strong>Publicity Head: </strong>Celestina Tan (306, 2025)</p>
 </li>
 <li>
-<p><strong>Publicity Heads: </strong>Megan Lim (307, 2024), Germaine Neo
-(207, 2024)</p>
+<p><strong>Publicity Vice-Head: </strong>Sim Ci Lin Janelle (307, 2025)</p>
 </li>
 <li>
-<p><strong>Publicity Assistant: </strong>Celestina Tan (202, 2024)</p>
+<p><strong>Publicity Assistants: </strong>Lee En Qi Shernise (306, 2025),
+Teo Rui Ning (204, 2025), Ng Xiao Xuan, Ariel (207, 2025)</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
