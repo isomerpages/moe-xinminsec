@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Mediaclub.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Media_club_2025.jpg">
 </div>
 <h4><strong>Welcome to Xinmin Media Club!</strong></h4>
 <p>The Xinmin Media Club consists of three main departments: Audio Visual
@@ -15,19 +15,19 @@ Our mission is to inspire creativity and technical excellence in media
 production while providing vital support for school events and nurturing
 future media professionals.</p>
 <p>We play a crucial role in delivering media support for significant school
-events, including the 2024 Cross Country and Xinmin Arts Week, as well
-as various festive celebrations throughout the year. We believe that applying
-learned skills in real-world situations is essential for helping each member
-reach their full potential. In our CCA, senior members mentor and guide
-junior members, ensuring an effective transfer of knowledge within the
-club. Alongside developing technical skills, we uphold our core values
-of respect, responsibility, and resilience, which guide our members as
-they undertake projects that benefit both the school and the broader community.</p>
-<p>Our members also engage in workshops organized by the Infocomm Media Development
-Authority (IMDA), covering topics such as the Internet of Things and Immersive
-Media with Apple. Led by industry professionals, these sessions significantly
-enhance our members’ technical skills while providing valuable insights
-into the media sector.</p>
+events as well as various festive celebrations throughout the year. We
+believe that applying learned skills in real-world situations is essential
+for helping each member reach their full potential. In our CCA, senior
+members mentor and guide junior members, ensuring an effective transfer
+of knowledge within the club. Alongside developing technical skills, we
+uphold our core values of respect, responsibility, and resilience, which
+guide our members as they undertake projects that benefit both the school
+and the broader community.</p>
+<p>Our members also engage in workshops organised by the Infocomm Media Development
+Authority (IMDA), covering topics such as Apple New Media and UGOT robotics.
+Led by industry professionals, these sessions significantly enhance our
+members’ technical skills while providing valuable insights into the media
+sector.</p>
 <p>Looking ahead, the Xinmin Media Club is committed to offering enriching
 experiences that develop essential 21st Century Competencies, such as critical
 and adaptive thinking, collaboration, and communication skills. These skills
@@ -65,7 +65,7 @@ Tech Championship</p>
 </ul>
 <p>Students are expected to assist with media duties.</p>
 <h4><strong>Leadership Development:</strong></h4>
-<p>Every year, our student leaders attend the Xinmin Academy of Leaders program
+<p>Every year, our student leaders attend the Xinmin Academy of Leaders programme
 and the IMDA Leadership Conference. These experiences offer opportunities
 for students to interact and learn from fellow student leaders, broadening
 their perspectives and fostering a sense of shared purpose. By cultivating
@@ -76,48 +76,57 @@ beyond the school community.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>President: Jovan Tan Jing Xi (401)</p>
+<p><strong>President</strong>: Harrison Tan Xue You (301)</p>
 </li>
 <li>
-<p>Vice-President: Goh Rui Tian (402)</p>
+<p><strong>Vice-President</strong>: Chloe Giselle Kessler (306)</p>
 </li>
 <li>
-<p>Head Of Department (AVA): Seah Si Yi Constance (408)</p>
+<p><strong>Head Of Department (Ava)</strong>: Chng Jiaxuan, Chloe (302)</p>
 </li>
 <li>
-<p>Head Of Department (Photography): Farihaqeel Abdul Rahman Bin Romzi (401)</p>
+<p><strong>Head Of Department (Photography)</strong>: Jaelyn See Xin Ru (303)</p>
 </li>
 <li>
-<p>Head Of Department (Videography): Lee Shi Qi, Rae-Ann (403)</p>
+<p><strong>Head Of Department (Videography)</strong>: Freya Ling Jia Han
+(302)</p>
 </li>
 <li>
-<p>Head Of Infocomm Wing: Chiong Sheng Xiang, Gareth (401)</p>
+<p><strong>Head Of Infocomm Wing</strong>: Harrison Tan Xue You (301)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>IgnITE Skills Challenge 2024 Smart EV Mobile Robot challenge - First runner-up</p>
+<p>Ignite Challenge 2025: SmartEV Mobile Robot - First runner-up</p>
 </li>
 <li>
-<p>National Youth Tech Championship - Top 8</p>
+<p>National Youth Tech Championship – Fourth runner-up</p>
 </li>
 <li>
-<p>Climate Fresk STEM Showcase and Competition -
-<br>The Gaia Guardian Trophy (best performing school)
-<br>Water Stewardship Award
-<br>Climate Action Conservation Award</p>
-</li>
-<li>
-<p>Our Schools Our Stories 2024 – Honourable Mention (Lee Zhuoxi, 303)</p>
+<p>Drone Odyssey Challenge – First</p>
 </li>
 </ul>
 <p>If you’re passionate about media, technology, and storytelling, Media
 Club is the place for you!</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Mediaclub1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Media_club_2025_1.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Media_club_2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Media_club_2025_3.jpg">
+</div>
+<p>Sec 2s participants of Apple New Media workshop</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Media_club_2025_4.jpg">
+</div>
+<p>Sec 2s and 3s participants of UGOT robotics workshop</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/MediaClub/Media_club_2025_5.png">
+</div>
+<p>Cupcake workshop during annual Media Club Day Camp 2025</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
