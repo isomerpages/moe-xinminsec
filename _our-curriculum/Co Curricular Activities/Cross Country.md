@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Cross Country/cross_country.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Cross Country/cross_country_2025.jpg">
 </div>
 <p><strong><em>“Run when you can, walk when you have to, crawl if you must. Just never give up!”</em><br><em>Dean Karnazes</em></strong>
 </p>
@@ -15,16 +15,16 @@ variant: tiptap
 them grow both physically and mentally. Through running, students not only
 learn important values but also shape their character, unlocking their
 full potential while cultivating a passion for the sport. This development
-extends beyond athletics, positively impacting their academic pursuits
+extends beyond athletics, positively influencing their academic pursuits
 by fostering discipline and resilience. The CCA provides opportunities
-for student-led initiatives, allowing members to take ownership, practice
+for student-led initiatives, allowing members to take ownership, practise
 self-direction, and develop their socio-emotional competencies. The team,
 comprising both boys and girls, proudly represents Xinmin Secondary School
 at the National School Games, while also participating in public open running
 events.</p>
 <p>Our Executive-Committee leaders play an essential role in guiding the
-CCA’s direction. They enhance their leadership skills by leading warmups,
-organizing workouts, and conducting debrief sessions. These student leaders
+CCA’s direction. They enhance their leadership skills by leading warm-ups,
+organising workouts, and conducting debrief sessions. These student leaders
 are also entrusted with planning the team bonding camp and taking charge
 of initiatives like Open House and Secondary 1 CCA Orientation, ensuring
 new students feel welcomed through engaging bonding and fitness activities.</p>
@@ -50,13 +50,12 @@ of annual events that challenge our runners and build camaraderie.</p>
 <p>National School Games – ‘B’ and ‘C’ division for Boys and Girls</p>
 </li>
 <li>
-<p>Standard Chartered Marathon – 5km run for Boys and Girls</p>
+<p>Pocari Sweat Run – 5km run for Boys and Girls</p>
 </li>
 </ul>
 <p>Join us on our running journey at Xinmin Cross Country, where sportsmanship,
 perseverance, and integrity are lifelong goals. Together, we inspire, motivate,
-and push our limits!<strong>&nbsp;</strong>
-</p>
+and push our limits!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
