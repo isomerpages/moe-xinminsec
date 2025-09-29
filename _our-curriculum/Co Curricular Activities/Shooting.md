@@ -80,7 +80,7 @@ at the 2025 NSG Shooting Championship.</p>
 </li>
 </ul>
 <h4><strong>2024 Accomplishments</strong></h4>
-<p><u>B Div:</u>
+<p><u>NSG B Division 2024</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -91,7 +91,7 @@ at the 2025 NSG Shooting Championship.</p>
 </p>
 </li>
 </ul>
-<p><u>C Div:</u>
+<p><u>NSG C Division 2024</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
