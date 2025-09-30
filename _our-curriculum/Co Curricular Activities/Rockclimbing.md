@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Rockclimbing/rockclimbing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Rockclimbing/rc_2025.jpg">
 </div>
 <p><strong>“The ascent is as important as the view”</strong>
 </p>
