@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Girls_Brigade/gb.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Girls_Brigade/gb_2025.jpg">
 </div>
 <h4><strong>Welcome to the Girls’ Brigade, 42<sup>nd</sup> company!</strong></h4>
 <p>The Girls’ Brigade (GB) 42nd Company is dedicated to nurturing and empowering
