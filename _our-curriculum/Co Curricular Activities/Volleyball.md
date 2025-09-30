@@ -84,7 +84,7 @@ Friday (Odd: 3pm – 6pm, Even: 1pm – 4pm)</p>
 <p>B Division: Monday (4 – 7pm), Wednesday (3.45 – 6.45pm), Friday (1 – 4pm)</p>
 </li>
 </ul>
-<p>*Training frequencies are subjected to changes prior to competitions</p>
+<p>*Training frequencies and schedules are subject to change prior to competitions/events</p>
 <h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a crucial role in shaping the team’s journey. They
 enhance their leadership skills by guiding the team through warm-ups, gym
