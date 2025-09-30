@@ -103,7 +103,7 @@ Lim Chia Soan (208, 2025)</p>
 </li>
 <li>
 <p><strong>Assistant Head of Publicity</strong>: Nicia Poh (201, 2025), Iszabelle
-Lai Jia Xuan (201, 2025</p>
+Lai Jia Xuan (201, 2025)</p>
 </li>
 </ul>
 <p><strong>B Division Girls</strong>
