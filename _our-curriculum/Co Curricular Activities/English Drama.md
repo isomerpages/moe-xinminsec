@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/English Drama/el_drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/English Drama/el_drama_2025_1.png">
 </div>
 <h4><strong>Welcome to English Drama Club! 🎭✨</strong></h4>
 <p>The English Drama Club kicked off the year with intense preparations for
@@ -83,7 +83,7 @@ of the club. They enhance their leadership abilities by managing the preparation
 for upcoming productions and ensuring that tasks are fairly distributed
 among all members. Always ready to assist teachers, instructors, and fellow
 students, they also take responsibility for maintaining discipline and
-fostering engagement within the club</p>
+fostering engagement within the club.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -112,7 +112,7 @@ Jun Hao (309, 2025)</p>
 <h4><strong>English Drama Club Excellence:</strong></h4>
 <p>Members of the English Drama Club enthusiastically represent Xinmin at
 various events and competitions, including the biennial Singapore Youth
-Arts Festival and Xinmin Arts Week.</p>
+Arts Festival and Xinmin Arts Week!</p>
 <h3><strong>Accomplishments</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -134,7 +134,7 @@ self-expression, and excitement. Break a leg!</p>
 <p>Ms Rebecca Abey</p>
 </li>
 <li>
-<p>Ms Amalinad Zain</p>
+<p>Ms Amalina</p>
 </li>
 </ul>
 <h4><strong>Visit us at:</strong></h4>
