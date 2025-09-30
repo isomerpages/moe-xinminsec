@@ -44,16 +44,20 @@ via PG on a termly basis)</p>
 Ning (404, 2025)</p>
 </li>
 </ul>
-<h4><strong>2024 Awards:</strong></h4>
-<p>This year, our company proudly participated in the GB Tech Girl badgework,
-where the girls gained programming skills by coding with the micro: bit.
-This was conducted alongside the biannual Dr Low Guat Tin Challenge, under
-the theme "Better Together, for a Better Tomorrow." The challenge encouraged
+<h4><strong>2024 - 2025 Awards:</strong></h4>
+<p>In 2024, our company proudly completed the GB Tech Girl badgework, where
+the girls gained programming skills by coding with the micro: bit. This
+was conducted alongside the biannual Dr Low Guat Tin Challenge, under the
+theme "Better Together, for a Better Tomorrow." The challenge encouraged
 empathy and creativity as our girls designed innovative solutions to support
 the elderly and other vulnerable groups in Singapore. We are proud to share
 that our girls excelled in the competition, showcasing their dedication
 and ingenuity.</p>
-<p>We are also thrilled to celebrate the achievements of three of our girls
+<p>We are also thrilled to share that in the 2025 GB National Drill Competition,
+both our teams demonstrated resilience in their training, creativity in
+their moves and precision in their drills. We are proud to share that both
+the teams won Gold awards for our company! Well done!</p>
+<p>Finally, we celebrate the achievements of four of our graduating girls
 who earned the prestigious Pioneer Brigadier Brooch, the pinnacle award
 in the GB. These outstanding girls exemplified excellence, self-discipline,
 and servant-leadership, standing as role models for others.</p>
