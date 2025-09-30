@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/banner__2025___1920_x_1200_px.gif
+      background: /images/Banner/banner_2025_1920_x_1400.gif
       key_highlights:
         - title: Our School
           description: ""
