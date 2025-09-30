@@ -94,7 +94,7 @@ Yang Yui Kong (308, 2025)</p>
 <p>Saxophone &amp; Bassoon – Abel Lau (301, 2025)</p>
 </li>
 <li>
-<p>·Trumpet – Hong Jing Xien (302, 2025)</p>
+<p>Trumpet – Hong Jing Xien (302, 2025)</p>
 </li>
 <li>
 <p>Trombone – Chloe Lim (303, 2025)</p>
