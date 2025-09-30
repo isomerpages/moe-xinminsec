@@ -28,7 +28,7 @@ as well as external performances such as Schools In Concert and the Junior
 Band Festival, where they showcased their remarkable talents and captivated
 audiences.</p>
 <h4><strong>CCA Schedule</strong></h4>
-<p><strong>(Main Band (Sec 2-5))</strong>
+<p><strong>Main Band (Sec 2-5)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
