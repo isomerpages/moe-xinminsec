@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Floorball/Floorball_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Floorball/floorball_2025_1.jpg">
 </div>
 <p><strong>Brothers, first always, Xinmin!</strong>
 </p>
