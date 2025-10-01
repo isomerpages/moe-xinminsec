@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Staff Achievements</h4>
-<p><strong>(a) National Awards</strong>
-</p>
+<h4><strong>(a) National Awards</strong></h4>
 <p><strong><u>National Day Awards</u></strong>
 <br>The Singapore National Day Awards are a means of recognizing various forms
 of merit and service to Singapore.</p>
@@ -42,7 +41,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Commendation Award</p>
+<p>The Commendation Medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kian Seng Jeremy</p>
@@ -50,7 +49,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Long service medal</p>
+<p>The Long service medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Salina Bte Osman</p>
@@ -58,7 +57,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Long service medal</p>
+<p>The Long service medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Yen Peng</p>
@@ -261,8 +260,7 @@ of those who participated directly in Singapore’s fight against COVID-19.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>(b) MOE Awards</strong>
-</p>
+<h4><strong>(b) MOE Awards</strong></h4>
 <p><strong><u>MOE Innergy Awards</u></strong> 
 <br>The MOE Innergy Awards are given out to recognise school-based innovations
 in the education service.</p>
