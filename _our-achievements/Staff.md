@@ -261,9 +261,14 @@ of those who participated directly in Singapore’s fight against COVID-19.</p>
 </tbody>
 </table>
 <h4><strong>(b) MOE Awards</strong></h4>
-<p><strong><u>OYEA Awards</u></strong>
-<br>The MOE Innergy Awards are given out to recognise school-based innovations
-in the education service.</p>
+<p><strong><u>Outstanding Youth in Education Award (OYEA)</u></strong>
+<br>The OYEA is a national award that recognises and honours the achievements
+of young educators who have shown admirable passion for teaching, and commitment
+to inspiring and nurturing their students. Launched in 1999, it seeks to
+recognise excellent younger teachers for their youthful idealism, enthusiasm,
+energy, and serving as inspiring role models for the fraternity.</p>
+<p><strong>2025</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -276,13 +281,13 @@ in the education service.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Finalist</strong>
+<p><strong>Awardees</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OYEA Awards</p>
+<p>OYEA Finalist</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charlene Chan Shu Min</p>
