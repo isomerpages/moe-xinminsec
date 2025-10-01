@@ -295,6 +295,17 @@ energy, and serving as inspiring role models for the fraternity.</p>
 </tr>
 </tbody>
 </table>
+<p>Links:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/</a> 
+</p>
+</li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/lighting-up-classrooms/</a>
+</p>
+</li>
+</ul>
 <p><strong><u>MOE Innergy Awards</u></strong> 
 <br>The MOE Innergy Awards are given out to recognise school-based innovations
 in the education service.</p>
