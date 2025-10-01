@@ -6,18 +6,39 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/ncc.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/NCC_2025_1.jpg">
 </div>
 <h4><strong>Welcome to NCC!</strong></h4>
 <p>The Xinmin National Cadet Corps (NCC) offers a dynamic and demanding Co-Curricular
 Activity (CCA) that cultivates resilience, discipline, and leadership among
-its cadets. The program provides numerous opportunities for cadets to engage
-in a wide range of activities at both the school and HQ levels. Participants
-attend HQ camps, where they develop essential survival skills and take
-part in exciting activities like paintball, abseiling, and ziplining. Additionally,
-cadets have the opportunity to engage in SAR 21 live range shooting and
-represent their unit in sports championships and laser run competitions.</p>
+its cadets. The programme provides numerous opportunities for cadets to
+engage in a wide range of activities at both the school and HQ levels.
+Participants attend HQ camps, where they develop essential survival skills
+and take part in exciting activities like paintball, abseiling, and ziplining.
+Additionally, cadets have the opportunity to engage in SAR 21 live range
+shooting and represent their unit in sports championships and laser run
+competitions.</p>
 <h4><strong>Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/NCC_2025_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Ncc/NCC_2025_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Secondary One</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -77,34 +98,34 @@ represent their unit in sports championships and laser run competitions.</p>
 every two weeks, equipping them to effectively organise, plan, and conduct
 the unit’s weekly training sessions. These sessions encompass a variety
 of activities, including foot drills, Individual Field Craft (IFC), and
-Physical Training. Selected leaders also attend specialized instructor
+Physical Training. Selected leaders also attend specialised instructor
 courses in Freestyle Drill (FSD) and Precision Drill Squad (PDS), further
 enhancing their skills to guide and mentor their juniors effectively.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>1SG Danial Bin Abdul Halim</p>
+<p>1SG FARHAN BIN BAHARUDIN</p>
 </li>
 <li>
-<p>1SG Cedric Chong Chee Shun</p>
+<p>1SG HENG ZI JIAN MATHIAS</p>
 </li>
 <li>
-<p>1SG Coby Ang Min Heng</p>
+<p>1SG LIM ZI XI</p>
 </li>
 <li>
-<p>1SG Soon Hong Wei Jayden</p>
+<p>1SG NG YU HAO</p>
 </li>
 <li>
-<p>1SG Harry Chong You Bo</p>
-</li>
-<li>
-<p>2SG Muhammad Randy Syibli Bin Mohammad Hisham</p>
+<p>1SG TAN CHEK YEW AIDAN</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>2024 Unit Recognition Award – Distinction</p>
+</li>
+<li>
+<p>2023 Unit Recognition Award – Distinction</p>
 </li>
 </ul>
 <p>Join the Xinmin NCC to build resilience, discipline, and leadership while

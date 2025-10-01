@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Staff Achievements</h4>
-<p><strong>(a) National Awards</strong>
-</p>
+<h4><strong>(a) National Awards</strong></h4>
 <p><strong><u>National Day Awards</u></strong>
 <br>The Singapore National Day Awards are a means of recognizing various forms
 of merit and service to Singapore.</p>
@@ -42,7 +41,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Commendation Award</p>
+<p>The Commendation Medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kian Seng Jeremy</p>
@@ -50,7 +49,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Long service medal</p>
+<p>The Long service medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Salina Bte Osman</p>
@@ -58,7 +57,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Long service medal</p>
+<p>The Long service medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Yen Peng</p>
@@ -261,8 +260,52 @@ of those who participated directly in Singapore’s fight against COVID-19.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>(b) MOE Awards</strong>
+<h4><strong>(b) MOE Awards</strong></h4>
+<p><strong><u>Outstanding Youth in Education Award (OYEA)</u></strong>
+<br>The OYEA is a national award that recognises and honours the achievements
+of young educators who have shown admirable passion for teaching, and commitment
+to inspiring and nurturing their students. Launched in 1999, it seeks to
+recognise excellent younger teachers for their youthful idealism, enthusiasm,
+energy, and serving as inspiring role models for the fraternity.</p>
+<p><strong>2025</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OYEA Finalist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Charlene Chan Shu Min</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Links:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/story/lighting-up-classrooms/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/lighting-up-classrooms/</a>
+</p>
+</li>
+</ul>
 <p><strong><u>MOE Innergy Awards</u></strong> 
 <br>The MOE Innergy Awards are given out to recognise school-based innovations
 in the education service.</p>

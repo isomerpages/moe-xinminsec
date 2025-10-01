@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/xinminsec_4.gif
+      background: /images/Banner/xinminsec_5.gif
       key_highlights:
         - title: Our School
           description: ""

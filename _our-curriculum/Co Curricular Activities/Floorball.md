@@ -6,26 +6,23 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Floorball/floorball_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Floorball/floorball_2025_1.jpg">
 </div>
 <p><strong>Brothers, first always, Xinmin!</strong>
 </p>
 <h4><strong>Welcome to Xinmin Floorball team!</strong></h4>
-<p>Established in 2022, the Floorball CCA at Xinmin Secondary has quickly
-grown into a dynamic and tightly knit team. From its humble beginnings
-as a small group of passionate players, the team has rapidly evolved into
-a strong, cohesive unit, dedicated not only to excelling in the sport but
-also to fostering an inclusive and supportive environment for all members.</p>
-<p>The players' commitment to their training and teamwork has been key to
-this remarkable progress. Along the way, they have sharpened their individual
-skills while also gaining a deep appreciation for collaboration both on
-and off the court. This sense of unity has become the team’s foundation,
-propelling them to constantly push their limits and strive for excellence
-in every game and practice session.</p>
-<p>As the team continues to grow, so too does their bond, creating a motivating
-atmosphere where every member is encouraged to give their best. The Floorball
-CCA exemplifies the power of teamwork and perseverance, and the future
-looks exceptionally bright for this talented group of athletes.</p>
+<p>Established in 2022, our team has rapidly expanded from a handful of passionate
+players into a strong, cohesive unit. While we take pride in competing
+with heart and discipline, floorball at Xinmin is about much more than
+the game. It is where character is built, brotherhood is forged, and every
+player learns to take ownership of his growth, with the assurance of support
+from his teammates, teachers and coach.</p>
+<p>Through consistent training and commitment, our boys sharpen their individual
+skills while learning the value of collaboration, resilience, and respect.
+Each training session is not just about drills and tactics, but about pushing
+one another to be better — as players, as students and as people. Every
+member matters, and every member contributes to the spirit that drives
+us forward.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,34 +39,45 @@ looks exceptionally bright for this talented group of athletes.</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
-<p>Our Executive-committee leaders play a crucial role in shaping the floorball
-experience. They develop their leadership skills by taking charge of key
-initiatives, such as organising the 3 vs 3 Primary School Tournament, and
-by setting a positive example during training sessions. These leaders also
-spearhead programs like the Open House and Secondary 1 CCA Orientation,
-ensuring a warm and engaging welcome for new students with exciting floorball
-activities and bonding exercises.</p>
+<p>Leadership is an important part of our journey. Our leaders in the Executive
+Committee guide the team by organising key initiatives such as the 3v3
+Primary School Tournament and the Xinmin Royale. They also take the lead
+in welcoming new members at events like the Open House and Secondary 1
+CCA Orientation, ensuring every newcomer feels part of the team from day
+one.</p>
+<p>At the same time, leadership is not limited to the committee. Every player
+is given the chance to lead in different ways — from helping to plan bonding
+activities to taking on rotating captaincy roles in matches outside the
+National School Games. These experiences allow every player to grow in
+confidence, responsibility, and service, while learning how to support
+and inspire others.</p>
+<p>In every role they take on, be it leading warm-ups, mentoring juniors,
+or representing the team on court, we aim to grow our boys’ confidence,
+responsibility, and service. These opportunities help them to discover
+their strengths, set an example for others, and carry the Xinmin spirit
+forward.</p>
 <h4><strong>Student Leaders</strong></h4>
-<p><strong><u>B division</u></strong>
+<p><strong><u>B division Executive Committe</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chua Qi Han Darrius (302, 2025)</p>
+<p>Captain – Lim Wen Hao, Julian (304, 2025)</p>
 </li>
 <li>
-<p>Chiu Bo Hao (303, 2025)</p>
+<p>Vice-Captain – Chua Qi Han Darrius (302, 2025)</p>
 </li>
 <li>
-<p>Lim Wen Hao, Julian (304, 2025)</p>
+<p>Team Manager – Chiu Bo Hao (303, 2025)</p>
 </li>
 <li>
-<p>Muhammad Rais Bin Noor Iskandar Shah (305, 2025))</p>
+<p>Team Manager – Muhammad Rais Bin Noor Iskandar Shah (305, 2025)</p>
 </li>
 <li>
-<p>Yong Chang Foong (309, 2025)</p>
+<p>Physical Training IC – Yong Chang Foong (309, 2025)</p>
+<p></p>
 </li>
 </ul>
-<p><strong><u>C division</u></strong>
+<p><strong><u>C division Executive Committee</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -89,16 +97,24 @@ activities and bonding exercises.</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
-<p>Xinmin’s Floorball members proudly represent the school in various competitions,
-including the National School Games, honing their skills and demonstrating
-their floorball prowess. We actively participate in events such as friendly
-matches, 3-on-3 competitions, and Pesta Sukan, seizing every opportunity
-to showcase our talents. Most recently, we successfully hosted our annual
-3 vs 3 Primary School Tournament during the June holidays, providing a
-thrilling experience for aspiring young floorball players who are considering
-floorball as their future CCA.</p>
+<p>Xinmin’s Floorball members proudly represent the school in the National
+School Games and other competitions. Beyond results, we see every match,
+from friendly games to tournaments like Pesta Sukan, as an opportunity
+to sharpen our skills, learn new gameplay strategies, and grow together
+as a team.</p>
+<p>For the third year running, we hosted our annual 3v3 Primary School Tournament
+during the June holidays, giving aspiring young players a chance to experience
+the thrill of floorball. The tournament also serves as a meaningful introduction
+for those considering floorball as their future CCA, while strengthening
+the bonds within our own team.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>First Runner-up in 'C' Division National School Games League 1 (2025)</p>
+</li>
+<li>
+<p>First Runner-up in Pesta Sukan U14 Boys (2025)</p>
+</li>
 <li>
 <p>Top 8 in 'C' Division National School Games 2024</p>
 </li>
@@ -115,9 +131,10 @@ floorball as their future CCA.</p>
 <p>First runner ups U14 Northbrooks Invitational Competition 2024</p>
 </li>
 </ul>
-<p>Join us on our floorball journey at Xinmin, where creativity, teamwork,
-and excellence meet. Together, we explore, challenge ourselves, and continually
-strive for greatness!</p>
+<p>At Xinmin Floorball, excellence is not just about medals. It is about
+character, brotherhood, and the courage to keep improving. Together, we
+train hard, challenge ourselves, and support one another, always striving
+to grow as athletes and as people.</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>

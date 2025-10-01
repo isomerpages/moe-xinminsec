@@ -483,4 +483,11 @@ subject levels that best suit the student. Students can offer certain subjects
 at a more demanding level based on his/her interest and learning progress.</p>
 </li>
 </ul>
-<p></p>
+<h3>Higher Mother Tongue Languages</h3>
+<p>For Secondary 1 students: To offer G3 Higher Chinese Language or G3 Higher
+Malay Language at Secondary 2, students should score subject overall* ≥75%
+for G3 Chinese Language or G3 Malay Language at the end of Secondary 1.</p>
+<p>For Secondary 2 students: To offer G3 Higher Chinese Language or G3 Higher
+Malay Language at Secondary 3, students should score subject overall* ≥75%
+for G3 Chinese Language or G3 Malay Language at the end of Secondary 2.</p>
+<p>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</p>
