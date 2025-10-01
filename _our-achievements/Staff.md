@@ -261,6 +261,35 @@ of those who participated directly in Singapore’s fight against COVID-19.</p>
 </tbody>
 </table>
 <h4><strong>(b) MOE Awards</strong></h4>
+<p><strong><u>OYEA Awards</u></strong>
+<br>The MOE Innergy Awards are given out to recognise school-based innovations
+in the education service.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Finalist</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OYEA Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Charlene Chan Shu Min</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>MOE Innergy Awards</u></strong> 
 <br>The MOE Innergy Awards are given out to recognise school-based innovations
 in the education service.</p>
