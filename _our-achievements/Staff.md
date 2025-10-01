@@ -49,7 +49,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Long service Medal</p>
+<p>The Long Service Medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Salina Bte Osman</p>
@@ -57,7 +57,7 @@ at least 25 years of service to the nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Long service Medal</p>
+<p>The Long Service Medal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Yen Peng</p>
