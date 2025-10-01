@@ -298,11 +298,11 @@ energy, and serving as inspiring role models for the fraternity.</p>
 <p>Links:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/</a> 
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/oyea/recipients-and-finalists/</a>
 </p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/lighting-up-classrooms/</a>
+<p><a href="https://www.schoolbag.edu.sg/story/lighting-up-classrooms/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story/lighting-up-classrooms/</a>
 </p>
 </li>
 </ul>
