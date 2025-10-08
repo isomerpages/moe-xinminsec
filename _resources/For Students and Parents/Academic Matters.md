@@ -39,6 +39,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/EOY Timetable/2025/2025_EOY_Script_Checking_Timetable_Class_Final.pdf" rel="noopener nofollow" target="_blank">2025 EOY script checking timetables for the Sec 1 to Sec 3 students</a>
+</p>
+</li>
+<li>
 <p><a href="/resources/students/assessment/instructions-to-candidates/" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
 </p>
 </li>
