@@ -28,14 +28,41 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance - Distinction</p>
-<p>Choir - Distinction</p>
-<p>Drama - Distinction</p>
-<p>Guzheng Ensemble - Distinction</p>
-<p>Symphonic Band – Distinction</p>
+<p>Chinese Dance - Distinction
+<br>Choir - Distinction
+<br>Drama (English) - Distinction
+<br>Guzheng Ensemble - Distinction
+<br>Symphonic Band – Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance Fiesta
+<br>- Chinese Dance
+<br>
+<br>Speech Day
+<br>- Chinese Dance
+<br>- Symphonic Band</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live on Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation (Art Club)</p>
 </td>
 </tr>
 </tbody>
