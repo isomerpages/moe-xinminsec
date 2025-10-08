@@ -24,40 +24,260 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="28" colspan="1">
 <p>2025</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>90.0% of O-Level students were eligible for progression to A-Level</p>
+<td rowspan="1" colspan="1">
+<p>Academic Achievements</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>98.0% of O-Level students were eligible for progression to A-Level and
-Polytechnics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>98.7% of N(A)-Level students were eligible for progression to Sec 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
+<td rowspan="1" colspan="1">
+<p>90% of our O-Level students are eligible for progression to A-Level
+<br>More than 20 O-Level students scored 7 to 9 distinctions
+<br>2 in 5 of our N(A)-Level students are eligible for Polytechnic Foundation
 Programme</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junior Culinary Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Linguistics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Secondary Model United Nations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE History Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Represented</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Junior) 2 Bronze
+<br>4 Honourable Mention Awards
+<br>(Senior) 2 Silver
+<br>1 Honourable mentions
+<br>(Open) 2 Honourable mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Australian Mathematics Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Silver
+<br>13 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Mathematical Modelling Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Represented</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Represented</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 silver, 8 bronze and 7 Honourable mentions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Challenge: AI-Empowered Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI-Empowered Microbit Challenge
+<br>- 2nd
+<br>
+<br>SmartEV Mobile Robot Challenge
+<br>- Represented
+<br>
+<br>Aroma Fantasy
+<br>- 1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Youth Tech Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore School Series Debates</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Club CCA
+<br>Team - 3rd
+<br>Individual - 5th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RI U-14s Debating Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Club CCA
+<br>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eunoia Debating Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Club CCA
+<br>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Olympiad in Informatics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drone Odyssey Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Model United Nations (IMUNC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Honourable Mention Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Financial Literacy Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Represented</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter- Finals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Orienteering Race (Schools)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Team)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Media Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Team)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sustainable Development Youth Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Represented</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Accounting Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd (Team)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>YEAR</p>
