@@ -244,7 +244,7 @@ binte Isham (309, 2025)</p>
 <p><strong>Sec 2 Level Head: </strong>Clarice Chua Xin Ting (302, 2025)</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (303, 2025)</p>
+<p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (304, 2025)</p>
 </li>
 </ul>
 <h4><strong>Teachers-in-charge</strong></h4>
