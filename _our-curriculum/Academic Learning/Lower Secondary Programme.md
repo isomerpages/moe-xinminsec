@@ -430,7 +430,7 @@ well for their WAs and End-of-Year (EOY) Examination.</p>
 <p>English</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>Score for subject <u>*</u><em>overall</em><u>*</u> ≥ 75%</p>
+<p>Score for subject *<em>overall</em>* ≥ 75%</p>
 <p><em>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</em>
 </p>
 </td>
