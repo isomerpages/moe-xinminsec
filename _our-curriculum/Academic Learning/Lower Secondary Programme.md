@@ -332,10 +332,21 @@ or Merit in HMTL.</p>
 </ol>
 <p>Note: Students taking Tamil or NTIL will be taking lessons at designated
 schools or language centres, and not in Xinmin Secondary School.</p>
-<p>Beyond the start of Secondary 1, students may offer these subjects at
-more demanding level (MDL) after mid-year or end-of-year assessments in
-Secondary 1, based on their academic performance in school, as well as
-by demonstrating positive attitude towards learning.</p>
+<p>Beyond the start of Secondary 1, students may offer subjects at more demanding
+level (MDL) at the following junctures, based on their academic performance
+in school, as well as by demonstrating positive attitude towards learning.
+There is no cap on the number of subjects students can take at MDL.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 Mid-Year</p>
+</li>
+<li>
+<p>Secondary 1 End-of-Year</p>
+</li>
+<li>
+<p>Secondary 2 End-of-Year</p>
+</li>
+</ul>
 <p><strong><u>Secondary 1 Mid-Year</u></strong>
 <br>At this point, students can take these subjects at MDL if they perform
 well for their Weighted Assessments (WAs).</p>
@@ -419,7 +430,7 @@ well for their WAs and End-of-Year (EOY) Examination.</p>
 <p>English</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>Score for subject *overall ≥ 75%</p>
+<p>Score for subject *<em>overall</em>* ≥ 75%</p>
 <p><em>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</em>
 </p>
 </td>
@@ -452,7 +463,7 @@ well for their WAs and End-of-Year (EOY) Examination.</p>
 </tr>
 </tbody>
 </table>
-<p><em>*Note: From 2024 onwards, students must at least offer G1 Humanities. G2 and G3 Humanities will be offered to all eligible Secondary 1 students ONLY at this point. There is no cap on the number of subjects students can take at MDL.</em>
+<p><em>*Note: For MDL from G1 Humanities to a G2 Humanities subject, this requires a subject overall ≥ 75% in G1 English (or ≥ 50% overall in G2 English) and a Pass with Distinction for both Performance Tasks in Semester 1 and 2 from the G1 Humanities Social Studies component.</em>
 </p>
 <p>For more details on the lower secondary curriculum, you may also refer
 to <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener noreferrer nofollow" target="_blank">MOE’s Full SBB microsite</a>.</p>
@@ -483,6 +494,71 @@ subject levels that best suit the student. Students can offer certain subjects
 at a more demanding level based on his/her interest and learning progress.</p>
 </li>
 </ul>
+<p><strong><u>Secondary 2 End-of-Year</u></strong>
+</p>
+<p>At this point, students can take these subjects at MDL if they perform
+well for their WAs and End-of-Year (EOY) Examination.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Performance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level at which subject can be taken</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>Score for subject overall* ≥ 75%</p>
+<p><em>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</em>
+</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>G3 [if current level is G2]</p>
+<p>&nbsp;</p>
+<p>G2 [if current level is G1]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (MTL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>*Humanities – History/Geography/Literature</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*Note: For MDL from G1 Humanities to a G2 Humanities subject, this requires a subject overall ≥ 75% in G1 English (or ≥ 50% overall in G2 English) and a Pass with Distinction for both Performance Tasks in Semester 1 and 2 from the G1 Humanities Social Studies component.</em>
+</p>
 <h3>Higher Mother Tongue Languages</h3>
 <p>For Secondary 1 students: To offer G3 Higher Chinese Language or G3 Higher
 Malay Language at Secondary 2, students should score subject overall* ≥75%
@@ -491,3 +567,4 @@ for G3 Chinese Language or G3 Malay Language at the end of Secondary 1.</p>
 Malay Language at Secondary 3, students should score subject overall* ≥75%
 for G3 Chinese Language or G3 Malay Language at the end of Secondary 2.</p>
 <p>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</p>
+<p></p>
