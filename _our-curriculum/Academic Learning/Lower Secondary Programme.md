@@ -557,6 +557,8 @@ at a more demanding level based on his/her interest and learning progress.</p>
 </tr>
 </tbody>
 </table>
+<p><em>*Note:  For MDL from G1 Humanities to a G2 Humanities subject, this requires a subject overall ≥ 75% in G1 English (or ≥ 50% overall in G2 English) and a Pass with Distinction for both Performance Tasks in Semester 1 and 2 from the G1 Humanities Social Studies component.</em>
+</p>
 <h3>Higher Mother Tongue Languages</h3>
 <p>For Secondary 1 students: To offer G3 Higher Chinese Language or G3 Higher
 Malay Language at Secondary 2, students should score subject overall* ≥75%
@@ -565,3 +567,4 @@ for G3 Chinese Language or G3 Malay Language at the end of Secondary 1.</p>
 Malay Language at Secondary 3, students should score subject overall* ≥75%
 for G3 Chinese Language or G3 Malay Language at the end of Secondary 2.</p>
 <p>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</p>
+<p></p>
