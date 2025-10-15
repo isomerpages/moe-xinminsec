@@ -496,8 +496,8 @@ at a more demanding level based on his/her interest and learning progress.</p>
 </ul>
 <p><strong><u>Secondary 2 End-of-Year</u></strong>
 </p>
-<p><u>At this point, students can take these subjects at MDL if they perform well for their WAs and End-of-Year (EOY) Examination.</u>
-</p>
+<p>At this point, students can take these subjects at MDL if they perform
+well for their WAs and End-of-Year (EOY) Examination.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -557,7 +557,7 @@ at a more demanding level based on his/her interest and learning progress.</p>
 </tr>
 </tbody>
 </table>
-<p><em>*Note:  For MDL from G1 Humanities to a G2 Humanities subject, this requires a subject overall ≥ 75% in G1 English (or ≥ 50% overall in G2 English) and a Pass with Distinction for both Performance Tasks in Semester 1 and 2 from the G1 Humanities Social Studies component.</em>
+<p><em>*Note: For MDL from G1 Humanities to a G2 Humanities subject, this requires a subject overall ≥ 75% in G1 English (or ≥ 50% overall in G2 English) and a Pass with Distinction for both Performance Tasks in Semester 1 and 2 from the G1 Humanities Social Studies component.</em>
 </p>
 <h3>Higher Mother Tongue Languages</h3>
 <p>For Secondary 1 students: To offer G3 Higher Chinese Language or G3 Higher
