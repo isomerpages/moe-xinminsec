@@ -24,7 +24,7 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="21" colspan="1">
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,17 +91,6 @@ Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics Competition (Australian)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>90% of our O-Level students are eligible for progression to A-Level
-<br>More than 20 O-Level students scored 7 to 9 distinctions
-<br>2 in 5 of our N(A)-Level students are eligible for Polytechnic Foundation
-Programme</p>
 </td>
 </tr>
 <tr>
