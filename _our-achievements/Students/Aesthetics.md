@@ -38,33 +38,6 @@ variant: tiptap
 <br>Symphonic Band – Distinction</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Public Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Dance Fiesta
-<br>- Chinese Dance
-<br>
-<br>Speech Day
-<br>- Chinese Dance
-<br>- Symphonic Band</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Live on Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation (Art Club)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
