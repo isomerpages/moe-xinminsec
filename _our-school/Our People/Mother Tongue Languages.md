@@ -35,11 +35,6 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:cheng_yoke_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_yoke_yee@schools.gov.sg</a>
 </p>
-<p><strong>Mr Chong Weng Chiew Vincent</strong>
-<br>Designation: Teacher
-<br>Department: Mathematics
-<br>Email: <a href="mailto:chong_weng_chiew_vincent_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_weng_chiew_vincent_a@schools.gov.sg</a>
-</p>
 <p><strong>Mdm Guan Jing</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
