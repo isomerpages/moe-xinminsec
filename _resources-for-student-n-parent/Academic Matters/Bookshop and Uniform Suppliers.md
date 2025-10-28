@@ -14,10 +14,16 @@ variant: tiptap
 <br>Email: <a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
 <h4><strong>Quick Link</strong>:</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>To order online:&nbsp; <a href="https://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg</a>
 </p>
+</li>
+<li>
 <p>To book a slot:&nbsp; <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>&nbsp;(For
 2026 Sec 1 only)</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/1.png">
 </div>
@@ -35,10 +41,16 @@ variant: tiptap
 <a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
 </p>
 <h4>Quick Link:</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>To order online: <a href="https://jeepsinguniform.com/collections/xinmin-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/xinmin-secondary-school</a>
 </p>
+</li>
+<li>
 <p>To book a slot: <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>  <strong>(For 2026 Sec 1 only)</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/2.png">
 </div>
