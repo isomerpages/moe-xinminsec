@@ -23,7 +23,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/1.png">
 </div>
 <p><strong>Important:-</strong>
-<br><strong>Please do not purchase any textbooks or uniform if you are applying for 2025 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
+<br><strong>Please do not purchase any textbooks or uniform if you are applying for 2026 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
 </p>
 <h3>B) Uniform Supplier Information</h3>
 <p>Jeep Sing Fashion
