@@ -76,4 +76,6 @@ Scheme, please refer to the attachment below for 2026 MOE FAS pamphlets.</p>
 <p>For MOE FAS applications approved by respective primary schools, or their
 siblings’ schools, please click the below link or scan the QR code to submit
 the approval letter for our processing.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-approved-moe-fas</a>
+</p>
 <p></p>
