@@ -12,6 +12,8 @@ variant: tiptap
 income eligibility criteria and increased benefits, helping more families
 qualify for support. Please refer to the press release for more details.
 (<a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>)</p>
+<p><strong>Application is Now Open</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
