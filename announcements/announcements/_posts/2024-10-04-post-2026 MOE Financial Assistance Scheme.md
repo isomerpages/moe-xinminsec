@@ -73,6 +73,8 @@ Parents Gateway or visit <a rel="noopener noreferrer nofollow" target="_blank">h
 </p>
 <p>For more information on the benefits provided under MOE Financial Assistance
 Scheme, please refer to the attachment below for 2026 MOE FAS pamphlets.</p>
+<p>For other information, visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+</p>
 <p><strong>MOE FAS Approved by primary/sibling’s schools / 2026 Secondary 1</strong>
 </p>
 <p>For MOE FAS applications approved by respective primary schools, or their
