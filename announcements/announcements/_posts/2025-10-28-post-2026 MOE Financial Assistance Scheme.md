@@ -1,0 +1,104 @@
+---
+title: 2026 MOE Financial Assistance Scheme
+permalink: /announcements/announcements/2026-fas/
+date: 2025-10-28
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p>Dear Parents / Guardians,</p>
+<p>MOE has enhanced its financial assistance schemes for 2026 with raised
+income eligibility criteria and increased benefits, helping more families
+qualify for support. Please refer to the press release for more details.
+(<a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>)</p>
+<p><strong>Application is Now Open</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Income Criterion</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gross Household Income</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Per Capita Income</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$4,000 and below</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,000 and below</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Important Notes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Only Singapore citizen students are eligible</strong>
+</p>
+</li>
+<li>
+<p>Apply early for free textbooks/uniforms before school starts on 2 January
+2026</p>
+</li>
+<li>
+<p>ComCare recipients who have been auto-granted MOE FAS, please contact
+school at 6288 9382 to check status</p>
+</li>
+<li>
+<p><strong>Do not purchase textbooks or uniforms if applying for FAS - no reimbursement available</strong>
+</p>
+</li>
+</ul>
+<p><strong>How to Apply</strong>
+</p>
+<p>Apply via eFAS link in 'Financial Assistance' under Services section in
+Parents Gateway or visit <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
+<p><strong>Benefits under MOE FAS</strong>
+</p>
+<p>For more information on the benefits provided under MOE Financial Assistance
+Scheme, please refer to the attachment below for 2026 MOE FAS pamphlets.</p>
+<p>For other information, visit <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+</p>
+<p><strong>MOE FAS Approved by primary/sibling’s schools / 2026 Secondary 1</strong>
+</p>
+<p>For MOE FAS applications approved by respective primary schools, or their
+siblings’ schools, please click the below link or scan the QR code to submit
+the approval letter for our processing.</p>
+<p><a href="https://go.gov.sg/xms-approved-moe-fas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-approved-moe-fas</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE FAS/FAS_2026.png">
+</div>
+<p><strong>School-based FAS</strong>
+</p>
+<p>Singapore citizen students who do not meet the eligibility criteria for
+MOE FAS may also apply for School-based FAS via the MOE FAS application
+process. Approval will be granted on a case-to-case basis.</p>
+<p>Thank you.</p>
+<p>&nbsp;General Office</p>
+<p>Xinmin Secondary School</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_EL.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_CL.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_CL.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_ML.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_ML.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_TL.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_TL.pdf</a>
+</p>
+<p></p>
