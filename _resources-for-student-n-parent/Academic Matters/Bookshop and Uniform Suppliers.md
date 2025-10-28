@@ -14,11 +14,7 @@ variant: tiptap
 <br>Email: <a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
 <h4><strong>Quick Link</strong>:</h4>
-<p>To order online:&nbsp; <a href="https://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg</a>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>To book a slot:&nbsp; <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>&nbsp;<strong>(For 2026 Sec 1 only)</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/1.png">
 </div>
