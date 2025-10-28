@@ -78,4 +78,23 @@ siblings’ schools, please click the below link or scan the QR code to submit
 the approval letter for our processing.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-approved-moe-fas</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE FAS/FAS_2026.png">
+</div>
+<p><strong>School-based FAS</strong>
+</p>
+<p>Singapore citizen students who do not meet the eligibility criteria for
+MOE FAS may also apply for School-based FAS via the MOE FAS application
+process. Approval will be granted on a case-to-case basis.</p>
+<p>Thank you.</p>
+<p>&nbsp;General Office</p>
+<p>Xinmin Secondary School</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_EL.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_CL.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_CL.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_ML.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_ML.pdf</a>
+</p>
+<p><a href="/files/MOE FAS/2026/MOE_FAS_Pamphlet_TL.pdf" rel="noopener nofollow" target="_blank">MOE_FAS_Pamphlet_TL.pdf</a>
+</p>
 <p></p>
