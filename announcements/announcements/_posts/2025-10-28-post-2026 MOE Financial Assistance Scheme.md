@@ -83,7 +83,7 @@ the approval letter for our processing.</p>
 <p><a href="https://go.gov.sg/xms-approved-moe-fas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-approved-moe-fas</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE FAS/FAS_2026.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE FAS/FAS_2026.png">
 </div>
 <p><strong>School-based FAS</strong>
 </p>
