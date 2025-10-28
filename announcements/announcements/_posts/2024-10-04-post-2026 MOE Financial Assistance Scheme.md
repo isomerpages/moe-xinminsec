@@ -68,19 +68,19 @@ school at 6288 9382 to check status</p>
 <p><strong>How to Apply</strong>
 </p>
 <p>Apply via eFAS link in 'Financial Assistance' under Services section in
-Parents Gateway or visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
+Parents Gateway or visit <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
 <p><strong>Benefits under MOE FAS</strong>
 </p>
 <p>For more information on the benefits provided under MOE Financial Assistance
 Scheme, please refer to the attachment below for 2026 MOE FAS pamphlets.</p>
-<p>For other information, visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+<p>For other information, visit <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <p><strong>MOE FAS Approved by primary/sibling’s schools / 2026 Secondary 1</strong>
 </p>
 <p>For MOE FAS applications approved by respective primary schools, or their
 siblings’ schools, please click the below link or scan the QR code to submit
 the approval letter for our processing.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-approved-moe-fas</a>
+<p><a href="https://go.gov.sg/xms-approved-moe-fas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-approved-moe-fas</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE FAS/FAS_2026.png">
