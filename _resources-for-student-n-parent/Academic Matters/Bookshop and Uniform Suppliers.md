@@ -37,8 +37,8 @@ variant: tiptap
 <h4>Quick Link:</h4>
 <p>To order online: <a href="https://jeepsinguniform.com/collections/xinmin-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/xinmin-secondary-school</a>
 </p>
-<p>To book a slot: <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a> (For
-2026 Sec 1 only)</p>
+<p>To book a slot: <a href="https://go.gov.sg/s1textbk-uniform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s1textbk-uniform</a>  <strong>(For 2026 Sec 1 only)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/2.png">
 </div>
