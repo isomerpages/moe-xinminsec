@@ -31,7 +31,8 @@ variant: tiptap
 <br>#01-09 Techplace 1
 <br>Singapore 569628
 <br>Fax: 63862407
-<br>Support Centre:&nbsp;<a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a> &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Support Centre:&nbsp;</p>
+<p><a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a> &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
 </p>
 <h4>Quick Link:</h4>
