@@ -46,7 +46,7 @@ variant: tiptap
 <h4><strong>Sec 5</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist/2025/Sec_5_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec 5 Normal Academic</a>
+<p><a href="/files/Booklist/2026/Sec_5_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec 5 Normal Academic Booklist</a>
 </p>
 </li>
 </ul>
