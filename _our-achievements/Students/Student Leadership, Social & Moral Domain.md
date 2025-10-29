@@ -28,7 +28,7 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Company Recognition (to look at 2024 achievements)</p>
+<p>Company Recognition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Boys' Brigade</strong>
