@@ -49,8 +49,8 @@ variant: tiptap
 <br>- Corps Achievement Award 2024 - Gold
 <br>- 8 students awarded the Chief Commissioner’s Badge 2024
 <br>- Northeast District First Aid Competition 2025:
-<br>o Nursing Adult Category- Overall Champion
-<br>o Ambulance Cadet Category- 1st Runner-up
+<br>- Nursing Adult Category- Overall Champion
+<br>- Ambulance Cadet Category- 1st Runner-up
 <br>
 <br>
 <br>
