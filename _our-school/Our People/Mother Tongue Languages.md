@@ -35,11 +35,6 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:cheng_yoke_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_yoke_yee@schools.gov.sg</a>
 </p>
-<p><strong>Mr Chong Weng Chiew Vincent</strong>
-<br>Designation: Teacher
-<br>Department: Mathematics
-<br>Email: <a href="mailto:chong_weng_chiew_vincent_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_weng_chiew_vincent_a@schools.gov.sg</a>
-</p>
 <p><strong>Mdm Guan Jing</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
@@ -54,11 +49,6 @@ variant: tiptap
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:lai_min_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_min_lee@schools.gov.sg</a>
-</p>
-<p><strong>Ms Lee Yen Nee</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:lee_yen_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yen_nee@schools.gov.sg</a>
 </p>
 <p><strong>Ms Mi Siyao</strong>
 <br>Designation: Teacher
