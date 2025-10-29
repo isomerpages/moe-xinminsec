@@ -16,7 +16,7 @@ variant: tiptap
 <h4><strong>Sec 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist/2025/2025_Sec_2_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec_2_Booklist</a>
+<p><a href="/files/Booklist/2026/Sec_2_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 </li>
 </ul>
@@ -24,31 +24,22 @@ variant: tiptap
 <h4><strong>Sec 3</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist/2025/Sec_3_Express.pdf" rel="noopener nofollow" target="_blank">Sec_3_Express</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Booklist/2025/Sec_3_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec_3_Normal_Academic</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Booklist/2025/Sec_3_Normal_Technical.pdf" rel="noopener nofollow" target="_blank">Sec_3_Normal_Technical</a>
+<p><a href="/files/Booklist/2026/Sec_3_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Sec 4</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist/2025/Sec_4_Express.pdf" rel="noopener nofollow" target="_blank">Sec_4_Express</a>
+<p><a href="/files/Booklist/2026/Sec_4_Express.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/Sec_4_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec_4_Normal_Academic</a>
+<p><a href="/files/Booklist/2026/Sec_4_Normal_Academic.pdf" rel="noopener nofollow" target="_blank">Sec 4 Normal Academic Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Booklist/2025/Sec_4_Normal_Technical.pdf" rel="noopener nofollow" target="_blank">Sec_4_Normal_Technical</a>
+<p><a href="/files/Booklist/2026/Sec_4_Normal_Technical.pdf" rel="noopener nofollow" target="_blank">Sec 4 Normal Technical Booklist</a>
 </p>
 </li>
 </ul>
