@@ -12,7 +12,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Sec 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -20,7 +19,6 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <h4><strong>Sec 3</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
