@@ -12,14 +12,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.facebook.com/xinminsec/" rel="noopener nofollow" target="_blank">Facebook</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.instagram.com/xinminss/" rel="noopener nofollow" target="_blank">Instagram</a>
-</p>
-</li>
-<li>
 <p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Insurance for Students</a>
 </p>
 </li>
@@ -41,6 +33,14 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.facebook.com/xinminsec/" rel="noopener nofollow" target="_blank">Xinmin Sec Facebook Page</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/xinminss/" rel="noopener nofollow" target="_blank">Xinmin Sec Instagram Page</a>
 </p>
 </li>
 </ul>
