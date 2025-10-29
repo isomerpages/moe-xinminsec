@@ -6,12 +6,7 @@ third_nav_title: Academic Matters
 variant: tiptap
 ---
 <h4><strong>Sec 1</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Booklist/2025/Sec_1_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
-</p>
-</li>
-</ul>
+<p></p>
 <h4><strong>Sec 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
