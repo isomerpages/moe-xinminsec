@@ -227,4 +227,44 @@ within the school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_4.jpg">
 </div>
+<p>Xtivities@Recess — This initiative, organised by the Student Councillors,
+aims to enliven the school atmosphere and provide platforms for peer bonding.
+Through these engaging activities, the initiative seeks to strengthen students’
+sense of belonging and foster a vibrant and inclusive school community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_5a.jpg">
+</div>
+<p><strong>Peer Support Board</strong>
+</p>
+<p>The <strong>Peer Support Board</strong> champions a caring and inclusive
+school environment. Through empowering Class Committees to build more enabling
+environments in class through Class Committee Connect, as well as whole-school
+efforts such as Wellness Week, Deep Xinalysis, semesterly class bingos,
+they advocate for student well-being, and positive relationships.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_9.jpg">
+</div>
+<p>The Peer Support Champions attended the Peer Support Summit organised
+by Limitless. At the summit, they gained insights into peer support strategies,
+including empathetic listening, and had the opportunity to exchange best
+practices and build networks with Peer Support Leaders from other schools.
+Following the summit, they shared their learning with the Peer Support
+Leaders within Xinmin, fostering the dissemination of knowledge and strengthening
+the school’s peer support framework.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_12.jpg">
+</div>
 <p></p>
