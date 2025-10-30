@@ -333,3 +333,44 @@ celebrate the appointment of incoming student leaders and to recognise
 the contributions of the outgoing cohort. The symbolic passing of the torch
 from one generation of leaders to the next marked a momentous and meaningful
 milestone in the school’s leadership journey.</p>
+<p><strong>All Staff Day</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_24.jpg">
+</div>
+<p>This event celebrates and expresses appreciation for the dedication and
+contributions of all Xinmin staff, both teaching and non-teaching. The
+Student Councillors and Class Committee members collaborated to plan meaningful
+activities and programmes (e.g. ASD concert and class party) to convey
+gratitude to the staff, who have devoted their time and effort to nurturing
+every Xinmin student.</p>
+<p><strong>Leadership Adventure Camp</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_25.jpg">
+</div>
+<p>Our signature Leadership Adventure Camp camp is jointly organised and
+led by student leaders from all three leadership boards, who come together
+to plan and facilitate activities for potential Sec 2 leaders. The camp
+serves as a platform for potential leaders and student leaders to collaborate,
+bond, and strengthen their leadership competencies through a range of outdoor
+and team-based challenges. It also encourages them to step out of their
+comfort zones and apply their leadership skills in new and meaningful ways.</p>
+<p><strong>Sec One Orientation</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_26.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_27.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_28.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_29.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_30.jpg">
+</div>
+<p></p>
