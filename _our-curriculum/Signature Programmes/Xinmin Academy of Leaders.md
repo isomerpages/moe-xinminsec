@@ -305,6 +305,31 @@ to organise class parties during All Staff Day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_20.jpg">
 </div>
-<p>
-<br>
+<p>The <strong>CCA Leaders Board</strong> strengthens our school’s vibrancy
+and spirit by enhancing students’ co-curricular experience. CCA leaders
+are empowered to collaborate across CCAs and pursue initiatives to cultivate
+a strong sense of belonging and pride in our school through CCAs. Signature
+events such as Xinmin Royale and initiatives such as CCA dedication board
+and match support to support our CCAs during competition seasons showcase
+their dedication to strengthening bonds and celebrating talents.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_21.jpg">
+</div>
+<p>CCA dedication board initiated by the CCA Leaders Board EXCO to rally
+the student body to pen down encouraging messages before the SYF, NSG and
+competition season.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_22.jpg">
+</div>
+<p>Leaders teaching the school body cheers before various match supports.</p>
+<h2>Key Leadership Events</h2>
+<p><strong>Student Leaders’ Investiture</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_23.jpg">
+</div>
+<p>The Student Councillors planned and organised this significant event to
+celebrate the appointment of incoming student leaders and to recognise
+the contributions of the outgoing cohort. The symbolic passing of the torch
+from one generation of leaders to the next marked a momentous and meaningful
+milestone in the school’s leadership journey.</p>
