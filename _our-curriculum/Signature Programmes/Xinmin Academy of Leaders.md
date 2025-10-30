@@ -214,73 +214,17 @@ to better understand the needs of the student body, with the aim of enhancing
 the school environment as well as students’ well-being and sense of belonging.
 They have also spearheaded school-wide initiatives such as the redesign
 of the school’s PE shirt and the organisation of the Caring Teacher Awards.</p>
-<p>
-<br>
+<p><strong>Student Council</strong>
 </p>
-<p><strong>Xinmin Academy of Leaders Level 3 Module</strong>:
-<br><strong>Facilitation and Communication</strong>: Students learn core facilitation
-skills and grow as confident communicators. Students are given a structured
-approach towards being facilitators and get to apply it through activities
-initiated during the module.</p>
-<p><strong>Xinmin Academy of Leaders Level 4 Module:</strong> 
-<br><strong>Creating Lasting Change</strong>: Students are encouraged to leave
-a lasting legacy as leaders in this module that facilitates student proposals
-geared towards bettering the school experience for the student body. Peer
-Support Champions, CCA leaders, Class Committee Members and Student Councilors
-come together to brainstorm and understand the core processes towards building
-a legacy.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p>The <strong>Student Council</strong> is at the heart of student representation,
+working tirelessly to serve the student body and strengthen school identity
+and pride. They ensure the smooth running of flag-raising every morning
+and improve the school experience for students through initiatives such
+as Movie Night and Xtivities@Recess. Through hallmark events such as the
+Student Leaders’ Investiture, All Staff Day, Gala Night, and various student-led
+initiatives, they create platforms for celebration, recognition, and unity
+within the school community.</p>
 <div class="isomer-image-wrapper">
-<img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Xinmin Academy of Leaders/x_a_l_4a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_4.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Xinmin Academy of Leaders/x_a_l_4b.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>Xinmin Student Council:</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin%20Academy%20of%20Leaders/x_a_l_4c.jpg">
-</div>
-<p>The Xinmin Student Council consists of caring, responsible and adaptable
-leaders determined to serve the school and the community. The Council consists
-of 4 sub-committees that best suit the passions of our leaders in Events
-and Initiatives, Welfare and Feedback, Mentoring and Public Relations.
-With a core motto to lead, listen and learn, the Xinmin Student Council
-takes ownership of core school events like All Staff Day and the Secondary
-1 Orientation whilst also initiating proposals and ideas for the welfare
-of the student body. The Xinmin Student Council leads the way in mentoring
-budding leaders of Xinmin and are ever-ready to be there to support Xinmin
-and keep the spirit alive!</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Xinmin Academy of Leaders/x_a_l_5a.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Xinmin Academy of Leaders/x_a_l_5b.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
