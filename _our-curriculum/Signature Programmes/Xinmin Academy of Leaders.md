@@ -373,4 +373,29 @@ comfort zones and apply their leadership skills in new and meaningful ways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_30.jpg">
 </div>
-<p></p>
+<p>Student Leaders from all three leadership boards collaborate to design
+and facilitate a programme to welcome the newest members of the Xinmin
+family. The Student Leaders carefully plan activities that help Secondary
+One students acclimate to the school environment, foster a sense of belonging,
+and build meaningful bonds with their peers.</p>
+<p><strong>Student Leadership Training</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_31.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_32.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_33.jpg">
+</div>
+<p>The Sec 3 Student Leaders from all three leadership boards participated
+in the Student Leadership Training, designed to help them understand and
+apply <em>The Student Leadership Challenge</em>. Through this training,
+students learnt to practise the five leadership behaviours—Model the Way,
+Inspire a Shared Vision, Challenge the Process, Enable Others to Act, and
+Encourage the Heart—within authentic leadership scenarios. They reflected
+on their personal influence and its impact on others, developed and communicated
+a shared vision aligned with team goals, and applied effective conflict
+management strategies to build and sustain positive relationships within
+their boards.</p>
