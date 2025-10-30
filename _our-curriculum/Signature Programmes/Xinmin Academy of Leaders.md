@@ -230,13 +230,28 @@ within the school community.</p>
 aims to enliven the school atmosphere and provide platforms for peer bonding.
 Through these engaging activities, the initiative seeks to strengthen students’
 sense of belonging and foster a vibrant and inclusive school community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_5.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_5a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_5.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_6.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Peer Support Board</strong>
 </p>
 <p>The <strong>Peer Support Board</strong> champions a caring and inclusive
