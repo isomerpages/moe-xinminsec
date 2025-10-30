@@ -6,18 +6,26 @@ variant: tiptap
 third_nav_title: Signature Programmes
 ---
 <h2>Our Beliefs and Desired Outcomes:</h2>
-<p>Every child can be a leader. Our Xinmin Academy of Leaders adopts a whole-school
-approach to provide a range of programmes and projects that will groom
-every student to lead hearts and minds with confidence.</p>
-<p>In Xinmin, students are empowered to take ownership in their learning.
-Our Academy develops leaders beyond the Desired Xinmin Outcomes for Leadership
-through a multi-tiered programme that develops confident leaders who lead
-with compassion.</p>
-<p>We strive towards leaders who lead with a heart; being self-aware and
-mindful of those around them whilst displaying moral courage with the school’s
-core values in mind. Students develop resilience, a stronger purpose to
-serve as a leader and communication skills through our multi-tiered developmental
-programme.</p>
+<p>At Xinmin Academy of Leaders, we believe that every child has the potential
+to lead. Guided by a whole-school approach, the Academy offers a spectrum
+of programmes and projects designed to nurture confident leaders who inspire
+hearts and minds. In line with our Desired Xinmin Outcomes (Every Xinmin
+Student a Confident Leader), we aim to develop leaders who are rooted in
+strong values with a strong sense of purpose, and lead with empathy and
+integrity — individuals who are self-aware, display moral courage and resilience,
+are guided by the school’s core values, and inspires and work effectively
+with others towards shared goals. Through our progressive, multi-tiered
+developmental programme, students cultivate resilience, strengthen their
+sense of purpose to serve, and hone their communication skills to lead
+with conviction and compassion.</p>
+<p>At Xinmin Academy of Leaders, our guiding motto — <strong>Listen, Learn, and Lead </strong>—
+reflects our commitment to nurturing principled and exemplary leaders.
+The Academy is anchored by three leadership boards: the <strong>CCA Leaders Board</strong>; <strong>Peer Support Board; </strong>and
+the <strong>Student Council</strong>. They are united under the <strong>Xinmin Council of Exemplary Leaders (XCEL)</strong>,
+who unite and bridge the efforts of these leadership boards. Together,
+they serve as the collective voice of the student body, serving the student
+body and shaping the culture and spirit of the school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin%20Academy%20of%20Leaders/x_a_l_1.jpg">
 </div>
