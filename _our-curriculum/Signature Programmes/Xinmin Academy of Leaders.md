@@ -267,4 +267,44 @@ the school’s peer support framework.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_12.jpg">
 </div>
-<p></p>
+<p>The <em>Welfare Pack</em> initiative, led by the Peer Support Champions,
+is designed to uplift students and provide them with an added boost of
+encouragement and support ahead of their examinations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_15.jpg">
+</div>
+<p><em>Wellness Week</em>, organised by the Peer Support Champions, aims
+to promote holistic wellness — encompassing physical, mental, cyber, and
+social well-being — through a variety of engaging activities.</p>
+<p>The Class Committee is overseen by the Peer Support Board. Members of
+the Class Committee participate in Class Committee Connect (C³) sessions,
+which aim to develop a culture of care within their classes through the
+Student Leadership Challenge model. The sessions also equip student leaders
+with project management skills as they collaborate with the Student Council
+to organise class parties during All Staff Day.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_16.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_19.jpg">
+</div>
+<p><strong>CCA Leaders Board</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_20.jpg">
+</div>
+<p>
+<br>
+</p>
