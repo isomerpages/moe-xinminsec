@@ -25,9 +25,8 @@ the <strong>Student Council</strong>. They are united under the <strong>Xinmin C
 who unite and bridge the efforts of these leadership boards. Together,
 they serve as the collective voice of the student body, serving the student
 body and shaping the culture and spirit of the school.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_1.jpg">
 </div>
 <h2>Student Leadership Framework</h2>
 <p>Our Student Leadership Development framework is anchored in The Student
