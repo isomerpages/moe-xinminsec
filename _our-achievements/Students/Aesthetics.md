@@ -109,7 +109,7 @@ variant: tiptap
 <p>Chinese Dance Team B - Accomplishment&nbsp;</p>
 <p>MLDDS (Malay Dance) - Accomplishment</p>
 <p>Drama (English) Team A – Distinction</p>
-<p>Drama (English) Team B -</p>
+<p>Drama (English)</p>
 <p>Guzheng Ensemble – Distinction</p>
 <p>Concert Band Team A – Distinction</p>
 <p>Concert Band Team B – Accomplishment</p>

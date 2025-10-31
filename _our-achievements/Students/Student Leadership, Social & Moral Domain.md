@@ -28,7 +28,7 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Company Recognition (to look at 2024 achievements)</p>
+<p>Company Recognition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Boys' Brigade</strong>
@@ -49,8 +49,8 @@ variant: tiptap
 <br>- Corps Achievement Award 2024 - Gold
 <br>- 8 students awarded the Chief Commissioner’s Badge 2024
 <br>- Northeast District First Aid Competition 2025:
-<br>o Nursing Adult Category- Overall Champion
-<br>o Ambulance Cadet Category- 1st Runner-up
+<br>- Nursing Adult Category- Overall Champion
+<br>- Ambulance Cadet Category- 1st Runner-up
 <br>
 <br>
 <br>

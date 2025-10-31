@@ -35,6 +35,14 @@ variant: tiptap
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.facebook.com/xinminsec/" rel="noopener nofollow" target="_blank">Xinmin Sec Facebook Page</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/xinminss/" rel="noopener nofollow" target="_blank">Xinmin Sec Instagram Page</a>
+</p>
+</li>
 </ul>
 <h2>Assessment</h2>
 <ul data-tight="true" class="tight">
@@ -47,11 +55,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/instructions-to-candidates" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
+<p><a href="/resources/students/assessment/end-of-year-examination-topics-and-formats" rel="noopener noreferrer nofollow" target="_blank">End Of Year Examination Topics and Formats</a>
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/end-of-year-examination-topics-and-formats" rel="noopener noreferrer nofollow" target="_blank">End Of Year Examination Topics and Formats</a>
+<p><a href="/resources/students/assessment/instructions-to-candidates" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
 </p>
 </li>
 </ul>
