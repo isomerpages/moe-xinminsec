@@ -259,17 +259,39 @@ school environment. Through empowering Class Committees to build more enabling
 environments in class through Class Committee Connect, as well as whole-school
 efforts such as Wellness Week, Deep Xinalysis, semesterly class bingos,
 they advocate for student well-being, and positive relationships.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_7.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_8.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_9.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The Peer Support Champions attended the Peer Support Summit organised
 by Limitless. At the summit, they gained insights into peer support strategies,
 including empathetic listening, and had the opportunity to exchange best
@@ -277,27 +299,61 @@ practices and build networks with Peer Support Leaders from other schools.
 Following the summit, they shared their learning with the Peer Support
 Leaders within Xinmin, fostering the dissemination of knowledge and strengthening
 the school’s peer support framework.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_11.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_12.jpg">
 </div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>The <em>Welfare Pack</em> initiative, led by the Peer Support Champions,
 is designed to uplift students and provide them with an added boost of
 encouragement and support ahead of their examinations.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_13.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_14.jpg">
 </div>
-<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_15.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><em>Wellness Week</em>, organised by the Peer Support Champions, aims
 to promote holistic wellness — encompassing physical, mental, cyber, and
 social well-being — through a variety of engaging activities.</p>
@@ -307,6 +363,7 @@ which aim to develop a culture of care within their classes through the
 Student Leadership Challenge model. The sessions also equip student leaders
 with project management skills as they collaborate with the Student Council
 to organise class parties during All Staff Day.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_16.jpg">
 </div>
