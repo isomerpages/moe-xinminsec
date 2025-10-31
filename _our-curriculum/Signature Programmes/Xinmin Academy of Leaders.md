@@ -363,22 +363,38 @@ which aim to develop a culture of care within their classes through the
 Student Leadership Challenge model. The sessions also equip student leaders
 with project management skills as they collaborate with the Student Council
 to organise class parties during All Staff Day.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_16.jpg">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_17.jpg">
 </div>
-<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_18.jpg">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Xinmin Academy of Leaders/2026/Photo_19.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Leaders Board</strong>
 </p>
 <div class="isomer-image-wrapper">
