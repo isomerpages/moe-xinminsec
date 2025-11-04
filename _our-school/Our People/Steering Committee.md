@@ -190,3 +190,8 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:nur_amalina_mohamed_zain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_amalina_mohamed_zain@schools.gov.sg</u></a>
 </p>
+<p><strong>Ms Teoh Yu Han</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:teoh_yu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teoh_yu_han@schools.gov.sg</u></a>
+</p>
