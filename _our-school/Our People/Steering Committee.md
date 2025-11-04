@@ -185,6 +185,11 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:emily_lim_xin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>emily_lim_xin_yi@schools.gov.sg</u></a>
 </p>
+<p><strong>Ms Nadhrah Binte Zainalabiden</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:nadhrah_zainalabiden@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nadhrah_zainalabiden@schools.gov.sg</u></a>
+</p>
 <p><strong>Ms Nur Amalina Bte Mohamed</strong>
 <br>Designation: Teacher
 <br>Department: Humanities
