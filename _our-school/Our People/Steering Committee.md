@@ -175,3 +175,8 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:teng_leeh_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_leeh_bing@schools.gov.sg</a>
 </p>
+<p><strong>Ms Emily Lim Xin Yi</strong>
+<br>Designation: Teacher
+<br>Department: Humanities
+<br>Email: <a href="mailto:emily_lim_xin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>emily_lim_xin_yi@schools.gov.sg</u></a>
+</p>
