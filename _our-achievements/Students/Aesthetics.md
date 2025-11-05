@@ -14,13 +14,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<p><strong>YEAR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COMPETITION/PLATFORM</p>
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACHIEVEMENT</p>
+<p><strong>ACHIEVEMENT</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -28,13 +31,13 @@ variant: tiptap
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival (SYF) Arts Presentation</p>
+<p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance - Distinction
-<br>Choir - Distinction
-<br>Drama (English) - Distinction
-<br>Guzheng Ensemble - Distinction
+<p>Chinese Dance – Distinction
+<br>Choir – Distinction
+<br>Drama (English) – Distinction
+<br>Guzheng Ensemble – Distinction
 <br>Symphonic Band – Distinction</p>
 </td>
 </tr>
@@ -49,13 +52,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<p><strong>YEAR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COMPETITION/PLATFORM</p>
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACHIEVEMENT</p>
+<p><strong>ACHIEVEMENT</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,12 +72,12 @@ variant: tiptap
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance - Distinction</p>
-<p>Choir - Distinction</p>
-<p>Drama (English) Team A - Accomplishment</p>
-<p>Drama (English) Team B - Accomplishment</p>
-<p>Guzheng Ensemble - Distinction</p>
-<p>Symphonic Band – Distinction</p>
+<p>Chinese Dance – Distinction
+<br>Choir – Distinction
+<br>Drama (English) Team A – Accomplishment
+<br>Drama (English) Team B – Accomplishment
+<br>Guzheng Ensemble – Distinction
+<br>Symphonic Band – Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -85,13 +91,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<p><strong>YEAR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COMPETITION/PLATFORM</p>
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACHIEVEMENT</p>
+<p><strong>ACHIEVEMENT</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,16 +112,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sustained Achievement Award for Aesthetics</strong>
-</p>
-<p></p>
-<p>Chinese Dance Team A – Distinction</p>
-<p>Chinese Dance Team B - Accomplishment&nbsp;</p>
-<p>MLDDS (Malay Dance) - Accomplishment</p>
-<p>Drama (English) Team A – Distinction</p>
-<p>Drama (English)</p>
-<p>Guzheng Ensemble – Distinction</p>
-<p>Concert Band Team A – Distinction</p>
-<p>Concert Band Team B – Accomplishment</p>
+<br>
+<br>Chinese Dance Team A – Distinction
+<br>Chinese Dance Team B – Accomplishment
+<br>MLDDS (Malay Dance) – Accomplishment
+<br>Drama (English) Team A – Distinction
+<br>Drama (English) Team B – Performed<s><br></s>Guzheng Ensemble – Distinction
+<br>Concert Band Team A – Distinction
+<br>Concert Band Team B – Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -126,13 +133,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<p><strong>YEAR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COMPETITION/PLATFORM</p>
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACHIEVEMENT</p>
+<p><strong>ACHIEVEMENT</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -144,23 +154,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sustained Achievement Award for Aesthetics</strong>
-</p>
-<p></p>
-<p>Chinese Dance – Distinction</p>
-<p>Choir – Distinction</p>
-<p>Drama (English) – Accomplishment</p>
-<p>Guzheng Ensemble – Distinction</p>
-<p>Percussion Ensemble – Distinction</p>
-<p>Symphonic Band – Accomplishment</p>
+<br>
+<br>Chinese Dance – Distinction
+<br>Choir – Distinction
+<br>Drama (English) – Accomplishment
+<br>Guzheng Ensemble – Distinction
+<br>Percussion Ensemble – Distinction
+<br>Symphonic Band – Accomplishment</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
 <p></p>
