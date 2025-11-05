@@ -16,19 +16,24 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SCHOOL SPEECH DAY AWARDS</p>
+<p><strong>SCHOOL SPEECH DAY AWARDS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DESCRIPTION OF AWARD</p>
+<p><strong>DESCRIPTION OF AWARD</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AWARD RECIPIENT (2024)</p>
+<p><strong>AWARD RECIPIENT (2024)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AWARD RECIPIENT (2023)</p>
+<p><strong>AWARD RECIPIENT (2023)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AWARD RECIPIENT (2022)</p>
+<p><strong>AWARD RECIPIENT (2022)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -63,17 +68,17 @@ who have overcome difficulties and challenges and demonstrated resilience
 and fortitude to propel the school to a higher level.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Daniesya Binte Abdullah (409)</p>
-<p>Alisha Durra Binte Mohammad Ashadi Shah (408)</p>
+<p>Daniesya Binte Abdullah (409)
+<br>Alisha Durra Binte Mohammad Ashadi Shah (408)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Yi Yang, Joash (409)</p>
-<p>Avelynn Ng Rui En (408)</p>
+<p>Ng Yi Yang, Joash (409)
+<br>Avelynn Ng Rui En (408)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yong Jun Jie (406)
-<br>Muhammad Bin Jumadi (406)</p>
-<p>Jolin Goh (409)</p>
+<br>Muhammad Bin Jumadi (406)
+<br>Jolin Goh (409)</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +124,7 @@ and dedication in the area of the arts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This is awarded to a student in the top leadership position in CCA or
-at the National level</p>
+at the National level.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Phong Kai Tong (401)</p>
@@ -136,8 +141,8 @@ at the National level</p>
 <p>Yap Fun Hong Award for Sports and Outdoor Education</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>This is awarded to students who displayed passion and commitment in sports.
-Displaying the values of sportsmanship, friendship, excellence and respect.</p>
+<p>This is awarded to students who displayed passion and commitment in sports,
+displaying the values of sportsmanship, friendship, excellence and respect.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Choong Kang Rui (404)</p>
