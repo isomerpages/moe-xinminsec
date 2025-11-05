@@ -14,17 +14,20 @@ third_nav_title: Students
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<p><strong>YEAR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COMPETITION/PLATFORM</p>
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACHIEVEMENT</p>
+<p><strong>ACHIEVEMENT</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="26" colspan="1">
+<td rowspan="23" colspan="1">
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -68,26 +71,11 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eunoia Debating Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Club CCA
-<br>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>IgnITE Challenge: AI-Empowered Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI-Empowered Microbit Challenge
-<br>- 2nd
-<br>
-<br>SmartEV Mobile Robot Challenge
-<br>- Represented
-<br>
-<br>Aroma Fantasy
-<br>- 1st</p>
+<p>AI-Empowered Microbit Challenge – 2nd
+<br><s><br></s>Aroma Fantasy – 1st</p>
 </td>
 </tr>
 <tr>
@@ -100,18 +88,10 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Model United Nations (IMUNC)</p>
+<p>International Model United Nations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Honourable Mention Awards</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Junior Culinary Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
+<p>2 Honourable Mention</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +123,7 @@ Programme</p>
 <p>National STEM Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarter- Finals</p>
+<p>Quarterfinalists</p>
 </td>
 </tr>
 <tr>
@@ -172,19 +152,10 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RI U-14s Debating Championship 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Club CCA
-<br>Certificate of Participation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Singapore Junior Biology Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 silver, 8 bronze and 7 Honourable mentions</p>
+<p>1 Silver, 8 Bronze, 7 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +163,7 @@ Programme</p>
 <p>Singapore Junior Physics Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 bronze</p>
+<p>1 Bronze</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +171,7 @@ Programme</p>
 <p>Singapore Linguistics Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award</p>
+<p>Silver</p>
 </td>
 </tr>
 <tr>
@@ -208,11 +179,11 @@ Programme</p>
 <p>Singapore Mathematical Olympiad Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Junior) 2 Bronze
-<br>4 Honourable Mention Awards
-<br>(Senior) 2 Silver
-<br>1 Honourable mentions
-<br>(Open) 2 Honourable mentions</p>
+<p>2 Bronze (Junior)
+<br>4 Honourable Mention (Junior)
+<br>2 Silver (Senior)
+<br>1 Honourable Mention<s>s</s> (Senior)
+<br>2 Honourable Mentions (Open)</p>
 </td>
 </tr>
 <tr>
@@ -220,14 +191,13 @@ Programme</p>
 <p>Singapore School Series Debates</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Debate Club CCA
-<br>Team - 3rd
-<br>Individual - 5th</p>
+<p>3rd (Team)
+<br>5th (Individual)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Media Challenge 2025</p>
+<p>The Media Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st (Team)</p>
@@ -235,6 +205,7 @@ Programme</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -244,17 +215,20 @@ Programme</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<p><strong>YEAR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COMPETITION/PLATFORM</p>
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACHIEVEMENT</p>
+<p><strong>ACHIEVEMENT</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="27" colspan="1">
+<td rowspan="25" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -290,18 +264,10 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 North Zone Schools Chinese Speech Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Most Promising Award (Individual)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>7th National Text Recital Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver &amp; Bronze Award</p>
+<p>Silver and Bronze Award</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +283,7 @@ Programme</p>
 <p>Climate Fresk STEM Showcase and Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Gaia Guardian Trophy (best performing school)</p>
+<p>The Gaia Guardian Trophy (Best Performing School)</p>
 </td>
 </tr>
 <tr>
@@ -338,10 +304,10 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drone Odyssey challenge 2024 -AI Visual Sensing Challenge</p>
+<p>Drone Odyssey challenge- AI Visual Sensing Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st in Best Presentation Award&nbsp;</p>
+<p>1st (Best Presentation Award)</p>
 </td>
 </tr>
 <tr>
@@ -354,23 +320,15 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IgnITE Skills Challenge 2024</p>
+<p>IgnITE Skills Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion and 2nd runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IgnITE Skills Challenge 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First runner-up</p>
+<p>Champion, 1st runner-up and 2nd runner-up</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Mathematical Modeling Challenge (IMMC)</p>
+<p>International Mathematical Modeling Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -378,10 +336,10 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Model United Nations (IMUNC) 2024</p>
+<p>International Model United Nations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Honourable Mention Awards</p>
+<p>2 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -389,7 +347,7 @@ Programme</p>
 <p>National Accounting Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10th in Position</p>
+<p>10th</p>
 </td>
 </tr>
 <tr>
@@ -402,11 +360,19 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore International Mathematical and Computational Challenge 2024:
-Explore Tracks</p>
+<p>North Zone Schools Chinese Speech Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Award( Best Presentation)</p>
+<p>The Most Promising Award (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore International Mathematical and Computational Challenge: Explore
+Tracks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Award (Best Presentation)</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +380,7 @@ Explore Tracks</p>
 <p>Singapore Junior Biology Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Gold, 1 Silver, 2 Bronze, 3 Honourable Mention</p>
+<p>1 Gold, 1 Silver, 2 Bronze, 3 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -422,7 +388,7 @@ Explore Tracks</p>
 <p>Singapore Mathematical Olympiad Competition (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Silver, 3 Bronze, 1 Honourable Mention</p>
+<p>1 Silver, 3 Bronze, 1 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +396,7 @@ Explore Tracks</p>
 <p>Singapore Mathematical Olympiad Competition (Senior)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Silver, 1 Bronze, 3 Honourable Mention</p>
+<p>1 Silver, 1 Bronze, 3 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -438,15 +404,7 @@ Explore Tracks</p>
 <p>Smart EV Mobile Robot challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion and 2nd runner up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Smart EV Mobile Robot challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First runner-up</p>
+<p>Champion, 1st runner-up and 2nd runner-up</p>
 </td>
 </tr>
 <tr>
@@ -457,15 +415,27 @@ Explore Tracks</p>
 <p>Certificate of Accomplishment</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<p><strong>YEAR</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COMPETITION/PLATFORM</p>
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACHIEVEMENT</p>
+<p><strong>ACHIEVEMENT</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -494,6 +464,46 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ACJC Speech Arts (Comic Monologue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EBS Digital Tic-Tac-Toe Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IMDA National Youth Tech Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Istana Heritage Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mid-Year Debate Invitationals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st runner-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>North Zone Schools Chinese Speech Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -510,34 +520,10 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TP x VJC Data Science Hackathon</p>
+<p>Singapore Secondary Schools Debating Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ACJC Speech Arts (Comic Monologue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st runner-up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IMDA National Youth Tech Championship 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st runner-up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mid-Year Debate Invitationals 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st runner-up</p>
+<p>Quarterfinalist</p>
 </td>
 </tr>
 <tr>
@@ -550,26 +536,10 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Istana Heritage Challenge</p>
+<p>TP x VJC Data Science Hackathon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd runner-up</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EBS Digital Tic-Tac-Toe Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quarterfinalist</p>
+<p>Champion</p>
 </td>
 </tr>
 </tbody>
