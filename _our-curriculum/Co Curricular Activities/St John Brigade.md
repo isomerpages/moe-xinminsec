@@ -181,6 +181,8 @@ St. John curriculum through the Cadet Proficiency Badge scheme.</p>
 <h4><strong>Community Engagement:</strong></h4>
 <p>Our cadets provide first aid support for school activities, including
 Cross-Country, Homecoming, Open House and various level activities.</p>
+<p>Join us on our leadership journey and make a meaningful difference in
+our community!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
