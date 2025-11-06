@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/choir.jpg">
 </div>
@@ -146,8 +145,6 @@ School in 2023 and 2025.&nbsp;</p>
 <p>Involved in National Day Choir Music Video in 2020 and 2023</p>
 </li>
 </ul>
-<p>Join us in Xinmin Chorale where we get to indulge in our love for singing
-and relish every moment when we are on stage!</p>
 <p>Join us in <strong>Xinmin Chorale</strong>, where we celebrate our love
 for singing, grow as a family, and relish every moment on stage together.
 Whether it’s through laughter in practice, harmony in song, or the joy
