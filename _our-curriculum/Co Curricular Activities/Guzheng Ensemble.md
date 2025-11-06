@@ -120,12 +120,8 @@ a variety of programmes. This continuous pursuit of excellence has garnered
 the ensemble prestigious accolades at the Singapore Youth Festival since
 2001.</p>
 <h4><strong>Accomplishments</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
 <p>Attained the Certificate of Distinction in Singapore Youth Festival (SYF)
 Arts Presentation [2013, 2015, 2017, 2019, 2021, 2023, 2025]</p>
-</li>
-</ul>
 <p>Join the Xinmin Guzheng Ensemble to master music, build friendships, and
 create unforgettable performances together!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
@@ -135,9 +131,6 @@ create unforgettable performances together!</p>
 </li>
 <li>
 <p>Ms Lai Min Lee</p>
-</li>
-<li>
-<p>Ms Cindy Oh</p>
 </li>
 <li>
 <p>Ms Xiao Yanfei</p>
