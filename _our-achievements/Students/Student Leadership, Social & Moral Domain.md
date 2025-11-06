@@ -48,7 +48,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chief Commissioner Badge (St John Brigade)</p>
+<p>Chief Commissioner Badge
+<br>(St John Brigade)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Elodie Sim (401)
@@ -62,16 +63,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Northeast District First Aid Competition (St John Brigade)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ambulance Cadet Category – 1st runner-up
-<br>Nursing Adult Category – Overall Champion</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Low Guat Tin Challenge 2024</p>
+<p>Dr Low Guat Tin Challenge 2024
+<br>(Girls' Brigade)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Gold, 2 Silver and 5 Bronze</p>
@@ -79,7 +72,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Founder's Men (Boys' Brigade)</p>
+<p>Founder's Men
+<br>(Boys' Brigade)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethan Yap Ern Xin (401)
@@ -88,7 +82,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Drill Competition (Girls' Brigade)</p>
+<p>National Drill Competition
+<br>(Girls' Brigade)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Gold</p>
@@ -96,7 +91,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pioneer Brigader Brooch (Girls' Brigade)</p>
+<p>Northeast District First Aid Competition
+<br>(St John Brigade)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ambulance Cadet Category – 1st runner-up
+<br>Nursing Adult Category – Overall Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigader Brooch
+<br>(Girls' Brigade)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Foo Si Jia Faith (402)
@@ -105,15 +111,17 @@ variant: tiptap
 <br>Clara Yar Ray Shuen (401)</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -129,7 +137,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="24" colspan="1">
+<td rowspan="23" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="9" colspan="1">
@@ -159,7 +167,8 @@ variant: tiptap
 <tr></tr>
 <tr>
 <td rowspan="7" colspan="1">
-<p>Chief Commissioner Badge (St John Brigade)</p>
+<p>Chief Commissioner Badge
+<br>(St John Brigade)</p>
 </td>
 <td rowspan="7" colspan="1">
 <p>Toh Jun Yu (402)
@@ -179,8 +188,19 @@ variant: tiptap
 <tr></tr>
 <tr></tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Founder's Men
+<br>(Boys' Brigade)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phong Kai Tong (401)
+<br>Nigel Foo Celiang (409)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
-<p>Northeast District First Aid Competition (St John Brigade)</p>
+<p>Northeast District First Aid Competition
+<br>(St John Brigade)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Ambulance Adult Category – Team 1st
@@ -191,18 +211,9 @@ variant: tiptap
 <tr></tr>
 <tr></tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Founder's Men (Boys' Brigade)</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Phong Kai Tong (401)
-<br>Nigel Foo Celiang (409)</p>
-</td>
-</tr>
-<tr></tr>
-<tr>
 <td rowspan="3" colspan="1">
-<p>Pioneer Brigader Brooch (Girls' Brigade)</p>
+<p>Pioneer Brigader Brooch
+<br>(Girls' Brigade)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Heng Zeng Ru (Wang Jingru) (402)
@@ -212,15 +223,17 @@ variant: tiptap
 </tr>
 <tr></tr>
 <tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -240,7 +253,7 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="11" colspan="1">
-<p>Uniformed Groups Company Recognition</p>
+<p>Company Recognition</p>
 </td>
 <td rowspan="11" colspan="1">
 <p><strong>Boys’ Brigade</strong>
@@ -269,15 +282,17 @@ as Gold)
 <tr></tr>
 <tr></tr>
 <tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -297,7 +312,7 @@ as Gold)
 <p>2022</p>
 </td>
 <td rowspan="11" colspan="1">
-<p>Uniformed Groups Company Recognition</p>
+<p>Company Recognition</p>
 </td>
 <td rowspan="11" colspan="1">
 <p><strong>Boys’ Brigade</strong>
