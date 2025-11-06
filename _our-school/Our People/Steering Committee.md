@@ -175,3 +175,28 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:teng_leeh_bing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_leeh_bing@schools.gov.sg</a>
 </p>
+<p><strong>Ms Edna Pan</strong>
+<br>Designation: Teacher
+<br>Department: Aesthetics and Applied Science
+<br>Email: <a href="mailto:pan_yunxin_edna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pan_yunxin_edna@schools.gov.sg</u></a>
+</p>
+<p><strong>Ms Emily Lim Xin Yi</strong>
+<br>Designation: Teacher
+<br>Department: Humanities
+<br>Email: <a href="mailto:emily_lim_xin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>emily_lim_xin_yi@schools.gov.sg</u></a>
+</p>
+<p><strong>Ms Nadhrah Binte Zainalabiden</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:nadhrah_zainalabiden@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nadhrah_zainalabiden@schools.gov.sg</u></a>
+</p>
+<p><strong>Ms Nur Amalina Bte Mohamed</strong>
+<br>Designation: Teacher
+<br>Department: Humanities
+<br>Email: <a href="mailto:nur_amalina_mohamed_zain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_amalina_mohamed_zain@schools.gov.sg</u></a>
+</p>
+<p><strong>Ms Teoh Yu Han</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:teoh_yu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teoh_yu_han@schools.gov.sg</u></a>
+</p>

@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_1.jpg">
 </div>
 <h4><strong>Welcome to Xinmin St John Brigade!</strong></h4>
 <p>At Xinmin St. John Brigade, we are dedicated to nurturing resilient and
@@ -18,7 +18,7 @@ and explore their personal interests. Guided by the motto “For the Service
 of Mankind,” our cadets strive to embody the values of service, empathy,
 and excellence in all their endeavours.</p>
 <p>The high standards and unwavering dedication of our student leaders, youth
-officers, and teachers have earned the Xinmin St. John Brigade its 23rd
+officers, and teachers have earned the Xinmin St. John Brigade its 25th
 consecutive Gold in the Corps Achievement Award since 2001.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
@@ -54,6 +54,26 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>After completing both the Basic and Advanced Non-Commissioned Officer
 courses, our cadets are empowered with the skills and knowledge to effectively
 plan and organize corps activities. Under the guidance of our alumni and
@@ -65,123 +85,102 @@ the corps. Our corps leaders collaborate closely with other uniformed groups,
 such as NCC, BB, and GB, to organize inter-uniformed group activities like
 the Passing Out Parade and inter-UG hikes.</p>
 <h4>Student Leaders</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_4.jpg">
+</div>
 <p><strong>Corps Leaders</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Sergeant Major: Sergeant Jaeden Chin (401)</p>
+<p>Corps Sergeant Major: Sergeant Shania Yip (301)</p>
 </li>
 <li>
-<p>Head of Trainings: Corporal Jaden Tay Yu Yang (402)</p>
-</li>
-<li>
-<p>Head of Departments: Sergeant Soh Si Ning, Shannon (401)</p>
+<p>Assistant Corps Sergeant Major: Corporal Charlyn Ang Hui En (306)</p>
 </li>
 </ul>
 <p><strong>Combat:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Platoon 1 Commander: Corporal Elodie Sim (401)</p>
+<p>Platoon 1 Commander: Corporal Er Yi Fei, Kira (305)</p>
 </li>
 <li>
-<p>Platoon 2 Commander: Lance Corporal Chew Yi En (301) &amp; Lance Corporal
-Er Yi Fei Kira (305)</p>
+<p>Platoon 2 Commander: Lance Corporal Angel Law Jia Yi (203) &amp; Lance
+Corporal Aaron Goi Guo Tong (209)</p>
 </li>
 <li>
-<p>Platoon 3 Commander: Corporal Toh Cher Yee (404)</p>
+<p>Platoon 3 Commander: Corporal Shaista Afsheen Binte Abdul Shukor (308)</p>
 </li>
 </ul>
 <p><strong>Departments:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Logistics Head: Corporal Lerh Yu En, Dylan (402)</p>
+<p>Logistics Head: Corporal Teo Zhao Hui (308)</p>
 </li>
 <li>
-<p>Cadet Development Head: Corporal Caleb Tay (406) &amp; Corporal Siti Darwisyah
-Bte Mohammad Shahril (406)</p>
+<p>Cadet Development Head: Corporal Tan Zhi You Abbie (301)</p>
 </li>
 <li>
-<p>Publicity Head: Lance Corporal Laurencio Elaine Rose (205)3&amp; Lance
-Corporal Teo Zhao Hui (308)</p>
+<p>Publicity Head: Lance Corporal Chew Yi En (301) &amp; Lance Corporal Laurencio
+Elaine Rose (305)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>Cadets also participate in the annual First Aid competition, where they
 work as a team to apply their knowledge and skills in managing emergency
 situations with precision. Beyond developing key competencies, cadets are
 recognized for their commitment to exploring their interests beyond the
 St. John curriculum through the Cadet Proficiency Badge scheme.</p>
 <h4><strong>Accomplishments</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_5.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Corps Achievement Award 2024- Gold</p>
 </li>
 <li>
 <p>Northeast District First Aid Competition 2025:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Nursing Adult Category- Overall Champion</p>
 </li>
 <li>
 <p>Ambulance Cadet Category- 1st Runner-up</p>
-<p></p>
-<p>Chief Commissioner’s Badge 2024:</p>
+</li>
+</ul>
 </li>
 <li>
-<p>Toh Jun Yu (402)</p>
+<p>Chief Commissioner’s Badge 2025:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Elodie Sim Yuen (401)</p>
 </li>
 <li>
-<p>Chan Wen Yi Jolene (403)</p>
+<p>Jaeden Chin (401)</p>
 </li>
 <li>
-<p>Sia Hai Jing (403)</p>
+<p>Soh Si Ning, Shannon (401)</p>
 </li>
 <li>
-<p>Lim Kai En (403)</p>
+<p>Ho Xuan Jing Kayden (402)</p>
 </li>
 <li>
-<p>Chua Uang Lim, Athena (404)</p>
+<p>Jaden Tay Yu Yang (402)</p>
 </li>
 <li>
-<p>Angela Leong Mun Shuen (405)</p>
+<p>Toh Cher Yee (404)</p>
 </li>
 <li>
-<p>Peh Yi Xin Tiffany (406)</p>
+<p>Seth Wong Yi Heng (405)</p>
 </li>
-<li>
-<p>Quek Pei Rong Valent (408)</p>
+</ul>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
 <p>Our cadets provide first aid support for school activities, including
-Cross-Country and various level activities. In 2024, they had the valuable
-opportunity to extend their service beyond the school by participating
-in the Metta Race 2024, thereby enhancing their community engagement and
-applying their skills in a real-world context.</p>
+Cross-Country, Homecoming, Open House and various level activities.</p>
 <p>Join us on our leadership journey and make a meaningful difference in
 our community!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
