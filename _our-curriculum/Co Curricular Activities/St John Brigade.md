@@ -116,84 +116,66 @@ Corporal Aaron Goi Guo Tong (209)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Logistics Head: Corporal Lerh Yu En, Dylan (402)</p>
+<p>Logistics Head: Corporal Teo Zhao Hui (308)</p>
 </li>
 <li>
-<p>Cadet Development Head: Corporal Caleb Tay (406) &amp; Corporal Siti Darwisyah
-Bte Mohammad Shahril (406)</p>
+<p>Cadet Development Head: Corporal Tan Zhi You Abbie (301)</p>
 </li>
 <li>
-<p>Publicity Head: Lance Corporal Laurencio Elaine Rose (205)3&amp; Lance
-Corporal Teo Zhao Hui (308)</p>
+<p>Publicity Head: Lance Corporal Chew Yi En (301) &amp; Lance Corporal Laurencio
+Elaine Rose (305)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb_1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>Cadets also participate in the annual First Aid competition, where they
 work as a team to apply their knowledge and skills in managing emergency
 situations with precision. Beyond developing key competencies, cadets are
 recognized for their commitment to exploring their interests beyond the
 St. John curriculum through the Cadet Proficiency Badge scheme.</p>
 <h4><strong>Accomplishments</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_5.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Corps Achievement Award 2024- Gold</p>
 </li>
 <li>
 <p>Northeast District First Aid Competition 2025:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Nursing Adult Category- Overall Champion</p>
 </li>
 <li>
 <p>Ambulance Cadet Category- 1st Runner-up</p>
-<p></p>
-<p>Chief Commissioner’s Badge 2024:</p>
+</li>
+</ul>
 </li>
 <li>
-<p>Toh Jun Yu (402)</p>
+<p>Chief Commissioner’s Badge 2025:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Elodie Sim Yuen (401)</p>
 </li>
 <li>
-<p>Chan Wen Yi Jolene (403)</p>
+<p>Jaeden Chin (401)</p>
 </li>
 <li>
-<p>Sia Hai Jing (403)</p>
+<p>Soh Si Ning, Shannon (401)</p>
 </li>
 <li>
-<p>Lim Kai En (403)</p>
+<p>Ho Xuan Jing Kayden (402)</p>
 </li>
 <li>
-<p>Chua Uang Lim, Athena (404)</p>
+<p>Jaden Tay Yu Yang (402)</p>
 </li>
 <li>
-<p>Angela Leong Mun Shuen (405)</p>
+<p>Toh Cher Yee (404)</p>
 </li>
 <li>
-<p>Peh Yi Xin Tiffany (406)</p>
+<p>Seth Wong Yi Heng (405)</p>
 </li>
-<li>
-<p>Quek Pei Rong Valent (408)</p>
+</ul>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
