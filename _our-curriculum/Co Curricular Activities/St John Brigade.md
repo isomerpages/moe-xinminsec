@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/sjb.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_1.jpg">
 </div>
 <h4><strong>Welcome to Xinmin St John Brigade!</strong></h4>
 <p>At Xinmin St. John Brigade, we are dedicated to nurturing resilient and
@@ -18,7 +18,7 @@ and explore their personal interests. Guided by the motto “For the Service
 of Mankind,” our cadets strive to embody the values of service, empathy,
 and excellence in all their endeavours.</p>
 <p>The high standards and unwavering dedication of our student leaders, youth
-officers, and teachers have earned the Xinmin St. John Brigade its 23rd
+officers, and teachers have earned the Xinmin St. John Brigade its 25th
 consecutive Gold in the Corps Achievement Award since 2001.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
@@ -54,6 +54,26 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>After completing both the Basic and Advanced Non-Commissioned Officer
 courses, our cadets are empowered with the skills and knowledge to effectively
 plan and organize corps activities. Under the guidance of our alumni and
