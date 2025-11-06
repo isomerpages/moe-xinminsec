@@ -34,22 +34,28 @@ variant: tiptap
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance – Distinction
-<br>Choir – Distinction
-<br>Drama (English) – Distinction
-<br>Guzheng Ensemble – Distinction
-<br>Symphonic Band – Distinction</p>
+<p><strong>Chinese Dance<br></strong>Distinction
+<br>
+<br><strong>Choir<br></strong>Distinction
+<br>
+<br><strong>Drama (English)<br></strong>Distinction
+<br>
+<br><strong>Guzheng Ensemble<br></strong>Distinction
+<br>
+<br><strong>Symphonic Band<br></strong>Distinction</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -72,23 +78,36 @@ variant: tiptap
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance – Distinction
-<br>Choir – Distinction
-<br>Drama (English) Team A – Accomplishment
-<br>Drama (English) Team B – Accomplishment
-<br>Guzheng Ensemble – Distinction
-<br>Symphonic Band – Distinction</p>
+<p><strong>Chinese Dance</strong>
+<br>Distinction
+<br>
+<br><strong>Choir</strong>
+<br>Distinction
+<br>
+<br><strong>Drama (English) Team A</strong>
+<br>Accomplishment
+<br>
+<br><strong>Drama (English) Team B</strong>
+<br>Accomplishment
+<br>
+<br><strong>Guzheng Ensemble</strong>
+<br>Distinction
+<br>
+<br><strong>Symphonic Band</strong>
+<br>Distinction</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -113,24 +132,40 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Sustained Achievement Award for Aesthetics</strong>
 <br>
-<br>Chinese Dance Team A – Distinction
-<br>Chinese Dance Team B – Accomplishment
-<br>MLDDS (Malay Dance) – Accomplishment
-<br>Drama (English) Team A – Distinction
-<br>Drama (English) Team B – Performed<s><br></s>Guzheng Ensemble – Distinction
-<br>Concert Band Team A – Distinction
-<br>Concert Band Team B – Accomplishment</p>
+<br><strong>Chinese Dance Team A</strong>
+<br>Distinction
+<br>
+<br><strong>Chinese Dance Team B</strong>
+<br>Accomplishment
+<br>
+<br><strong>MLDDS (Malay Dance)</strong>
+<br>Accomplishment
+<br>
+<br><strong>Drama (English) Team A</strong>
+<br>Distinction
+<br>
+<br><strong>Drama (English) Team B</strong>
+<br>Performed<s><br><br></s><strong>Guzheng Ensemble</strong>
+<br>Distinction
+<br>
+<br><strong>Concert Band Team A </strong>
+<br>Distinction
+<br>
+<br><strong>Concert Band Team B</strong>
+<br>Accomplishment</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -155,12 +190,21 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Sustained Achievement Award for Aesthetics</strong>
 <br>
-<br>Chinese Dance – Distinction
-<br>Choir – Distinction
-<br>Drama (English) – Accomplishment
-<br>Guzheng Ensemble – Distinction
-<br>Percussion Ensemble – Distinction
-<br>Symphonic Band – Accomplishment</p>
+<br><strong>Chinese Dance</strong>
+<br>Distinction
+<br>
+<br><strong>Choir</strong>
+<br>Distinction
+<br>
+<br><strong>Drama (English)</strong>
+<br>Accomplishment
+<br>
+<br><strong>Guzheng Ensemble</strong>
+<br>Distinction
+<br>
+<br><strong>Percussion Ensemble<br></strong>Distinction
+<br>
+<br><strong>Symphonic Band<br></strong>Accomplishment</p>
 </td>
 </tr>
 </tbody>
