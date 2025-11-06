@@ -85,17 +85,17 @@ the corps. Our corps leaders collaborate closely with other uniformed groups,
 such as NCC, BB, and GB, to organize inter-uniformed group activities like
 the Passing Out Parade and inter-UG hikes.</p>
 <h4>Student Leaders</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_4.jpg">
+</div>
 <p><strong>Corps Leaders</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Sergeant Major: Sergeant Jaeden Chin (401)</p>
+<p>Corps Sergeant Major: Sergeant Shania Yip (301)</p>
 </li>
 <li>
-<p>Head of Trainings: Corporal Jaden Tay Yu Yang (402)</p>
-</li>
-<li>
-<p>Head of Departments: Sergeant Soh Si Ning, Shannon (401)</p>
+<p>Assistant Corps Sergeant Major: Corporal Charlyn Ang Hui En (306)</p>
 </li>
 </ul>
 <p><strong>Combat:</strong>
