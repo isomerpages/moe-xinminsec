@@ -137,6 +137,9 @@ School in 2023 and 2025.&nbsp;</p>
 <p>Hosted a Combined-Schools Choir Concert SuperNova in 2022</p>
 </li>
 <li>
+<p>Hosted an exchange with other school choirs in March 2025</p>
+</li>
+<li>
 <p>Performed at the Esplanade in the Limelight series in 2018, 2019 and 2023</p>
 </li>
 <li>
@@ -145,6 +148,10 @@ School in 2023 and 2025.&nbsp;</p>
 </ul>
 <p>Join us in Xinmin Chorale where we get to indulge in our love for singing
 and relish every moment when we are on stage!</p>
+<p>Join us in <strong>Xinmin Chorale</strong>, where we celebrate our love
+for singing, grow as a family, and relish every moment on stage together.
+Whether it’s through laughter in practice, harmony in song, or the joy
+of performance — our voices come together as one.</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
