@@ -27,7 +27,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>National School Games</u></strong>
-<br>
 <br><strong>Badminton</strong>
 <br>B Division Girls – Zonal 1st, National 4th
 <br>C Division Girls – National League 1 4th
@@ -54,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br><br></u>Rockclimbing</strong>
+<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u>Rockclimbing</strong>
 <br>B Division Boys – Team 2nd
 <br>B Division Girls – Team 1st
 <br>C Division Boys – Team 2nd
@@ -84,9 +83,8 @@ variant: tiptap
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>National School Games<br></u></strong>
-<br><strong>Badminton<br></strong>B Division Girls – Zonal 3rd, National Top
-8
+<p><strong><u>National School Games<br></u>Badminton<br></strong>B Division
+Girls – Zonal 3rd, National Top 8
 <br>C Division Girls – National League 1 Top 16
 <br>
 <br><strong>Cross Country<br></strong>B Division Boys – Team 20th
@@ -109,8 +107,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u></strong>
-<br>B Division Boys – Team 3rd, Individual 2nd
+<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u></strong>B
+Division Boys – Team 3rd, Individual 2nd
 <br>B Division Girls – Team 3rd, Individual 8th
 <br>C Division Boys – Team 2nd, Individual 4th
 <br>C Division Girls – Team 1st, Individual 6th &amp; 7th</p>
@@ -118,16 +116,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Wings Athletic Cross Country Championship<br></u></strong>
-<br>B Division Boys – Individual 22nd &amp; 37th
+<p><strong><u>Wings Athletic Cross Country Championship<br></u></strong>B
+Division Boys – Individual 22nd &amp; 37th
 <br>B Division Girls – Individual 23rd
 <br>C Division Boys – Individual 14th</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Pesta Sukan (Floorball)<br></u></strong>
-<br>U17 Boys – 3rd
+<p><strong><u>Pesta Sukan (Floorball)<br></u></strong>U17 Boys – 3rd
 <br>U14 Boys – 2nd</p>
 </td>
 </tr>
@@ -154,8 +151,7 @@ variant: tiptap
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>National School Games<br></u></strong>
-<br><strong>Badminton</strong>
+<p><strong><u>National School Games<br></u>Badminton</strong>
 <br>B Division Girls – Zonal 3rd, National Top 16
 <br>C Division Girls – Zonal 3rd, National Top 8
 <br>
@@ -186,8 +182,8 @@ Top 16
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u></strong>
-<br>B Division Boys – Team 3rd, Individual 3rd &amp; 5th
+<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u></strong>B
+Division Boys – Team 3rd, Individual 3rd &amp; 5th
 <br>B Division Girls – Team 2nd, Individual 3rd
 <br>C Division Boys – Team 2nd, Individual 3rd
 <br>C Division Girls – Team 1st, Individual 5th</p>
