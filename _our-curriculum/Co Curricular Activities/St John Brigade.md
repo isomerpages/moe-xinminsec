@@ -180,12 +180,7 @@ St. John curriculum through the Cadet Proficiency Badge scheme.</p>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
 <p>Our cadets provide first aid support for school activities, including
-Cross-Country and various level activities. In 2024, they had the valuable
-opportunity to extend their service beyond the school by participating
-in the Metta Race 2024, thereby enhancing their community engagement and
-applying their skills in a real-world context.</p>
-<p>Join us on our leadership journey and make a meaningful difference in
-our community!</p>
+Cross-Country, Homecoming, Open House and various level activities.</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
