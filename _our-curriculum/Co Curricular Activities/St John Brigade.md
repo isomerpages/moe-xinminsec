@@ -102,14 +102,14 @@ the Passing Out Parade and inter-UG hikes.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Platoon 1 Commander: Corporal Elodie Sim (401)</p>
+<p>Platoon 1 Commander: Corporal Er Yi Fei, Kira (305)</p>
 </li>
 <li>
-<p>Platoon 2 Commander: Lance Corporal Chew Yi En (301) &amp; Lance Corporal
-Er Yi Fei Kira (305)</p>
+<p>Platoon 2 Commander: Lance Corporal Angel Law Jia Yi (203) &amp; Lance
+Corporal Aaron Goi Guo Tong (209)</p>
 </li>
 <li>
-<p>Platoon 3 Commander: Corporal Toh Cher Yee (404)</p>
+<p>Platoon 3 Commander: Corporal Shaista Afsheen Binte Abdul Shukor (308)</p>
 </li>
 </ul>
 <p><strong>Departments:</strong>
