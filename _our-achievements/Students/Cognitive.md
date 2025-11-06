@@ -91,7 +91,7 @@ Programme</p>
 <p>International Model United Nations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Honourable Mention</p>
+<p>2 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -180,9 +180,9 @@ Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Bronze (Junior)
-<br>4 Honourable Mention (Junior)
+<br>4 Honourable Mentions (Junior)
 <br>2 Silver (Senior)
-<br>1 Honourable Mention<s>s</s> (Senior)
+<br>1 Honourable Mention (Senior)
 <br>2 Honourable Mentions (Open)</p>
 </td>
 </tr>
@@ -205,7 +205,6 @@ Programme</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -388,7 +387,7 @@ Tracks</p>
 <p>Singapore Mathematical Olympiad Competition (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Silver, 3 Bronze, 1 Honourable Mentions</p>
+<p>1 Silver, 3 Bronze, 1 Honourable Mention</p>
 </td>
 </tr>
 <tr>
