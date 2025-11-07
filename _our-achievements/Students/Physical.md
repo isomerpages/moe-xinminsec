@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -16,7 +17,7 @@ variant: tiptap
 <p><strong>YEAR</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
 </p>
 </td>
@@ -25,46 +26,79 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p>2025</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong><u>National School Games</u></strong>
-<br><strong>Badminton</strong>
-<br>B Division Girls – Zonal 1st, National 4th
-<br>C Division Girls – National League 1 4th
+</p>
+<p><strong>Badminton</strong>
+</p>
+<p>B Division Girls – Zonal 1st, National 4<sup>th</sup>
+</p>
+<p>C Division Girls – National League 1 4<sup>th</sup>
+</p>
+<p>
 <br>
-<br><strong>Cross Country</strong>
-<br>B Division Boys – Team 17th
-<br>B Division Girls – Team 17th
-<br>C Division Boys – Team 21st
+</p>
+<p><strong>Cross Country</strong>
+</p>
+<p>B Division Boys – Team 17<sup>th</sup>
+</p>
+<p>B Division Girls – Team 17<sup>th</sup>
+</p>
+<p>C Division Boys – Team 21<sup>st</sup>
+</p>
+<p>
 <br>
-<br><strong>Floorball</strong>
-<br>C Division Boys – National League 1 2nd
+</p>
+<p><strong>Floorball</strong>
+</p>
+<p>C Division Boys – National League 1 2<sup>nd</sup>
+</p>
+<p>
 <br>
-<br><strong>Shooting</strong>
-<br>B Division Boys – Team 3rd, Individual Pistol 5th, Individual Rifle 4th
-<br>B Division Girls – Team 1st, Individual Pistol 3rd, Individual Rifle 1st
-<br>C Division Boys – Individual Rifle 1st
+</p>
+<p><strong>Shooting</strong>
+</p>
+<p>B Division Boys – Team 3<sup>rd</sup>, Individual Pistol 5<sup>th</sup>,
+Individual Rifle 4<sup>th</sup>
+</p>
+<p>B Division Girls – Team 1<sup>st</sup>, Individual Pistol 3<sup>rd</sup>,
+Individual Rifle 1<sup>st</sup>
+</p>
+<p>C Division Boys – Individual Rifle 1<sup>st</sup>
+</p>
+<p>
 <br>
-<br><strong>Volleyball</strong>
-<br>B Division Boys – Zonal 1st, National 2nd
-<br>B Division Girls – Zonal 1st, National 2nd
-<br>C Division Boys – National League 1 Top 8
-<br>C Division Girls – National League 1 4th</p>
+</p>
+<p><strong>Volleyball</strong>
+</p>
+<p>B Division Boys – Zonal 1<sup>st</sup>, National 2<sup>nd</sup>
+</p>
+<p>B Division Girls – Zonal 1<sup>st</sup>, National 2<sup>nd</sup>
+</p>
+<p>C Division Boys – National League 1 Top 8</p>
+<p>C Division Girls – National League 1 4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u>Rockclimbing</strong>
-<br>B Division Boys – Team 2nd
-<br>B Division Girls – Team 1st
-<br>C Division Boys – Team 2nd
-<br>C Division Girls – Team 2nd</p>
+<td rowspan="1" colspan="2">
+<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)</u></strong>
+</p>
+<p>B Division Boys – Team 2<sup>nd</sup>
+</p>
+<p>B Division Girls – Team 1<sup>st</sup>
+</p>
+<p>C Division Boys – Team 2<sup>nd</sup>
+</p>
+<p>C Division Girls – Team 2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -73,8 +107,8 @@ variant: tiptap
 <p><strong>YEAR</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>COMPETITION/PLATFORM</strong>
+<td rowspan="1" colspan="2">
+<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -82,57 +116,95 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p>2024</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><u>National School Games<br></u>Badminton<br></strong>B Division
-Girls – Zonal 3rd, National Top 8
-<br>C Division Girls – National League 1 Top 16
+<td rowspan="1" colspan="2">
+<p><strong><u>National School Games</u></strong>
+</p>
+<p><strong>Badminton</strong>
+</p>
+<p>B Division Girls – Zonal 3<sup>rd</sup>, National Top 8&nbsp;</p>
+<p>C Division Girls – National League 1 Top 16</p>
+<p>
 <br>
-<br><strong>Cross Country<br></strong>B Division Boys – Team 20th
-<br>B Division Girls – Team 29th
-<br>C Division Boys – Team 20th
-<br>C Division Girls – Team 23rd
+</p>
+<p><strong>Cross Country</strong>
+</p>
+<p>B Division Boys – Team 20<sup>th</sup>
+</p>
+<p>B Division Girls – Team 29<sup>th</sup>&nbsp;</p>
+<p>C Division Boys – Team 20<sup>th</sup>&nbsp;</p>
+<p>C Division Girls – Team 23<sup>rd</sup>
+</p>
+<p>
 <br>
-<br><strong>Floorball<br></strong>C Division Boys – National League 1 8th
+</p>
+<p><strong>Floorball</strong>
+</p>
+<p>C Division Boys – National League 1 8<sup>th</sup>
+</p>
+<p>
 <br>
-<br><strong>Shooting</strong>
-<br>B Division Boys – Team 1st, Individual Rifle 3rd
-<br>C Division Boys – Individual Rifle 2nd
-<br>C Division Girls – Team 4th, Individual Pistol 3rd
+</p>
+<p><strong>Shooting</strong>
+</p>
+<p>B Division Boys – Team 1<sup>st</sup>, Individual Rifle 3<sup>rd</sup>
+</p>
+<p>C Division Boys – Individual Rifle 2<sup>nd</sup>&nbsp;</p>
+<p>C Division Girls – Team 4<sup>th</sup>, Individual Pistol 3<sup>rd</sup>
+</p>
+<p>
 <br>
-<br><strong>Volleyball<br></strong>B Division Boys – Zonal 2nd, National 3rd
-<br>B Division Girls – Zonal 1st, National Top 8
-<br>C Division Boys – National League 1 2nd
-<br>C Division Girls – National League 1 5th</p>
+</p>
+<p><strong>Volleyball</strong>
+</p>
+<p>B Division Boys – Zonal 2<sup>nd</sup>, National 3<sup>rd</sup>
+</p>
+<p>B Division Girls – Zonal 1<sup>st</sup>, National Top 8&nbsp;</p>
+<p>C Division Boys – National League 1 2<sup>nd</sup>
+</p>
+<p>C Division Girls – National League 1 5<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u></strong>B
-Division Boys – Team 3rd, Individual 2nd
-<br>B Division Girls – Team 3rd, Individual 8th
-<br>C Division Boys – Team 2nd, Individual 4th
-<br>C Division Girls – Team 1st, Individual 6th &amp; 7th</p>
+<td rowspan="1" colspan="2">
+<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)</u></strong>
+</p>
+<p>B Division Boys – Team 3<sup>rd</sup>, Individual 2<sup>nd</sup>&nbsp;</p>
+<p>B Division Girls – Team 3<sup>rd</sup>, Individual 8<sup>th</sup>&nbsp;</p>
+<p>C Division Boys – Team 2<sup>nd</sup>, Individual 4<sup>th</sup>
+</p>
+<p>C Division Girls – Team 1<sup>st</sup>, Individual 6<sup>th</sup> &amp;
+7<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Wings Athletic Cross Country Championship<br></u></strong>B
-Division Boys – Individual 22nd &amp; 37th
-<br>B Division Girls – Individual 23rd
-<br>C Division Boys – Individual 14th</p>
+<td rowspan="1" colspan="2">
+<p><strong><u>Wings Athletic Cross Country Championship</u></strong>
+</p>
+<p>B Division Boys – Individual 22<sup>nd</sup> &amp; 37<sup>th&nbsp;</sup>
+</p>
+<p>B Division Girls – Individual 23<sup>rd</sup>
+</p>
+<p>C Division Boys – Individual 14<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Pesta Sukan (Floorball)<br></u></strong>U17 Boys – 3rd
-<br>U14 Boys – 2nd</p>
+<td rowspan="1" colspan="2">
+<p><strong><u>Pesta Sukan (Floorball)</u></strong>
+</p>
+<p>U17 Boys – 3<sup>rd&nbsp;</sup>
+</p>
+<p>U14 Boys – 2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -141,8 +213,8 @@ Division Boys – Individual 22nd &amp; 37th
 <p><strong>YEAR</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>COMPETITION/PLATFORM</strong>
+<td rowspan="1" colspan="2">
+<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -150,43 +222,74 @@ Division Boys – Individual 22nd &amp; 37th
 <td rowspan="2" colspan="1">
 <p>2023</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><u>National School Games<br></u>Badminton</strong>
-<br>B Division Girls – Zonal 3rd, National Top 16
-<br>C Division Girls – Zonal 3rd, National Top 8
+<td rowspan="1" colspan="2">
+<p><strong><u>National School Games</u></strong>
+</p>
+<p><strong>Badminton</strong>
+</p>
+<p>B Division Girls – Zonal 3<sup>rd</sup>, National Top 16&nbsp;</p>
+<p>C Division Girls – Zonal 3<sup>rd</sup>, National Top 8</p>
+<p>
 <br>
-<br><strong>Cross Country<br></strong>B Division Boys – Team 36th
-<br>B Division Girls – Team 23rd, Individual 4th
-<br>C Division Boys – Team 14th
+</p>
+<p><strong>Cross Country</strong>
+</p>
+<p>B Division Boys – Team 36<sup>th</sup>&nbsp;</p>
+<p>B Division Girls – Team 23<sup>rd</sup>, Individual 4<sup>th</sup>&nbsp;</p>
+<p>C Division Boys – Team 14<sup>th</sup>
+</p>
+<p>
 <br>
-<br><strong>Floorball</strong>
-<br>C Division Boys – National Top 8
+</p>
+<p><strong>Floorball</strong>
+</p>
+<p>C Division Boys – National Top 8</p>
+<p>
 <br>
-<br><strong>Shooting<br></strong>B Division Boys (Pistol) – Team 1st, Individual
-1st &amp; 4th
-<br>B Division Boys (Rifle) – Team 1st, Individual 5th
-<br>B Division Girls (Pistol) – Team 5th, Individual 6th
-<br>B Division Girls (Rifle) – Team 6th, Individual 3rd
-<br>C Division Boys (Pistol) – Team 6th
-<br>C Division Boys (Rifle) – Team 4th, Individual 3rd &amp; 7th
-<br>C Division Girls (Pistol) – Team 6th, Individual 6th
-<br>C Division Girls (Rifle) – Team 4th, Individual 3rd
+</p>
+<p><strong>Shooting</strong>
+</p>
+<p>B Division Boys (Pistol) – Team 1<sup>st</sup>, Individual 1<sup>st</sup> &amp;
+4<sup>th</sup>
+</p>
+<p>B Division Boys (Rifle) – Team 1<sup>st</sup>, Individual 5<sup>th</sup>
+</p>
+<p>B Division Girls (Pistol) – Team 5<sup>th</sup>, Individual 6<sup>th</sup>
+</p>
+<p>B Division Girls (Rifle) – Team 6<sup>th</sup>, Individual 3<sup>rd</sup>
+</p>
+<p>C Division Boys (Pistol) – Team 6<sup>th</sup>
+</p>
+<p>C Division Boys (Rifle) – Team 4<sup>th</sup>, Individual 3<sup>rd</sup> &amp;
+7<sup>th</sup>&nbsp;</p>
+<p>C Division Girls (Pistol) – Team 6<sup>th</sup>, Individual 6<sup>th</sup>
+</p>
+<p>C Division Girls (Rifle) – Team 4<sup>th</sup>, Individual 3<sup>rd</sup>
+</p>
+<p>
 <br>
-<br><strong>Volleyball<br></strong>B Division Girls – Zonal 1st, National
-Top 16
-<br>C Division Boys – Zonal 2nd, National 2nd
-<br>C Division Girls – Zonal 1st, National 4th
-<br>
+</p>
+<p><strong>Volleyball</strong>
+</p>
+<p>B Division Girls – Zonal 1<sup>st</sup>, National Top 16&nbsp;</p>
+<p>C Division Boys – Zonal 2<sup>nd</sup>, National 2<sup>nd</sup>
+</p>
+<p>C Division Girls – Zonal 1<sup>st</sup>, National 4<sup>th</sup>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)<br></u></strong>B
-Division Boys – Team 3rd, Individual 3rd &amp; 5th
-<br>B Division Girls – Team 2nd, Individual 3rd
-<br>C Division Boys – Team 2nd, Individual 3rd
-<br>C Division Girls – Team 1st, Individual 5th</p>
+<td rowspan="1" colspan="2">
+<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)</u></strong>
+</p>
+<p>B Division Boys – Team 3<sup>rd</sup>, Individual 3<sup>rd</sup> &amp;
+5<sup>th</sup>&nbsp;</p>
+<p>B Division Girls – Team 2<sup>nd</sup>, Individual 3<sup>rd&nbsp;</sup>
+</p>
+<p>C Division Boys – Team 2<sup>nd</sup>, Individual 3<sup>rd</sup>
+</p>
+<p>C Division Girls – Team 1<sup>st</sup>, Individual 5<sup>th&nbsp;</sup>
+</p>
 </td>
 </tr>
 </tbody>
