@@ -91,7 +91,7 @@ and ensure that every member feels supported and valued.&nbsp;</p>
 <p>Natasha Arletta Senjaya (301) – Soprano</p>
 </li>
 <li>
-<p>Cheng Eng Kin (308) – Soprano</p>
+<p>Cheng Eng Kin (303) – Soprano</p>
 </li>
 <li>
 <p>Chrystabelle Sng Jia En (309) – Alto</p>
