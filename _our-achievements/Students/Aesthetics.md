@@ -78,8 +78,10 @@ variant: tiptap
 <p><strong>Chinese Dance - </strong>Distinction</p>
 </li>
 <li>
-<p><strong>Choir - </strong>Distinction
-<br><strong>Drama (English) Team A - </strong>Accomplishment</p>
+<p><strong>Choir - </strong>Distinction</p>
+</li>
+<li>
+<p><strong>Drama (English) Team A - </strong>Accomplishment</p>
 </li>
 <li>
 <p><strong>Drama (English) Team B - </strong>Accomplishment</p>
