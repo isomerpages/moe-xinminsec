@@ -370,19 +370,15 @@ variant: tiptap
 as Gold)&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Girls’ Brigade&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Company Award 2022 – Gold&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 <p><strong>National Police Cadet Corps&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -390,9 +386,7 @@ as Gold)&nbsp;</p>
 <p>Unit Overall Proficiency Award 2022 – Gold&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -400,9 +394,7 @@ as Gold)&nbsp;</p>
 <p>Unit Recognition 2022 – Gold&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>St John Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -453,9 +445,7 @@ as Gold)&nbsp;</p>
 as Gold)&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Girls’ Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -463,9 +453,7 @@ as Gold)&nbsp;</p>
 <p>Company Award 2021 – Gold&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>National Police Cadet Corps</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -473,9 +461,7 @@ as Gold)&nbsp;</p>
 <p>Unit Overall Proficiency Award 2021 – Gold&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -483,9 +469,7 @@ as Gold)&nbsp;</p>
 <p>Unit Recognition 2021 – Gold&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>St John Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
