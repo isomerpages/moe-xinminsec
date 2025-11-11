@@ -207,9 +207,7 @@ variant: tiptap
 <p>J M Fraser Award for Excellence 2023 – High Distinction&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>National Police Cadet Corps</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -218,18 +216,14 @@ variant: tiptap
 </li>
 </ul>
 <p>
-<br>
-</p>
-<p><strong>National Cadet Corps (Land)</strong>
+<br><strong>National Cadet Corps (Land)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Unit Recognition 2023 – Distinction&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>St John Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
