@@ -330,9 +330,7 @@ Individual Rifle 1<sup>st</sup>
 <p>C Division Girls – Zonal 3<sup>rd</sup>, National Top 8</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Cross Country</strong>
 </p>
 <ul data-tight="true" class="tight">
