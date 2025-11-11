@@ -118,7 +118,9 @@ Individual Rifle 1<sup>st</sup>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Inter-Schools Bouldering Championships Rockclimbing</u></strong>
+<p><strong><u>Inter-Schools Bouldering Championships </u></strong>
+</p>
+<p><strong>Rockclimbing</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
