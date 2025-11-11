@@ -23,66 +23,44 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="11" colspan="1">
-<p>2025</p>
+<td rowspan="1" colspan="1">
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong><u>Singapore Youth Festival Arts Presentation</u></strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Chinese Dance</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<p>
+<br>
+</p>
 <p><strong>Choir</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Distinction&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Drama (English)</strong>
+<p>Distinction</p>
+<p>
+<br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Distinction&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<p><strong>Drama (English) Team A</strong>
+</p>
+<p>Accomplishment</p>
+<p>
+<br>
+</p>
+<p><strong>Drama (English) Team B</strong>
+</p>
+<p>Accomplishment</p>
+<p>
+<br>
+</p>
 <p><strong>Guzheng Ensemble</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Distinction&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<p>Distinction</p>
+<p>
+<br>
+</p>
 <p><strong>Symphonic Band</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Distinction</p>
 </td>
 </tr>
