@@ -437,9 +437,5 @@ Individual Rifle 1<sup>st</sup>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ul>
 <p></p>
