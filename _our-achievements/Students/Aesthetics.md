@@ -175,12 +175,26 @@ variant: tiptap
 </p>
 <p><strong>Sustained Achievement Award for Aesthetics</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Chinese Dance - </strong>Distinction</p>
+</li>
+<li>
 <p><strong>Choir - </strong>Distinction</p>
+</li>
+<li>
 <p><strong>Drama (English) - </strong>Accomplishment</p>
+</li>
+<li>
 <p><strong>Guzheng Ensemble - </strong>Distinction</p>
+</li>
+<li>
 <p><strong>Percussion Ensemble - </strong>Distinction</p>
+</li>
+<li>
 <p><strong>Symphonic Band - </strong>Accomplishment</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
