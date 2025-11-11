@@ -111,14 +111,10 @@ variant: tiptap
 </p>
 <p>Distinction</p>
 <p>
-<br>
-</p>
-<p><strong>Concert Band Team A&nbsp;</strong>
+<br><strong>Concert Band Team A&nbsp;</strong>
 </p>
 <p>Distinction</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Concert Band Team B</strong>
 </p>
 <p>Accomplishment</p>
@@ -154,39 +150,27 @@ variant: tiptap
 </p>
 <p><strong>Sustained Achievement Award for Aesthetics</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Chinese Dance</strong>
 </p>
 <p>Distinction</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Choir</strong>
 </p>
 <p>Distinction</p>
 <p>
-<br>
-</p>
-<p><strong>Drama (English)</strong>
+<br><strong>Drama (English)</strong>
 </p>
 <p>Accomplishment</p>
 <p>
-<br>
-</p>
-<p><strong>Guzheng Ensemble</strong>
+<br><strong>Guzheng Ensemble</strong>
 </p>
 <p>Distinction</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Percussion Ensemble</strong>
 </p>
 <p>Distinction</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Symphonic Band</strong>
 </p>
 <p>Accomplishment</p>
