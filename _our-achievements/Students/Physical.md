@@ -41,9 +41,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Cross Country</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -60,9 +58,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Floorball</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -71,9 +67,7 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Shooting</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -92,9 +86,7 @@ Individual Rifle 1<sup>st</sup>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Volleyball</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -118,7 +110,7 @@ Individual Rifle 1<sup>st</sup>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Inter-Schools Bouldering Championships </u></strong>
+<p><strong><u>Inter-Schools Bouldering Championships</u></strong>
 </p>
 <p><strong>Rockclimbing</strong>
 </p>
