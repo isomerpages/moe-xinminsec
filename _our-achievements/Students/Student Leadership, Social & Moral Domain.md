@@ -36,16 +36,32 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Boys' Brigade</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>JM Fraser Award for Excellence 2024 – High Distinction&nbsp;</p>
+</li>
+</ul>
 <p><strong>Girls Brigade</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Company Award 2024 – Gold&nbsp;</p>
+</li>
+</ul>
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Unit Recognition 2024 – Distinction&nbsp;</p>
+</li>
+</ul>
 <p><strong>St John Brigade</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Corps Achievement Award 2024 – Gold</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
