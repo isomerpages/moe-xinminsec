@@ -161,83 +161,145 @@ Individual Rifle 1<sup>st</sup>
 </p>
 <p><strong>Badminton</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Girls – Zonal 3<sup>rd</sup>, National Top 8&nbsp;</p>
+</li>
+<li>
 <p>C Division Girls – National League 1 Top 16</p>
+</li>
+</ul>
 <p>
 <br>
 </p>
 <p><strong>Cross Country</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Team 20<sup>th</sup>
 </p>
+</li>
+<li>
 <p>B Division Girls – Team 29<sup>th</sup>&nbsp;</p>
+</li>
+<li>
 <p>C Division Boys – Team 20<sup>th</sup>&nbsp;</p>
+</li>
+<li>
 <p>C Division Girls – Team 23<sup>rd</sup>
 </p>
+</li>
+</ul>
 <p>
 <br>
 </p>
 <p><strong>Floorball</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>C Division Boys – National League 1 8<sup>th</sup>
 </p>
+</li>
+</ul>
 <p>
 <br>
 </p>
 <p><strong>Shooting</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Team 1<sup>st</sup>, Individual Rifle 3<sup>rd</sup>
 </p>
+</li>
+<li>
 <p>C Division Boys – Individual Rifle 2<sup>nd</sup>&nbsp;</p>
+</li>
+<li>
 <p>C Division Girls – Team 4<sup>th</sup>, Individual Pistol 3<sup>rd</sup>
 </p>
+</li>
+</ul>
 <p>
 <br>
 </p>
 <p><strong>Volleyball</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Zonal 2<sup>nd</sup>, National 3<sup>rd</sup>
 </p>
+</li>
+<li>
 <p>B Division Girls – Zonal 1<sup>st</sup>, National Top 8&nbsp;</p>
+</li>
+<li>
 <p>C Division Boys – National League 1 2<sup>nd</sup>
 </p>
+</li>
+<li>
 <p>C Division Girls – National League 1 5<sup>th</sup>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)</u></strong>
+<p><strong><u>Inter-Schools Bouldering Championships </u>Rockclimbing</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Team 3<sup>rd</sup>, Individual 2<sup>nd</sup>&nbsp;</p>
+</li>
+<li>
 <p>B Division Girls – Team 3<sup>rd</sup>, Individual 8<sup>th</sup>&nbsp;</p>
+</li>
+<li>
 <p>C Division Boys – Team 2<sup>nd</sup>, Individual 4<sup>th</sup>
 </p>
+</li>
+<li>
 <p>C Division Girls – Team 1<sup>st</sup>, Individual 6<sup>th</sup> &amp;
 7<sup>th</sup>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong><u>Wings Athletic Cross Country Championship</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Individual 22<sup>nd</sup> &amp; 37<sup>th&nbsp;</sup>
 </p>
+</li>
+<li>
 <p>B Division Girls – Individual 23<sup>rd</sup>
 </p>
+</li>
+<li>
 <p>C Division Boys – Individual 14<sup>th</sup>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong><u>Pesta Sukan (Floorball)</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>U17 Boys – 3<sup>rd&nbsp;</sup>
 </p>
+</li>
+<li>
 <p>U14 Boys – 2<sup>nd</sup>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
