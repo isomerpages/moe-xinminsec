@@ -31,10 +31,16 @@ variant: tiptap
 </p>
 <p><strong>Badminton</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Girls – Zonal 1st, National 4<sup>th</sup>
 </p>
+</li>
+<li>
 <p>C Division Girls – National League 1 4<sup>th</sup>
 </p>
+</li>
+</ul>
 <p>
 <br>
 </p>
@@ -91,27 +97,47 @@ Individual Rifle 1<sup>st</sup>
 </p>
 <p><strong>Volleyball</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Zonal 1<sup>st</sup>, National 2<sup>nd</sup>
 </p>
+</li>
+<li>
 <p>B Division Girls – Zonal 1<sup>st</sup>, National 2<sup>nd</sup>
 </p>
+</li>
+<li>
 <p>C Division Boys – National League 1 Top 8</p>
+</li>
+<li>
 <p>C Division Girls – National League 1 4<sup>th</sup>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)</u></strong>
+<p><strong><u>Inter-Schools Bouldering Championships Rockclimbing</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Team 2<sup>nd</sup>
 </p>
+</li>
+<li>
 <p>B Division Girls – Team 1<sup>st</sup>
 </p>
+</li>
+<li>
 <p>C Division Boys – Team 2<sup>nd</sup>
 </p>
+</li>
+<li>
 <p>C Division Girls – Team 2<sup>nd</sup>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
