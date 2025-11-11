@@ -31,23 +31,16 @@ variant: tiptap
 </p>
 <p><strong>Chinese Dance</strong>
 </p>
-<p>Distinction
-<br>
-</p>
+<p>Distinction</p>
 <p><strong>Choir</strong>
 </p>
-<p>Distinction
-<br>
-</p>
+<p>Distinction</p>
 <p><strong>Drama (English)</strong>
 </p>
-<p>Distinction
-<br>
-</p>
+<p>Distinction</p>
 <p><strong>Guzheng Ensemble</strong>
 </p>
 <p>Distinction</p>
-<p></p>
 <p><strong>Symphonic Band</strong>
 </p>
 <p>Distinction</p>
