@@ -29,21 +29,11 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong><u>Singapore Youth Festival Arts Presentation</u></strong>
 </p>
-<p><strong>Chinese Dance</strong>
-</p>
-<p>Distinction</p>
-<p><strong>Choir</strong>
-</p>
-<p>Distinction</p>
-<p><strong>Drama (English)</strong>
-</p>
-<p>Distinction</p>
-<p><strong>Guzheng Ensemble</strong>
-</p>
-<p>Distinction</p>
-<p><strong>Symphonic Band</strong>
-</p>
-<p>Distinction</p>
+<p><strong>Chinese Dance - </strong>Distinction</p>
+<p><strong>Choir  - </strong>Distinction</p>
+<p><strong>Drama (English) - </strong>Distinction</p>
+<p><strong>Guzheng Ensemble - </strong>Distinction</p>
+<p><strong>Symphonic Band - </strong>Distinction</p>
 </td>
 </tr>
 <tr>
@@ -182,9 +172,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p><strong><u>Singapore Youth Festival Arts Presentation</u></strong>
-</p>
-<p>
-<br>
 </p>
 <p><strong>Sustained Achievement Award for Aesthetics</strong>
 <br>
