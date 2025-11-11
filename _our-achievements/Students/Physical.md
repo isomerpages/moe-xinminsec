@@ -40,32 +40,52 @@ variant: tiptap
 </p>
 <p><strong>Cross Country</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Team 17<sup>th</sup>
 </p>
+</li>
+<li>
 <p>B Division Girls – Team 17<sup>th</sup>
 </p>
+</li>
+<li>
 <p>C Division Boys – Team 21<sup>st</sup>
 </p>
+</li>
+</ul>
 <p>
 <br>
 </p>
 <p><strong>Floorball</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>C Division Boys – National League 1 2<sup>nd</sup>
 </p>
+</li>
+</ul>
 <p>
 <br>
 </p>
 <p><strong>Shooting</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>B Division Boys – Team 3<sup>rd</sup>, Individual Pistol 5<sup>th</sup>,
 Individual Rifle 4<sup>th</sup>
 </p>
+</li>
+<li>
 <p>B Division Girls – Team 1<sup>st</sup>, Individual Pistol 3<sup>rd</sup>,
 Individual Rifle 1<sup>st</sup>
 </p>
+</li>
+<li>
 <p>C Division Boys – Individual Rifle 1<sup>st</sup>
 </p>
+</li>
+</ul>
 <p>
 <br>
 </p>
