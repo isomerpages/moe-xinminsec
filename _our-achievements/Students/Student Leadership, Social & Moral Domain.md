@@ -37,21 +37,12 @@ variant: tiptap
 <p><strong>Boys' Brigade</strong>
 </p>
 <p>JM Fraser Award for Excellence 2024 – High Distinction&nbsp;</p>
-<p>
-<br>
-</p>
 <p><strong>Girls Brigade</strong>
 </p>
 <p>Company Award 2024 – Gold&nbsp;</p>
-<p>
-<br>
-</p>
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 <p>Unit Recognition 2024 – Distinction&nbsp;</p>
-<p>
-<br>
-</p>
 <p><strong>St John Brigade</strong>
 </p>
 <p>Corps Achievement Award 2024 – Gold</p>
