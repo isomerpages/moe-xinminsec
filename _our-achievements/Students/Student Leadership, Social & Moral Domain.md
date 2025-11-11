@@ -215,15 +215,13 @@ variant: tiptap
 <p>Unit Overall Proficiency Award 2023 – Distinction&nbsp;</p>
 </li>
 </ul>
-<p>
-<br><strong>National Cadet Corps (Land)</strong>
+<p><strong>National Cadet Corps (Land)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Unit Recognition 2023 – Distinction&nbsp;</p>
 </li>
 </ul>
-<p></p>
 <p><strong>St John Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
