@@ -9,38 +9,18 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/English Drama/el_drama_2025_1.png">
 </div>
 <h4><strong>Welcome to English Drama Club! 🎭✨</strong></h4>
-<p>The English Drama Club kicked off the year with intense preparations for
-Xinmin Arts Week in April 2024. Our members were fully immersed in rehearsals
-for two original plays written by our own talented students: Fragile Reflections
-by Layla and Laura, and The Moon Represents Our Hearts by Alyssa and Isaac.
-The journey was challenging, with moments of exhaustion and pressure, but
-we pushed through together. The plays turned out to be remarkable, delivering
-powerful narratives and meaningful lessons. Both productions hold a special
-place in our hearts, as they were pivotal in the growth and development
-of our members. We were thrilled to perform The Moon Represents Our Hearts
-again at the N1 Cluster Spin A Tale event in May, though it was bittersweet
-as it marked the official farewell to our beloved Sec 4 members. We wish
-them a rewarding journey ahead and hope they continue to pursue their passion
-for drama at a higher level!</p>
-<p>Our journey to the Singapore Youth Festival 2025 began in November 2024,
-when we embarked on preparations for The Story of Boy and Girl. For many
-of our members, it was a brand-new experience. The play underwent countless
-rounds of refinement, brought to life by a passionate cast and crew as
-we explored powerful themes of identity, self-expression, and perseverance.
-From our first rehearsal to the final curtain call, the process was both
-demanding and transformative. We faced long hours, tough feedback, and
-moments of self-doubt—but with each challenge, we grew stronger. Performing
-at SYF was an unforgettable culmination of months of dedication, creativity,
-and heart. We are immensely proud of what we accomplished together, and
-this production will forever be a treasured chapter in our club’s story.</p>
-<p>While we bid farewell to our graduating members, a new chapter is just
-beginning for the rest of the Drama Club. Having recently taken the stage
-at the biennial Singapore Youth Festival 2025, we now wait in anticipation
-for the results. Our members poured their hearts into every moment of the
-performance, showcasing their talent, teamwork, and dedication to making
-Xinmin proud. Though the outcome is yet to be known, the experience itself
-has already been a rewarding one. With renewed passion and creativity,
-we look ahead to what’s next. And with that, we say, “Drama, that's a wrap!”</p>
+<p>The English Drama Club began the year with preparations for the Singapore
+Youth Festival (SYF) 2025. Everyone worked tirelessly, putting in long
+hours of rehearsal. Though the process was challenging, our perseverance
+and teamwork saw us through. We were absolutely thrilled to clinch the
+Distinction Award at the SYF Drama competition in April – a testament to
+the passion, hard work, and dedication of both our students and teachers.</p>
+<p>Our journey does not stop here. As we gear up for Kaleidoscope II this
+November, held in conjunction with our school’s 80<sup>th</sup> anniversary
+celebration, the Drama Club is determined to shine once again. With commitment
+and creativity, we are ready to give our very best and make our school
+proud.</p>
+<p>And with that, we say, “Drama, that's a wrap!”</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
