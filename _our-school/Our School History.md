@@ -212,10 +212,18 @@ Mr Tan led the various teams in the school to prepare all staff for these
 changes, in particular in reviewing the staff training direction to suit
 the pressing needs. As COVID-19 restrictions eased in 2022, the school
 welcomed the resumption of events such as Cross-Country and the birth of
-new ones such as virtual learning journeys using VR technology. Mr Tan
-Kuo Cheang passed the reins of leadership to Mr Tan Soon Hui in 2023, who
-took over the leadership of the school with the world and our nation starting
-new chapters in an endemic COVID-19 new normal.</p>
+new ones such as virtual learning journeys using VR technology.</p>
+<h2>Chapter 8: Xinmin as a home that prepares our students for the future</h2>
+<p>In 2023, Mr Tan Soon Hui was appointed as Xinmin's 12th Principal. With
+a vision for Xinmin to be a home that prepares students for the future,
+he fostered a culture of trust and learning. He also led the school to
+adopt a Total Curriculum approach to cultivate students' talents and dispositions.</p>
+<p>The year 2025 is a very special one for Xinmin - we celebrated our 80th
+Anniversary with Minister for Education Mr Desmond Lee as our Guest-of-Honour.
+Our anniversary theme <em>Decades of Dedication :: Shaping Future Generations</em> (the
+double colon is a mathematical symbol representing equal importance) calls
+on our entire Xinmin family to honour our roots while continuing to look
+ahead to the future.</p>
 <h2>第一章：一切从敢于梦想起步</h2>
 <p>叶帆风先生有这样一个梦想：他想为后港、实龙岗一带的学子提供接受教育的机会。日据时期，许多人没有机会接受教育，目不识丁，有些人则中途辍学。当时的教育体系，上至高等学府，下至幼稚园，招生人数都很有限，而且只有家境富裕子弟享有受教育的机会。</p>
 <p>当时，大多数学校都设立在新加坡的中心商业区，为了让居住在偏远地区的学生有机会接受教育，叶帆风、王振翥、陈春霆三位先生萌起创校壮志。由于大部分家庭一贫如洗，收入微薄，仅够支付日常生活开销，因此筹募创校基金困难重重。为了实现兴校办学的梦想，叶帆风先生卖掉家中养的五头猪，以此租下了实龙岗上段的三间旧洋楼，当年招收了六百二十名学生入学。</p>
