@@ -45,11 +45,6 @@ variant: tiptap
 <br>Department: Aesthetics and Applied Science
 <br>Email: <a href="mailto:hailey_tan_hui_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hailey_tan_hui_li@schools.gov.sg</a>
 </p>
-<p><strong>Ms Peck Pei Yi Francesca</strong>
-<br>Designation: Teacher
-<br>Department: Aesthetics and Applied Science
-<br>Email: <a href="mailto:peck_pei_yi_francesca_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peck_pei_yi_francesca_b@schools.gov.sg</a>
-</p>
 <p><strong>Mr Ho Siang Teng Peter</strong>
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
@@ -64,6 +59,11 @@ variant: tiptap
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
 <br>Email: <a href="mailto:mageswaran_gnanasegaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mageswaran_gnanasegaran@schools.gov.sg</a>
+</p>
+<p><strong>Ms Peck Pei Yi Francesca</strong>
+<br>Designation: Teacher
+<br>Department: Aesthetics and Applied Science
+<br>Email: <a href="mailto:peck_pei_yi_francesca_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peck_pei_yi_francesca_b@schools.gov.sg</a>
 </p>
 <p><strong>Ms Shalyn Thng</strong>
 <br>Designation: Teacher
