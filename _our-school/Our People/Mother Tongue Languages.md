@@ -65,7 +65,7 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:nur_fatimah_khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fatimah_khalid@schools.gov.sg</a>
 </p>
-<p><strong>Ms Siti Nur Khairiah Binte Zakariah</strong>
+<p><strong>Ms Siti Nur Khairiah Binte Zakaria</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:siti_nur_khairiah_zakaria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_khairiah_zakaria@schools.gov.sg</a>
