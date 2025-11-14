@@ -48,144 +48,18 @@ of students.</p>
 five domains when he/she graduates. The following table provides examples
 of the talent development opportunities available for different domains
 and levels:</p>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cognitive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Psychomotor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Community</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leadership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level 1: Discovering &amp; Building</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Academic curriculum
-<br>• Learning journeys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Aesthetics curriculum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Physical Education curriculum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• XinminCares
-<br>• XinminCares Fair</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• The Student Leadership Challenge modules</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level 2: Curious &amp; Exploring</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Creative writing, public speaking modules
-<br>• MTL enrichment programmes</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Performing Arts CCAs
-<br>• Learning journeys
-<br>• Performances, e.g. Singapore National Youth Orchestra (SYNO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Sports &amp; Games CCAs
-<br>• School Sports Partnership with Sport SG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Purple Parade
-<br>• Food donation drives</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Communication and facilitation modules
-<br>• Leadership Adventure Camp</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level 3: Enthusiastic &amp; Performing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• G3 Computing
-<br>• Xinmin Model Parliament
-<br>• Singapore Mathematical Olympiad Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Singapore Youth Festival Arts Presentations
-<br>• Performing Arts Competitions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• National School Games
-<br>• National competitions
-<br>• ODAC expeditions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Play Inclusive by Special Olympics SG and Sport SG
-<br>• NLB kidsREAD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• World Readiness Symposium
-<br>• Global Youth Leaders Summit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level 4: Passionate &amp; Soaring</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Creative Arts Programme
-<br>• International Science Youth Forum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• SYF Festival Concert
-<br>• Artist-in-School Scheme with National Arts Council</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• National Youth Teams</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Student-initiated Service Learning
-<br>• Overseas Service Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Our Singapore Leadership Programme
-<br>• Executive coaching for student leaders</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_Table.jpg">
+</div>
 <p>A key component of our Talent Development Framework are our processes
 of identification, development, student ownership, monitoring and recognition
 that happens in all levels of development.</p>
 <p>In summary, our Talent Development Framework is as follows:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent Development/Talent_development_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD_Frame.jpg">
 </div>
 <p>You may wish to check out the department pages to find out more about
 the talent development opportunities they provide.</p>
