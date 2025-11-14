@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Our Learning Experience Framework</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Experience Framework/XMS_Learning_Experience_Framework_2026___Model.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Learning Experience Framework/XMS_Learning_Experience_Framework_2026___Model.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
