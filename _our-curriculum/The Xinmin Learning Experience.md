@@ -30,8 +30,6 @@ and act on feedback to move learning forward.&nbsp;</p>
 <p>The third ring describes <strong>the five components of our total curriculum</strong>,
 i.e. all the learning experiences Xinmin offers to provide a well-rounded
 and future-ready education for our students:</p>
-</li>
-</ul>
 <ol data-tight="true" class="tight">
 <li>
 <p><em>Level Themes &amp; Cohort Curriculum</em>, providing shared and progressive
@@ -55,6 +53,8 @@ and opportunities through a coherent, school-wide approach; and</p>
 school with MOE autonomous status.</p>
 </li>
 </ol>
+</li>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p>The fourth ring describes <strong>the Desired Xinmin Outcomes (DXOs), articulating the qualities developed in Xinmin graduates</strong>: <em>curious learners</em>, <em>compassionate contributors</em>,
