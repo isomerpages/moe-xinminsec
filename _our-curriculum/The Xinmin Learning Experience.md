@@ -18,11 +18,19 @@ form the core of one’s character.</p>
 <li>
 <p>The second ring describes <strong>our approach in designing learning experiences</strong> for
 our students: considering:&nbsp;</p>
-<p>1. <em>Goals &amp; Content</em>, what students should understand and be
-able to do;</p>
-<p>2.<em> Pedagogy</em>, how teachers bring about learning; and</p>
-<p>3.<em> Assessment</em>, how students gather information about their progress
+<ol data-tight="true" class="tight">
+<li>
+<p><em>Goals &amp; Content</em>, what students should understand and be able
+to do;</p>
+</li>
+<li>
+<p><em>Pedagogy</em>, how teachers bring about learning; and</p>
+</li>
+<li>
+<p><em>Assessment</em>, how students gather information about their progress
 and act on feedback to move learning forward.&nbsp;</p>
+</li>
+</ol>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
