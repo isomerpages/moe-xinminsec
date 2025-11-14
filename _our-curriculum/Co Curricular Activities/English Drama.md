@@ -96,7 +96,7 @@ Arts Festival and Xinmin Arts Week!</p>
 <h3><strong>Accomplishments</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Currently awaiting results for 2025’s SYF</p>
+<p>SYF Distinction Awards (2025)</p>
 </li>
 <li>
 <p>SYF Accomplishment Awards</p>
@@ -114,7 +114,10 @@ self-expression, and excitement. Break a leg!</p>
 <p>Ms Rebecca Abey</p>
 </li>
 <li>
-<p>Ms Amalina</p>
+<p>Ms Nur Amalina</p>
+</li>
+<li>
+<p>Ms Cindy Oh</p>
 </li>
 </ul>
 <h4><strong>Visit us at:</strong></h4>
