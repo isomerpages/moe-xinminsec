@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Our Learning Experience Framework</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower%20Sec%20Academic%20Learning/learning%20experience%20framework2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Experience Framework/XMS_Learning_Experience_Framework_2026___Model.jpg">
 </div>
 <p>The components of the framework are described as follows:</p>
 <p>At the heart of the Xinmin Learning Experience Framework is our school
