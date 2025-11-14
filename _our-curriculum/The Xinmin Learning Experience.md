@@ -17,7 +17,7 @@ form the core of one’s character.</p>
 </li>
 <li>
 <p>The second ring describes <strong>our approach in designing learning experiences</strong> for
-our students considering:&nbsp;</p>
+our students, considering:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><em>Goals &amp; Content</em>, what students should understand and be able
