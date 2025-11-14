@@ -59,7 +59,7 @@ the CCA context;</p>
 and opportunities through a coherent, school-wide approach; and</p>
 </li>
 <li>
-<p> <em>Signature Programmes</em>, leveraging Xinmin’s resources as a forward-looking
+<p><em>Signature Programmes</em>, leveraging Xinmin’s resources as a forward-looking
 school with MOE autonomous status.</p>
 </li>
 </ol>
