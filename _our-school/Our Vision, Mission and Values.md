@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Our Vision 愿景</h2>
-<p>Leading Hearts, Leading Minds 1
+<p>Leading Hearts, Leading Minds
 <br>
 <br>领袖之德，领袖之智</p>
 <h2>Our Mission 使命</h2>
