@@ -40,8 +40,8 @@ be organised along five domains:</p>
 </ul>
 <p>The different opportunities within each domain are further structured
 into four levels in accordance to Treffinger’s Levels of Service approach
-for talent development. Broadly speaking, Levels I and II programmes are
-broad-based and highly-inclusive, while Levels III and IV programmes place
+for talent development. Broadly speaking, Levels 1 and 2 programmes are
+broad-based and highly-inclusive, while Levels 3 and 4 programmes place
 greater emphasis on catering to the needs and interests of smaller groups
 of students.</p>
 <p>Our goal is for every Xinmin student to reach at least Level 2 in all

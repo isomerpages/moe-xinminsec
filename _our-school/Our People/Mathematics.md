@@ -60,6 +60,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:koh_xue_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xue_ting@schools.gov.sg</a>
 </p>
+<p><strong>Ms Lai Yee Tyng</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:lai_yee_tyng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_yee_tyng@schools.gov.sg</a>
+</p>
 <p><strong>Mr Lee Kin Meng</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics

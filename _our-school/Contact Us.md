@@ -10,13 +10,15 @@ variant: tiptap
 <p>11 Hougang Avenue 8,
 <br>Singapore 538789
 <br>School Code: 3050
-<br>Tel:(+65) 6288 9382
-<br>Fax:(+65) 6385 1068
+<br>Tel: (+65) 6288 9382
+<br>Fax: (+65) 6385 1068
 <br>Email: <a href="xinminss_email@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xinminss_email@schools.gov.sg</a> 
 <br>
 </p>
 <p><strong>By Bus:</strong> 
-<br>25, 55, 74, 112, 132, 147, 165, 854</p>
+<br>Hougang Avenue 8: 74, 112, 147, 147A, 165, 660, 660M
+<br>Hougang Avenue 9: 72, 72A, 109, 109A, 116, 159, 159A, 329, 675
+<br>Hougang Avenue 2: 25, 55, 132, 854, 854e</p>
 <p><strong>By MRT:</strong> 
 <br>Hougang Station (NE14)</p>
 <p><strong>By Car:</strong> 

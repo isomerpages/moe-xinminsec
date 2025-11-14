@@ -212,10 +212,18 @@ Mr Tan led the various teams in the school to prepare all staff for these
 changes, in particular in reviewing the staff training direction to suit
 the pressing needs. As COVID-19 restrictions eased in 2022, the school
 welcomed the resumption of events such as Cross-Country and the birth of
-new ones such as virtual learning journeys using VR technology. Mr Tan
-Kuo Cheang passed the reins of leadership to Mr Tan Soon Hui in 2023, who
-took over the leadership of the school with the world and our nation starting
-new chapters in an endemic COVID-19 new normal.</p>
+new ones such as virtual learning journeys using VR technology.</p>
+<h2>Chapter 8: Xinmin as a home that prepares our students for the future</h2>
+<p>In 2023, Mr Tan Soon Hui was appointed as Xinmin's 12th Principal. With
+a vision for Xinmin to be a home that prepares students for the future,
+he fostered a culture of trust and learning. He also led the school to
+adopt a Total Curriculum approach to cultivate students' talents and dispositions.</p>
+<p>The year 2025 is a very special one for Xinmin - we celebrated our 80th
+Anniversary with Minister for Education Mr Desmond Lee as our Guest-of-Honour.
+Our anniversary theme <em>Decades of Dedication :: Shaping Future Generations</em> (the
+double colon is a mathematical symbol representing equal importance) calls
+on our entire Xinmin family to honour our roots while continuing to look
+ahead to the future.</p>
 <h2>第一章：一切从敢于梦想起步</h2>
 <p>叶帆风先生有这样一个梦想：他想为后港、实龙岗一带的学子提供接受教育的机会。日据时期，许多人没有机会接受教育，目不识丁，有些人则中途辍学。当时的教育体系，上至高等学府，下至幼稚园，招生人数都很有限，而且只有家境富裕子弟享有受教育的机会。</p>
 <p>当时，大多数学校都设立在新加坡的中心商业区，为了让居住在偏远地区的学生有机会接受教育，叶帆风、王振翥、陈春霆三位先生萌起创校壮志。由于大部分家庭一贫如洗，收入微薄，仅够支付日常生活开销，因此筹募创校基金困难重重。为了实现兴校办学的梦想，叶帆风先生卖掉家中养的五头猪，以此租下了实龙岗上段的三间旧洋楼，当年招收了六百二十名学生入学。</p>
@@ -242,7 +250,7 @@ new chapters in an endemic COVID-19 new normal.</p>
 <p>2003年，沈爱娜女士接手校长一职，带领新民中学再登卓越高峰。她提出了简单有力的公式：新民=高素质。这一简单有力的公式反映了学校发展素质教育的坚定信念。沈校长还提出了众多大胆而又创意的倡议，如：“自治自校”
 。同年，新民中学家长会成立，使家长有机会参与学校的决策过程。</p>
 <p>在沈校长的任期内，新民中学获得了众多奖项，特别是2005年新民中学成为本地第一所荣获“学校卓越成就奖”的邻里中学。这是新加坡教育部在“学校奖励计划总蓝图”下授予学校的最高荣誉
-。并连续几年屹立于“第一等（band1）”教育学府的行列。新民中学同时在学生品格发展方面独辟蹊径，由此获得这方面的“卓越发展奖”。</p>
+。并连续几年屹立于“第一等（Band 1）”教育学府的行列。新民中学同时在学生品格发展方面独辟蹊径，由此获得这方面的“卓越发展奖”。</p>
 <p>2007年，刘慧丽女士（前教育部提学司特别助理）接棒沈爱娜女士，继任校长。她致力于将新民打造成一所培养领袖的精修学府，学生除了应具备一名领袖必需的处事态度、工作能力与领域知识，还应有一颗时刻关怀的心。偕同全校教职工，刘校长孜孜以求高素质的教与学，并为学生追求全面卓越的发展创造机会。</p>
 <p>在刘校长任期内，新民中学母语部门在2008年组织筹备了第一届“中学华文与马来文研讨会”；2009年，新民中学科学部门组织筹备了第一届“科技研讨会”。为了使表演艺术团体充分发挥才能，她还发起了建设创意艺术中心的项目。</p>
 <h2>第六章：通往结合科技的全面教育之路</h2>
@@ -252,4 +260,9 @@ new chapters in an endemic COVID-19 new normal.</p>
 <p>2018年，陈国强先生接任校长一职。当时教育的大环境正面临转型，更注重培养学生的21世纪技能，为将来步入社会做好准备。批判性思维、协作能力、全球意识和植根于价值观等通用能力对学生来说都至关重要的。为了培养终身学习者，陈校长带领学校进行了一次重新规划，以确保新民中学与新加坡教育体系的目标一致。虽然学校的愿景仍然合宜，但新民的使命和价值观必须与时俱进。经过与各方的深入讨论，学校也设计了新民中学的理想学习成果。在此基础上，，学校管理层制定了新的学习体验框架，其中涵盖了新民中学所提供的全面课程，以帮助新民学子达成学校为他们设定的目标。这一系列调整的成果之一是将本校四个特色项目进行了更细致地划分，即：编码@新民、映像@新民（培养同理心和协作能力的戏剧课程）、学生领袖学院以及新民关爱计划（“德育在于行动”计划）。</p>
 <h2>第七章：动荡时期展现坚韧和团结，共同开启教育新篇章。</h2>
 <p>2020年至2021年，由于新冠病毒造成了严重冲击，这两年对于新加坡和全球来说是最具挑战的时期之一。对新民中学而言，以往的各种活动和学校流程不得不停办或改变形式。为了确保学生的安全，新民不得不停止实体授课，转而在线上教学。大型活动、年级营会、课程辅助活动和学习之旅等都被无限期暂停。作为学校，新民尽力为学生提供优质的教育和有意义的学习体验。在陈校长的领导下，我们首次在线上举行周会。老师们群策群力，互相支持，学习如何在家中进行教学和评估。当学校重新开放时，学校领导层反复认真考虑如何确保学生安全返校。Grab@Xinmin计划应运而生，学生可以上网向食堂摊主订餐，并由班级领袖将食物送到教室里。</p>
-<p>同时，鉴于疫情造成的阻断影响，以及在应对病毒时积累的经验，教育部推出了一系列举措，包括全国数码通识能力计划、混合式学习和全面科目编班计划。陈校长带领学校各个团队为了帮助教职工应对这些新举措，尤其在检讨教职员的培训方向以满足迫切需要方面，做好准备。2022年，随着冠病疫情限制的解除，学校迎来了恢复了许多活动；重启越野赛跑的活动，并开展了一些新的活动，例如使用虚拟现实技术进行的虚拟学习之旅等。2023年，在世界与我国都开启了与冠病共存的新常态这一新篇章时，陈国强校长将领导全校的重任交给了陈顺惠先生。</p>
+<p>同时，鉴于疫情造成的阻断影响，以及在应对病毒时积累的经验，教育部推出了一系列举措，包括全国数码通识能力计划、混合式学习和全面科目编班计划。陈校长带领学校各个团队为了帮助教职工应对这些新举措，尤其在检讨教职员的培训方向以满足迫切需要方面，做好准备。2022年，随着冠病疫情限制的解除，学校迎来了恢复了许多活动；重启越野赛跑的活动，并开展了一些新的活动，例如使用虚拟现实技术进行的虚拟学习之旅等。</p>
+<h2>第八章：新民为学生未来发展的家园</h2>
+<p>2023年，陈顺惠肩负起领导学校的重任。他致力于将新民打造为学生未来发展的家园，也领导学校采用“全面课程”的理念，培养新民学子的才能和品格。</p>
+<p>2025 年对新民来说是一个非常特殊的年份——我们庆祝了成立 80 周年，教育部长李智陞先生作为我们的主宾出席了庆祝晚宴。我们的80周年庆主题是《饮水思源::
+继往开来》 (主题中的两个冒号作为数学符号，代表着同等的分量)，呼吁我们铭记前辈们的辛勤努力，并继续展望未来。</p>
+<p></p>

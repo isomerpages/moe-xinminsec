@@ -69,7 +69,7 @@ in the process.</p>
 <p><strong>Every Xinmin Student a Curious Learner</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Curious, Compassion Confident/learner.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Vision Mission Values/Curious_Learner.jpg">
 </div>
 <p>Xinmin students are curious learners who are self-directed, possess intellectual
 curiosity, and exercise adaptive and inventive thinking.</p>
@@ -152,7 +152,7 @@ strategies</p>
 <p><strong>Every Xinmin Student a Compassionate Contributor</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Curious, Compassion Confident/ompassionate2_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Vision Mission Values/Compassionate_Contributor.jpg">
 </div>
 <p>Xinmin students are compassionate contributors with strong civic consciousness,
 are empathetic to those around them, and demonstrate civic and global literacy.</p>
@@ -233,7 +233,7 @@ platforms, including digital ones, in response to local and global issues</p>
 <p><strong>Every Xinmin Student a Confident Leader</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Front Images/Curious, Compassion Confident/leader.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Vision Mission Values/Confident_Leaders.jpg">
 </div>
 <p>Xinmin students are confident leaders who model the way, communicate and
 collaborate skillfully, and practise effective decision making.</p>

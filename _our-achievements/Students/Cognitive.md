@@ -27,36 +27,16 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
-<td rowspan="23" colspan="1">
+<td rowspan="18" colspan="1">
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>90.0% of O-Level students were eligible for progression to A-Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>98.0% of O-Level students were eligible for progression to A-Level and
 Polytechnics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>98.7% of N(A)-Level students were eligible for progression to Sec 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
@@ -66,7 +46,8 @@ Programme</p>
 <p>Drone Odyssey Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st</p>
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,8 +55,10 @@ Programme</p>
 <p>IgnITE Challenge: AI-Empowered Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI-Empowered Microbit Challenge – 2nd
-<br><s><br></s>Aroma Fantasy – 1st</p>
+<p>AI-Empowered Microbit Challenge – 2<sup>nd</sup>
+</p>
+<p>Aroma Fantasy – 1<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +74,7 @@ Programme</p>
 <p>International Model United Nations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Honourable Mention</p>
+<p>2 Honourable Mentions</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +82,7 @@ Programme</p>
 <p>National Accounting Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd (Team)</p>
+<p>3<sup>rd</sup> (Team)</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +98,7 @@ Programme</p>
 <p>National Orienteering Race (Schools)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st (Team)</p>
+<p>1<sup>st</sup> (Team)</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +106,7 @@ Programme</p>
 <p>National STEM Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarterfinalists</p>
+<p>Quarterfinalist</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +114,8 @@ Programme</p>
 <p>National Youth Tech Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +123,8 @@ Programme</p>
 <p>Ngee Ann Secondary Model United Nations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st</p>
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -176,23 +161,24 @@ Programme</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Mathematical Olympiad Competition</p>
+<p>Singapore Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Bronze (Junior)
-<br>4 Honourable Mention (Junior)
-<br>2 Silver (Senior)
-<br>1 Honourable Mention<s>s</s> (Senior)
-<br>2 Honourable Mentions (Open)</p>
+<p>2 Bronze (Junior)</p>
+<p>4 Honourable Mentions (Junior)</p>
+<p>2 Silver (Senior)</p>
+<p>1 Honourable Mention (Senior)</p>
+<p>2 Honourable Mentions (Open)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore School Series Debates</p>
+<p>Singapore Secondary Schools Debating Championships (Division 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd (Team)
-<br>5th (Individual)</p>
+<p>3<sup>rd</sup> (Team)</p>
+<p>5<sup>th</sup> (Individual)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -200,19 +186,14 @@ Programme</p>
 <p>The Media Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st (Team)</p>
+<p>1<sup>st</sup> (Team)</p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="3">
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -228,36 +209,16 @@ Programme</p>
 </td>
 </tr>
 <tr>
-<td rowspan="25" colspan="1">
+<td rowspan="18" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>93.8% of O-Level students were eligible for progression to A-Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>99.0% of O-Level students were eligible for progression to A-Level and
 Polytechnics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>93.4% of N(A)-Level students were eligible for progression to Sec 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
@@ -283,22 +244,7 @@ Programme</p>
 <p>Climate Fresk STEM Showcase and Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Gaia Guardian Trophy (Best Performing School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Climate Fresk STEM Showcase and Competition</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Water Stewardship Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Climate Fresk STEM Showcase and Competition</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Climate Action Conservation Award</p>
 </td>
 </tr>
@@ -307,7 +253,7 @@ Programme</p>
 <p>Drone Odyssey challenge- AI Visual Sensing Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st (Best Presentation Award)</p>
+<p>1<sup>st</sup> (Best Presentation Award)</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +261,7 @@ Programme</p>
 <p>Financial Literacy Challenge by CPF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champions</p>
+<p>Champion</p>
 </td>
 </tr>
 <tr>
@@ -323,7 +269,7 @@ Programme</p>
 <p>IgnITE Skills Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion, 1st runner-up and 2nd runner-up</p>
+<p>Champion, 1<sup>st</sup> runner-up, 2nd runner-up</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +293,8 @@ Programme</p>
 <p>National Accounting Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10th</p>
+<p>10<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -385,15 +332,15 @@ Tracks</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Mathematical Olympiad Competition (Junior)</p>
+<p>Singapore Mathematical Olympiad (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Silver, 3 Bronze, 1 Honourable Mentions</p>
+<p>1 Silver, 3 Bronze, 1 Honourable Mention</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Mathematical Olympiad Competition (Senior)</p>
+<p>Singapore Mathematical Olympiad (Senior)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Silver, 1 Bronze, 3 Honourable Mentions</p>
@@ -404,7 +351,7 @@ Tracks</p>
 <p>Smart EV Mobile Robot challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Champion, 1st runner-up and 2nd runner-up</p>
+<p>Champion, 1<sup>st </sup>runner-up, 2<sup>nd</sup> runner-up</p>
 </td>
 </tr>
 <tr>
@@ -415,15 +362,11 @@ Tracks</p>
 <p>Certificate of Accomplishment</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>YEAR</strong>
@@ -439,25 +382,13 @@ Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="11" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>93.4% of O-Level students were eligible for progression to A-Level</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>93.9% of N(A)-Level students were eligible for progression to Sec 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
@@ -467,7 +398,7 @@ Programme</p>
 <p>ACJC Speech Arts (Comic Monologue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st runner-up</p>
+<p>1<sup>st</sup> runner-up</p>
 </td>
 </tr>
 <tr>
@@ -483,7 +414,7 @@ Programme</p>
 <p>IMDA National Youth Tech Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st runner-up</p>
+<p>1<sup>st</sup> runner-up</p>
 </td>
 </tr>
 <tr>
@@ -491,7 +422,7 @@ Programme</p>
 <p>Istana Heritage Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd runner-up</p>
+<p>2<sup>nd</sup> runner-up</p>
 </td>
 </tr>
 <tr>
@@ -499,7 +430,7 @@ Programme</p>
 <p>Mid-Year Debate Invitationals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st runner-up</p>
+<p>1<sup>st</sup> runner-up</p>
 </td>
 </tr>
 <tr>
@@ -531,7 +462,7 @@ Programme</p>
 <p>SIT-VJC INSPIRE Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st runner-up</p>
+<p>1<sup>st</sup> runner-up</p>
 </td>
 </tr>
 <tr>

@@ -722,7 +722,7 @@ variant: markdown
             font-weight: 400;
             text-align: center;">
           郭文发<br>
-          Kwek Boo Watt
+          Kwek Boon Watt
         </div>
       </td>
       <td style="margin: 0px;
