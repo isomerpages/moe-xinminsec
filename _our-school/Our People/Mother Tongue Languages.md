@@ -50,11 +50,6 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:lai_min_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_min_lee@schools.gov.sg</a>
 </p>
-<p><strong>Ms Mi Siyao</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:mi_siyao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mi_siyao@schools.gov.sg</a>
-</p>
 <p><strong>Ms Nor'ain Binte Ismail</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
