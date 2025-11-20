@@ -55,11 +55,6 @@ variant: tiptap
 <br>Department: Aesthetics and Applied Science
 <br>Email: <a href="mailto:song_meien_lyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">song_meien_lyn@schools.gov.sg</a>
 </p>
-<p><strong>Mr Mageswaran S/O Gnanasegaran</strong>
-<br>Designation: Teacher
-<br>Department: Aesthetics and Applied Science
-<br>Email: <a href="mailto:mageswaran_gnanasegaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mageswaran_gnanasegaran@schools.gov.sg</a>
-</p>
 <p><strong>Ms Peck Pei Yi Francesca</strong>
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
