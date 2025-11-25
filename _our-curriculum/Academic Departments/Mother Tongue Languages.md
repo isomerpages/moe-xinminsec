@@ -5,4 +5,174 @@ description: ""
 third_nav_title: Academic Departments
 variant: tiptap
 ---
-<h2>Belief</h2><p>乐学母语·情牵文化<br>Seronok belajar, Kenali budaya<br>To cultivate the joy of learning in Mother Tongue Language. To foster deeper connections with one's own culture and that of others.</p><h2>Approaches</h2><div class="isomer-image-wrapper"><img style="width:50%;" height="auto" width="100%" alt="MTL Curriculum Framework" src="/images/MTL%20Curriculum%20Framework.jpeg"></div><p><strong>Feedback Literacy</strong><br>Language is an essential medium for self-reflection. With the goal of every Xinmin student becoming a proficient user in Mother Tongue Language, our teachers are equipped in the area of feedback literacy. Through careful curation of our lesson packages, students are to hone their language skills holistically, i.e listening, speaking, reading, and writing. This approach promotes greater self-directedness in learning amongst students as they are cognitively challenged during the process of reflective thinking.</p><p><strong>Drawing Connections and Making Sense</strong><br>To help our students possess the dispositions and language skills to take on the opportunities of the future, students are given ample opportunities to hone their Mother Tongue communication skills. Apart from the instructional programmes, the department aims to promote and strengthen our students’ sense of cultural heritage and identity through a variety of activities such as the Chinese New Year Celebration, Hari Raya Celebration, Mother Tongue Language Festival, Cultural Performance Exposure Scheme (CPES) and Culture &amp; Aesthetic Exposure Programme (CAEP). By drawing connections with the real world, students will be able to relate better with their Mother Tongue and make sense of the importance of their cultural identity in the ever changing and shifting global landscape.</p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_16.jpg"></div><p>Learning the Chinese Festive Drums<br>二十四节令鼓</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_1.jpg"></div><p>Our students performing Traditional Chinese Opera<br>传统戏曲表演</p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_13.jpg"></div><p>Learning about traditional puppetry during Overseas Immersion Programme <br>海外浸濡活动</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_9.jpg"></div><p>Theatrical experience with Malay Language students</p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_5.jpg"></div><p>With Ms Gan Siow Huang(Minister of State,MOE) at MTLF <br>母语双周-“谁是推理王”开幕活动</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_17.jpg"></div><p>Interaction with DJ from Malay radio station RIA 897<br>Skuad Serbu RIA</p></td></tr></tbody></table><h2>Talent Development</h2><p>In the effort to elevate and enhance the ability of our students, we strive to provide different platforms for students to pursue their interests, develop their strengths and showcase their talent. This includes the Budding Presenters Programme, Budding Writers Programme and Budding Journalists Programme.</p><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=100%" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_18.jpg"></div><p>Enhancing oratorical skills in Malay language through video production</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=100%" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_19.jpg"></div><p>1st Placing at a Chinese Speech Competition <br>北区中小学华语演讲比赛</p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_11.jpeg"></div><p>A dose of joy in writing - creating Chinese comics <br>漫画作家计划</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_12.jpeg"></div><p>Author-in-Residence Programme <br>驻校作家计划</p></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_15.png"></div><p>Award-winning entry for Create Your Own Newspaper Competition <br>全国中学编采比赛</p></td></tr></tbody></table><p></p>
+<h2>Belief</h2>
+<p>乐学母语·情牵文化
+<br>Seronok belajar, Kenali budaya
+<br>To cultivate the joy of learning in Mother Tongue Language. To foster
+deeper connections with one's own culture and that of others.</p>
+<h2>Approaches</h2>
+<div class="isomer-image-wrapper">
+<img style="width:50%;" height="auto" width="100%" alt="MTL Curriculum Framework" src="/images/MTL%20Curriculum%20Framework.jpeg">
+</div>
+<p><strong>Feedback Literacy</strong>
+<br>Language is an essential medium for self-reflection. With the goal of
+every Xinmin student becoming a proficient user in Mother Tongue Language,
+our teachers are equipped in the area of feedback literacy. Through careful
+curation of our lesson packages, students are to hone their language skills
+holistically, i.e listening, speaking, reading, and writing. This approach
+promotes greater self-directedness in learning amongst students as they
+are cognitively challenged during the process of reflective thinking.</p>
+<p><strong>Drawing Connections and Making Sense</strong>
+<br>To help our students possess the dispositions and language skills to take
+on the opportunities of the future, students are given ample opportunities
+to hone their Mother Tongue communication skills. Apart from the instructional
+programmes, the department aims to promote and strengthen our students’
+sense of cultural heritage and identity through a variety of activities
+such as the Chinese New Year Celebration, Hari Raya Celebration, Mother
+Tongue Language Festival, Cultural Performance Exposure Scheme (CPES) and
+Culture &amp; Aesthetic Exposure Programme (CAEP). By drawing connections
+with the real world, students will be able to relate better with their
+Mother Tongue and make sense of the importance of their cultural identity
+in the ever changing and shifting global landscape.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_16.jpg">
+</div>
+<p>Learning the Chinese Festive Drums
+<br>二十四节令鼓</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_1.jpg">
+</div>
+<p>Our students performing Traditional Chinese Opera
+<br>传统戏曲表演</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_13.jpg">
+</div>
+<p>Learning about traditional puppetry during Overseas Immersion Programme
+<br>海外浸濡活动</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_9.jpg">
+</div>
+<p>Theatrical experience with Malay Language students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_5.jpg">
+</div>
+<p>With Ms Gan Siow Huang (then-Minister of State for Education) at Mother
+Tongue Languages Fortnight
+<br>母语双周-“谁是推理王”开幕活动</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_17.jpg">
+</div>
+<p>Interaction with DJ from Malay radio station RIA 897
+<br>Skuad Serbu RIA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Talent Development</h2>
+<p>In the effort to elevate and enhance the ability of our students, we strive
+to provide different platforms for students to pursue their interests,
+develop their strengths and showcase their talent. This includes the Budding
+Presenters Programme, Budding Writers Programme and Budding Journalists
+Programme.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=100%" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_18.jpg">
+</div>
+<p>Enhancing oratorical skills in Malay language through video production</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=100%" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_19.jpg">
+</div>
+<p>1st Placing at a Chinese Speech Competition
+<br>北区中小学华语演讲比赛</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_1.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_11.jpeg">
+</div>
+<p>A dose of joy in writing - creating Chinese comics
+<br>漫画作家计划</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_12.jpeg">
+</div>
+<p>Author-in-Residence Programme
+<br>驻校作家计划</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width=" height="auto" width="100%" alt="Math_2.jpg" src="/images/Mother_Tongue/Department_programmes/mother_tongue_15.png">
+</div>
+<p>Award-winning entry for Create Your Own Newspaper Competition
+<br>全国中学编采比赛</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

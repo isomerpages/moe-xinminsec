@@ -95,7 +95,7 @@ events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Emma Tay Le Xuan (201, 2025),</p>
+<p><strong>Captain</strong>: Emma Tay Le Xuan (201, 2025)</p>
 </li>
 <li>
 <p><strong>Vice-Captains</strong>: Lim Ke En Adrienna (201, 2025), Ezanne

@@ -15,7 +15,7 @@ activities.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Incoming Secondary 1 student with <strong>PSLE score 8 or better</strong> who
-indicate <strong>Xinmin Secondary School as first choice</strong>
+indicates <strong>Xinmin Secondary School as first choice</strong>
 </p>
 </li>
 <li>

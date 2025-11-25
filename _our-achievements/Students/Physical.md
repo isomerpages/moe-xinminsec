@@ -82,7 +82,11 @@ Individual Rifle 1<sup>st</sup>
 </p>
 </li>
 <li>
-<p>C Division Boys – Individual Rifle 1<sup>st</sup>
+<p>C Division Boys – Team 5<sup>th</sup>, Individual Rifle 1<sup>st</sup>
+</p>
+</li>
+<li>
+<p>C Division Girls – Team 4<sup>th</sup>
 </p>
 </li>
 </ul>

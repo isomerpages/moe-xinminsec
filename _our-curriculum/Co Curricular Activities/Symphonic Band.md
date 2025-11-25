@@ -103,7 +103,7 @@ Yang Yui Kong (308, 2025)</p>
 <p>French Horn – Marcus Ong (304, 2025)</p>
 </li>
 <li>
-<p>Euphonium &amp; Tuba - – Jason Liew (303, 2025)</p>
+<p>Euphonium &amp; Tuba – Jason Liew (303, 2025)</p>
 </li>
 <li>
 <p>Double Bass – Goh Chee Henk (Asst.) (201, 2025)</p>

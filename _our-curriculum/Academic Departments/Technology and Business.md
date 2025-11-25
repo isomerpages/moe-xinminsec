@@ -112,7 +112,7 @@ cases that will inform the student on the quality of their coding.</p>
 </li>
 <li>
 <p>Coding assignments that have peer evaluations, to gauge student understanding
-and promote critique..-</p>
+and promote critique.</p>
 </li>
 <li>
 <p>Reflection component after every extension activity : Encourage students
@@ -204,12 +204,12 @@ award winner 2023.</p>
 <h3>Elements of Business Skills</h3>
 <p>The Technology &amp; Business Department oversees Elements of Business
 Skills (EBS), which is offered as an elective subject during Secondary
-3 for the Normal (Technical) course. The curriculum is designed to introduce
-students to key business concepts, with a particular emphasis on basic
-marketing and customer relations, all while considering the Singaporean
-context. Besides offering students an opportunity to acquire fundamental
-business knowledge and develop versatile employability skills, the program
-exposes them to three distinct service sectors: Travel and Tourism, Hospitality,
+3 at the G1 subject level. The curriculum is designed to introduce students
+to key business concepts, with a particular emphasis on basic marketing
+and customer relations, all while considering the Singaporean context.
+Besides offering students an opportunity to acquire fundamental business
+knowledge and develop versatile employability skills, the program exposes
+them to three distinct service sectors: Travel and Tourism, Hospitality,
 and Retail industries. Additionally, the acquisition of 21st-century skills
 through this program will not only benefit their current academic pursuits
 and employment but also prepare them for success in future educational
@@ -218,7 +218,7 @@ endeavors and professional careers.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Elements%20Of%20Business/e_b_s_1.png">
 </div>
 <p><strong>Our Pedagogical Approach</strong>
-<br>In XMS , students engage in a diverse range of learning activities, including
+<br>In XMS, students engage in a diverse range of learning activities, including
 Learning Journeys, workshops, and competitions. These activities are meticulously
 designed to enrich their educational journey and expand the practical application
 of their knowledge. The primary goal is to empower students to develop

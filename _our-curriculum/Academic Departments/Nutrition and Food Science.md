@@ -38,11 +38,11 @@ to Brand B.”
 the Secondary Two students have the opportunity to participate in a station-based
 activity to find out who has the best sense of taste and sense of smell
 among them. There are four stations which require students to taste different
-food items based on triangle test1, ranking test2 and rating test3 and
-identifying different ingredients in the mysterious cups4. The teachers
-have designed this inquiry based activity to develop the curious learner
-and help our students connect the learning between textbook content and
-real-life experiences.</p>
+food items based on triangle test (1), ranking test (2) and rating test
+(3) and identifying different ingredients in the mysterious cups (4). The
+teachers have designed this inquiry based activity to develop the curious
+learner and help our students connect the learning between textbook content
+and real-life experiences.</p>
 <p>Station 1: Triangle test
 <br>Aim: To find out the odd sample among three cornflake samples.</p>
 <table style="minWidth: 50px">
