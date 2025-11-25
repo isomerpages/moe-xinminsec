@@ -82,7 +82,7 @@ beyond the school community.</p>
 <p><strong>Vice-President</strong>: Chloe Giselle Kessler (306)</p>
 </li>
 <li>
-<p><strong>Head Of Department (Ava)</strong>: Chng Jiaxuan, Chloe (302)</p>
+<p><strong>Head Of Department (AVA)</strong>: Chng Jiaxuan, Chloe (302)</p>
 </li>
 <li>
 <p><strong>Head Of Department (Photography)</strong>: Jaelyn See Xin Ru (303)</p>
