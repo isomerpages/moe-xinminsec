@@ -57,7 +57,7 @@ Approach</p>
 Late applications will not be considered.</p>
 </li>
 <li>
-<p>Interested students are to complete the <a href="https://go.gov.sg/xmsscholarshipapplication" rel="noopener noreferrer nofollow" target="_blank">Xinmin Scholarship Application form</a> and
+<p>Interested students are to complete the <a href="https://go.gov.sg/xms-scholarship-app" rel="noopener noreferrer nofollow" target="_blank">Xinmin Scholarship Application form</a> and
 submit by the stipulated deadline.</p>
 </li>
 <li>
