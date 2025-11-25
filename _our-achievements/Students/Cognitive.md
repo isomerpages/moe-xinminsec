@@ -114,7 +114,7 @@ Programme</p>
 <p>National Youth Tech Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4<sup>th</sup>
+<p>5<sup>th</sup>
 </p>
 </td>
 </tr>
