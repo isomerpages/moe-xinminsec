@@ -110,25 +110,25 @@ the bonds within our own team.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>First Runner-up in 'C' Division National School Games League 1 (2025)</p>
+<p>First Runner-up in 'C' Division National School Games League 1 2025</p>
 </li>
 <li>
-<p>First Runner-up in Pesta Sukan U14 Boys (2025)</p>
+<p>First Runner-up in Pesta Sukan U14 Boys 2025</p>
 </li>
 <li>
 <p>Top 8 in 'C' Division National School Games 2024</p>
 </li>
 <li>
-<p>First runner ups in Pesta Sukan U14 Boys 2024</p>
+<p>First runner-up in Pesta Sukan U14 Boys 2024</p>
 </li>
 <li>
-<p>Second runner ups in Pesta Sukan U17 Boys 2024</p>
+<p>Second runner-up in Pesta Sukan U17 Boys 2024</p>
 </li>
 <li>
 <p>Champion U15 Northbrooks Invitational Competition 2024</p>
 </li>
 <li>
-<p>First runner ups U14 Northbrooks Invitational Competition 2024</p>
+<p>First runner-up U14 Northbrooks Invitational Competition 2024</p>
 </li>
 </ul>
 <p>At Xinmin Floorball, excellence is not just about medals. It is about
