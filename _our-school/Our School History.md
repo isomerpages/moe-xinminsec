@@ -38,9 +38,8 @@ did not get much pay from the principal as the school was low in funds.</p>
 that a secondary school was sorely needed in Hougang and appealed to the
 Ministry of Education to establish a secondary school. When the Ministry
 approved his application in January 1956, secondary school sessions were
-added and girls were admitted for the first time. This was a historical
-moment for many poor families in the neighbourhood as it symbolised a dream
-of a better future coming to realisation.</p>
+added. This was a historical moment for many poor families in the neighbourhood
+as it symbolised a dream of a better future coming to realisation.</p>
 <p>As for the teachers and students, they saw that the lack of funds deterred
 the school’s progress, and decided to come together to overcome this problem.
 In 1958, they decided to stage a 2-night concert at Broadway Theatre, New
@@ -231,7 +230,7 @@ ahead to the future.</p>
 <h2>第二章：创校伊始的破冰期</h2>
 <p>新民创校初期历经风霜，最主要的问题是学校运转资金匮乏。1950年，王振翥先生接任校长，学校买下了三座洋楼之一，学生注册人数增至1000人。尽管如此，仍只有最基本的教学设施可供学生使用：桌椅粗陋，有时学生甚至要共用书桌，或坐在地板上；厕所数量极少；食堂很小且只有一个摊位；学校操场是一块小小的泥泞的草地；课室也不敷使用。</p>
 <p>由于资金匮乏，学校无法满足学生的受教需求。一贫如洗的学生渴盼看看课室以外的世界，但却无法梦想成真，学校不能带他们去远足或进行户外教学活动。教师也是薪金微薄。</p>
-<p>1954年，董息游先生担任校长，他有感于后港、实龙岗一带亟需一所中学，于是着手向教育部申请增办中学，并开始招收女生入学。1956年1月，学校获得教育部批准，开始招收中学生，并首次招收女生。对于后港邻里的众多清苦家庭来说，这是个历史性的时刻，它象征着美好的未来初露曙光。</p>
+<p>1954年，董息游先生担任校长，他有感于后港、实龙岗一带亟需一所中学，于是着手向教育部申请增办中学，并开始招收女生入学。1956年1月，学校获得教育部批准，开始招收中学生。对于后港邻里的众多清苦家庭来说，这是个历史性的时刻，它象征着美好的未来初露曙光。</p>
 <p>学校师生看到了资金匮乏对学校发展的束缚，决定同心合力解决这个问题。1958年，学校在新世界百老汇剧院连办两晚的游艺晚会，以此筹募资金。全校师生为了这意义非凡的演出，倾尽全力，精心排练，自制服装道具，不亦乐乎。师生的通力合作，为大众呈现了一台精彩的演出，共筹得一万元。募款用于增建六间课室，并购买门牌819号校地用于未来的发展。自此，新民开始置入当时的校地。</p>
 <h2>第三章：不要被问题所逼迫，要用梦想来引导</h2>
 <p>1965年，周炳麟先生接任校长，同时开始面对一段艰辛的历程。他继续着扩校的步伐，周校长通过一系列筹款活动，如潮剧义演、电影义演、师生的沿门募捐等，为学校增建了校舍及附属设施。</p>
