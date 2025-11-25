@@ -82,7 +82,7 @@ all involved.</p>
 <p>‘B’ Division Captain: VENUS TAY YU XI (404)</p>
 </li>
 <li>
-<p>‘B’ Division Vice-Captains: NG XI YUAN, SYLVIE (401)</p>
+<p>‘B’ Division Vice-Captain: NG XI YUAN, SYLVIE (401)</p>
 <p></p>
 </li>
 </ul>
