@@ -94,10 +94,10 @@ change, and rise together!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nanthini Gunasekaran</p>
+<p>Ms Junice Chia (IC)</p>
 </li>
 <li>
-<p>Ms Junice Chia (IC)</p>
+<p>Ms Nanthini Gunasekaran</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
