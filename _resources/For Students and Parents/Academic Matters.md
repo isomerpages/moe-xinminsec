@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/resources/students/school-resources/bookshop-and-uniform-suppliers/" rel="noopener noreferrer nofollow" target="_blank">Bookshop and Uniform Supplier</a>
+<p><a href="/resources/students/school-resources/bookshop-and-uniform-suppliers/" rel="noopener noreferrer nofollow" target="_blank">Information on Suppliers for Books and Uniforms</a>
 </p>
 </li>
 </ul>
