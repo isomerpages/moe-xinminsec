@@ -500,7 +500,7 @@ PLDs, laptops, tablets, mobile phones, smartwatches)</p>
 <p>B8 – Use of coarse, rude/abusive/vulgar language</p>
 </li>
 <li>
-<p>B9 – Failure recite Student Creed</p>
+<p>B9 – Failure to recite Student Creed</p>
 </li>
 <li>
 <p>B10 – Lying</p>
