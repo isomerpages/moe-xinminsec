@@ -51,15 +51,12 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h2>Booklists</h2>
+<h2>Books and Uniforms</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/resources/students/school-resources/booklists/" rel="noopener noreferrer nofollow" target="_blank">Booklists</a>
 </p>
 </li>
-</ul>
-<h2>Bookshop and Uniform Supplier</h2>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="/resources/students/school-resources/bookshop-and-uniform-suppliers/" rel="noopener noreferrer nofollow" target="_blank">Bookshop and Uniform Supplier</a>
 </p>
