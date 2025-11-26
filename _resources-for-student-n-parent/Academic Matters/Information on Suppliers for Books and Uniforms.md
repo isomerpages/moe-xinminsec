@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Matters
 variant: tiptap
 ---
-<h3>A) BookShop Supplier Information</h3>
+<h3>A) Books Supplier Information</h3>
 <p>Casco Publications Pte Ltd
 <br>c/o Xinmin Secondary School
 <br>11 Hougang Avenue 8
@@ -28,9 +28,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/1.png">
 </div>
 <p><strong>Important:-</strong>
-<br><strong>Please do not purchase any textbooks or uniform if you are applying for 2026 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
+<br><strong>Please do not purchase any books or uniforms if you are applying for 2026 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
 </p>
-<h3>B) Uniform Supplier Information</h3>
+<h3>B) Uniforms Supplier Information</h3>
 <p>Jeep Sing Fashion
 <br>Blk 4012 Ang Mo Kio Ave 10
 <br>#01-09 Techplace 1
@@ -60,7 +60,7 @@ Thank you for your patience and understanding.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/2.png">
 </div>
 <p><strong>Important:-</strong>
-<br><strong>Please do not purchase any textbooks or uniform if you are applying for 2026 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
+<br><strong>Please do not purchase any books or uniforms if you are applying for 2026 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
 </p>
 <p><strong>*** EOY Xinmin Sec Uniform Sales Schedule</strong>
 </p>
