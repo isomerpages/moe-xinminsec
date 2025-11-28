@@ -65,7 +65,7 @@ school with MOE autonomous status.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>The fourth ring describes <strong>the Desired Xinmin Outcomes (DXOs), articulating the qualities developed in Xinmin graduates</strong>: <em>curious learners</em>, <em>compassionate contributors</em>,
+<p>The fourth ring describes <strong><a href="/about-us/school-information/" rel="noopener nofollow" target="_blank">the Desired Xinmin Outcomes (DXOs)</a>, articulating the qualities developed in Xinmin graduates</strong>: <em>curious learners</em>, <em>compassionate contributors</em>,
 and <em>confident leaders</em>.</p>
 </li>
 </ul>

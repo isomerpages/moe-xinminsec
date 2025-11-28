@@ -1,5 +1,5 @@
 ---
-title: Our Vision, Mission and Values
+title: Our Vision, Mission, Values, and Desired Xinmin Outcomes
 permalink: /about-us/school-information/
 description: ""
 variant: tiptap
