@@ -40,11 +40,6 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:singh_hardev@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">singh_hardev@schools.gov.sg</a>
 </p>
-<p><strong>Ms Lim Tze Ting Jasmine</strong>
-<br>Designation: Head of Department - English Language and Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:lim_tze_ting_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ting_jasmine@schools.gov.sg</a>
-</p>
 <p><strong>Ms Lim Aiwen Bernadine</strong>
 <br>Designation: Head of Department - Humanities
 <br>Department: Humanities
