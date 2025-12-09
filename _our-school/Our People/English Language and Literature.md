@@ -75,6 +75,11 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:quek_suan_shiau_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_suan_shiau_b@schools.gov.sg</a>
 </p>
+<p><strong>Mr Teh Chin Foo</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:teh_chin_foo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chin_foo_b@schools.gov.sg</a>
+</p>
 <p><strong>Ms Teoh Yu Han</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
