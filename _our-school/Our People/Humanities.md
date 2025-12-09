@@ -55,6 +55,11 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:nur_amalina_mohamed_zain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amalina_mohamed_zain@schools.gov.sg</a>
 </p>
+<p><strong>Ms Siti Sarah Bte Ambo' Roslan</strong>
+<br>Designation: Teacher
+<br>Department: Humanities
+<br>Email: <a href="mailto:siti_sarah_ambo_roslan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sarah_ambo_roslan_a@schools.gov.sg</a>
+</p>
 <p><strong>Ms Wan Shi Ting</strong>
 <br>Designation: Teacher
 <br>Department: Humanities
