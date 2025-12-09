@@ -45,6 +45,11 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:chia_yen_har_junice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_yen_har_junice@schools.gov.sg</a>
 </p>
+<p><strong>Ms Chua Mei Ching Wendy</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:chua_mei_ching_wendy_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_mei_ching_wendy_a@schools.gov.sg</a>
+</p>
 <p><strong>Ms Ee Ai Lin</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
@@ -74,11 +79,6 @@ variant: tiptap
 <br>Designation: Teacher
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:quek_suan_shiau_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_suan_shiau_b@schools.gov.sg</a>
-</p>
-<p><strong>Mr Teh Chin Foo</strong>
-<br>Designation: Teacher
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:teh_chin_foo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chin_foo_b@schools.gov.sg</a>
 </p>
 <p><strong>Ms Teoh Yu Han</strong>
 <br>Designation: Teacher
