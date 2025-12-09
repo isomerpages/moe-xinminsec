@@ -75,6 +75,11 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:oh_hwee_kiang_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oh_hwee_kiang_cindy@schools.gov.sg</a>
 </p>
+<p><strong>Mr Teh Chin Foo</strong>
+<br>Designation: Teacher
+<br>Department: Science
+<br>Email: <a href="mailto:teh_chin_foo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chin_foo_b@schools.gov.sg</a>
+</p>
 <p><strong>Ms Tham Lai Paik Nicole</strong>
 <br>Designation: Teacher
 <br>Department: Science
