@@ -55,6 +55,11 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:nor_ain_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_ain_ismail@schools.gov.sg</a>
 </p>
+<p><strong>Ms Norehda Binte Sold</strong>
+<br>Designation: Teacher
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:norehda_sold_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norehda_sold_b@schools.gov.sg</a>
+</p>
 <p><strong>Ms Nur Fatimah Binte Khalid</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
