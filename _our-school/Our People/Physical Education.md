@@ -40,10 +40,10 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:loo_pek_hee_elias@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_pek_hee_elias@schools.gov.sg</a>
 </p>
-<p><strong>Mrs Shanti Teo</strong>
+<p><strong>Ms Lim Tiam Kwee Jenny</strong>
 <br>Designation: Teacher
 <br>Department: Physical Education
-<br>Email: <a href="mailto:shanti_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanti_b@schools.gov.sg</a>
+<br>Email: <a href="mailto:lim_tiam_kwee_jenny_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tiam_kwee_jenny_a@schools.gov.sg</a>
 </p>
 <p><strong>Mrs Shanti Teo</strong>
 <br>Designation: Teacher
