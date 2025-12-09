@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p><strong>Ms Lim Tze Ting Jasmine</strong>
-<br>Designation: Head of Department - English Language and Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:lim_tze_ting_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ting_jasmine@schools.gov.sg</a>
-</p>
 <p><strong>Ms Amy Luisita</strong>
 <br>Designation: Lead Teacher - English Language and Literature
 <br>Department: English Language and Literature
