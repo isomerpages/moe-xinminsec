@@ -45,3 +45,8 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:shanti_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanti_b@schools.gov.sg</a>
 </p>
+<p><strong>Mrs Shanti Teo</strong>
+<br>Designation: Teacher
+<br>Department: Physical Education
+<br>Email: <a href="mailto:dexter_fong_jin_meng@schools.gov.sg" rel="noopener nofollow" target="_blank">dexter_fong_jin_meng@schools.gov.sg</a>
+</p>
