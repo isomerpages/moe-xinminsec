@@ -25,7 +25,6 @@ variant: tiptap
 <br>Department: Student Support Team
 <br>Email: <a href="mailto:nora_fernandez_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nora_fernandez_c@schools.gov.sg</a>
 </p>
-<p></p>
 <p><strong>Ms Catherine Ng</strong>
 <br>Designation: Education &amp; Career Guidance Counsellor
 <br>Department: Student Support Team
