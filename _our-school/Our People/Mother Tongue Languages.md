@@ -70,6 +70,11 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:siaw_pey_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siaw_pey_shin@schools.gov.sg</a>
 </p>
+<p><strong>Ms Thang Tech Meng Maureen</strong>
+<br>Designation: Teacher
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:thang_teck_meng_maureen_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thang_teck_meng_maureen_a@schools.gov.sg</a>
+</p>
 <p><strong>Ms Wong Siew Har</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
