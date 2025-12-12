@@ -40,11 +40,6 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:ang_koon_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_koon_yong@schools.gov.sg</a>
 </p>
-<p><strong>Ms Cheng Yoke Yee</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:cheng_yoke_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_yoke_yee@schools.gov.sg</a>
-</p>
 <p><strong>Mdm Guan Jing</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
