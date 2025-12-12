@@ -20,6 +20,11 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:koh_li_yun_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_yun_grace@schools.gov.sg</a>
 </p>
+<p><strong>Ms Saw Xue Ting</strong>
+<br>Designation: Subject Head - Student Well-Being
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:xue_ting_saw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xue_ting_saw@schools.gov.sg</u></a>
+</p>
 <p><strong>Mdm Xiao Yan Fei</strong>
 <br>Designation: Senior Teacher - Chinese Language
 <br>Department: Mother Tongue Languages
