@@ -135,6 +135,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="-" rel="noopener noreferrer nofollow" target="_blank">pang_hui_chin@schools.gov.sg</a>
 </p>
+<p><strong>Ms Foo Fang Yu</strong>
+<br>Designation: Subject Head - Partnerships
+<br>Department: Humanities
+<br>Email: <a href="mailto:foo_fang_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_fang_yu@schools.gov.sg</a>
+</p>
 <p><strong>Mrs Ho Yen Peng</strong>
 <br>Designation: Subject Head - Physical Education and CCA
 <br>Department: Physical Education
