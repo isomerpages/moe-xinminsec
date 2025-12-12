@@ -40,11 +40,6 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:tan_annie_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_annie_a@schools.gov.sg</a>
 </p>
-<p><strong>Ms Chua Ai Chen</strong>
-<br>Designation: Teacher
-<br>Department: Science
-<br>Email: <a href="mailto:chua_ai_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ai_chen@schools.gov.sg</a>
-</p>
 <p><strong>Mr Kuo Yu Hsuan</strong>
 <br>Designation: Teacher
 <br>Department: Science
