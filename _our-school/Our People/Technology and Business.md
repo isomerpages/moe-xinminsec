@@ -30,8 +30,3 @@ variant: tiptap
 <br>Department: Technology and Business
 <br>Email: <a href="mailto:norhuda_maksum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhuda_maksum@schools.gov.sg</a>
 </p>
-<p><strong>Ms Tan Lay Lay</strong>
-<br>Designation: Teacher
-<br>Department: Technology and Business
-<br>Email: <a href="mailto:tan_lay_lay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_lay@schools.gov.sg</a>
-</p>
