@@ -91,17 +91,17 @@ variant: tiptap
 <br>Email: <a href="mailto:ho_li_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_ying@schools.gov.sg</a>
 </p>
 <p><strong>Mr Zhang Hua'an Noah</strong>
-<br>Designation: Assistant Year Head - Sec 1
+<br>Designation: Assistant Year Head - Sec 2
 <br>Department: Humanities
 <br>Email: <a href="mailto:zhang_huaan_noah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_huaan_noah@schools.gov.sg</a>
 </p>
 <p><strong>Ms Teo Sze Ying</strong>
-<br>Designation: Assistant Year Head - Sec 2
+<br>Designation: Assistant Year Head - Sec 3
 <br>Department: Humanities
 <br>Email: <a href="mailto:teo_sze_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sze_ying@schools.gov.sg</a>
 </p>
 <p><strong>Ms Hsu Xin Ying Una</strong>
-<br>Designation: Assistant Year Head - Sec 3
+<br>Designation: Assistant Year Head - Sec 4/5
 <br>Department: Science
 <br>Email: <a href="mailto:xin_ying_una_hsu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_ying_una_hsu@schools.gov.sg</a>
 </p>
