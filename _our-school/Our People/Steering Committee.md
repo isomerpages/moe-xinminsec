@@ -127,8 +127,8 @@ variant: tiptap
 </p>
 <p><strong>Ms Seah Li Ping</strong>
 <br>Designation: Subject Head - Educational Technology
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:shee_shi_min_shermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shee_shi_min_shermaine@schools.gov.sg</a>
+<br>Department: Aesthetics and Applied Science
+<br>Email: <a href="mailto:seah_li_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_li_ping@schools.gov.sg</a>
 </p>
 <p><strong>Ms Shee Shi Min Shermaine</strong>
 <br>Designation: Subject Head - English Language and Literature
