@@ -21,7 +21,7 @@ variant: tiptap
 <br>Email: <a href="mailto:kristine_anne_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kristine_anne_koh@schools.gov.sg</a>
 </p>
 <p><strong>Ms Hsu Xin Ying Una</strong>
-<br>Designation: Assistant Year Head - Sec 3
+<br>Designation: Assistant Year Head - Sec 4/5
 <br>Department: Science
 <br>Email: <a href="mailto:xin_ying_una_hsu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_ying_una_hsu@schools.gov.sg</a>
 </p>
