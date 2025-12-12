@@ -20,11 +20,6 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:lim_yen_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yen_peng@schools.gov.sg</a>
 </p>
-<p><strong>Mr Ganesan Selvarathnam</strong>
-<br>Designation: Subject Head - Student Management (Acting)
-<br>Department: Physical Education
-<br>Email: <a href="mailto:ganesan_selvarathnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_selvarathnam@schools.gov.sg</a>
-</p>
 <p><strong>Ms Estee See Toh Sijia</strong>
 <br>Designation: Teacher
 <br>Department: Physical Education
