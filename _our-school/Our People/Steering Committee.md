@@ -160,6 +160,11 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:kristine_anne_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kristine_anne_koh@schools.gov.sg</a>
 </p>
+<p><strong>Ms Saw Xue Ting</strong>
+<br>Designation: Subject Head - Student Well-Being
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:xue_ting_saw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xue_ting_saw@schools.gov.sg</a>
+</p>
 <p><strong>Ms Indrani Kaliyaperumal</strong>
 <br>Designation: Administration Manager
 <br>Department: Administration
