@@ -145,11 +145,6 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:kristine_anne_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kristine_anne_koh@schools.gov.sg</a>
 </p>
-<p><strong>Mr Ganesan Selvarathnam</strong>
-<br>Designation: Subject Head - Student Management (Acting)
-<br>Department: Physical Education
-<br>Email: <a href="mailto:ganesan_selvarathnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_selvarathnam@schools.gov.sg</a>
-</p>
 <p><strong>Ms Indrani Kaliyaperumal</strong>
 <br>Designation: Administration Manager
 <br>Department: Administration
