@@ -45,6 +45,11 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:tan_annie_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_annie_a@schools.gov.sg</a>
 </p>
+<p><strong>Ms Kee Yi-Juan, Ophelia</strong>
+<br>Designation: Teacher
+<br>Department: Science
+<br>Email: <a href="mailto:kee_yijuan_ophelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kee_yijuan_ophelia@schools.gov.sg</a>
+</p>
 <p><strong>Mr Kuo Yu Hsuan</strong>
 <br>Designation: Teacher
 <br>Department: Science
