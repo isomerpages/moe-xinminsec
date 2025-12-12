@@ -65,11 +65,6 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:lai_yee_tyng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_yee_tyng@schools.gov.sg</a>
 </p>
-<p><strong>Mr Lee Kin Meng</strong>
-<br>Designation: Teacher
-<br>Department: Mathematics
-<br>Email: <a href="mailto:lee_kin_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kin_meng_a@schools.gov.sg</a>
-</p>
 <p><strong>Mr Lee Pei Pin Arthur</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
