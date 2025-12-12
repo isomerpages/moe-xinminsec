@@ -125,6 +125,11 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:lu_wenqi_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_wenqi_kevin@schools.gov.sg</a>
 </p>
+<p><strong>Ms Seah Li Ping</strong>
+<br>Designation: Subject Head - Educational Technology
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:shee_shi_min_shermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shee_shi_min_shermaine@schools.gov.sg</a>
+</p>
 <p><strong>Ms Shee Shi Min Shermaine</strong>
 <br>Designation: Subject Head - English Language and Literature
 <br>Department: English Language and Literature
