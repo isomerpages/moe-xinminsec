@@ -45,11 +45,6 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:shi_li_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_li_koh@schools.gov.sg</a>
 </p>
-<p><strong>Ms Nanthini Gunasekaran</strong>
-<br>Designation: Teacher
-<br>Department: Humanities
-<br>Email: <a href="mailto:nanthini_gunasekaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nanthini_gunasekaran@schools.gov.sg</a>
-</p>
 <p><strong>Ms Nur Amalina Bte Mohamed</strong>
 <br>Designation: Teacher
 <br>Department: Humanities
