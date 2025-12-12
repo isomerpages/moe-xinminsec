@@ -73,7 +73,7 @@ variant: tiptap
 <p><strong>Ms Koh Li Yun, Grace</strong>
 <br>Designation: Lead Teacher – Chinese Language
 <br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:amy_luisita@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amy_luisita@schools.gov.sg</u></a>
+<br>Email: <a href="mailto:koh_li_yun_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_yun_grace@schools.gov.sg</a>
 </p>
 <p><strong>Ms Sharon Ong Ling Hui</strong>
 <br>Designation: School Staff Developer
