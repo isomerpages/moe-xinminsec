@@ -21,12 +21,12 @@ variant: tiptap
 <br>Email: <a href="mailto:foo_fang_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_fang_yu@schools.gov.sg</a>
 </p>
 <p><strong>Mr Zhang Hua'an Noah</strong>
-<br>Designation: Assistant Year Head - Sec 1
+<br>Designation: Assistant Year Head - Sec 2
 <br>Department: Humanities
 <br>Email: <a href="mailto:zhang_huaan_noah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_huaan_noah@schools.gov.sg</a>
 </p>
 <p><strong>Ms Teo Sze Ying</strong>
-<br>Designation: Assistant Year Head - Sec 2
+<br>Designation: Assistant Year Head - Sec 3
 <br>Department: Humanities
 <br>Email: <a href="mailto:teo_sze_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sze_ying@schools.gov.sg</a>
 </p>
