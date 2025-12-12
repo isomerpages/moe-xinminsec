@@ -70,11 +70,6 @@ variant: tiptap
 <br>Department: Technology and Business
 <br>Email: <a href="mailto:lee_foo_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_foo_yong@schools.gov.sg</a>
 </p>
-<p><strong>Mrs Amy Luisita</strong>
-<br>Designation: Lead Teacher – English Language &amp; Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:amy_luisita@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amy_luisita@schools.gov.sg</u></a>
-</p>
 <p><strong>Ms Sharon Ong Ling Hui</strong>
 <br>Designation: School Staff Developer
 <br>Department: English Language and Literature
