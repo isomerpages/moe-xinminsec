@@ -15,6 +15,11 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:tan_sheng_ting_heidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sheng_ting_heidi@schools.gov.sg</a>
 </p>
+<p><strong>Ms Foo Fang Yu</strong>
+<br>Designation: Subject Head - Partnerships
+<br>Department: Humanities
+<br>Email: <a href="mailto:foo_fang_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_fang_yu@schools.gov.sg</a>
+</p>
 <p><strong>Mr Zhang Hua'an Noah</strong>
 <br>Designation: Assistant Year Head - Sec 1
 <br>Department: Humanities
