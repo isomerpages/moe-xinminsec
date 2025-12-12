@@ -80,6 +80,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:lee_pei_pin_arthur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_pin_arthur@schools.gov.sg</a>
 </p>
+<p><strong>Ms Low Pei Yun</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:low_pei_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_pei_yun@schools.gov.sg</a>
+</p>
 <p><strong>Mr Tok Hong Da</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
