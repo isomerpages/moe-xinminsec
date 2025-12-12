@@ -85,6 +85,11 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:tiffany_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiffany_lim@schools.gov.sg</a>
 </p>
+<p><strong>Ms Ho Li Ying</strong>
+<br>Designation: Assistant Year Head - Sec 1
+<br>Department: Science
+<br>Email: <a href="mailto:ho_li_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_ying@schools.gov.sg</a>
+</p>
 <p><strong>Mr Zhang Hua'an Noah</strong>
 <br>Designation: Assistant Year Head - Sec 1
 <br>Department: Humanities
