@@ -15,6 +15,11 @@ variant: tiptap
 <br>Department: Aesthetics and Applied Science
 <br>Email: <a href="mailto:liew_ziyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_ziyi@schools.gov.sg</a>
 </p>
+<p><strong>Ms Seah Li Ping</strong>
+<br>Designation: Subject Head - Educational Technology
+<br>Department: Aesthetics and Applied Science
+<br>Email: <a href="mailto:seah_li_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_li_ping@schools.gov.sg</a>
+</p>
 <p><strong>Mr Ang Choon Peng</strong>
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
