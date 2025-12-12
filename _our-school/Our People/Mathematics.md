@@ -50,6 +50,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:JEROME_LEONG_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jerome_leong_a@schools.gov.sg</a>
 </p>
+<p><strong>Ms Joanne Kong Min</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:joanne_kong_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joanne_kong_min@schools.gov.sg</u></a>
+</p>
 <p><strong>Mr Kan Kong Keat</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
