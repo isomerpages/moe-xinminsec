@@ -33,7 +33,7 @@ variant: tiptap
 <p><strong>Ms Foo Fang Yu</strong>
 <br>Designation: Subject Head - Partnerships
 <br>Department: Humanities
-<br>Email: <a href="mailto:foo_fang_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_fang_yu@schools.gov.sg</a>
+<br>Email: <a href="foo_fang_yu_a@schools.gov.sg" rel="noopener nofollow" target="_blank">foo_fang_yu_a@schools.gov.sg</a>
 </p>
 <p><strong>Ms Gwyneth Chua Li Shan</strong>
 <br>Designation: Senior Teacher - History (Acting)
