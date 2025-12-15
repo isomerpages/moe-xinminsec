@@ -111,7 +111,7 @@ variant: tiptap
 <br>Email: <a href="mailto:xin_ying_una_hsu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_ying_una_hsu@schools.gov.sg</a>
 </p>
 <p><strong>Mr Low Chee Lum, Benjamin</strong>
-<br>Designation: Subject Head - 21st Century Competencies (21cc)
+<br>Designation: Subject Head - 21st Century Competencies (21CC)
 <br>Department: Mathematics
 <br>Email: <a href="mailto:low_chee_lum_benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_lum_benjamin@schools.gov.sg</a>
 </p>
