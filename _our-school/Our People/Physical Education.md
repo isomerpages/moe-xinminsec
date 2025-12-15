@@ -20,6 +20,11 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:lim_yen_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yen_peng@schools.gov.sg</a>
 </p>
+<p><strong>Mr Dexter Fong Jin Meng</strong>
+<br>Designation: Teacher
+<br>Department: Physical Education
+<br>Email: <a href="dexter_fong_jin_meng@schools.gov.sg" rel="noopener nofollow" target="_blank">dexter_fong_jin_meng@schools.gov.sg</a>
+</p>
 <p><strong>Ms Estee See Toh Sijia</strong>
 <br>Designation: Teacher
 <br>Department: Physical Education
