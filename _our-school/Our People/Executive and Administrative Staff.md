@@ -105,13 +105,13 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:muhammad_fariduddin_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_fariduddin_yusoff@schools.gov.sg</a>
 </p>
-<p><strong>Mr Yap Hock Heng</strong>
-<br>Designation: Desktop Engineer
-<br>Department: Information Technology
-<br>Email: <a href="mailto:macgyver.yap@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">macgyver.yap@ncs.com.sg</a>
-</p>
 <p><strong>Mr Hazin Bin Masri</strong>
 <br>Designation: Desktop Engineer
 <br>Department: Information Technology
 <br>Email: <a href="mailto:hazin.binmasri@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">hazin.binmasri@ncs.com.sg</a>
+</p>
+<p><strong>Mr Yap Hock Heng</strong>
+<br>Designation: Desktop Engineer
+<br>Department: Information Technology
+<br>Email: <a href="mailto:macgyver.yap@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">macgyver.yap@ncs.com.sg</a>
 </p>
