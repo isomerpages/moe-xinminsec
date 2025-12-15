@@ -35,15 +35,15 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:foo_fang_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_fang_yu@schools.gov.sg</a>
 </p>
+<p><strong>Ms Gwyneth Chua Li Shan</strong>
+<br>Designation: Senior Teacher - History (Acting)
+<br>Department: Humanities
+<br>Email: <a href="mailto:chua_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_shan@schools.gov.sg</a>
+</p>
 <p><strong>Ms Emily Lim Xin Yi</strong>
 <br>Designation: Teacher
 <br>Department: Humanities
 <br>Email: <a href="mailto:emily_lim_xin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emily_lim_xin_yi@schools.gov.sg</a>
-</p>
-<p><strong>Ms Gwyneth Chua Li Shan</strong>
-<br>Designation: Teacher
-<br>Department: Humanities
-<br>Email: <a href="mailto:chua_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_shan@schools.gov.sg</a>
 </p>
 <p><strong>Ms Koh Shi Li</strong>
 <br>Designation: Teacher
