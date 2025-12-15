@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>Sec 1</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklist/2026/Sec_1_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
+<p><a href="/files/Booklist/2026/Sec_1_Booklist_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
 </p>
 </li>
 </ul>
