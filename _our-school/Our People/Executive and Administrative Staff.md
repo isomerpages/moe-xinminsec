@@ -110,3 +110,8 @@ variant: tiptap
 <br>Department: Information Technology
 <br>Email: <a href="mailto:macgyver.yap@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">macgyver.yap@ncs.com.sg</a>
 </p>
+<p><strong>Mr Hazin Bin Masri</strong>
+<br>Designation: Desktop Engineer
+<br>Department: Information Technology
+<br>Email: <a href="mailto:hazin.binmasri@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">hazin.binmasri@ncs.com.sg</a>
+</p>
