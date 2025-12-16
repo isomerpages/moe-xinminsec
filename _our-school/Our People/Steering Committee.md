@@ -106,7 +106,7 @@ variant: tiptap
 <br>Email: <a href="mailto:teo_sze_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sze_ying@schools.gov.sg</a>
 </p>
 <p><strong>Ms Hsu Xin Ying Una</strong>
-<br>Designation: Assistant Year Head - Sec 4/5
+<br>Designation: Assistant Year Head - Sec 4 and 5
 <br>Department: Science
 <br>Email: <a href="mailto:xin_ying_una_hsu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_ying_una_hsu@schools.gov.sg</a>
 </p>
