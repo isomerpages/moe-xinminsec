@@ -536,4 +536,21 @@ for G3 Chinese Language or G3 Malay Language at the end of Secondary 1.</p>
 Malay Language at Secondary 3, students should score subject overall* ≥75%
 for G3 Chinese Language or G3 Malay Language at the end of Secondary 2.</p>
 <p>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</p>
-<p></p>
+<h3>Progression to Upper Secondary</h3>
+<p>At the end of Secondary 2 and Secondary 3, students need to meet the academic
+requirement to offer subjects at the same subject levels in the following
+year.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Academic Requirement</u></strong>: Pass^ (a) EL and 2 subjects,
+or (b) at least half the total number of examinable subjects* offered.</p>
+</li>
+<li>
+<p>Students who do not meet the academic requirement are to offer fewer subjects
+and/or offer subjects at a less demanding level (LDL).</p>
+</li>
+</ul>
+<p><em>^ ‘Pass’ refers to subject overall mark of at least 50%, regardless of subject level.</em>
+</p>
+<p><em>* ‘Examinable subjects’ do not include CCE, PE and lower secondary Music.</em>
+</p>
