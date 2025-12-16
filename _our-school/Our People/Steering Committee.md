@@ -40,11 +40,6 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:singh_hardev@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">singh_hardev@schools.gov.sg</a>
 </p>
-<p><strong>Ms Lim Tze Ting Jasmine</strong>
-<br>Designation: Head of Department - English Language and Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:lim_tze_ting_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ting_jasmine@schools.gov.sg</a>
-</p>
 <p><strong>Ms Lim Aiwen Bernadine</strong>
 <br>Designation: Head of Department - Humanities
 <br>Department: Humanities
@@ -54,11 +49,6 @@ variant: tiptap
 <br>Designation: Head of Department - Mathematics
 <br>Department: Mathematics
 <br>Email: <a href="mailto:chua_chee_pheng_johnson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chee_pheng_johnson@schools.gov.sg</a>
-</p>
-<p><strong>Ms Li Jiaying</strong>
-<br>Designation: Head of Department - Mother Tongue Languages
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:li_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_jiaying@schools.gov.sg</a>
 </p>
 <p><strong>Mr Tan Kian Seng Jeremy</strong>
 <br>Designation: Head of Department - Physical Education and CCA
@@ -70,15 +60,20 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:estella_chin_ning@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">estella_chin_ning@schools.gov.sg</a>
 </p>
+<p><strong>Ms Li Jiaying</strong>
+<br>Designation: Head of Department - Special Projects
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:li_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_jiaying@schools.gov.sg</a>
+</p>
 <p><strong>Mr Lee Foo Yong</strong>
 <br>Designation: Head of Department - Technology and Business
 <br>Department: Technology and Business
 <br>Email: <a href="mailto:lee_foo_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_foo_yong@schools.gov.sg</a>
 </p>
-<p><strong>Mrs Amy Luisita</strong>
-<br>Designation: Lead Teacher – English Language &amp; Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:amy_luisita@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>amy_luisita@schools.gov.sg</u></a>
+<p><strong>Ms Koh Li Yun, Grace</strong>
+<br>Designation: Lead Teacher – Chinese Language
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:koh_li_yun_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_yun_grace@schools.gov.sg</a>
 </p>
 <p><strong>Ms Sharon Ong Ling Hui</strong>
 <br>Designation: School Staff Developer
@@ -95,23 +90,28 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:tiffany_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tiffany_lim@schools.gov.sg</a>
 </p>
-<p><strong>Mr Zhang Hua'an Noah</strong>
+<p><strong>Ms Ho Li Ying</strong>
 <br>Designation: Assistant Year Head - Sec 1
+<br>Department: Science
+<br>Email: <a href="mailto:ho_li_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_ying@schools.gov.sg</a>
+</p>
+<p><strong>Mr Zhang Hua'an Noah</strong>
+<br>Designation: Assistant Year Head - Sec 2
 <br>Department: Humanities
 <br>Email: <a href="mailto:zhang_huaan_noah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_huaan_noah@schools.gov.sg</a>
 </p>
 <p><strong>Ms Teo Sze Ying</strong>
-<br>Designation: Assistant Year Head - Sec 2
+<br>Designation: Assistant Year Head - Sec 3
 <br>Department: Humanities
 <br>Email: <a href="mailto:teo_sze_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sze_ying@schools.gov.sg</a>
 </p>
 <p><strong>Ms Hsu Xin Ying Una</strong>
-<br>Designation: Assistant Year Head - Sec 3
+<br>Designation: Assistant Year Head - Sec 4/5
 <br>Department: Science
 <br>Email: <a href="mailto:xin_ying_una_hsu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_ying_una_hsu@schools.gov.sg</a>
 </p>
 <p><strong>Mr Low Chee Lum, Benjamin</strong>
-<br>Designation: Assistant Year Head - Sec 4/5
+<br>Designation: Subject Head - 21st Century Competencies (21CC)
 <br>Department: Mathematics
 <br>Email: <a href="mailto:low_chee_lum_benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_lum_benjamin@schools.gov.sg</a>
 </p>
@@ -124,6 +124,11 @@ variant: tiptap
 <br>Designation: Subject Head - Character and Citizenship Education
 <br>Department: Humanities
 <br>Email: <a href="mailto:lu_wenqi_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lu_wenqi_kevin@schools.gov.sg</a>
+</p>
+<p><strong>Ms Seah Li Ping</strong>
+<br>Designation: Subject Head - Educational Technology
+<br>Department: Aesthetics and Applied Science
+<br>Email: <a href="mailto:seah_li_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_li_ping@schools.gov.sg</a>
 </p>
 <p><strong>Ms Shee Shi Min Shermaine</strong>
 <br>Designation: Subject Head - English Language and Literature
@@ -145,6 +150,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="-" rel="noopener noreferrer nofollow" target="_blank">pang_hui_chin@schools.gov.sg</a>
 </p>
+<p><strong>Ms Foo Fang Yu</strong>
+<br>Designation: Subject Head - Partnerships
+<br>Department: Humanities
+<br>Email: <a href="mailto:foo_fang_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_fang_yu@schools.gov.sg</a>
+</p>
 <p><strong>Mrs Ho Yen Peng</strong>
 <br>Designation: Subject Head - Physical Education and CCA
 <br>Department: Physical Education
@@ -155,10 +165,10 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:kristine_anne_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kristine_anne_koh@schools.gov.sg</a>
 </p>
-<p><strong>Mr Ganesan Selvarathnam</strong>
-<br>Designation: Subject Head - Student Management (Acting)
-<br>Department: Physical Education
-<br>Email: <a href="mailto:ganesan_selvarathnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_selvarathnam@schools.gov.sg</a>
+<p><strong>Ms Saw Xue Ting</strong>
+<br>Designation: Subject Head - Student Well-Being
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:xue_ting_saw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xue_ting_saw@schools.gov.sg</a>
 </p>
 <p><strong>Ms Indrani Kaliyaperumal</strong>
 <br>Designation: Administration Manager

@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
-<p><strong>Ms Amy Luisita</strong>
-<br>Designation: Lead Teacher - English Language and Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:amy_luisita@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amy_luisita@schools.gov.sg</a>
+<p><strong>Ms Koh Li Yun, Grace</strong>
+<br>Designation: Lead Teacher – Chinese Language
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:koh_li_yun_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_yun_grace@schools.gov.sg</a>
 </p>
 <p><strong>Mr Michael Rodrigues</strong>
 <br>Designation: Senior Teacher - Biology
@@ -24,6 +24,11 @@ third_nav_title: Our People
 <br>Designation: Senior Teacher - Chinese Language
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:xiao_yanfei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yanfei@schools.gov.sg</a>
+</p>
+<p><strong>Ms Gwyneth Chua Li Shan</strong>
+<br>Designation: Senior Teacher - History (Acting)
+<br>Department: Humanities
+<br>Email: <a href="mailto:chua_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_shan@schools.gov.sg</a>
 </p>
 <p><strong>Mdm Norliza Bte Ali</strong>
 <br>Designation: Senior Teacher - Malay Language

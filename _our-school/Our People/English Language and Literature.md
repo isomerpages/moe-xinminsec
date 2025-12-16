@@ -5,16 +5,6 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p><strong>Ms Lim Tze Ting Jasmine</strong>
-<br>Designation: Head of Department - English Language and Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:lim_tze_ting_jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tze_ting_jasmine@schools.gov.sg</a>
-</p>
-<p><strong>Ms Amy Luisita</strong>
-<br>Designation: Lead Teacher - English Language and Literature
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:amy_luisita@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amy_luisita@schools.gov.sg</a>
-</p>
 <p><strong>Ms Sharon Ong Ling Hui</strong>
 <br>Designation: School Staff Developer
 <br>Department: English Language and Literature
@@ -45,6 +35,11 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:chia_yen_har_junice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_yen_har_junice@schools.gov.sg</a>
 </p>
+<p><strong>Ms Chua Mei Ching Wendy</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:chua_mei_ching_wendy_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_mei_ching_wendy_a@schools.gov.sg</a>
+</p>
 <p><strong>Ms Ee Ai Lin</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
@@ -69,6 +64,11 @@ variant: tiptap
 <br>Designation: Teacher
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:nur_ellyana_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ellyana_roslan@schools.gov.sg</a>
+</p>
+<p><strong>Ms Quek Suan Shiau</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:quek_suan_shiau_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_suan_shiau_b@schools.gov.sg</a>
 </p>
 <p><strong>Ms Teoh Yu Han</strong>
 <br>Designation: Teacher

@@ -20,10 +20,10 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:lim_yen_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yen_peng@schools.gov.sg</a>
 </p>
-<p><strong>Mr Ganesan Selvarathnam</strong>
-<br>Designation: Subject Head - Student Management (Acting)
+<p><strong>Mr Dexter Fong Jin Meng</strong>
+<br>Designation: Teacher
 <br>Department: Physical Education
-<br>Email: <a href="mailto:ganesan_selvarathnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_selvarathnam@schools.gov.sg</a>
+<br>Email: <a href="dexter_fong_jin_meng@schools.gov.sg" rel="noopener nofollow" target="_blank">dexter_fong_jin_meng@schools.gov.sg</a>
 </p>
 <p><strong>Ms Estee See Toh Sijia</strong>
 <br>Designation: Teacher
@@ -40,8 +40,13 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:loo_pek_hee_elias@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_pek_hee_elias@schools.gov.sg</a>
 </p>
+<p><strong>Ms Lim Tiam Kwee Jenny</strong>
+<br>Designation: Teacher
+<br>Department: Physical Education
+<br>Email: <a href="mailto:lim_tiam_kwee_jenny_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_tiam_kwee_jenny_a@schools.gov.sg</a>
+</p>
 <p><strong>Mrs Shanti Teo</strong>
 <br>Designation: Teacher
 <br>Department: Physical Education
-<br>Email: <a href="mailto:shanti_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanti_b@schools.gov.sg</a>
+<br>Email: <a href="mailto:dexter_fong_jin_meng@schools.gov.sg" rel="noopener nofollow" target="_blank">dexter_fong_jin_meng@schools.gov.sg</a>
 </p>

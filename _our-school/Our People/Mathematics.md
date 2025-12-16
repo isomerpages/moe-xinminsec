@@ -21,7 +21,7 @@ variant: tiptap
 <br>Email: <a href="mailto:pang_hui_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_hui_chin@schools.gov.sg</a>
 </p>
 <p><strong>Mr Low Chee Lum, Benjamin</strong>
-<br>Designation: Assistant Year Head - Sec 4/5
+<br>Designation: Subject Head - 21st Century Competencies (21CC)
 <br>Department: Mathematics
 <br>Email: <a href="mailto:low_chee_lum_benjamin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_chee_lum_benjamin@schools.gov.sg</a>
 </p>
@@ -45,15 +45,15 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:goy_wee_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goy_wee_seng@schools.gov.sg</a>
 </p>
+<p><strong>Mr Jerome Leong</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:JEROME_LEONG_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jerome_leong_a@schools.gov.sg</a>
+</p>
 <p><strong>Ms Joanne Kong Min</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
-<br>Email: <a href="mailto:joanne_kong_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_kong_min@schools.gov.sg</a>
-</p>
-<p><strong>Mr Kan Kong Keat</strong>
-<br>Designation: Teacher
-<br>Department: Mathematics
-<br>Email: <a href="mailto:kan_kong_keat_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kan_kong_keat_b@schools.gov.sg</a>
+<br>Email: <a href="mailto:joanne_kong_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joanne_kong_min@schools.gov.sg</u></a>
 </p>
 <p><strong>Ms Koh Xue Ting</strong>
 <br>Designation: Teacher
@@ -65,15 +65,15 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:lai_yee_tyng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_yee_tyng@schools.gov.sg</a>
 </p>
-<p><strong>Mr Lee Kin Meng</strong>
-<br>Designation: Teacher
-<br>Department: Mathematics
-<br>Email: <a href="mailto:lee_kin_meng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kin_meng_a@schools.gov.sg</a>
-</p>
 <p><strong>Mr Lee Pei Pin Arthur</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
 <br>Email: <a href="mailto:lee_pei_pin_arthur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_pin_arthur@schools.gov.sg</a>
+</p>
+<p><strong>Ms Low Pei Yun</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:low_pei_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_pei_yun@schools.gov.sg</a>
 </p>
 <p><strong>Mr Tok Hong Da</strong>
 <br>Designation: Teacher

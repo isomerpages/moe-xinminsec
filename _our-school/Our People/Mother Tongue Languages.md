@@ -5,15 +5,25 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<p><strong>Ms Li Jiaying</strong>
-<br>Designation: Head of Department - Mother Tongue Languages
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:li_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_jiaying@schools.gov.sg</a>
-</p>
 <p><strong>Ms Chong Xing Le Carol</strong>
 <br>Designation: Head of Department - Character and Citizenship Education
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:chong_xing_le_carol@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_xing_le_carol@schools.gov.sg</a>
+</p>
+<p><strong>Ms Li Jiaying</strong>
+<br>Designation: Head of Department - Special Projects
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:li_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_jiaying@schools.gov.sg</a>
+</p>
+<p><strong>Ms Koh Li Yun, Grace</strong>
+<br>Designation: Lead Teacher – Chinese Language
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:koh_li_yun_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_li_yun_grace@schools.gov.sg</a>
+</p>
+<p><strong>Ms Saw Xue Ting</strong>
+<br>Designation: Subject Head - Student Well-Being
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:xue_ting_saw@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xue_ting_saw@schools.gov.sg</u></a>
 </p>
 <p><strong>Mdm Xiao Yan Fei</strong>
 <br>Designation: Senior Teacher - Chinese Language
@@ -29,11 +39,6 @@ variant: tiptap
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:ang_koon_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_koon_yong@schools.gov.sg</a>
-</p>
-<p><strong>Ms Cheng Yoke Yee</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:cheng_yoke_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_yoke_yee@schools.gov.sg</a>
 </p>
 <p><strong>Mdm Guan Jing</strong>
 <br>Designation: Teacher
@@ -55,6 +60,11 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:nor_ain_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_ain_ismail@schools.gov.sg</a>
 </p>
+<p><strong>Ms Norehda Binte Sold</strong>
+<br>Designation: Teacher
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:norehda_sold_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norehda_sold_b@schools.gov.sg</a>
+</p>
 <p><strong>Ms Nur Fatimah Binte Khalid</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
@@ -69,6 +79,11 @@ variant: tiptap
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:siaw_pey_shin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siaw_pey_shin@schools.gov.sg</a>
+</p>
+<p><strong>Ms Thang Tech Meng Maureen</strong>
+<br>Designation: Teacher
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:thang_teck_meng_maureen_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thang_teck_meng_maureen_a@schools.gov.sg</a>
 </p>
 <p><strong>Ms Wong Siew Har</strong>
 <br>Designation: Teacher

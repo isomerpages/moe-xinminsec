@@ -20,8 +20,13 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:kristine_anne_koh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kristine_anne_koh@schools.gov.sg</a>
 </p>
+<p><strong>Ms Ho Li Ying</strong>
+<br>Designation: Assistant Year Head - Sec 1
+<br>Department: Science
+<br>Email: <a href="mailto:ho_li_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_ying@schools.gov.sg</a>
+</p>
 <p><strong>Ms Hsu Xin Ying Una</strong>
-<br>Designation: Assistant Year Head - Sec 3
+<br>Designation: Assistant Year Head - Sec 4/5
 <br>Department: Science
 <br>Email: <a href="mailto:xin_ying_una_hsu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xin_ying_una_hsu@schools.gov.sg</a>
 </p>
@@ -40,10 +45,10 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:tan_annie_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_annie_a@schools.gov.sg</a>
 </p>
-<p><strong>Ms Chua Ai Chen</strong>
+<p><strong>Ms Kee Yi-Juan, Ophelia</strong>
 <br>Designation: Teacher
 <br>Department: Science
-<br>Email: <a href="mailto:chua_ai_chen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ai_chen@schools.gov.sg</a>
+<br>Email: <a href="mailto:kee_yijuan_ophelia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kee_yijuan_ophelia@schools.gov.sg</a>
 </p>
 <p><strong>Mr Kuo Yu Hsuan</strong>
 <br>Designation: Teacher
@@ -75,10 +80,10 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:oh_hwee_kiang_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oh_hwee_kiang_cindy@schools.gov.sg</a>
 </p>
-<p><strong>Ms Poey Xuan Ru</strong>
+<p><strong>Mr Teh Chin Foo</strong>
 <br>Designation: Teacher
 <br>Department: Science
-<br>Email: <a href="mailto:poey_xuan_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poey_xuan_ru@schools.gov.sg</a>
+<br>Email: <a href="mailto:teh_chin_foo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chin_foo_b@schools.gov.sg</a>
 </p>
 <p><strong>Ms Tham Lai Paik Nicole</strong>
 <br>Designation: Teacher

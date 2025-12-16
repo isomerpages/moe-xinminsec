@@ -10,11 +10,6 @@ variant: tiptap
 <br>Department: Student Support Team
 <br>Email: <a href="mailto:lee_chye_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chye_poh@schools.gov.sg</a>
 </p>
-<p><strong>Ms Liew Li Lian</strong>
-<br>Designation: Senior Special Educational Needs Officer
-<br>Department: Student Support Team
-<br>Email: <a href="mailto:liew_li_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_li_lian@schools.gov.sg</a>
-</p>
 <p><strong>Ms Gan Wei Ling</strong>
 <br>Designation: Senior Student Welfare Officer
 <br>Department: Student Support Team
@@ -24,4 +19,9 @@ variant: tiptap
 <br>Designation: Education &amp; Career Guidance Counsellor
 <br>Department: Student Support Team
 <br>Email: <a href="mailto:ng_hui_fong_catherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_fong_catherine@schools.gov.sg</a>
+</p>
+<p><strong>Ms Nora Fernandez</strong>
+<br>Designation: Special Educational Needs Officer
+<br>Department: Student Support Team
+<br>Email: <a href="mailto:nora_fernandez_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nora_fernandez_c@schools.gov.sg</a>
 </p>
