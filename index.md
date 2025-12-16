@@ -53,6 +53,16 @@ sections:
       image: /images/Announcement Front Images/Curious, Compassion
         Confident/leader.jpg
       alt: Image alt text
+  - infopic:
+      title: Our Official Social Media Pages
+      id: infopic
+      description: Follow our official Instagram page (@xinminss) and Facebook page
+        (@xinminsec) for the latest updates on the vibrant learning experiences
+        at Xinmin!
+      button: Find out more
+      url: https://www.instagram.com/xinminss/
+      image: /images/XMS_IG.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       id: resources
