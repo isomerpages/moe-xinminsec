@@ -99,9 +99,8 @@ variant: tiptap
 can take core subjects at three subject levels, known as G1, G2, G3 (G
 stands for General), mapped from the previous N(T), N(A), and Express standards
 respectively. Students will have the flexibility to adjust their subject
-levels at appropriate junctures, based on their readiness, strengths, interests
-and learning needs. Students will subsequently access post-secondary pathways
-based on their various subjects and subject level combinations.</p>
+levels at appropriate junctures, based on their readiness, strengths, interests,
+and learning needs. Students will subsequently access <a href="https://sites.google.com/xinminss.edu.sg/xms-subjectcombi/updates-to-post-sec-pathways" rel="noopener nofollow" target="_blank">post-secondary pathways based on their various subjects and subject level combinations</a>.</p>
 <p><strong>Common Curriculum Subjects</strong>
 <br>Xinmin students will be placed in mixed form classes at lower secondary
 where they can interact with peers of different strengths and interests
@@ -209,7 +208,7 @@ Competencies.</p>
 </li>
 <li>
 <p>Acquire 21st Century skills in AI, digital literacy, problem-solving,
-and creative thinking through eco sustainability challenges.</p>
+and creative thinking through eco-sustainability challenges.</p>
 </li>
 </ol>
 <p><strong>RefleXions@Xinmin</strong>
@@ -452,13 +451,13 @@ primary to secondary school and provide time for them to adjust to the
 curriculum, all students will generally progress to Secondary 2.</p>
 </li>
 <li>
-<p>The lower secondary programme spans over 2 years so students will continue
+<p>The lower secondary programme spans two years, so students will continue
 the same set of subjects taken in Secondary 1.</p>
 </li>
 <li>
 <p>Students who were offered English, MTL, Mathematics, and/or Science at
-MDL in Secondary 1 will continue to take them at Secondary 2. Those who
-performed well for the Humanities in Secondary 1 will have the opportunity
+MDL in Secondary 1 will continue to take them at MDL at Secondary 2. Those
+who performed well in the Humanities in Secondary 1 will have the opportunity
 to offer at least History, Geography, or Literature at MDL in Secondary
 2, as explained above.</p>
 </li>
@@ -535,7 +534,8 @@ for G3 Chinese Language or G3 Malay Language at the end of Secondary 1.</p>
 <p>For Secondary 2 students: To offer G3 Higher Chinese Language or G3 Higher
 Malay Language at Secondary 3, students should score subject overall* ≥75%
 for G3 Chinese Language or G3 Malay Language at the end of Secondary 2.</p>
-<p>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</p>
+<p><em>*Subject overall comprises all WAs (40%) and EOY Examination (60%)</em>
+</p>
 <h3>Progression to Upper Secondary</h3>
 <p>At the end of Secondary 2 and Secondary 3, students need to meet the academic
 requirement to offer subjects at the same subject levels in the following
