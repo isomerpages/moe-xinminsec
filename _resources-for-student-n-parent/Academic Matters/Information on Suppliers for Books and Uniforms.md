@@ -25,7 +25,7 @@ variant: tiptap
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/bookshop_2026.png">
 </div>
 <p><strong>Important:-</strong>
 <br><strong>Please do not purchase any books or uniforms if you are applying for 2026 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
@@ -57,7 +57,7 @@ Thank you for your patience and understanding.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/uniform_2026.png">
 </div>
 <p><strong>Important:-</strong>
 <br><strong>Please do not purchase any books or uniforms if you are applying for 2026 Financial Assistance Scheme with the school. We will not be able to reimburse these school purchases if your FAS application is approved by the school. Thank you.</strong>
