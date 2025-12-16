@@ -11,7 +11,7 @@ to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Equip our students with the necessary and relevant knowledge, skills,
-and values so that you can be better prepared for further education, citizenship,
+and values so that they can be better prepared for further education, citizenship,
 and the world of work; and</p>
 </li>
 <li>
