@@ -222,7 +222,7 @@ Anniversary with Minister for Education Mr Desmond Lee as our Guest-of-Honour.
 Our anniversary theme <em>Decades of Dedication :: Shaping Future Generations</em> (the
 double colon is a mathematical symbol representing equal importance) calls
 on our entire Xinmin family to honour our roots while continuing to look
-ahead to the future.</p>
+ahead to the future. Find out more by visiting <a href="https://sites.google.com/xinminss.edu.sg/ourxms80anniversarywebsite/home" rel="noopener nofollow" target="_blank">our 80th Anniversary microsite</a>!</p>
 <h2>第一章：一切从敢于梦想起步</h2>
 <p>叶帆风先生有这样一个梦想：他想为后港、实龙岗一带的学子提供接受教育的机会。日据时期，许多人没有机会接受教育，目不识丁，有些人则中途辍学。当时的教育体系，上至高等学府，下至幼稚园，招生人数都很有限，而且只有家境富裕子弟享有受教育的机会。</p>
 <p>当时，大多数学校都设立在新加坡的中心商业区，为了让居住在偏远地区的学生有机会接受教育，叶帆风、王振翥、陈春霆三位先生萌起创校壮志。由于大部分家庭一贫如洗，收入微薄，仅够支付日常生活开销，因此筹募创校基金困难重重。为了实现兴校办学的梦想，叶帆风先生卖掉家中养的五头猪，以此租下了实龙岗上段的三间旧洋楼，当年招收了六百二十名学生入学。</p>
@@ -263,5 +263,5 @@ ahead to the future.</p>
 <h2>第八章：新民为学生未来发展的家园</h2>
 <p>2023年，陈顺惠肩负起领导学校的重任。他致力于将新民打造为学生未来发展的家园，也领导学校采用“全面课程”的理念，培养新民学子的才能和品格。</p>
 <p>2025 年对新民来说是一个非常特殊的年份——我们庆祝了成立 80 周年，教育部长李智陞先生作为我们的主宾出席了庆祝晚宴。我们的80周年庆主题是《饮水思源::
-继往开来》 (主题中的两个冒号作为数学符号，代表着同等的分量)，呼吁我们铭记前辈们的辛勤努力，并继续展望未来。</p>
+继往开来》 (主题中的两个冒号作为数学符号，代表着同等的分量)，呼吁我们铭记前辈们的辛勤努力，并继续展望未来。欢迎浏览<a href="https://sites.google.com/xinminss.edu.sg/ourxms80anniversarywebsite/home" rel="noopener nofollow" target="_blank">新民80周年庆的专题网站</a>！</p>
 <p></p>
