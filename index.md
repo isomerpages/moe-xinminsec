@@ -39,7 +39,7 @@ sections:
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/our-curriculum/the-xinmin-learning-experience/
       image: /images/Announcement Front Images/Curious, Compassion
-        Confident/curiouslearner.jpg
+        Confident/curious.jpg
       alt: Image alt text
   - infopic:
       title: Every Xinmin Student a Compassionate Contributor
@@ -50,7 +50,7 @@ sections:
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/programmes/xinmincares/
       image: /images/Announcement Front Images/Curious, Compassion
-        Confident/compassionatecontributor.jpg
+        Confident/compassionate1.jpg
       alt: Image alt text
   - infopic:
       title: Every Xinmin Student a Confident Leader
@@ -61,7 +61,7 @@ sections:
       button: Find out more
       url: https://www.xinminsec.moe.edu.sg/programmes/xinmin-academy-of-leaders/
       image: /images/Announcement Front Images/Curious, Compassion
-        Confident/confidentleader.jpg
+        Confident/confident.jpg
       alt: Image alt text
   - infopic:
       title: Our Official Social Media Pages
