@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Welcome to Xinmin!
       id: infopic
-      description: Dear Parents / Guardians and Students,  Welcome to our Xinmin
+      description: Dear Parents / Guardians and Students,  welcome to our Xinmin
         Family! We are excited to be part of your growth journey. Please check
         the link for key info.
       button: 2026 Secondary 1 Posting
