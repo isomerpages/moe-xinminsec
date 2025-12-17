@@ -21,6 +21,10 @@ sections:
         - title: Prospective Students
           description: ""
           url: /prospective-students/secondary-one-posting/
+  - resources:
+      title: Announcements
+      id: resources
+      button: MORE POSTS
   - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
@@ -63,8 +67,4 @@ sections:
       url: https://www.instagram.com/xinminss/
       image: /images/XMS_IG.jpg
       alt: Image alt text
-  - resources:
-      title: Announcements
-      id: resources
-      button: MORE POSTS
 ---
