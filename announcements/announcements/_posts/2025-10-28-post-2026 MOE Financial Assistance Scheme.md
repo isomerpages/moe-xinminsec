@@ -67,8 +67,13 @@ school at 6288 9382 to check status</p>
 </ul>
 <p><strong>How to Apply</strong>
 </p>
-<p>Apply via eFAS link in 'Financial Assistance' under Services section in
-Parents Gateway or visit <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
+<p><strong>For 2026 Sec 1: </strong>Please download the hard copy application
+form <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and
+submit the completed form with supporting documents to the school general
+office by <strong><u>22 December 2025</u></strong>.&nbsp;</p>
+<p><strong>For existing students: </strong>Apply via eFAS link in 'Financial
+Assistance' under Services section in Parents Gateway or visit&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
 <p><strong>Benefits under MOE FAS</strong>
 </p>
 <p>For more information on the benefits provided under MOE Financial Assistance
