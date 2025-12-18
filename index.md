@@ -24,9 +24,9 @@ sections:
   - infopic:
       title: Welcome to Xinmin!
       id: infopic
-      description: Dear Students and Parents/Guardians,  welcome to our Xinmin Family!
-        We are excited to be part of your growth journey. Please check the link
-        for key info.
+      description: Dear Students and Parents/Guardians, welcome to our Xinmin Family!
+        We are excited to be a part of your growth journey. Please check the
+        link for key info.
       button: 2026 SEC 1 POSTING MICROSITE
       url: https://sites.google.com/xinminss.edu.sg/info-for-2026-sec-1/welcome-to-xinmin
       image: /images/Announcement Front Images/Welcome_Sec_1_img.png
