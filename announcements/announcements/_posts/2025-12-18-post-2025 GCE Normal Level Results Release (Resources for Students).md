@@ -7,3 +7,20 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Students,</p>
+<p>Congratulations on reaching another significant milestone in your life.</p>
+<p>Below are some materials that you may find useful in helping you make
+informed decisions about your next step in your education journey.</p>
+<p>If you have any questions about ECG-related matters, you can contact your
+Form Teachers, Subject Teachers or our ECG Counsellor.</p>
+<p>All the best!</p>
+<p><a href="/files/Announcements/N Level/1__2025_N_Level_Briefing_Slides_final.pdf" rel="noopener nofollow" target="_blank">1) 2025_N_Level_Briefing_Slides_final.pdf</a>
+</p>
+<p><a href="/files/Announcements/N Level/2__2025_N_Level_Pathways_for_Students.pdf" rel="noopener nofollow" target="_blank">2) 2025_N_Level_Pathways_for_Students.pdf</a>
+</p>
+<p><a href="/files/Announcements/N Level/3__2025_N_Level_DPP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">3) 2025_N_Level_DPP_Factsheet_for_Students.pdf</a>
+</p>
+<p><a href="/files/Announcements/N Level/4__2025_N_Level_PFP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">4) 2025_N_Level_PFP_Factsheet_for_Students.pdf</a>
+</p>
+<p><a href="/files/Announcements/N Level/5__2025_N_Level_Infographics_Resource_for_Students.pdf" rel="noopener nofollow" target="_blank">5) 2025_N_Level_Infographics_Resource_for_Students.pdf</a>
+</p>
