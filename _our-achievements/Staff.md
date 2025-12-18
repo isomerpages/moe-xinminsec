@@ -685,6 +685,104 @@ staff who demonstrate desired qualities for service excellence.</p>
 <br>The Outstanding Contribution Awards are given by MOE in recognition of
 significant value-added contributions made by individual staff and teams
 in schools.</p>
+<p><strong>2025</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanities Overseas Trip Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Knowledge Management Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Professional Development Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leadership Development Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Support Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XMS80 Workgroup</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indrani Kaliyaperumal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Qabeer Bin Sulaiman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Hua’an, Noah</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2024</strong>
 </p>
 <table style="minWidth: 50px">
