@@ -73,7 +73,7 @@ submit the completed form with supporting documents to the school general
 office by <strong><u>22 December 2025</u></strong>.&nbsp;</p>
 <p><strong>For existing students: </strong>Apply via eFAS link in 'Financial
 Assistance' under Services section in Parents Gateway or visit&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
 <p><strong>Benefits under MOE FAS</strong>
 </p>
 <p>For more information on the benefits provided under MOE Financial Assistance
