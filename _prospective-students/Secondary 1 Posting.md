@@ -34,17 +34,17 @@ be considered for the transfer.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Posting Group 3: TBC</p>
+<p>Posting Group 3: 8 - 13</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Posting Group 2: TBC</p>
+<p>Posting Group 2: 21 - 23</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Posting Group 1: TBC</p>
+<p>Posting Group 1: 25 - 28</p>
 </td>
 </tr>
 </tbody>
