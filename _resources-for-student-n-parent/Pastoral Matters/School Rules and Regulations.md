@@ -201,4 +201,72 @@ unless explicit permission is given by school management on an exceptional
 basis:</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Smartphone/ Smartwatch Usage</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timetabled activities from 7.25am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recess</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Free periods before the last lesson of the day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timetabled lunch (i.e. there are lessons after lunch)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allowed in</p>
+<p>canteen only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Between last lesson of the day and CCA/after-school activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA and after-school programmes (e.g. supplementary/ enrichment/remedial
+lessons)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
