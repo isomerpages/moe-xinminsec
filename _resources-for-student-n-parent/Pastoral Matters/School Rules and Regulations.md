@@ -676,10 +676,8 @@ of individuals to the good of the community at large.</p>
 <br>Consequences for offences in <strong>Category A</strong> include, but not
 limited to, warning, suspension from class, detention, demerit points appropriate
 restitution, corrective work orders and confiscation:</p>
-<p>&nbsp;</p>
 <p>Digital device offences will result in confiscation of the device and
 demerit points will be commensurate with the frequency of the offence.</p>
-<p>&nbsp;</p>
 <p>For attire offences, immediate corrective action will be taken by the
 school to bring about compliance. These include bringing students for haircut
 and confiscating unauthorised items or apparel.</p>
@@ -712,7 +710,6 @@ to school after suspension will be based on the conditions set by the School
 Management.</p>
 <p>&nbsp;In addition, students may be put on probation, during which they
 may be required to perform community services or responsibility programmes.</p>
-<p>&nbsp;</p>
 <p>Offences that involve violation of the law may be referred to the Police.
 Recalcitrant offenders who do not respond positively to the school’s intervention
 measures may be required to withdraw from school or face expulsion from
