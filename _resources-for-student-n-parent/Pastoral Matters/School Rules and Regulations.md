@@ -437,7 +437,17 @@ will be considered for overseas trips organized by the school.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h3>SCHEDULE OF PROHIBITED ITEMS</h3>
+<p><strong>Schedule A</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pirated or unlicensed materials</p>
+</li>
+<li>
+<p>Electronic entertainment and gaming devices</p>
+</li>
+</ul>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
