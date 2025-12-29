@@ -710,9 +710,8 @@ barred or benched from tournaments/competitions.</p>
 any tests or exams missed as a result of the suspension. &nbsp;Re-admission
 to school after suspension will be based on the conditions set by the School
 Management.</p>
-<p>&nbsp;</p>
-<p>In addition, students may be put on probation, during which they may be
-required to perform community services or responsibility programmes.</p>
+<p>&nbsp;In addition, students may be put on probation, during which they
+may be required to perform community services or responsibility programmes.</p>
 <p>&nbsp;</p>
 <p>Offences that involve violation of the law may be referred to the Police.
 Recalcitrant offenders who do not respond positively to the school’s intervention
