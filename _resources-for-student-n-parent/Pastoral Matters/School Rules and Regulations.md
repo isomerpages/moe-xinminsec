@@ -484,5 +484,250 @@ dangerous for students, such as penknives</p>
 <p>All items prohibited under Singapore Law</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OFFENCE CATEGORIES</strong>
+</p>
+<p>
+<br>Any pupil who violates the school rules will face consequences that commensurate
+with the severity, frequency and manner in which the offence was committed.
+The 3 categories of offences here define the seriousness of the offence.
+<br>
+<br>
+</p>
+<p><strong>TYPE OF OFFENCES</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong>Category A Offences</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A1 – Late for class/lesson/school activity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>A2 – Improper attire/appearance/grooming</p>
+</li>
+<li>
+<p>A3 – Littering/Spitting</p>
+</li>
+<li>
+<p>A4 – Bringing drinks/food out of designated areas</p>
+</li>
+<li>
+<p>A5 – Eating in classrooms</p>
+</li>
+<li>
+<p>A6 – Failure to perform classroom duties</p>
+</li>
+<li>
+<p>A7 – Failure to return utensils in the canteen</p>
+</li>
+<li>
+<p>A8 – Bringing Schedule A items</p>
+</li>
+<li>
+<p>A9 – Unauthorised usage, possession and/or misuse of digital devices (e.g.
+PLDs, laptops, tablets, smartphones, smartwatches)</p>
+</li>
+<li>
+<p>A10 – Using school property/facilities without proper authorisation</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Category B Offences</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B1 – Skipping school activities/lessons</p>
+</li>
+<li>
+<p>B2 – Defaulting on homework/assignments</p>
+</li>
+<li>
+<p>B3 – Late for school&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>B4 – Misbehaving in class</p>
+</li>
+<li>
+<p>B5 – Disrupting class/activities</p>
+</li>
+<li>
+<p>B6 – Instigating/abetting others to commit offences</p>
+</li>
+<li>
+<p>B7 – Rude or disobedient to student leaders</p>
+</li>
+<li>
+<p>B8 – Use of coarse, rude/abusive/vulgar language</p>
+</li>
+<li>
+<p>B9 – Hurtful behaviours</p>
+</li>
+<li>
+<p>B10 – Failure to recite the Student Creed</p>
+</li>
+<li>
+<p>B11 – Lying</p>
+</li>
+<li>
+<p>B12 – Mischief</p>
+</li>
+<li>
+<p>B13 – Bringing Schedule B items</p>
+</li>
+</ul>
 <p></p>
+<p><strong>Category C Offences</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C1 – Repeatedly flouting any school rule/rules</p>
+</li>
+<li>
+<p>C2 – Bringing Schedule C items</p>
+</li>
+<li>
+<p>C3 – Threatening/Bullying/Intimidating others</p>
+</li>
+<li>
+<p>C4 – Smoking/Vaping/Possession of prohibited tobacco products (including
+e-vaporizers)</p>
+</li>
+<li>
+<p>C5 – Consumption of alcohol/drugs/contraband substances</p>
+</li>
+<li>
+<p>C6 – Disobedience/Defiance/Rudeness</p>
+</li>
+<li>
+<p>C7 – Intimate behaviour</p>
+</li>
+<li>
+<p>C8 – Causing hurt</p>
+</li>
+<li>
+<p>C9 – Leaving school without permission</p>
+</li>
+<li>
+<p>C10 – Truancy/Wilful absenteeism</p>
+</li>
+<li>
+<p>C11 – Forging of signature/document</p>
+</li>
+<li>
+<p>C12 – Cheating</p>
+</li>
+<li>
+<p>C13 – Affray/Fighting</p>
+</li>
+<li>
+<p>C14 – Causing public nuisance</p>
+</li>
+<li>
+<p>C15 – Vandalism</p>
+</li>
+<li>
+<p>C16 – Theft/Misappropriation</p>
+</li>
+<li>
+<p>C17 – Joining gangs</p>
+</li>
+<li>
+<p>C18 – Sexual Misconduct</p>
+</li>
+<li>
+<p>C19 – Getting tattoos or body piercings</p>
+</li>
+<li>
+<p>C20 – Committing or abetting security breach</p>
+</li>
+<li>
+<p>C21 – Contravening any Singapore Law</p>
+</li>
+<li>
+<p>C22 – Refusal to sing the National Anthem and/or &nbsp;to recite the Pledge</p>
+</li>
+<li>
+<p>C23 – Defamation of the school, staff, nation or nation’s leaders</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CONSEQUENCES</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>In meting out disciplinary consequences for various offences, the school
+management aims to consider the 3 dimensions of justice listed below. Through
+this approach, and by considering mitigating factors, the school will safeguard
+the principle of fairness.</p>
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commutative Justice governs the relationship
+between one individual and another.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distributive Justice governs the relationship
+between the community as a whole and individuals or smaller groups</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Legal Justice directs the relationship
+of individuals to the good of the community at large.</p>
+<p>
+<br>Consequences for offences in <strong>Category A</strong> include, but not
+limited to, warning, suspension from class, detention, demerit points appropriate
+restitution, corrective work orders and confiscation:</p>
+<p>&nbsp;</p>
+<p>Digital device offences will result in confiscation of the device and
+demerit points will be commensurate with the frequency of the offence.</p>
+<p>&nbsp;</p>
+<p>For attire offences, immediate corrective action will be taken by the
+school to bring about compliance. These include bringing students for haircut
+and confiscating unauthorised items or apparel.</p>
+<p>&nbsp;</p>
+<p>While undergoing suspension or detention, students may be required to
+write reflections, essays or a letter of undertaking promising not to commit
+the offence again and undergo in-house counselling by teachers. Repeat
+offenders may be issued with a formal warning letter and have their offences
+upgraded to Category C.</p>
+<p>&nbsp;</p>
+<p>For <strong>Category B</strong> offences, the measures meted out are similar,
+but more demerit points may be given than those in Category A. In addition,
+parents may be invited to school to meet with teachers to discuss the student’s
+behaviour and further disciplinary actions or follow up.</p>
+<p>&nbsp;</p>
+<p>Students may also be referred for counselling or any other appropriate
+programmes deemed fit by the school management.</p>
+<p>&nbsp;</p>
+<p>The school may partner with external agencies to organise intervention
+programmes which the students will be required to participate in.
+<br>
+<br>
+</p>
+<p>For <strong>Category C</strong> offences, over and above the measures described
+in Category A and B, Category C offences warrant additional demerit points,
+caning and suspension from school.</p>
+<p>&nbsp;</p>
+<p>Students who commit Cat C offences may be demoted from leadership positions,
+barred or benched from tournaments/competitions.</p>
+<p>&nbsp;</p>
+<p>Students who are suspended from school will not be allowed to re-sit any
+tests or exams missed as a result of the suspension. &nbsp;Re-admission
+to school after suspension will be based on the conditions set by the School
+Management.</p>
+<p>&nbsp;</p>
+<p>In addition, students may be put on probation, during which they may be
+required to perform community services or responsibility programmes.</p>
+<p>&nbsp;</p>
+<p>Offences that involve violation of the law may be referred to the Police.
+Recalcitrant offenders who do not respond positively to the school’s intervention
+measures may be required to withdraw from school or face expulsion from
+school.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
