@@ -706,9 +706,8 @@ in Category A and B, Category C offences warrant additional demerit points,
 caning and suspension from school.</p>
 <p>Students who commit Cat C offences may be demoted from leadership positions,
 barred or benched from tournaments/competitions.</p>
-<p>&nbsp;</p>
-<p>Students who are suspended from school will not be allowed to re-sit any
-tests or exams missed as a result of the suspension. &nbsp;Re-admission
+<p>&nbsp;Students who are suspended from school will not be allowed to re-sit
+any tests or exams missed as a result of the suspension. &nbsp;Re-admission
 to school after suspension will be based on the conditions set by the School
 Management.</p>
 <p>&nbsp;</p>
