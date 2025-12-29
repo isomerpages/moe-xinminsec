@@ -12,6 +12,16 @@ students how to uphold standards of behaviour that are acceptable in school
 and society. Overall, the rules and regulations are designed to create
 a safe and secure environment for all students to learn and for staff to
 carry out their duties.</p>
+<p>Respect, kindness, and inclusion are at the heart of our school community.
+It is fundamental to everything we do, shaping how we communicate, collaborate,
+and care for one another. Each member of the community shares the responsibility
+of creating a safe and supportive learning environment built on mutual
+respect and understanding.</p>
+<p>Any form of hurtful behaviour and bullying is wrong and unacceptable.
+Bullying can be cyber, physical, social/relational or verbal in nature.
+We also maintain a zero tolerance policy towards any unlawful or disruptive
+conduct, including intimidation and retaliation in all their forms. We
+will take action when informed of such cases.</p>
 <h3>Respect</h3>
 <ul data-tight="true" class="tight">
 <li>
