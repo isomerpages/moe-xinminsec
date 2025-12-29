@@ -109,66 +109,24 @@ is given.</p>
 <p>Coloured contact lenses are not allowed.</p>
 </li>
 <li>
-<p>Smartphones/smartwatches are not allowed in the library at all times.</p>
+<p>Male students must be neat in appearance, clean-shaven and no facial hair
+is allowed.</p>
 </li>
 <li>
-<p>During lessons, Personal Learning Devices (PLDs) and other digital devices/accessories
-can only be used when directed by teachers and for purposes authorised
-by teachers. Students must connect to the school network by logging in
-with their own official MOE iCON student account (@<a rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>)
-and switch to their Xinmin Gmail profile in the browser.</p>
+<p>Students are to be respectful to school staff.</p>
 </li>
 <li>
-<p>Students are to take care of their PLDs and lock them in their lockers
-when not in use.</p>
+<p>Students are to treat each other with respect (e.g., no vulgar, sexual
+or crude language, no bullying, threatening, intimidating, impersonation,
+spreading fake news or causing annoyance or hurt to anyone by any means).</p>
 </li>
 <li>
-<p>Students are to bring home their PLDs every day and charge them at home.</p>
+<p>Students are not to be intimate with one another (e.g., no hugging, holding
+of hands, kissing, writing of intimate correspondence, sitting in close
+proximity etc.).</p>
 </li>
 <li>
-<p>Students are to hand over their mobile phones or PLDs for confiscation
-as a disciplinary measure or for the purpose of investigation.</p>
-</li>
-<li>
-<p>Lockers are the property of the school and are provided on loan to students.
-Students are to take care of their lockers and provide their own locks.</p>
-</li>
-<li>
-<p>Students must uphold the law and report those who break the law.</p>
-</li>
-<li>
-<p>All students are not allowed to have any weapon in their possession. They
-are also not allowed to bring any weapon-like item which is used or intended
-to be used to cause harm to others. Possession of weapons is a serious
-and reportable offence.</p>
-</li>
-<li>
-<p>Students must not engage in gambling or betting.</p>
-</li>
-<li>
-<p>Students are to follow the security procedures of the school and report
-misdeeds or suspicious behaviour.</p>
-</li>
-<li>
-<p>Students are to report and surrender all lost and found items to the General
-Office so that the owners may claim them.</p>
-</li>
-</ul>
-<h3>Resilience</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are to attend school, classes, CCAs and other school activities
-regularly and punctually.</p>
-</li>
-<li>
-<p>Students are to be attentive, cooperative and diligent (e.g. there must
-be no sleeping in class, disruptive behaviour or tardiness).</p>
-</li>
-<li>
-<p>Students are to complete and hand in all assignments punctually.</p>
-</li>
-<li>
-<p>Students must strive to produce quality work in and out of the classroom.</p>
+<p>Students are not to abet the commission of offences by others.</p>
 </li>
 </ul>
 <h3>Responsibility</h3>
@@ -294,7 +252,23 @@ Office so that the owners may claim them.</p>
 </li>
 </ul>
 <p></p>
-<h3></h3>
+<h3>Resilience</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to attend school, classes, CCAs and other school activities
+regularly and punctually.</p>
+</li>
+<li>
+<p>Students are to be attentive, cooperative and diligent (e.g. there must
+be no sleeping in class, disruptive behaviour or tardiness).</p>
+</li>
+<li>
+<p>Students are to complete and hand in all assignments punctually.</p>
+</li>
+<li>
+<p>Students must strive to produce quality work in and out of the classroom.</p>
+</li>
+</ul>
 <p></p>
 <h3>Demerit Point System</h3>
 <ul data-tight="true" class="tight">
