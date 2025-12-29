@@ -683,24 +683,22 @@ demerit points will be commensurate with the frequency of the offence.</p>
 <p>For attire offences, immediate corrective action will be taken by the
 school to bring about compliance. These include bringing students for haircut
 and confiscating unauthorised items or apparel.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>While undergoing suspension or detention, students may be required to
 write reflections, essays or a letter of undertaking promising not to commit
 the offence again and undergo in-house counselling by teachers. Repeat
 offenders may be issued with a formal warning letter and have their offences
 upgraded to Category C.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>For <strong>Category B</strong> offences, the measures meted out are similar,
 but more demerit points may be given than those in Category A. In addition,
 parents may be invited to school to meet with teachers to discuss the student’s
 behaviour and further disciplinary actions or follow up.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Students may also be referred for counselling or any other appropriate
 programmes deemed fit by the school management.</p>
-<p>&nbsp;</p>
-<p>The school may partner with external agencies to organise intervention
+<p>&nbsp;The school may partner with external agencies to organise intervention
 programmes which the students will be required to participate in.
-<br>
 <br>
 </p>
 <p>For <strong>Category C</strong> offences, over and above the measures described
