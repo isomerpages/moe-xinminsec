@@ -704,7 +704,6 @@ programmes which the students will be required to participate in.
 <p>For <strong>Category C</strong> offences, over and above the measures described
 in Category A and B, Category C offences warrant additional demerit points,
 caning and suspension from school.</p>
-<p>&nbsp;</p>
 <p>Students who commit Cat C offences may be demoted from leadership positions,
 barred or benched from tournaments/competitions.</p>
 <p>&nbsp;</p>
