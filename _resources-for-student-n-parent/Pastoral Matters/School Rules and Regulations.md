@@ -43,7 +43,8 @@ or any of the nation’s leaders.</p>
 to the uniform is not allowed.</p>
 </li>
 <li>
-<p>Shirts and blouses must be buttoned up properly and tucked in.</p>
+<p>Shirts (including PE shirts and class/CCA shirts) and blouses must be
+buttoned up properly and tucked in.</p>
 </li>
 <li>
 <p>Tattered, torn, outgrown, stained or faded uniforms must be replaced.</p>
@@ -52,21 +53,25 @@ to the uniform is not allowed.</p>
 <p>Only plain white school shoes and the Xinmin socks are to be worn.</p>
 </li>
 <li>
-<p>Only the Xinmin Jacket, which is part of the school uniform, can be worn.</p>
+<p>Only the Xinmin jacket, which is part of the school uniform, can be worn.</p>
+</li>
+<li>
+<p>Black dress shoes must be worn with the school blazer.</p>
 </li>
 <li>
 <p>Students may report to school in half uniform on days when they have PE
 (Half uniform is defined as PE top and uniform bottom) and when allowed
-by the School Management (for hot weather, haze, science practical exams)</p>
+by the School Management (e.g. for hot weather, haze, science practical
+exams)</p>
 </li>
 <li>
-<p>Xinmin PE T-shirts and shorts are to be worn for PE lessons and students
+<p>Xinmin PE shirts and shorts are to be worn for PE lessons and students
 are to change back to half uniform after the lesson. Students are not to
 wear PE attire when they are not at PE, unless permission is given by the
 teacher (e.g. CCA activity, cohort camps).</p>
 </li>
 <li>
-<p>Class T-shirts are only for graduating classes (Sec 4 and Sec 5) and their
+<p>Class shirts are only for graduating classes (Sec 4 and Sec 5) and their
 design and use must be approved by the School Management.</p>
 </li>
 <li>
@@ -103,28 +108,7 @@ is given.</p>
 <li>
 <p>Coloured contact lenses are not allowed.</p>
 </li>
-<li>
-<p>Male students must be neat in appearance, clean-shaven and no facial hair
-is allowed.</p>
-</li>
-<li>
-<p>Students are to be respectful to school staff.</p>
-</li>
-<li>
-<p>Students are to treat each other with respect (e.g., no vulgar, sexual
-or crude language, no bullying, threatening, intimidating, impersonation
-or causing annoyance or hurt to anyone by any means).</p>
-</li>
-<li>
-<p>Students are not to be intimate with one another (e.g., no hugging, holding
-of hands, kissing, writing of intimate correspondence, sitting in close
-proximity etc.).</p>
-</li>
-<li>
-<p>Students are not to abet the commission of offences by others.</p>
-</li>
 </ul>
-<p></p>
 <h3>Responsibility</h3>
 <ul data-tight="true" class="tight">
 <li>
