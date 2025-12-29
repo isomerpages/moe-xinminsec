@@ -498,7 +498,6 @@ dangerous for students, such as penknives</p>
 with the severity, frequency and manner in which the offence was committed.
 The 3 categories of offences here define the seriousness of the offence.
 <br>
-<br>
 </p>
 <p><strong>TYPE OF OFFENCES</strong>
 </p>
@@ -665,7 +664,6 @@ e-vaporizers)</p>
 offences, the school management aims to consider the 3 dimensions of justice
 listed below. Through this approach, and by considering mitigating factors,
 the school will safeguard the principle of fairness.</p>
-<p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commutative Justice governs the relationship
 between one individual and another.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distributive Justice governs the relationship
