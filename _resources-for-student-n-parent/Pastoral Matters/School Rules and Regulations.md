@@ -154,8 +154,6 @@ return to school.</p>
 may be granted in special cases. For such cases, parents or legal guardians
 must write in to the Year Head and Form Teachers at least 2 weeks beforehand.</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>Students must demonstrate civic mindedness – e.g., queue up, return utensils
 in the canteen, keep the school clean, return lost and found items.</p>
