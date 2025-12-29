@@ -494,8 +494,7 @@ dangerous for students, such as penknives</p>
 <td rowspan="1" colspan="1">
 <p><strong>OFFENCE CATEGORIES</strong>
 </p>
-<p>
-<br>Any pupil who violates the school rules will face consequences that commensurate
+<p>Any pupil who violates the school rules will face consequences that commensurate
 with the severity, frequency and manner in which the offence was committed.
 The 3 categories of offences here define the seriousness of the offence.
 <br>
@@ -503,7 +502,6 @@ The 3 categories of offences here define the seriousness of the offence.
 </p>
 <p><strong>TYPE OF OFFENCES</strong>
 </p>
-<p>&nbsp;</p>
 <p><strong>Category A Offences</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -539,7 +537,7 @@ PLDs, laptops, tablets, smartphones, smartwatches)</p>
 <p>A10 – Using school property/facilities without proper authorisation</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Category B Offences</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -663,12 +661,10 @@ e-vaporizers)</p>
 <td rowspan="1" colspan="1">
 <p><strong>CONSEQUENCES</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>In meting out disciplinary consequences for various offences, the school
-management aims to consider the 3 dimensions of justice listed below. Through
-this approach, and by considering mitigating factors, the school will safeguard
-the principle of fairness.</p>
+<p><strong>&nbsp;</strong>In meting out disciplinary consequences for various
+offences, the school management aims to consider the 3 dimensions of justice
+listed below. Through this approach, and by considering mitigating factors,
+the school will safeguard the principle of fairness.</p>
 <p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commutative Justice governs the relationship
 between one individual and another.</p>
