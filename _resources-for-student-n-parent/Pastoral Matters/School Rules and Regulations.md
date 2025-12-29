@@ -672,8 +672,7 @@ between one individual and another.</p>
 between the community as a whole and individuals or smaller groups</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Legal Justice directs the relationship
 of individuals to the good of the community at large.</p>
-<p>
-<br>Consequences for offences in <strong>Category A</strong> include, but not
+<p>Consequences for offences in <strong>Category A</strong> include, but not
 limited to, warning, suspension from class, detention, demerit points appropriate
 restitution, corrective work orders and confiscation:</p>
 <p>Digital device offences will result in confiscation of the device and
