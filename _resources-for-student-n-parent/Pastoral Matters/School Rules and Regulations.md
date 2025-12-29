@@ -337,6 +337,107 @@ be no sleeping in class, disruptive behaviour or tardiness).</p>
 <p>Students must strive to produce quality work in and out of the classroom.</p>
 </li>
 </ul>
+<h3>DEMERIT POINT SYSTEM</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demerit points will be administered by the Discipline Committee for any
+offence committed.</p>
+</li>
+<li>
+<p>Demerit points awarded will be commensurate with the severity, frequency,
+or manner in which the offence was committed.</p>
+</li>
+<li>
+<p>Students will receive a conduct grade at the end of each semester based
+on their demerit points for that semester</p>
+</li>
+<li>
+<p>Every student will have their demerit points reset at the end of each
+semester. Graduating students do not get a reset.</p>
+</li>
+<li>
+<p>Boys who accumulate 20 or more demerit points may be caned.</p>
+</li>
+<li>
+<p>Girls who accumulate 20 or more demerit points may be given CWO hours
+or suspended from school.</p>
+</li>
+<li>
+<p>Graduating students who accumulate 20 or more demerit points for the academic
+year will also not receive a Testimonial from the school.</p>
+</li>
+<li>
+<p>Only students with ‘Very Good’ or better for the last 2 conduct grades
+will be considered for overseas trips organized by the school.</p>
+</li>
+</ul>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Demerit points</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>0 + recommendation by FT</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>0-3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4-15</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>16-30 + 1 serious offence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&gt; 30</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Conduct grade</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Very Good</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Good</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Fair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Poor</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
