@@ -448,7 +448,41 @@ will be considered for overseas trips organized by the school.</p>
 <p>Electronic entertainment and gaming devices</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
+<p><strong>Schedule B</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Poker or ‘mah-jong’ cards or tiles</p>
+</li>
+<li>
+<p>Tarot Cards and other Occult items</p>
+</li>
+</ul>
+<p><strong>&nbsp;Schedule C</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pornographic materials (inclusive of electronic media)</p>
+</li>
+<li>
+<p>Weapons/Weapon-like items</p>
+</li>
+<li>
+<p>Sparklers and Pyrotechnics</p>
+</li>
+<li>
+<p>Tobacco/Imitation tobacco products and alcohol</p>
+</li>
+<li>
+<p>Contraband or duty unpaid items</p>
+</li>
+<li>
+<p>All items that the school management may deem inappropriate or potentially
+dangerous for students, such as penknives</p>
+</li>
+<li>
+<p>All items prohibited under Singapore Law</p>
+</li>
+</ul>
 <p></p>
 <p></p>
