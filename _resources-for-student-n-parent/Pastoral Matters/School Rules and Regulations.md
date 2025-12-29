@@ -132,7 +132,75 @@ proximity etc.).</p>
 <h3>Responsibility</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Students are to always be good ambassadors of the school.</p>
+</li>
+<li>
+<p>Students must be standing with their class in the assigned venue punctually
+and participate in the Flag Raising Ceremony.</p>
+</li>
+<li>
+<p>Absence from school or any school activity must be substantiated by a
+valid medical certificate (MC) clearly stating the diagnosis and issued
+by doctors endorsed by the Singapore Medical Council, or documented valid
+reason (other than MCs, reasons for absence are only deemed valid upon
+acceptance by, and at the discretion of the school).</p>
+</li>
+<li>
+<p>Students must submit their MCs/documents within 3 working days upon their
+return to school.</p>
+</li>
+<li>
+<p>Permission to leave school before official holidays or official dismissal
+may be granted in special cases. For such cases, parents or legal guardians
+must write in to the Year Head and Form Teachers at least 2 weeks beforehand.</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must demonstrate civic mindedness – e.g., queue up, return utensils
+in the canteen, keep the school clean, return lost and found items.</p>
+</li>
+<li>
+<p>Students must keep their classrooms clean, neat, and tidy always.</p>
+</li>
+<li>
+<p>If food and drinks are consumed in the classrooms, disposable packaging
+and food waste must be properly disposed of in the large common bins provided
+along the corridor and not in the classroom wastepaper basket.</p>
+</li>
+<li>
+<p>During lesson time, students are not to have food and drink on their tables.</p>
+</li>
+<li>
+<p>Students must use school facilities and equipment with proper authorisation
+and take care of them.</p>
+</li>
+<li>
+<p>Students must not waste electricity or water.</p>
+</li>
+<li>
+<p>Students must not vandalise.</p>
+</li>
+<li>
+<p>Students must report to the school authorities if they have damaged school
+equipment or property.</p>
+</li>
+<li>
+<p>Students are to observe the appropriate decorum during school events such
+as assemblies, celebrations, sports day.</p>
+</li>
+<li>
+<p>Students who need to leave a lesson for valid reasons (e.g., going to
+the toilet, feeling unwell, official duties) must seek the permission of
+the teacher present.</p>
+</li>
+<li>
+<p>Students are to diligently perform all duties assigned to them.</p>
+</li>
+<li>
+<p>Students are not to use smartphones/smartwatches during school hours,
+unless explicit permission is given by school management on an exceptional
+basis:</p>
 </li>
 </ul>
 <p></p>
