@@ -320,4 +320,24 @@ misdeeds or suspicious behaviour.</p>
 Office so that the owners may claim them.</p>
 </li>
 </ul>
+<h3>Resilience</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to attend school, classes, CCAs and other school activities
+regularly and punctually.</p>
+</li>
+<li>
+<p>Students are to be attentive, cooperative and diligent (e.g. there must
+be no sleeping in class, disruptive behaviour or tardiness).</p>
+</li>
+<li>
+<p>Students are to complete and hand in all assignments punctually.</p>
+</li>
+<li>
+<p>Students must strive to produce quality work in and out of the classroom.</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
 <p></p>
