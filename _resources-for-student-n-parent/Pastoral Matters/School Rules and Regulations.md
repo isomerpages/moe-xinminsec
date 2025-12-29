@@ -269,4 +269,55 @@ lessons)</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Smartphones/smartwatches must be locked in students’ own lockers during
+the above periods.</p>
+</li>
+<li>
+<p>Smartphones/smartwatches are not allowed in the library at all times.</p>
+</li>
+<li>
+<p>During lessons, Personal Learning Devices (PLDs) and other digital devices/accessories
+can only be used when directed by teachers and for purposes authorised
+by teachers. Students must connect to the school network by logging in
+with their own official MOE iCON student account (@<a rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>)
+and switch to their Xinmin Gmail profile in the browser.</p>
+</li>
+<li>
+<p>Students are to take care of their PLDs and lock them in their lockers
+when not in use.</p>
+</li>
+<li>
+<p>Students are to bring home their PLDs every day and charge them at home.</p>
+</li>
+<li>
+<p>Students are to hand over their mobile phones or PLDs for confiscation
+as a disciplinary measure or for the purpose of investigation.</p>
+</li>
+<li>
+<p>Lockers are the property of the school and are provided on loan to students.
+Students are to take care of their lockers and provide their own locks.</p>
+</li>
+<li>
+<p>Students must uphold the law and report those who break the law.</p>
+</li>
+<li>
+<p>All students are not allowed to have any weapon in their possession. They
+are also not allowed to bring any weapon-like item which is used or intended
+to be used to cause harm to others. Possession of weapons is a serious
+and reportable offence.</p>
+</li>
+<li>
+<p>Students must not engage in gambling or betting.</p>
+</li>
+<li>
+<p>Students are to follow the security procedures of the school and report
+misdeeds or suspicious behaviour.</p>
+</li>
+<li>
+<p>Students are to report and surrender all lost and found items to the General
+Office so that the owners may claim them.</p>
+</li>
+</ul>
 <p></p>
