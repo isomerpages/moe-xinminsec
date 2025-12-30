@@ -25,26 +25,9 @@ inappropriate for school.</p>
 <p>Face must be clean shaven and no facial hair is allowed.</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/1a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/1b.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <h4>Boys’ Uniform</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -79,7 +62,6 @@ stained or faded uniforms must be replaced.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/2a.png">
 </div>
