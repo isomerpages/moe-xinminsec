@@ -58,4 +58,26 @@ stained or faded uniforms must be replaced.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/2.png">
 </div>
+<h4>Girls’ Hair</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Girls with long hair must tie or pin it up neatly with black, dark blue
+or dark brown hair accessories, ensuring that the fringe does not touch
+the eyebrows or is always pinned up as shown here.</p>
+</li>
+<li>
+<p>Girls with short hair must also keep the fringe from touching their eyebrows
+or pin it up.</p>
+</li>
+<li>
+<p>Dyeing or highlighting hair is not allowed.</p>
+</li>
+<li>
+<p>Hair extensions are not allowed.</p>
+</li>
+<li>
+<p>The school management reserves the right to reject any hairstyle it deems
+inappropriate for school.</p>
+</li>
+</ul>
 <p></p>
