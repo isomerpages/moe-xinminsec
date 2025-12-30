@@ -80,4 +80,7 @@ or pin it up.</p>
 inappropriate for school.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/3.png">
+</div>
 <p></p>
