@@ -12,6 +12,16 @@ students how to uphold standards of behaviour that are acceptable in school
 and society. Overall, the rules and regulations are designed to create
 a safe and secure environment for all students to learn and for staff to
 carry out their duties.</p>
+<p>Respect, kindness, and inclusion are at the heart of our school community.
+It is fundamental to everything we do, shaping how we communicate, collaborate,
+and care for one another. Each member of the community shares the responsibility
+of creating a safe and supportive learning environment built on mutual
+respect and understanding.</p>
+<p>Any form of hurtful behaviour and bullying is wrong and unacceptable.
+Bullying can be cyber, physical, social/relational or verbal in nature.
+We also maintain a zero tolerance policy towards any unlawful or disruptive
+conduct, including intimidation and retaliation in all their forms. We
+will take action when informed of such cases.</p>
 <h3>Respect</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -33,7 +43,8 @@ or any of the nation’s leaders.</p>
 to the uniform is not allowed.</p>
 </li>
 <li>
-<p>Shirts and blouses must be buttoned up properly and tucked in.</p>
+<p>Shirts (including PE shirts and class/CCA shirts) and blouses must be
+buttoned up properly and tucked in.</p>
 </li>
 <li>
 <p>Tattered, torn, outgrown, stained or faded uniforms must be replaced.</p>
@@ -42,21 +53,25 @@ to the uniform is not allowed.</p>
 <p>Only plain white school shoes and the Xinmin socks are to be worn.</p>
 </li>
 <li>
-<p>Only the Xinmin Jacket, which is part of the school uniform, can be worn.</p>
+<p>Only the Xinmin jacket, which is part of the school uniform, can be worn.</p>
+</li>
+<li>
+<p>Black dress shoes must be worn with the school blazer.</p>
 </li>
 <li>
 <p>Students may report to school in half uniform on days when they have PE
 (Half uniform is defined as PE top and uniform bottom) and when allowed
-by the School Management (for hot weather, haze, science practical exams)</p>
+by the School Management (e.g. for hot weather, haze, science practical
+exams)</p>
 </li>
 <li>
-<p>Xinmin PE T-shirts and shorts are to be worn for PE lessons and students
+<p>Xinmin PE shirts and shorts are to be worn for PE lessons and students
 are to change back to half uniform after the lesson. Students are not to
 wear PE attire when they are not at PE, unless permission is given by the
 teacher (e.g. CCA activity, cohort camps).</p>
 </li>
 <li>
-<p>Class T-shirts are only for graduating classes (Sec 4 and Sec 5) and their
+<p>Class shirts are only for graduating classes (Sec 4 and Sec 5) and their
 design and use must be approved by the School Management.</p>
 </li>
 <li>
@@ -102,8 +117,8 @@ is allowed.</p>
 </li>
 <li>
 <p>Students are to treat each other with respect (e.g., no vulgar, sexual
-or crude language, no bullying, threatening, intimidating, impersonation
-or causing annoyance or hurt to anyone by any means).</p>
+or crude language, no bullying, threatening, intimidating, impersonation,
+spreading fake news or causing annoyance or hurt to anyone by any means).</p>
 </li>
 <li>
 <p>Students are not to be intimate with one another (e.g., no hugging, holding
@@ -114,7 +129,6 @@ proximity etc.).</p>
 <p>Students are not to abet the commission of offences by others.</p>
 </li>
 </ul>
-<p></p>
 <h3>Responsibility</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -126,9 +140,10 @@ and participate in the Flag Raising Ceremony.</p>
 </li>
 <li>
 <p>Absence from school or any school activity must be substantiated by a
-valid medical certificate (MC) clearly stating the doctor’s diagnosis,
-or documented valid reason (other than MCs, reasons for absence are only
-deemed valid upon acceptance by, and at the discretion of the school).</p>
+valid medical certificate (MC) clearly stating the diagnosis and issued
+by doctors endorsed by the Singapore Medical Council, or documented valid
+reason (other than MCs, reasons for absence are only deemed valid upon
+acceptance by, and at the discretion of the school).</p>
 </li>
 <li>
 <p>Students must submit their MCs/documents within 3 working days upon their
@@ -181,26 +196,93 @@ the teacher present.</p>
 <p>Students are to diligently perform all duties assigned to them.</p>
 </li>
 <li>
-<p>Mobile phones must be locked in students’ own lockers from 0725hrs (0825hrs
-on Thursdays) to at least 1140hrs.</p>
+<p>Students are not to use smartphones/smartwatches during school hours,
+unless explicit permission is given by school management on an exceptional
+basis:</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Smartphone/ Smartwatch Usage</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timetabled activities from 7.25am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Recess</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Free periods before the last lesson of the day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timetabled lunch (i.e. there are lessons after lunch)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allowed in</p>
+<p>canteen only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Between last lesson of the day and CCA/after-school activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allowed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA and after-school programmes (e.g. supplementary/ enrichment/remedial
+lessons)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not allowed</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Smartphones/smartwatches must be locked in students’ own lockers during
+the above periods.</p>
 </li>
 <li>
-<p>During all lessons (timetabled and additional, e.g. Structured Intervention
-Programme), mobile phones must be locked in students’ own lockers.</p>
-</li>
-<li>
-<p>To promote balanced screen use amongst students , usage of mobile phones
-within the school compound is not allowed till after 1140hrs. Usage after
-the allowed time may be restricted by school staff if it interferes with
-school programmes or activities.</p>
-</li>
-<li>
-<p>Mobile phones are not allowed in the library at all times.</p>
+<p>Smartphones/smartwatches are not allowed in the library at all times.</p>
 </li>
 <li>
 <p>During lessons, Personal Learning Devices (PLDs) and other digital devices/accessories
 can only be used when directed by teachers and for purposes authorised
-by teachers.</p>
+by teachers. Students must connect to the school network by logging in
+with their own official MOE iCON student account (@<a rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>)
+and switch to their Xinmin Gmail profile in the browser.</p>
 </li>
 <li>
 <p>Students are to take care of their PLDs and lock them in their lockers
@@ -223,7 +305,8 @@ Students are to take care of their lockers and provide their own locks.</p>
 <li>
 <p>All students are not allowed to have any weapon in their possession. They
 are also not allowed to bring any weapon-like item which is used or intended
-to be used to cause harm to others.</p>
+to be used to cause harm to others. Possession of weapons is a serious
+and reportable offence.</p>
 </li>
 <li>
 <p>Students must not engage in gambling or betting.</p>
@@ -237,7 +320,6 @@ misdeeds or suspicious behaviour.</p>
 Office so that the owners may claim them.</p>
 </li>
 </ul>
-<p></p>
 <h3>Resilience</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -255,8 +337,7 @@ be no sleeping in class, disruptive behaviour or tardiness).</p>
 <p>Students must strive to produce quality work in and out of the classroom.</p>
 </li>
 </ul>
-<p></p>
-<h3>Demerit Point System</h3>
+<h3>DEMERIT POINT SYSTEM</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Demerit points will be administered by the Discipline Committee for any
@@ -290,7 +371,6 @@ year will also not receive a Testimonial from the school.</p>
 will be considered for overseas trips organized by the school.</p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -304,70 +384,60 @@ will be considered for overseas trips organized by the school.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Demerit points</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>0 + recommendation by FT</strong>
 </p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>0-3</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>4-15</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>16-30 + 1 serious offence</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&gt; 30</strong>
-<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Conduct grade</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Excellent</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Very Good</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Good</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Fair</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Poor</strong>
-<br>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>SCHEDULE OF PROHIBITED ITEMS</strong>
-</p>
+<h3>SCHEDULE OF PROHIBITED ITEMS</h3>
 <p><strong>Schedule A</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -388,7 +458,7 @@ will be considered for overseas trips organized by the school.</p>
 <p>Tarot Cards and other Occult items</p>
 </li>
 </ul>
-<p><strong>Schedule C</strong>
+<p><strong>&nbsp;Schedule C</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -401,7 +471,7 @@ will be considered for overseas trips organized by the school.</p>
 <p>Sparklers and Pyrotechnics</p>
 </li>
 <li>
-<p>Tobacco products and alcohol</p>
+<p>Tobacco/Imitation tobacco products and alcohol</p>
 </li>
 <li>
 <p>Contraband or duty unpaid items</p>
@@ -412,10 +482,8 @@ dangerous for students, such as penknives</p>
 </li>
 <li>
 <p>All items prohibited under Singapore Law</p>
-<p></p>
 </li>
 </ul>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -423,26 +491,21 @@ dangerous for students, such as penknives</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>OFFENCE CATEGORIES</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p>CONSEQUENCES</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Any pupil who violates the school rules will face consequences that commensurate
 with the severity, frequency and manner in which the offence was committed.
-The 3 categories of offences here define the seriousness of the offence.</p>
-<p>TYPE OF OFFENCES</p>
-<p></p>
+The 3 categories of offences here define the seriousness of the offence.
+<br>
+</p>
+<p><strong>TYPE OF OFFENCES</strong>
+</p>
 <p><strong>Category A Offences</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A1 – Late for class/lesson/school activity</p>
+<p>A1 – Late for class/lesson/school activity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>A2 – Improper attire/appearance/grooming</p>
@@ -467,14 +530,16 @@ The 3 categories of offences here define the seriousness of the offence.</p>
 </li>
 <li>
 <p>A9 – Unauthorised usage, possession and/or misuse of digital devices (e.g.
-PLDs, laptops, tablets, mobile phones, smartwatches)</p>
+PLDs, laptops, tablets, smartphones, smartwatches)</p>
 </li>
 <li>
 <p>A10 – Using school property/facilities without proper authorisation</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Category B Offences</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>B1 – Skipping school activities/lessons</p>
 </li>
@@ -482,7 +547,7 @@ PLDs, laptops, tablets, mobile phones, smartwatches)</p>
 <p>B2 – Defaulting on homework/assignments</p>
 </li>
 <li>
-<p>B3 – Late for school</p>
+<p>B3 – Late for school&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>B4 – Misbehaving in class</p>
@@ -500,20 +565,25 @@ PLDs, laptops, tablets, mobile phones, smartwatches)</p>
 <p>B8 – Use of coarse, rude/abusive/vulgar language</p>
 </li>
 <li>
-<p>B9 – Failure to recite Student Creed</p>
+<p>B9 – Hurtful behaviours</p>
 </li>
 <li>
-<p>B10 – Lying</p>
+<p>B10 – Failure to recite the Student Creed</p>
 </li>
 <li>
-<p>B11 – Mischief</p>
+<p>B11 – Lying</p>
 </li>
 <li>
-<p>B12 – Bringing Schedule B items</p>
+<p>B12 – Mischief</p>
+</li>
+<li>
+<p>B13 – Bringing Schedule B items</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Category C Offences</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>C1 – Repeatedly flouting any school rule/rules</p>
 </li>
@@ -567,72 +637,80 @@ e-vaporizers)</p>
 <p>C17 – Joining gangs</p>
 </li>
 <li>
-<p>C18 – Outrage of Modesty</p>
+<p>C18 – Sexual Misconduct</p>
 </li>
 <li>
 <p>C19 – Getting tattoos or body piercings</p>
 </li>
 <li>
-<p>C20 – Contravening any Singapore Law</p>
+<p>C20 – Committing or abetting security breach</p>
 </li>
 <li>
-<p>C21 – Refusal to sing the National Anthem and/or to recite the Pledge</p>
+<p>C21 – Contravening any Singapore Law</p>
 </li>
 <li>
-<p>C22 – Defamation of the school, staff, nation or nation’s leaders</p>
+<p>C22 – Refusal to sing the National Anthem and/or &nbsp;to recite the Pledge</p>
+</li>
+<li>
+<p>C23 – Defamation of the school, staff, nation or nation’s leaders</p>
 </li>
 </ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In meting out disciplinary consequences for various offences, the school
-management aims to consider the 3 dimensions of justice listed below. Through
-this approach, and by considering mitigating factors, the school will safeguard
-the principle of fairness.</p>
-<p>1. Commutative Justice governs the relationship between one individual
-and another.</p>
-<p>2. Distributive Justice governs the relationship between the community
-as a whole and individuals or smaller groups</p>
-<p>3. Legal Justice directs the relationship of individuals to the good of
-the community at large.</p>
-<p>Consequences for offences in Category A include, but not limited to, warning,
-suspension from class, detention, demerit points appropriate restitution,
-corrective work orders and confiscation:</p>
-<p></p>
+<p><strong>CONSEQUENCES</strong>
+</p>
+<p><strong>&nbsp;</strong>In meting out disciplinary consequences for various
+offences, the school management aims to consider the 3 dimensions of justice
+listed below. Through this approach, and by considering mitigating factors,
+the school will safeguard the principle of fairness.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commutative Justice governs the relationship
+between one individual and another.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distributive Justice governs the relationship
+between the community as a whole and individuals or smaller groups</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Legal Justice directs the relationship
+of individuals to the good of the community at large.</p>
+<p>Consequences for offences in <strong>Category A</strong> include, but not
+limited to, warning, suspension from class, detention, demerit points appropriate
+restitution, corrective work orders and confiscation:</p>
 <p>Digital device offences will result in confiscation of the device and
 demerit points will be commensurate with the frequency of the offence.</p>
-<p></p>
 <p>For attire offences, immediate corrective action will be taken by the
 school to bring about compliance. These include bringing students for haircut
 and confiscating unauthorised items or apparel.</p>
+<p></p>
 <p>While undergoing suspension or detention, students may be required to
 write reflections, essays or a letter of undertaking promising not to commit
 the offence again and undergo in-house counselling by teachers. Repeat
 offenders may be issued with a formal warning letter and have their offences
 upgraded to Category C.</p>
+<p></p>
 <p>For <strong>Category B</strong> offences, the measures meted out are similar,
 but more demerit points may be given than those in Category A. In addition,
 parents may be invited to school to meet with teachers to discuss the student’s
 behaviour and further disciplinary actions or follow up.</p>
+<p></p>
 <p>Students may also be referred for counselling or any other appropriate
 programmes deemed fit by the school management.</p>
-<p>The school may partner with external agencies to organise intervention
-programmes which the students will be required to participate in.</p>
+<p>&nbsp;The school may partner with external agencies to organise intervention
+programmes which the students will be required to participate in.
+<br>
+</p>
 <p>For <strong>Category C</strong> offences, over and above the measures described
 in Category A and B, Category C offences warrant additional demerit points,
 caning and suspension from school.</p>
 <p>Students who commit Cat C offences may be demoted from leadership positions,
 barred or benched from tournaments/competitions.</p>
-<p>Students who are suspended from school will not be allowed to re-sit any
-tests or exams missed as a result of the suspension. Re-admission to school
-after suspension will be based on the conditions set by the School Management.</p>
-<p>In addition, students may be put on probation, during which they may be
-required to perform community services or responsibility programmes.</p>
+<p>&nbsp;Students who are suspended from school will not be allowed to re-sit
+any tests or exams missed as a result of the suspension. &nbsp;Re-admission
+to school after suspension will be based on the conditions set by the School
+Management.</p>
+<p>&nbsp;In addition, students may be put on probation, during which they
+may be required to perform community services or responsibility programmes.</p>
 <p>Offences that involve violation of the law may be referred to the Police.
 Recalcitrant offenders who do not respond positively to the school’s intervention
 measures may be required to withdraw from school or face expulsion from
 school.</p>
-<p></p>
 </td>
 </tr>
 </tbody>

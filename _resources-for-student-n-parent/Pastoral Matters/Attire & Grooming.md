@@ -5,4 +5,541 @@ description: ""
 third_nav_title: Pastoral Matters
 variant: tiptap
 ---
-<h3>Attire and Grooming for Boys</h3><p>The uniform and grooming of all boys must conform in appearance to the the pictures and description in this document.</p><ul data-tight="true" class="tight"><li><p>Outlandish hairstyles are not allowed. The school management reserves the right to reject any hairstyle it deems inappropriate for school.</p></li><li><p>No dyeing or highlighting of hair.</p></li><li><p>Hair all around the head must be short and cannot be longer than the hairline.</p></li><li><p>The fringe must not touch the eyebrows when combed down.</p></li><li><p>Face must be clean shaven. Sideburns, moustache and beard are not allowed.</p></li></ul><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Attire and grooming for boys" src="/images/Attire%20and%20grooming%20for%20boys.jpg"></div><ul data-tight="true" class="tight"><li><p>Pants must not be tapered or shortened above the ankles</p></li><li><p>Long pants and shorts must conform to manufacturer’s specs</p></li><li><p>Customization of uniform to meet the school requirements is available (refer to uniform vendor)</p></li><li><p>Shirts must be buttoned up and tucked in neatly at all times.</p></li><li><p>School uniform must be kept clean and neat. Torn , worn-out, outgrown, stained or faded uniforms must be replaced.</p></li></ul><h3>Attire and Grooming for Girls</h3><p>The uniform and grooming of all girls must conform in appearance to the the pictures and description in this document.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Attire and Grooming for Girls" src="/images/Attire%20and%20Grooming%20for%20Girls.jpg"></div><ul data-tight="true" class="tight"><li><p>Girls with long hair must tie or pin it up neatly with black, dark blue or dark brown hair accessories, ensuring that the fringe does not touch the eyebrows or is pinned up at all times as shown here.</p></li><li><p>Girls with short hair must also keep the fringe from touching the eyebrows or pin it up as shown here.</p></li><li><p>Dyeing or highlighting of hair is not allowed.</p></li><li><p>Hair Extensions are not allowed.</p></li><li><p>The school management reserves the right to reject any hairstyle it deems inappropriate for school.</p></li></ul><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 323px;" height="auto" width="100%" alt="tn.11.jpg.mid.jpg" src="/images/Attire%20and%20Grooming%20for%20Girls_1.jpg"></div></td><td rowspan="1" colspan="1"><p>-&nbsp; Blouse must be buttoned up and tucked in neatly at all times.</p><p>-&nbsp; Dark or multi-coloured undergarments are not allowed.</p><p>-&nbsp; Skirts must touch to top of the knee cap.</p><p>-&nbsp; Skirts must conform to manufacturer’s specs.</p><p>-&nbsp; Customization of uniform to meet the school requirements is available</p><p>(refer to uniform vendor)</p><p>-&nbsp; School uniform must be kept clean and neat. Torn, worn- out, outgrown, stained or faded uniforms must be replaced.</p></td></tr></tbody></table><h3>School Shoes and Socks</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="School Shoes and Socks" src="/images/School%20Shoes%20and%20Socks.jpg"></div><p>- All students are to wear plain white school shoes.</p><p>- Shoes must be kept clean.</p><p>- If the shoe has laces, they must also be white.</p><p>- Only the Xinmin socks can be worn and must fully cover the ankle bone as shown here.</p><h3>Xinmin School Jacket</h3><table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 188px; height: 250px;" height="auto" width="100%" alt="tn.13.jpg.2.jpg" src="/images/Xinmin%20School%20Jacket.jpg"></div></td><td rowspan="1" colspan="1"><p>-&nbsp; The Xinmin Jacket is part of the school uniform.</p><p>-&nbsp; Only the Xinmin jacket can be worn with the school uniform.</p></td></tr></tbody></table><h3>Xinmin Secondary School Uniform Manufacturer’s Specifications</h3><table><tbody><tr><td rowspan="1" colspan="1"><p>Skirt size<br></p></td><td rowspan="1" colspan="1"><p>24<br></p></td><td rowspan="1" colspan="1"><p>26<br></p></td><td rowspan="1" colspan="1"><p>28<br></p></td><td rowspan="1" colspan="1"><p>30<br></p></td><td rowspan="1" colspan="1"><p>32<br></p></td><td rowspan="1" colspan="1"><p>34<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Waist<br></p></td><td rowspan="1" colspan="1"><p>24<br></p></td><td rowspan="1" colspan="1"><p>26<br></p></td><td rowspan="1" colspan="1"><p>28<br></p></td><td rowspan="1" colspan="1"><p>30<br></p></td><td rowspan="1" colspan="1"><p>32<br></p></td><td rowspan="1" colspan="1"><p>34<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Hips<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td><td rowspan="1" colspan="1"><p>38<br></p></td><td rowspan="1" colspan="1"><p>40<br></p></td><td rowspan="1" colspan="1"><p>42<br></p></td><td rowspan="1" colspan="1"><p>44<br></p></td><td rowspan="1" colspan="1"><p>46<br></p></td><td rowspan="1" colspan="1"><p>48<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Length<br></p></td><td rowspan="1" colspan="1"><p>19<br></p></td><td rowspan="1" colspan="1"><p>20<br></p></td><td rowspan="1" colspan="1"><p>20<br></p></td><td rowspan="1" colspan="1"><p>21<br></p></td><td rowspan="1" colspan="1"><p>21<br></p></td><td rowspan="1" colspan="1"><p>22<br></p></td><td rowspan="1" colspan="1"><p>22<br></p></td></tr></tbody></table><p><br></p><table><tbody><tr><td rowspan="1" colspan="1"><p>Bermudas size<br></p></td><td rowspan="1" colspan="1"><p>M<br></p></td><td rowspan="1" colspan="1"><p>L<br></p></td><td rowspan="1" colspan="1"><p>XL<br></p></td><td rowspan="1" colspan="1"><p>30<br></p></td><td rowspan="1" colspan="1"><p>32<br></p></td><td rowspan="1" colspan="1"><p>34<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Waist<br></p></td><td rowspan="1" colspan="1"><p>24<br></p></td><td rowspan="1" colspan="1"><p>26<br></p></td><td rowspan="1" colspan="1"><p>28<br></p></td><td rowspan="1" colspan="1"><p>30<br></p></td><td rowspan="1" colspan="1"><p>32<br></p></td><td rowspan="1" colspan="1"><p>34<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Hips<br></p></td><td rowspan="1" colspan="1"><p>33<br></p></td><td rowspan="1" colspan="1"><p>35<br></p></td><td rowspan="1" colspan="1"><p>37<br></p></td><td rowspan="1" colspan="1"><p>39<br></p></td><td rowspan="1" colspan="1"><p>41<br></p></td><td rowspan="1" colspan="1"><p>43<br></p></td><td rowspan="1" colspan="1"><p>45<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Length<br></p></td><td rowspan="1" colspan="1"><p>17<br></p></td><td rowspan="1" colspan="1"><p>18<br></p></td><td rowspan="1" colspan="1"><p>19<br></p></td><td rowspan="1" colspan="1"><p>19<br></p></td><td rowspan="1" colspan="1"><p>20<br></p></td><td rowspan="1" colspan="1"><p>20<br></p></td><td rowspan="1" colspan="1"><p>21<br></p></td></tr></tbody></table><p><br></p><table><tbody><tr><td rowspan="1" colspan="1"><p>Long Pants</p><p>size</p></td><td rowspan="1" colspan="1"><p>24<br></p></td><td rowspan="1" colspan="1"><p>26<br></p></td><td rowspan="1" colspan="1"><p>28<br></p></td><td rowspan="1" colspan="1"><p>30<br></p></td><td rowspan="1" colspan="1"><p>32<br></p></td><td rowspan="1" colspan="1"><p>34<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td><td rowspan="1" colspan="1"><p>38<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Waist<br></p></td><td rowspan="1" colspan="1"><p>24<br></p></td><td rowspan="1" colspan="1"><p>26<br></p></td><td rowspan="1" colspan="1"><p>28<br></p></td><td rowspan="1" colspan="1"><p>30<br></p></td><td rowspan="1" colspan="1"><p>32<br></p></td><td rowspan="1" colspan="1"><p>34<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td><td rowspan="1" colspan="1"><p>38<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Hips<br></p></td><td rowspan="1" colspan="1"><p>34<br></p></td><td rowspan="1" colspan="1"><p>36<br></p></td><td rowspan="1" colspan="1"><p>38<br></p></td><td rowspan="1" colspan="1"><p>40<br></p></td><td rowspan="1" colspan="1"><p>42<br></p></td><td rowspan="1" colspan="1"><p>44<br></p></td><td rowspan="1" colspan="1"><p>45<br></p></td><td rowspan="1" colspan="1"><p>46<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Length<br></p></td><td rowspan="1" colspan="1"><p>38<br></p></td><td rowspan="1" colspan="1"><p>39<br></p></td><td rowspan="1" colspan="1"><p>40<br></p></td><td rowspan="1" colspan="1"><p>41<br></p></td><td rowspan="1" colspan="1"><p>42<br></p></td><td rowspan="1" colspan="1"><p>42<br></p></td><td rowspan="1" colspan="1"><p>42<br></p></td><td rowspan="1" colspan="1"><p>42<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Hem opening<br></p></td><td rowspan="1" colspan="1"><p>14<br></p></td><td rowspan="1" colspan="1"><p>14<br></p></td><td rowspan="1" colspan="1"><p>15<br></p></td><td rowspan="1" colspan="1"><p>15<br></p></td><td rowspan="1" colspan="1"><p>16<br></p></td><td rowspan="1" colspan="1"><p>16<br></p></td><td rowspan="1" colspan="1"><p>17<br></p></td><td rowspan="1" colspan="1"><p>17<br></p></td></tr></tbody></table><p></p>
+<h3>Attire and Grooming for all Xinmin Students must conform to the standards set in this document</h3>
+<h4>Boys’ Hair</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The school management reserves the right to reject any hairstyle it deems
+inappropriate for school.</p>
+</li>
+<li>
+<p>Dyeing or highlighting hair is not allowed.</p>
+</li>
+<li>
+<p>Hair at the back and sides of the head must be short.</p>
+</li>
+<li>
+<p>The fringe must not touch the eyebrows when combed down.</p>
+</li>
+<li>
+<p>Face must be clean shaven and no facial hair is allowed.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/1.png">
+</div>
+<h4>Boys’ Uniform</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lower sec boys will wear short pants and upper sec boys will wear long
+pants.</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pants must not be tapered or shortened above the ankles.</p>
+</li>
+<li>
+<p>Long pants and shorts must conform to manufacturer’s specs.</p>
+</li>
+<li>
+<p>Customization of uniforms to meet the school requirements is available
+(refer to uniform vendor).</p>
+</li>
+<li>
+<p>Shirts must be buttoned up and always tucked in neatly.</p>
+</li>
+<li>
+<p>School uniforms must be kept clean and neat. Torn, worn-out, outgrown,
+stained or faded uniforms must be replaced.</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/2.png">
+</div>
+<h4>Girls’ Hair</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Girls with long hair must tie or pin it up neatly with black, dark blue
+or dark brown hair accessories, ensuring that the fringe does not touch
+the eyebrows or is always pinned up as shown here.</p>
+</li>
+<li>
+<p>Girls with short hair must also keep the fringe from touching their eyebrows
+or pin it up.</p>
+</li>
+<li>
+<p>Dyeing or highlighting hair is not allowed.</p>
+</li>
+<li>
+<p>Hair extensions are not allowed.</p>
+</li>
+<li>
+<p>The school management reserves the right to reject any hairstyle it deems
+inappropriate for school.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/3.png">
+</div>
+<h4>Girls’ Uniform</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blouses must be buttoned up and always tucked in neatly.</p>
+</li>
+<li>
+<p>Skirts must touch the top of the knee cap.</p>
+</li>
+<li>
+<p>Skirts must conform to manufacturer’s specs.</p>
+</li>
+<li>
+<p>Customization of uniforms to meet the school requirements is available
+(refer to uniform vendor).</p>
+</li>
+<li>
+<p>School uniforms must be kept clean and neat. Torn, worn-out, outgrown,
+stained or faded uniforms must be replaced.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/5.png">
+</div>
+<h4>School Blazer</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Black dress shoes must be worn with the school blazer.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/6.png">
+</div>
+<h4>Shoes and Socks</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to wear plain white school shoes.</p>
+</li>
+<li>
+<p>Any logos on the shoes must also be white.</p>
+</li>
+<li>
+<p>If the shoe has laces, they must also be white.</p>
+</li>
+<li>
+<p>Only the Xinmin socks can be worn and must fully cover the ankle bone.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/shoe.png">
+</div>
+<h4>Xinmin School Jacket</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Only the Xinmin jacket can be worn with the school uniform.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/7.png">
+</div>
+<h4>Xinmin Secondary School Uniform Manufacturer’s Specifications</h4>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skirt size</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Length</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>All skirts come with a 2 inch Hem&nbsp;</p>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bermudas size</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Length</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Long Pants</p>
+<p>size</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Length</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hem opening</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
