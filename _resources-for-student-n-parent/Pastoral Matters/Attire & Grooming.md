@@ -104,7 +104,7 @@ stained or faded uniforms must be replaced.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/5.png">
 </div>
 <h4>School Blazer</h4>
 <ul data-tight="true" class="tight">
