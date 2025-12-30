@@ -395,8 +395,7 @@ stained or faded uniforms must be replaced.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Long Pants</p>
-<p>size</p>
+<p>Long Pants size</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24</p>
