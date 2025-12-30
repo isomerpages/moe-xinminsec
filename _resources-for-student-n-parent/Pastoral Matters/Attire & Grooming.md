@@ -71,5 +71,25 @@ pants.</p>
 stained or faded uniforms must be replaced.</p>
 </li>
 </ul>
-<h3></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/2a.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/2b.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
