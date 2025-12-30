@@ -43,24 +43,34 @@ inappropriate for school.</p>
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<h4>Boys’ Uniform</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lower sec boys will wear short pants and upper sec boys will wear long
+pants.</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pants must not be tapered or shortened above the ankles.</p>
+</li>
+<li>
+<p>Long pants and shorts must conform to manufacturer’s specs.</p>
+</li>
+<li>
+<p>Customization of uniforms to meet the school requirements is available
+(refer to uniform vendor).</p>
+</li>
+<li>
+<p>Shirts must be buttoned up and always tucked in neatly.</p>
+</li>
+<li>
+<p>School uniforms must be kept clean and neat. Torn, worn-out, outgrown,
+stained or faded uniforms must be replaced.</p>
+</li>
+</ul>
 <h3>Attire and Grooming for Girls</h3>
 <p>The uniform and grooming of all girls must conform in appearance to the
 the pictures and description in this document.</p>
