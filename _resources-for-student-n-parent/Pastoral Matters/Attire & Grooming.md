@@ -115,4 +115,19 @@ stained or faded uniforms must be replaced.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/6.png">
 </div>
+<h4>Shoes and Socks</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to wear plain white school shoes.</p>
+</li>
+<li>
+<p>Any logos on the shoes must also be white.</p>
+</li>
+<li>
+<p>If the shoe has laces, they must also be white.</p>
+</li>
+<li>
+<p>Only the Xinmin socks can be worn and must fully cover the ankle bone.</p>
+</li>
+</ul>
 <p></p>
