@@ -380,6 +380,7 @@ stained or faded uniforms must be replaced.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 225px">
 <colgroup>
 <col>
@@ -395,7 +396,8 @@ stained or faded uniforms must be replaced.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Long Pants size</p>
+<p>Long Pants</p>
+<p>size</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24</p>
