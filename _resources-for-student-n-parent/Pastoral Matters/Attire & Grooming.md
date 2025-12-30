@@ -83,4 +83,25 @@ inappropriate for school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/3.png">
 </div>
+<h4>Girls’ Uniform</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blouses must be buttoned up and always tucked in neatly.</p>
+</li>
+<li>
+<p>Skirts must touch the top of the knee cap.</p>
+</li>
+<li>
+<p>Skirts must conform to manufacturer’s specs.</p>
+</li>
+<li>
+<p>Customization of uniforms to meet the school requirements is available
+(refer to uniform vendor).</p>
+</li>
+<li>
+<p>School uniforms must be kept clean and neat. Torn, worn-out, outgrown,
+stained or faded uniforms must be replaced.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
