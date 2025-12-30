@@ -26,7 +26,7 @@ inappropriate for school.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/1.png">
 </div>
 <h4>Boys’ Uniform</h4>
 <ul data-tight="true" class="tight">
@@ -56,7 +56,7 @@ stained or faded uniforms must be replaced.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/2.png">
 </div>
 <h4>Girls’ Hair</h4>
 <ul data-tight="true" class="tight">
@@ -81,7 +81,7 @@ inappropriate for school.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/3.png">
 </div>
 <h4>Girls’ Uniform</h4>
 <ul data-tight="true" class="tight">
@@ -104,7 +104,7 @@ stained or faded uniforms must be replaced.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/5.png">
 </div>
 <h4>School Blazer</h4>
 <ul data-tight="true" class="tight">
@@ -113,7 +113,7 @@ stained or faded uniforms must be replaced.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/6.png">
 </div>
 <h4>Shoes and Socks</h4>
 <ul data-tight="true" class="tight">
@@ -130,4 +130,415 @@ stained or faded uniforms must be replaced.</p>
 <p>Only the Xinmin socks can be worn and must fully cover the ankle bone.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/shoe.png">
+</div>
+<h4>Xinmin School Jacket</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Only the Xinmin jacket can be worn with the school uniform.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/7.png">
+</div>
+<h4>Xinmin School JacketXinmin Secondary School Uniform Manufacturer’s Specifications</h4>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skirt size</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Length</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>All skirts come with a 2 inch Hem&nbsp;</p>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bermudas size</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Length</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Long Pants</p>
+<p>size</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hips</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Length</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hem opening</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
