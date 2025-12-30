@@ -106,4 +106,11 @@ stained or faded uniforms must be replaced.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/5.png">
 </div>
+<h4>School Blazer</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Black dress shoes must be worn with the school blazer.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
