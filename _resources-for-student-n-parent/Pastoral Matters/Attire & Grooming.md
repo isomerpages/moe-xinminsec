@@ -142,7 +142,7 @@ stained or faded uniforms must be replaced.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/7.png">
 </div>
-<h4>Xinmin School JacketXinmin Secondary School Uniform Manufacturer’s Specifications</h4>
+<h4>Xinmin Secondary School Uniform Manufacturer’s Specifications</h4>
 <table style="minWidth: 200px">
 <colgroup>
 <col>
