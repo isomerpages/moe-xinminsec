@@ -115,3 +115,8 @@ variant: tiptap
 <br>Department: Information Technology
 <br>Email: <a href="mailto:macgyver.yap@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">macgyver.yap@ncs.com.sg</a>
 </p>
+<p><strong>Ms Zahira Zainal</strong>
+<br>Designation: Librarian
+<br>Department: School Library
+<br>Email: <a href="mailto:zahira_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zahira_zainal@schools.gov.sg</a>
+</p>
