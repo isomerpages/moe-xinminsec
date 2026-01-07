@@ -51,7 +51,7 @@ more tips and resources for students, parents, and guardians.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/O Level/2025/Reminder_on_Attire_and_Grooming___O_Level.pdf" rel="noopener nofollow" target="_blank">Reminder on Attire and Groomin</a>
+<p><a href="/files/O Level/2025/Reminder_on_Attire_and_Grooming___O_Level.pdf" rel="noopener nofollow" target="_blank">Reminder on Attire and Grooming</a>
 </p>
 </li>
 </ul>
