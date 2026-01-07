@@ -26,13 +26,13 @@ us forward.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesdays: 3 pm - 530 pm ('C' Division)</p>
+<p>Tuesdays: 3 pm - 5:30 pm ('C' Division)</p>
 </li>
 <li>
 <p>Fridays: 2 pm – 5 pm ('C' Division)</p>
 </li>
 <li>
-<p>Wednesdays: 330 pm - 6 pm ('B' Division)</p>
+<p>Wednesdays: 3:30 pm - 6 pm ('B' Division)</p>
 </li>
 <li>
 <p>Fridays: 3 pm - 6 pm ('B' Division)</p>
