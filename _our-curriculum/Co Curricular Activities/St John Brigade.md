@@ -50,7 +50,7 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <p>Whitespace Wednesdays: 4pm to 6pm</p>
 </li>
 <li>
-<p>Fridays: 2.30pm to 6pm</p>
+<p>Fridays: Corp Meetings (2pm to 6pm)</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
