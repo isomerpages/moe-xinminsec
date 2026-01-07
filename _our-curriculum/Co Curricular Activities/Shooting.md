@@ -121,8 +121,10 @@ at the 2025 NSG Shooting Championship.</p>
 <p>*Shooters to check schedule regularly for updates especially closer to
 competition periods.</p>
 <p>This is the tentative schedule for 2026:</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -131,93 +133,99 @@ competition periods.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Jan – April (NSG B Div period)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>April – July (NSG C Div period)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>August, November (Off-peak)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sec 3, 4, 5</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Mon:</strong> 3.00-5.00pm/4.30-6.00pm</p>
-<p><strong>Wed:</strong> 3.00-5.00pm/4.30-6.00pm</p>
-<p><strong>Fri:</strong> 2.00-4.00pm/3.30-5.00pm</p>
-<p><u>&nbsp;</u>
-</p>
+<p>Before B Div NSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sec 2</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Mon: </strong>3.00 – 5.00pm</p>
-<p><strong>Wed: </strong>3.00 – 5.00pm</p>
-<p><strong>Fri: </strong>2.00 – 4.00pm</p>
-<p>&nbsp;</p>
+<p>(Sec 3-5)
+<br>3.20 - 6.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sec 2, 3</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Wed:</strong> 3.00-5.00pm/4.30-6.00pm</p>
-<p><strong>Fri: </strong>2.00-4.00pm/3.30-5.00pm</p>
+<p>(Sec 1,2)
+<br>3.20 - 6.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>(Sec 3-5)
+<br>3.00 - 6.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 1,2)
+<br>3.20 - 6.20pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 3-5)
+<br>2.00 - 5.00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sec 1, 2</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>3.00-5.00pm/4.30-6.00pm</p>
-<p><strong>Thu: </strong>3.00-5.00pm/4.30-6.00pm</p>
-<p>&nbsp;</p>
+<p>Before C Div NSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sec 1, 3</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>3.00-5.00pm/4.30-6.00pm
-<br><strong>Thu: </strong>3.00-5.00pm/4.30-6.00pm</p>
+<p>(Sec 2/
+<br>Sec 1 DSA)
+<br>3.20 - 5.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Sec 1</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>Tues: </strong>3.00 – 5.00pm</p>
-<p><strong>Thu: </strong>3.00 – 5.00pm</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p>&nbsp;</p>
+<p>(Sec 1, 3)
+<br>3.20 - 6.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>(Sec 2/
+<br>Sec 1 DSA)
+<br>3.00 - 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 1, 3)
+<br>3.20 - 6.20pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 2/
+<br>&nbsp;Sec 1 DSA)
+<br>2.00- 4.00pm</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>Shooters report for 1 session only for each CCA day, allocated by air
-weapon/respective level. All CCA sessions include 30 minutes of Physical
-Training, unless otherwise stated in monthly training schedule.</p>
+<td rowspan="1" colspan="1">
+<p>After NSG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 1)
+<br>3.20 - 5.20pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>( Sec 2 ,3)
+<br>3.00 - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(Sec 1)
+<br>3.20 - 5.20pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>( Sec 2 ,3)
+<br>2.00 - 5.00pm</p>
 </td>
 </tr>
 </tbody>
