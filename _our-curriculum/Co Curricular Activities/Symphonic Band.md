@@ -32,10 +32,13 @@ audiences.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday 3.30pm – 6.30pm</p>
+<p>Monday 3.20pm – 6.20pm</p>
 </li>
 <li>
-<p>Wednesday 3.30pm – 6.30pm</p>
+<p>Wednesday 3pm – 6pm</p>
+</li>
+<li>
+<p>Friday - (prior to competition/performance)</p>
 </li>
 </ul>
 <p><strong>Junior Band (Sec 1)</strong>
