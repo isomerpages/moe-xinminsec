@@ -141,9 +141,6 @@ Club is the place for you!</p>
 <li>
 <p>Mr Kuo Yu Hsuan (AVA IC)</p>
 </li>
-<li>
-<p>Ms Tan Lay Lay (Infocomm IC)</p>
-</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms_mediaclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_mediaclub/?hl=en</a>
