@@ -53,37 +53,161 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<p><strong>Girls</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 1: Tuesday (Odd: 2.45pm – 6.45pm, Even: 2.45pm – 6.45pm), Wednesday
-(3.45pm – 6.45pm), Friday (Odd: 1pm – 3pm, Even: 4pm – 6pm)</p>
-</li>
-<li>
-<p>C Division: Tuesday (Odd: 3.45pm – 6.45pm, Even: 2.45pm – 6.45pm), Wednesday
-(3.45pm – 6.45pm), Friday (Odd: 1pm – 4pm, Even: 4pm – 6pm)</p>
-</li>
-<li>
-<p>B Division: Tuesday (Odd: 3.45pm – 6.45pm), Wednesday (3.45pm – 6.45pm),
-Friday (Odd: 3pm – 6pm, Even: 1pm – 4pm)</p>
-</li>
-</ul>
-<p><strong>Boys</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 1: Tuesday (3.45 – 6.45pm), Thursday (4 – 7pm), Friday (1 –
-4pm)</p>
-</li>
-<li>
-<p>C Division: Monday (4.00 – 7.00pm), Tuesday (3 – 6pm) or Thursday (5 –
-7pm), Friday (1 – 4pm) till Aug 2025</p>
-</li>
-<li>
-<p>B Division: Monday (4 – 7pm), Wednesday (3.45 – 6.45pm), Friday (1 – 4pm)</p>
-</li>
-</ul>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Sec 1 Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (C Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (B Boys)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm (B1 +B2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm (B2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm (B1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm (B2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 4.00pm (B1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Sec 1 Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 4.00pm or
+<br>3.15pm - 6.15pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (C Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 4.00pm or
+<br>3.15pm - 6.15pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (B Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00pm - 4.00pm or
+<br>3.15pm - 6.15pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>*Training frequencies and schedules are subject to change prior to competitions/events</p>
 <h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a crucial role in shaping the team’s journey. They
