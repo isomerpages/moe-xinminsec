@@ -46,14 +46,65 @@ well-rounded individuals both on and off the court.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>C Div - Monday, Wednesday 1530h to 1830h, Friday 1330h to 1630h</p>
-</li>
-<li>
-<p>B Div - Tuesday, Wednesday 1530h to 1830h, Friday 1330h to 1630h</p>
-</li>
-</ul>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sem 1: Sec 1 &amp; 2
+<br>Sem 2: Sec 1</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>&nbsp;3pm-6pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>3:30pm-6:30pm</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>1:30-4:30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sem 1: Sec 3, 4 &amp; 5
+<br>Sem 2: Sec 2 &amp; 3</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>*Training frequencies are subjected to changes prior to competitions</p>
 <h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a vital role in shaping the badminton team’s journey.
