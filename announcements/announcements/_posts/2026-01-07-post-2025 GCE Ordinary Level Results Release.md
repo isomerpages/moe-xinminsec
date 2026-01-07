@@ -8,11 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Students, Parents, and Guardians,</p>
-<p>&nbsp;</p>
 <p>The Ministry of Education (MOE) and the Singapore Examinations and Assessment
 Board (SEAB) have announced that the results of the Singapore-Cambridge
 GCE O-Level Examinations will be released on <strong>Wednesday, 14 January 2026 at 2 pm</strong>.</p>
-<p>&nbsp;</p>
 <p>Students should report to the <strong>Multi-Purpose Hall at 1.30 pm</strong>.
 You are reminded to be in your school uniform, and to adhere to the school’s
 attire and grooming guidelines. Parents and Guardians are welcome to accompany
@@ -31,13 +29,26 @@ more tips and resources for students, parents, and guardians.</p>
 <p>Thank you for your continued support and partnership.&nbsp;</p>
 <p><strong><u>Attachment</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/O Level/2025/2026_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2026 Joint Admission Exercise Info Sheet</a>
 </p>
+</li>
+<li>
 <p><a href="/files/O Level/2025/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
 </p>
+</li>
+<li>
 <p><a href="/files/O Level/2025/2025_SEL___ECG_Resources_for_Students.pdf" rel="noopener nofollow" target="_blank">SEL &amp; ECG Resources for Students</a>
 </p>
+</li>
+<li>
 <p><a href="/files/O Level/2025/Guide_to_CourseFinder_and_SchoolFinder.pdf" rel="noopener nofollow" target="_blank">Guide to CourseFinder and SchoolFinder</a>
 </p>
-<p><a href="/files/O Level/2025/Reminder_on_Attire_and_Grooming___O_Level.pdf" rel="noopener nofollow" target="_blank">Reminder on Attire and Grooming</a>
+</li>
+<li>
+<p><a href="/files/O Level/2025/Reminder_on_Attire_and_Grooming___O_Level.pdf" rel="noopener nofollow" target="_blank">Reminder on Attire and Groomin</a>
 </p>
+</li>
+</ul>
+<p></p>
