@@ -37,7 +37,7 @@ giving them rich opportunities to practise, learn and grow in their craft.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fridays: 2pm to 6pm</p>
+<p>Fridays: 2pm - 5pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
