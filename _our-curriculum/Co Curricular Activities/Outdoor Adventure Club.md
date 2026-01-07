@@ -52,7 +52,7 @@ Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3.45pm to 6.45pm</p>
+<p>Wednesdays: 3.00pm to 6.00pm</p>
 </li>
 <li>
 <p>Fridays: 2.30pm to 5:30pm</p>
