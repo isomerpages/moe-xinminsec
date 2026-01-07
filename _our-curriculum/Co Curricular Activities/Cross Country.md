@@ -28,6 +28,15 @@ organising workouts, and conducting debrief sessions. These student leaders
 are also entrusted with planning the team bonding camp and taking charge
 of initiatives like Open House and Secondary 1 CCA Orientation, ensuring
 new students feel welcomed through engaging bonding and fitness activities.</p>
+<h4><strong>CCA Schedule</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays: 3:30pm - 5:30pm</p>
+</li>
+<li>
+<p>Fridays: 3:30pm - 5:30pm</p>
+</li>
+</ul>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
