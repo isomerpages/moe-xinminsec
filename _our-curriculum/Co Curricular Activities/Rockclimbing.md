@@ -39,7 +39,7 @@ Bouldering League, Sparks, Sendstorm)</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3:30pm to 6.30pm</p>
+<p>Wednesdays: 3pm to 6pm</p>
 </li>
 <li>
 <p>Fridays: 2.30pm to 6pm</p>
