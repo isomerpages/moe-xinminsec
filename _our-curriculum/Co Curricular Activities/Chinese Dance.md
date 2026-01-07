@@ -65,7 +65,7 @@ from hours of dedicated practice.</p>
 <p>Wednesdays - (prior to competition/performance) 3pm - 6pm</p>
 </li>
 <li>
-<p>Fridays: 2.00pm - 5.30pm</p>
+<p>Fridays: 2pm - 5.30pm</p>
 </li>
 </ul>
 <p>Extra practice sessions on Wednesdays, from 3.30pm to 5.30pm, are dedicated
