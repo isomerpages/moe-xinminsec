@@ -74,10 +74,10 @@ hydro dipping, stone painting, postcard designs and shrink plastic works</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3.30pm-5.30/6pm</p>
+<p>Wednesdays: 3pm- 5pm/ 5.30pm</p>
 </li>
 <li>
-<p>Fridays: 1.30pm-3.30pm/4pm</p>
+<p>Fridays: 2.15pm-4.15pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
