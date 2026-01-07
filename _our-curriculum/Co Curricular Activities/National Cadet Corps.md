@@ -133,9 +133,6 @@ embarking on thrilling adventures and lifelong friendships!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Ganesan Selvarathnam (IC)</p>
-</li>
-<li>
 <p>Mr Ang Koon Yong</p>
 </li>
 </ul>
