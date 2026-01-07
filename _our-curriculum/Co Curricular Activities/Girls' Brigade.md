@@ -26,11 +26,10 @@ need to overcome challenges and thrive in every aspect of life.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Saturdays: Regular training from 8:30 am to 12 noon</p>
+<p>Saturdays: Main Training Day (8.30am - 12pm)</p>
 </li>
 <li>
-<p>Wednesdays: Extra training from 4.00 pm to 6.00 pm (Students will be informed
-via PG on a termly basis)</p>
+<p>Wednesdays: Reserved Training Day (4pm - 6pm)</p>
 <p></p>
 </li>
 </ul>
