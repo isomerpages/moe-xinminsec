@@ -45,10 +45,10 @@ audiences.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday 4.00pm – 6.00pm (from May onwards)</p>
+<p>Wednesday 3pm - 5pm</p>
 </li>
 <li>
-<p>Friday 2.00pm – 5.00pm</p>
+<p>Friday 2pm - 5pm</p>
 </li>
 </ul>
 <h4><strong>Student Leaders</strong></h4>
