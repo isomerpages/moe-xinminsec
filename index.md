@@ -22,14 +22,13 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
-      title: Welcome to Xinmin!
+      title: 2025 GCE Ordinary Level Results Release
       id: infopic
-      description: Dear Students and Parents/Guardians, welcome to our Xinmin Family!
-        We are excited to be a part of your growth journey. Please check the
-        link for key info.
-      button: 2026 SEC 1 POSTING MICROSITE
-      url: https://sites.google.com/xinminss.edu.sg/info-for-2026-sec-1/welcome-to-xinmin
-      image: /images/Announcement Front Images/Welcome_Sec_1_img.png
+      description: The results of the GCE O-Level Examinations will be released on
+        Wednesday, 14 January at 2 pm. Visit the link below for more details.
+      button: ANNOUNCEMENT
+      url: https://www.xinminsec.moe.edu.sg/2025-gce-ordinary-level-results-release/
+      image: /images/O Level/GCE_O_Level.png
       alt: Image alt text
   - infopic:
       title: Every Xinmin Student a Curious Learner
