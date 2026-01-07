@@ -51,10 +51,10 @@ proud.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3:45pm to 6pm</p>
+<p>Wednesdays: 3pm to 6pm</p>
 </li>
 <li>
-<p>Fridays: 2pm to 5:15pm</p>
+<p>Fridays: 1.40-4.40pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
