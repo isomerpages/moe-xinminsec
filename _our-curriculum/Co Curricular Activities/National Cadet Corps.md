@@ -87,10 +87,10 @@ competitions.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday: 1600h - 1800h</p>
+<p>Wednesday: Reserved Training Day (4pm - 6pm)</p>
 </li>
 <li>
-<p>Friday: 1400h - 1800h</p>
+<p>Friday: Main Training Day (2pm - 6pm)</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -132,9 +132,6 @@ enhancing their skills to guide and mentor their juniors effectively.</p>
 embarking on thrilling adventures and lifelong friendships!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
-<li>
-<p>Mr Ganesan Selvarathnam (IC)</p>
-</li>
 <li>
 <p>Mr Ang Koon Yong</p>
 </li>

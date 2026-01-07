@@ -57,10 +57,10 @@ Tech Championship</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3.30pm to 6.00pm</p>
+<p>Wednesdays: 3.00pm - 5.30pm</p>
 </li>
 <li>
-<p>Fridays: 2.00pm to 5.00pm (for selected students)</p>
+<p>Fridays: 2.00pm to 5.00pm</p>
 </li>
 </ul>
 <p>Students are expected to assist with media duties.</p>
@@ -140,9 +140,6 @@ Club is the place for you!</p>
 </li>
 <li>
 <p>Mr Kuo Yu Hsuan (AVA IC)</p>
-</li>
-<li>
-<p>Ms Tan Lay Lay (Infocomm IC)</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

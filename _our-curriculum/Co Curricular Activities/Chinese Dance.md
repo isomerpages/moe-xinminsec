@@ -59,10 +59,13 @@ from hours of dedicated practice.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mondays: 3:45pm to 6:30pm</p>
+<p>Mondays: 4pm - 6pm</p>
 </li>
 <li>
-<p>Fridays: 1:45pm to 5:00pm</p>
+<p>Wednesdays - (prior to competition/performance) 3pm - 6pm</p>
+</li>
+<li>
+<p>Fridays: 2pm - 5.30pm</p>
 </li>
 </ul>
 <p>Extra practice sessions on Wednesdays, from 3.30pm to 5.30pm, are dedicated
@@ -190,9 +193,6 @@ never having lost!</p>
 </li>
 <li>
 <p>Ms Wu Shi Min Rachel Emily</p>
-</li>
-<li>
-<p>Ms Cheng Yoke Yee</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

@@ -99,10 +99,10 @@ where every boy finds <strong>brotherhood, adventure, and purpose</strong>!</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fridays (ad hoc): 2.00pm - 4.00pm</p>
+<p>Fridays - (ad hoc)</p>
 </li>
 <li>
-<p>Saturdays (Main) (7.30am - 12pm)</p>
+<p>Saturdays - Main Training Day (8am - 12pm)</p>
 <p><strong>CCA Schedule for 2025</strong>  <em><a href="https://go.gov.sg/bb45" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bb45</a><u> </u></em>(updated
 regularly)</p>
 </li>
