@@ -82,10 +82,7 @@ and Discipline within our GB 42nd Company!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mrs Amy Chan (IC)</p>
-</li>
-<li>
-<p>Ms Ee Ai Lin</p>
+<p>Ms Ee Ai Lin (IC)</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
