@@ -31,11 +31,11 @@ more tips and resources for students, parents, and guardians.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/O Level/2025/2026_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2026 Joint Admission Exercise Info Sheet</a>
+<p><a href="/files/O Level/2025/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2025 GCE O-Level Results Release - Supporting Your Teen</a>
 </p>
 </li>
 <li>
-<p><a href="/files/O Level/2025/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">O-Level Info Sheet for Parents</a>
+<p><a href="/files/O Level/2025/2026_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2026 Joint Admission Exercise Info Sheet</a>
 </p>
 </li>
 <li>
