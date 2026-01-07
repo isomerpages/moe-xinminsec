@@ -194,9 +194,6 @@ never having lost!</p>
 <li>
 <p>Ms Wu Shi Min Rachel Emily</p>
 </li>
-<li>
-<p>Ms Cheng Yoke Yee</p>
-</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms.chinesedance/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.chinesedance/</a>
