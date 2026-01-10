@@ -63,6 +63,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://form.gov.sg/694a47c2c00557f8221fec11" rel="noopener nofollow" target="_blank">School Blazer Loan Link</a>
+</p>
+</li>
+<li>
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SCMobile</a>
 </p>
 </li>
