@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/xms-hbl-schedule" rel="noopener nofollow" target="_blank">Home-Based Learning Schedule</a>
+<p><a href="https://go.gov.sg/xms-hbl-schedule" rel="noopener nofollow" target="_blank">Home-Based Learning Scheduler</a>
 </p>
 </li>
 <li>
