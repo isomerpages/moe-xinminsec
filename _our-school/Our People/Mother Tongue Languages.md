@@ -43,7 +43,7 @@ variant: tiptap
 <p><strong>Mdm Guan Jing</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:guan_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guan_jing@schools.gov.sg</a>
+<br>Email: <a href="mailto:guan_jing_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guan_jing_a@schools.gov.sg</a>
 </p>
 <p><strong>Ms Koh Cher Yee</strong>
 <br>Designation: Teacher
