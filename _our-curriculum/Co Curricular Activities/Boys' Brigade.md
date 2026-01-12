@@ -261,11 +261,7 @@ boy!</p>
 <p>Mr Noah Zhang (IC)</p>
 </li>
 <li>
-<p>Mr Ang Choon Peng</p>
-</li>
-<li>
-<p>Mr Benjamin Low</p>
-<p></p>
+<p>Ms Saw Xue Ting</p>
 </li>
 </ul>
 <h4><strong>The BB45th Officers, Primers and Volunteers</strong></h4>
