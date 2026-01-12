@@ -98,7 +98,6 @@ where every boy finds <strong>brotherhood, adventure, and purpose</strong>!</p>
 </li>
 <li>
 <p>BB Share-a-gift – December</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
