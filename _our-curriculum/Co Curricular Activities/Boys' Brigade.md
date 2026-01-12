@@ -229,15 +229,20 @@ excellence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_3.png">
 </div>
-<h4><strong>Accomplishments in 2026</strong></h4>
+<h4><strong>Accomplishments in 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>JM Fraser Award for Excellence (Year of Assessment 2025) – High Distinction</p>
 </li>
-<li>
+</ul>
 <p>Founder's Award Recipients for 2025:</p>
-<p>- SSG ETHAN YAP ERN XIN (401, 2025)</p>
-<p>- SSG SEOW ZHI QIN (407, 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SSG ETHAN YAP ERN XIN (401, 2025)</p>
+</li>
+<li>
+<p>SSG SEOW ZHI QIN (407, 2025)</p>
+<p></p>
 </li>
 <li>
 <p>Most Improved NCO Award 2025: SSG Braven Wee</p>
