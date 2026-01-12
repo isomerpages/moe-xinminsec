@@ -26,7 +26,7 @@ inappropriate for school.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Attire and Grooming/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Attire and Grooming/Boys_Hair_Front_and_Back.png">
 </div>
 <h4>Boys’ Uniform</h4>
 <ul data-tight="true" class="tight">
