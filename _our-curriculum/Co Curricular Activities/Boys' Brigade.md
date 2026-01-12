@@ -51,59 +51,66 @@ With their support, our boys continue to <strong>learn, serve, and lead</strong>
 not just themselves, but also the community around them.</p>
 <p>Come <strong>be a part of this journey</strong> with us at the <strong>45th Boys' Brigade Company</strong>,
 where every boy finds <strong>brotherhood, adventure, and purpose</strong>!</p>
-<h4><strong>Activities in 2025</strong></h4>
+<h4><strong>Activities in 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>CCA Orientation Booth – January</p>
+<p>CCA Fair – January</p>
 </li>
 <li>
 <p>BB Day – January</p>
 </li>
 <li>
-<p>BB Parents Engagement Session &amp; CNY Celebration – February</p>
+<p>BB Parents Engagement Session &amp; CNY Celebration &amp; BB Homecoming
+– February</p>
 </li>
 <li>
 <p>BB Week Fundraising – March – April</p>
 </li>
 <li>
-<p>BB Blaze Competition (National) – April</p>
+<p>BB Blaze Competition – April</p>
 </li>
 <li>
-<p>Enrolment and Dedication Ceremony – May</p>
+<p>BB Passing Out Parade – April</p>
 </li>
 <li>
-<p>Recruit Training and Leadership Development Camp – June</p>
+<p>Enrolment and Dedication Ceremony – April</p>
 </li>
 <li>
-<p>BB Cares (Community Service) – Aug</p>
+<p>BB Cares – May</p>
 </li>
 <li>
-<p>BB Character Quest (National) – August</p>
+<p>BB Leadership Development Camp – July</p>
 </li>
 <li>
-<p>CCA Booth at Open House – Nov</p>
+<p>BB Character Quest – August</p>
 </li>
 <li>
-<p>Company Training Camp (Overseas) – Nov</p>
+<p>BB Significant Day – August</p>
 </li>
 <li>
-<p>Company Retreat – Nov/Dec</p>
+<p>BB Band of Brothers – October</p>
 </li>
 <li>
-<p>BB Share-a-gift – Dec</p>
+<p>Local Company Training Programme – November</p>
 </li>
 <li>
-<p>Physical training/bonding sessions on every first week of the month</p>
+<p>CCA Booth at Open House – November</p>
+</li>
+<li>
+<p>BB Share-a-gift – December</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Fridays - (ad hoc)</p>
+<p>Saturdays (Main): 7.45am – 12.30pm</p>
 </li>
 <li>
-<p>Saturdays - Main Training Day (8am - 12pm)</p>
-<p><strong>CCA Schedule for 2025</strong>  <em><a href="https://go.gov.sg/bb45" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bb45</a><u> </u></em>(updated
+<p>Fridays (ad hoc): 2.00pm - 4.00pm</p>
+</li>
+<li>
+<p>CCA Schedule: <a href="https://go.gov.sg/bb45" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bb45</a> (updated
 regularly)</p>
 </li>
 </ul>
