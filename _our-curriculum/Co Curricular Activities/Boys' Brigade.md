@@ -207,7 +207,7 @@ personal growth</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_2026_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo10.jpg">
 </div>
 <h4><strong>Excellence</strong></h4>
 <p>This year, BB45th proudly celebrates three significant achievements. First,
