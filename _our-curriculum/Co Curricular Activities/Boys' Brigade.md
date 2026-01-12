@@ -270,55 +270,46 @@ boy!</p>
 <p>Captain LTA Kenric Seah</p>
 </li>
 <li>
+<p>Officer 2LT Philip Ziegler</p>
+</li>
+<li>
 <p>Officer 2LT Bernard Soon</p>
-</li>
-<li>
-<p>Officer 2LT Terence Loke</p>
-</li>
-<li>
-<p>Officer OCT Nelson Fong</p>
 </li>
 <li>
 <p>Officer OCT John Low</p>
 </li>
 <li>
-<p>Officer OCT Philip Ziegler</p>
+<p>Officer OCT Owen Saw</p>
 </li>
 <li>
-<p>Adult Volunteer Mr Kow Jia Liang</p>
+<p>Officer OCT Ngang Xue Jian</p>
 </li>
 <li>
-<p>Adult Volunteer Mr Liu Hongyou</p>
+<p>Primer (Platoon Commander 1) CLT Seow Zhi Qin</p>
 </li>
 <li>
-<p>Adult Volunteer Mr Tea Yan Xin</p>
+<p>Primer (Platoon Commander 1) CLT Samuel Lee</p>
 </li>
 <li>
-<p>Primer (Platoon Commander 1) CLT Owen Saw</p>
+<p>Primer (Platoon Commander 2) CLT Nigel Foo</p>
 </li>
 <li>
-<p>Primer (Platoon Commander 1) CLT Ngang Xue Jian</p>
+<p>Primer (Platoon Commander 3) CLT Ethan Yap</p>
 </li>
 <li>
-<p>Primer (Platoon Commander 2) SCL Lee Jia Heng</p>
+<p>Primer (Platoon Commander 3) CLT Ko Qi Yuan</p>
 </li>
 <li>
-<p>Primer (Platoon Commander 3) SCL Hayward Tan</p>
-</li>
-<li>
-<p>Primer (Platoon Commander 3) SCL Lenox Lim</p>
-</li>
-<li>
-<p>Primer (Platoon Commander 3) CLT Joshua Lim</p>
-</li>
-<li>
-<p>Primer (Platoon Commander 4) SCL David Soon</p>
+<p>Primer (Platoon Commander 4) CLT Riley Sim</p>
 </li>
 <li>
 <p>Chaplain Sara Yeo (Living Sanctuary Brethren Church)</p>
 </li>
 <li>
 <p>Mr Aik Wei Pin (Church Liaison)</p>
+</li>
+<li>
+<p>Adult Volunteer Mr Tea Yan Xin</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
