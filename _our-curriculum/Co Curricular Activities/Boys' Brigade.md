@@ -123,36 +123,36 @@ day-to-day operations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
 </div>
-<h4><strong>2025 NCO Council</strong></h4>
+<h4><strong>2026 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Company Sergeant Major</strong>
 </p>
-<p>SGT Emmanuel Yeo Xiang Yong (302, 2025)</p>
+<p>SSG Emmanuel Yeo Xiang Yong (402, 2026)</p>
 <p></p>
 </li>
 <li>
 <p><strong>Assistant Company Sergeant Major</strong>
 </p>
-<p>SGT Neo Hao Yu (306, 2025)</p>
+<p>SGT Neo Hao Yu (406, 2026)</p>
 <p></p>
 </li>
 <li>
 <p><strong>Quartermaster&nbsp;</strong>
 </p>
-<p>SGT Luke Tang Yan Zhen (304, 2025)</p>
+<p>SGT Luke Tang Yan Zhen (405, 2026)</p>
 <p></p>
 </li>
 <li>
 <p><strong>Training Head</strong>
 </p>
-<p>SGT Aaron Teo Yu Hao (303, 2025)</p>
+<p>SSG Aaron Teo Yu Hao (403, 2026)</p>
 <p></p>
 </li>
 <li>
 <p><strong>Publicity Head</strong>
 </p>
-<p>SGT Xavier Tong Zi Jun (301, 2025)</p>
+<p>SGT Xavier Tong Zi Jun (401, 2026)</p>
 <p></p>
 </li>
 </ul>
@@ -168,9 +168,9 @@ to nurture future-ready Stewards grounded in character, service, and initiative.
 are automatically emplaced in the programme.</p>
 </li>
 <li>
-<p>Other Boys may apply through an annual application process, which includes
-submitting their Xinmin e-Portfolio and attending an interview with the
-Officer team.</p>
+<p>Other Boys may apply through an annual application process in July, which
+includes submitting their Xinmin e-Portfolio and attending an interview
+with the Teacher &amp; Officer team.</p>
 </li>
 </ul>
 <p>The programme is designed to cultivate Stewards with:</p>
