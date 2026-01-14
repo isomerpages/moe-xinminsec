@@ -35,8 +35,7 @@ third_nav_title: Students
 <p>98.0% of O-Level students were eligible for progression to A-Level and
 Polytechnics</p>
 <p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-<p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
-<p>98.7% of N(A)-Level students were eligible for progression to Sec 5</p>
+<p>Around 20 of our O-Level students scored 7 or more Distinctions</p>
 <p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
@@ -217,8 +216,7 @@ Programme</p>
 <p>99.0% of O-Level students were eligible for progression to A-Level and
 Polytechnics</p>
 <p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-<p>More than 20 of our O-Level students scored 7 to 9 Distinctions</p>
-<p>93.4% of N(A)-Level students were eligible for progression to Sec 5</p>
+<p>Around 20 of our O-Level students scored 7 or more Distinctions</p>
 <p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
@@ -388,7 +386,6 @@ Tracks</p>
 <td rowspan="1" colspan="2">
 <p>93.4% of O-Level students were eligible for progression to A-Level</p>
 <p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
-<p>93.9% of N(A)-Level students were eligible for progression to Sec 5</p>
 <p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
