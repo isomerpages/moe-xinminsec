@@ -15,10 +15,6 @@ variant: tiptap
 <p><a href="/resources/students/timetables/school-timetable" rel="noopener noreferrer nofollow" target="_blank">School Timetable</a>
 </p>
 </li>
-<li>
-<p><a href="https://drive.google.com/drive/folders/1ixk4EdnS8uy6zoUVuQj0R51x5kiL6muL?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule</a>
-</p>
-</li>
 </ul>
 <h2>Quick Links</h2>
 <ul data-tight="true" class="tight">
