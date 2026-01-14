@@ -27,6 +27,39 @@ third_nav_title: Students
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>92.0% of O-Level students were eligible for progression to A-Level</p>
+<p>99.0% of O-Level students were eligible for progression to A-Level and
+Polytechnics</p>
+<p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
+<p>Around 20 of our O-Level students scored 7 or more Distinctions</p>
+<p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
+Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YEAR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>COMPETITION/PLATFORM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACHIEVEMENT</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="18" colspan="1">
 <p>2025</p>
 </td>
