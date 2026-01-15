@@ -65,7 +65,7 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:nur_ellyana_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ellyana_roslan@schools.gov.sg</a>
 </p>
-<p><strong>Ms Quek Suan Shiau</strong>
+<p><strong>Mr Quek Suan Shiau</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:quek_suan_shiau_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_suan_shiau_b@schools.gov.sg</a>
