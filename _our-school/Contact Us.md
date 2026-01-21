@@ -28,7 +28,7 @@ just before the school soccer field. Our school entrance is on the right.</p>
 <p>Click <a href="https://go.gov.sg/xmssreflectionstheatrebookingform" rel="noopener nofollow" target="_blank">here </a>to
 download the <strong>Reflections Theatre Booking Form</strong>.</p>
 <h4>Media for School Use</h4>
-<p><strong>Home=School Partnership:</strong>
+<p><strong>Home-School Partnership:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
