@@ -27,15 +27,9 @@ left into Hougang Ave 8. After the bend, turn left into the HDB car park
 just before the school soccer field. Our school entrance is on the right.</p>
 <p>Click <a href="https://go.gov.sg/xmssreflectionstheatrebookingform" rel="noopener nofollow" target="_blank">here </a>to
 download the <strong>Reflections Theatre Booking Form</strong>.</p>
-<h4>Media for School Use</h4>
-<p><strong>Home-School Partnership:</strong>
+<h4>Home-School Partnership</h4>
+<p><strong>1) Official Communication Channels</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Official Communication Channels</strong>
-</p>
-</li>
-</ol>
 <p>To ensure your messages are received and documented correctly, please
 use only the following official modes of communication:</p>
 <ul data-tight="true" class="tight">
@@ -53,12 +47,8 @@ or staff member directly.</p>
 or to leave a message for a staff member.</p>
 </li>
 </ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Response Time &amp; Staff Availability</strong>
+<p><strong>2) Response Time &amp; Staff Availability</strong>
 </p>
-</li>
-</ol>
 <p>Our teachers are dedicated to providing high-quality instruction during
 the school day. To balance this with their professional well-being, the
 following expectations apply:</p>
@@ -72,18 +62,14 @@ following expectations apply:</p>
 during evenings, weekends, or school holidays.</p>
 </li>
 </ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Urgent Matters</strong>
+<p><strong>3) Urgent Matters</strong>
 </p>
-</li>
-</ol>
 <p>We understand that some situations require immediate attention (e.g.,
-sudden changes to transport arrangements, medical emergencies, or family
-crises).</p>
+sudden changes to transport arrangements, medical emergencies).</p>
 <p>For all urgent messages during school hours, please contact the General
 Office directly via phone. The office staff will ensure the information
 reaches the relevant teacher or student immediately.</p>
+<h4>Media for School Use</h4>
 <p>Photographs or video images of you and/or your child/ward may be taken
 during school activities and events. The school may use and publish such
 photographs, video recordings or live streaming in school publications,
