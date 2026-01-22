@@ -12,7 +12,7 @@ variant: tiptap
 <p>To develop every Xinmin student to be a curious learner, a compassionate
 contributor and a confident leader.
 <br>
-<br>培养每一位新民学子成为孜孜不倦的学习者、仁心仁德的贡献者、信心十足的领袖者。</p>
+<br>培养每一位新民学子成为孜孜不倦的学习者、仁心仁德的贡献者、信心十足的领导者。</p>
 <h2>Our Values 核心价值观</h2>
 <table style="minWidth: 50px">
 <colgroup>
