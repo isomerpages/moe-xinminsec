@@ -54,18 +54,16 @@ the school day. To balance this with their professional well-being, the
 following expectations apply:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Communication Hours: Staff are expected to respond to queries between
-7:30 AM and 5:00 PM, Monday to Friday, during term time only.</p>
-</li>
-<li>
-<p>Outside Hours: Teachers are not expected to check or respond to emails/messages
-during evenings, weekends, or school holidays.</p>
+<p>Communication Hours: Parents/Guardians are encouraged to contact our staff&nbsp;
+during school hours from 7:30 AM to 5:00 PM (Mon–Fri) during term time.
+To help our staff recharge, they won't be checking or responding to messages
+after hours or on weekends.</p>
 </li>
 </ul>
 <p><strong>3) Urgent Matters</strong>
 </p>
 <p>We understand that some situations require immediate attention (e.g.,
-sudden changes to transport arrangements, medical emergencies).</p>
+sudden changes to transport arrangements or medical emergencies).</p>
 <p>For all urgent messages during school hours, please contact the General
 Office directly via phone. The office staff will ensure the information
 reaches the relevant teacher or student immediately.</p>
