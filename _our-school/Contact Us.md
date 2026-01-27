@@ -27,46 +27,6 @@ left into Hougang Ave 8. After the bend, turn left into the HDB car park
 just before the school soccer field. Our school entrance is on the right.</p>
 <p>Click <a href="https://go.gov.sg/xmssreflectionstheatrebookingform" rel="noopener nofollow" target="_blank">here </a>to
 download the <strong>Reflections Theatre Booking Form</strong>.</p>
-<h4>Home-School Partnership</h4>
-<p><strong>1) Official Communication Channels</strong>
-</p>
-<p>To ensure your messages are received and documented correctly, please
-use only the following official modes of communication:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Parents Gateway (PG) App: This is our primary tool for official school
-announcements, consent forms, and administrative updates. Please ensure
-your notifications are turned on.</p>
-</li>
-<li>
-<p>School Email: For non-urgent matters, please email the respective teacher
-or staff member directly.</p>
-</li>
-<li>
-<p>School Phone: You may call the school’s main line for general inquiries
-or to leave a message for a staff member.</p>
-</li>
-</ul>
-<p><strong>2) Response Time &amp; Staff Availability</strong>
-</p>
-<p>Our teachers are dedicated to providing high-quality instruction during
-the school day. To balance this with their professional well-being, the
-following expectations apply:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Communication Hours: Parents/Guardians are encouraged to contact our staff&nbsp;
-during school hours from 7:30 AM to 5:00 PM (Mon–Fri) during term time.
-To help our staff recharge, they won't be checking or responding to messages
-after hours or on weekends.</p>
-</li>
-</ul>
-<p><strong>3) Urgent Matters</strong>
-</p>
-<p>We understand that some situations require immediate attention (e.g.,
-sudden changes to transport arrangements or medical emergencies).</p>
-<p>For all urgent messages during school hours, please contact the General
-Office directly via phone. The office staff will ensure the information
-reaches the relevant teacher or student immediately.</p>
 <h4>Media for School Use</h4>
 <p>Photographs or video images of you and/or your child/ward may be taken
 during school activities and events. The school may use and publish such
