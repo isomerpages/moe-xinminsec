@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.69738261379!2d103.8828692!3d1.3720807!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da164f795387f3%3A0x197651e871e83074!2sXinmin%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1700183262839!5m2!1sen!2ssg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15954.69738261379!2d103.8828692!3d1.3720807!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da164f795387f3%3A0x197651e871e83074!2sXinmin%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1700183262839!5m2!1sen!2ssg"></iframe>
 </div>
 <p>11 Hougang Avenue 8,
 <br>Singapore 538789

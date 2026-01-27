@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo11b.png">
 </div>
 <h4><strong>45<sup>th</sup> Boys’ Brigade Company, Xinmin Secondary School</strong></h4>
 <p>The <strong>Boys' Brigade (BB) 45<sup>th </sup>&nbsp;Singapore Company at Xinmin Secondary School</strong> is
