@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students and Parents
 ---
+<h4>Home-School Partnerships</h4>
 <p>Our school values parents’ partnership to raise a kind and confident generation
 together. To ensure the holistic development of our students, our school
 and parents work hand-in-hand to support teachers’ professional responsibilities.</p>
