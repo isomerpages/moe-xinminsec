@@ -52,6 +52,26 @@ changes to transport arrangements or medical emergencies).</p>
 <p>For all urgent messages during school hours, please contact the General
 Office directly at 6288 9382. Our staff will ensure that the information
 reaches the relevant teacher or student immediately.</p>
+<p></p>
+<p>Please click on the following links for more information on:</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.xinminsec.moe.edu.sg/resources/for-students-and-parents/academic-matters/" rel="noopener noreferrer nofollow" target="_blank">Academic Matters</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.xinminsec.moe.edu.sg/resources/for-students-and-parents/pastoral-matters/" rel="noopener noreferrer nofollow" target="_blank">Pastoral Matters</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.xinminsec.moe.edu.sg/resources/for-students-and-parents/quick-links/" rel="noopener nofollow" target="_blank">Quick Links</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.xinminsec.moe.edu.sg/resources/for-students-and-parents/helpdesk/" rel="noopener nofollow" target="_blank">Helpdesk</a>
+</p>
 </li>
 </ul>
 <p></p>
