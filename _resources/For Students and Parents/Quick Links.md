@@ -47,19 +47,23 @@ variant: tiptap
 <h2>Assessment</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/resources/students/assessment/assessment-plan-2021" rel="noopener noreferrer nofollow" target="_blank">Assessment Plan</a>
+<p><a href="/resources/students/assessment/assessment-plan/" rel="noopener noreferrer nofollow" target="_blank">Assessment Plan</a>
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/criteria-for-promotion" rel="noopener noreferrer nofollow" target="_blank">Criteria for Promotion</a>
+<p><a href="/resources/students/assessment/criteria-for-promotion/" rel="noopener noreferrer nofollow" target="_blank">Criteria for Student Progression</a>
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/end-of-year-examination-topics-and-formats" rel="noopener noreferrer nofollow" target="_blank">End Of Year Examination Topics and Formats</a>
+<p><a href="https://drive.google.com/drive/u/3/folders/1ixk4EdnS8uy6zoUVuQj0R51x5kiL6muL" rel="noopener nofollow" target="_blank">Total Assessment Plan</a>
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/instructions-to-candidates" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
+<p><a href="/resources/students/assessment/instructions-to-candidates/" rel="noopener noreferrer nofollow" target="_blank">Instructions to Candidates</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Prelim Exams/N_level_and_O_level_Prelim_Timetable_2025_2.pdf" rel="noopener nofollow" target="_blank">N_level_and_O_level_Prelim_Timetable_2025</a>
 </p>
 </li>
 </ul>
