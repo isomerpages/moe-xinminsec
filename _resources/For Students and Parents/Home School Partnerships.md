@@ -43,8 +43,15 @@ these hours, on weekends, and during teachers’ school holidays.</p>
 </ul>
 <p><strong>Urgent Matters</strong>
 </p>
-<p>•&nbsp;We understand that some situations require immediate attention
-(e.g. sudden changes to transport arrangements or medical emergencies).</p>
-<p>•&nbsp;For all urgent messages during school hours, please contact the
-General Office directly at 6288 9382. Our staff will ensure that the information
+<ul data-tight="true" class="tight">
+<li>
+<p>We understand that some situations require immediate attention (e.g. sudden
+changes to transport arrangements or medical emergencies).</p>
+</li>
+<li>
+<p>For all urgent messages during school hours, please contact the General
+Office directly at 6288 9382. Our staff will ensure that the information
 reaches the relevant teacher or student immediately.</p>
+</li>
+</ul>
+<p></p>
