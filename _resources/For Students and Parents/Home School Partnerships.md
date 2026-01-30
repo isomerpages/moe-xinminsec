@@ -29,7 +29,7 @@ or staff member directly.</p>
 a message for a staff member.</p>
 </li>
 </ul>
-<p>&nbsp;<strong>Communication Hours</strong>
+<p><strong>Communication Hours</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -53,9 +53,9 @@ changes to transport arrangements or medical emergencies).</p>
 Office directly at 6288 9382. Our staff will ensure that the information
 reaches the relevant teacher or student immediately.</p>
 <p></p>
-<p>Please click on the following links for more information on:</p>
 </li>
 </ul>
+<p>Please click on the following links for more information on:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.xinminsec.moe.edu.sg/resources/for-students-and-parents/academic-matters/" rel="noopener noreferrer nofollow" target="_blank">Academic Matters</a>
