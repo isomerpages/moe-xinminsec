@@ -15,5 +15,6 @@ with consistent and exemplary demonstrate Emerging 21 Century Competencies
 to thrive in and beyond school. In addition to the Achievement, Leadership
 &amp; Service domains, there is a new E21CC domain included to the award.</p>
 <p>Nominations for the E21CC domain of the EAGLES Award may be submitted
-via this form: <a href="https://go.gov.sg/xms21ccnomination26" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms21ccnomination26</a>
+via this form by <strong>14 September 2026, Monday, 11.59pm</strong> :
+<a href="https://go.gov.sg/xms21ccnomination26" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms21ccnomination26</a>
 </p>
