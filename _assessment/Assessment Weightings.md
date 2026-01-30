@@ -1,6 +1,6 @@
 ---
-title: Assessment Plan
-permalink: /resources/students/assessment/assessment-plan/
+title: Assessment Weightings
+permalink: /resources/students/assessment/assessment-weightings/
 description: ""
 variant: tiptap
 ---

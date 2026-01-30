@@ -19,15 +19,11 @@ variant: tiptap
 <p><a href="https://go.gov.sg/xms-hbl-schedule" rel="noopener nofollow" target="_blank">Home-Based Learning Scheduler</a>
 </p>
 </li>
-<li>
-<p><a href="https://drive.google.com/drive/u/3/folders/1ixk4EdnS8uy6zoUVuQj0R51x5kiL6muL" rel="noopener nofollow" target="_blank">Total Assessment Plan</a>
-</p>
-</li>
 </ul>
 <h2>Assessment</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/resources/students/assessment/assessment-plan/" rel="noopener noreferrer nofollow" target="_blank">Assessment Plan</a>
+<p><a href="/resources/students/assessment/assessment-weightings/" rel="noopener noreferrer nofollow" target="_blank">Assessment Weightings</a>
 </p>
 </li>
 <li>
@@ -35,11 +31,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/resources/students/assessment/end-of-year-examination-topics-and-formats/" rel="noopener noreferrer nofollow" target="_blank">End Of Year Examination Schedules, Topics and Formats</a>
-</p>
-</li>
-<li>
-<p><a href="/files/EOY Timetable/2025/2025_EOY_Script_Checking_Timetable_Class_Final_12Oct.pdf" rel="noopener nofollow" target="_blank">End Of Year script checking timetables for the Sec 1 to Sec 3 students 2025</a>
+<p><a href="https://drive.google.com/drive/u/3/folders/1ixk4EdnS8uy6zoUVuQj0R51x5kiL6muL" rel="noopener nofollow" target="_blank">Total Assessment Plan</a>
 </p>
 </li>
 <li>
