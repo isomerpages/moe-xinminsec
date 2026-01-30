@@ -176,8 +176,11 @@ help. Abstinence and upholding family values are the key messages.</p>
 <p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and
-provide knowledge on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+</ul>
 <p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
@@ -199,9 +202,12 @@ way, including avenues for help-seeking.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their
-way out of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
