@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
-<p><strong><u>E21CC EAGLES Award</u></strong>
-</p>
+<h4><strong>E21CC EAGLES Award</strong></h4>
 <p>The Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES)
 recognise students who demonstrate leadership qualities, excellence in
 non-academic activities, and service to community &amp; schools.</p>
