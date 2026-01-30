@@ -2,6 +2,7 @@ collections:
   our-achievements:
     output: true
     order:
+      - Students/E21CC EAGLES and ECHA Awards.md
       - Students/.keep
       - Students/Cognitive.md
       - Students/Aesthetics.md
