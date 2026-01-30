@@ -123,74 +123,9 @@ their family, and the importance of responsible decision-making and seeking
 help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Xinmin Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Topics/Lessons</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Programme Learning Objectives</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g. Term 3)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Raise awareness and provide knowledge on:</p>
-</li>
-</ul>
-<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
-what it is, how it spreads, how to prevent infection mainly through ABC
-(abstinence, being faithful, correct, and consistent condom use), consequences
-and impact</p>
-<p>&nbsp;</p>
-<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
-assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;</p>
-<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
-way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Classroom-based Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Learn to negotiate their way out of a risky situation by applying skills
-of assertiveness and responsible decision-making</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality_Education/2026/learning_objectives_2026.png">
+</div>
 <h4><strong>Information for Parents</strong></h4>
 <p>10.&nbsp;Parents may opt their children out of the Sexuality Education
 lessons, <em>eTeens</em> and/or supplementary sexuality education programmes
