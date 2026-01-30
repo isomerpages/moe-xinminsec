@@ -2,6 +2,6 @@ collections:
   assessment:
     output: true
     order:
-      - Assessment Plan.md
+      - Assessment Weightings.md
       - Criteria for Student Progression.md
       - Instructions to Candidates.md
