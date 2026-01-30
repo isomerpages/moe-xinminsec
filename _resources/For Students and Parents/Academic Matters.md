@@ -23,7 +23,7 @@ variant: tiptap
 <h2>Assessment</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/resources/students/assessment/assessment-plan/" rel="noopener noreferrer nofollow" target="_blank">Assessment Plan</a>
+<p><a href="/resources/students/assessment/assessment-weightings/" rel="noopener noreferrer nofollow" target="_blank">Assessment Weightings</a>
 </p>
 </li>
 <li>
