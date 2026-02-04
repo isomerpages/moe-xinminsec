@@ -103,7 +103,7 @@ where every boy finds <strong>brotherhood, adventure, and purpose</strong>!</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Saturdays (Main): 7.45am – 12.30pm</p>
+<p>Saturdays (Main): 8am – 12pm</p>
 </li>
 <li>
 <p>Fridays (ad hoc): 2.00pm - 4.00pm</p>
