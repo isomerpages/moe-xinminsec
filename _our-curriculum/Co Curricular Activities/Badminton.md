@@ -85,10 +85,10 @@ well-rounded individuals both on and off the court.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>&nbsp;3pm-6pm</p>
+<p>3pm-6pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3:30pm-6:30pm</p>
+<p>3pm-6pm</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>&nbsp;</p>
@@ -130,10 +130,10 @@ all involved.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘B’ Division Captain: VENUS TAY YU XI (404)</p>
+<p>‘B’ Division Captain: NUR IMAN (402)</p>
 </li>
 <li>
-<p>‘B’ Division Vice-Captain: NG XI YUAN, SYLVIE (401)</p>
+<p>‘B’ Division Vice-Captain: CHARICE PHUA (406)</p>
 <p></p>
 </li>
 </ul>
@@ -199,7 +199,7 @@ both personal and collective growth with every competition.</p>
 <p>Ms Noor Hafizah (IC)</p>
 </li>
 <li>
-<p>Ms Anny Roezza Abdul Aziz</p>
+<p>Ms Ho Li Ying</p>
 </li>
 <li>
 <p>Ms Siaw Pey Shin</p>
