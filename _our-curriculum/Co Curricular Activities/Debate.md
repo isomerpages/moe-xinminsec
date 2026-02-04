@@ -96,6 +96,9 @@ change, and rise together!</p>
 <li>
 <p>Ms Junice Chia (IC)</p>
 </li>
+<li>
+<p>Ms Nadhrah Binte Zainalabiden</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram: </strong><a href="https://www.instagram.com/xmsdebateclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsdebateclub/</a>
