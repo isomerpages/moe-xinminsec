@@ -175,6 +175,9 @@ new possibilities, create meaningful art, and inspire one another!</p>
 <li>
 <p>Mr Zhuang Haoyang</p>
 </li>
+<li>
+<p>Ms Seah Li Ping</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms.artclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.artclub/</a>
