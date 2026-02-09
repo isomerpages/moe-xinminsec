@@ -242,20 +242,25 @@ competition periods.</p>
 <p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (409, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 1 Level Head: </strong>Yuki Tey Chu Tong (302, 2025), Batrisyia
-binte Isham (409, 2026)</p>
+<p><strong>Sec 1 Level Head: </strong>Batrisyia binte Isham (409, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Head: </strong>Clarice Chua Xin Ting (402, 2026)</p>
+<p><strong>Sec 2 Level Head: </strong>Yuki Tey Chu Tong (402, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (404, 2026)</p>
+<p><strong>Sec 3 Level Head: </strong>Clarice Chua Xin Ting (402, 2026)</p>
+</li>
+<li>
+<p><strong>Sec 4/5 Level head: </strong>Lee Zi Jia, Reese (404, 2026)</p>
 </li>
 </ul>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Norhuda Bte Maksum (IC)</p>
+</li>
+<li>
+<p>Mr Ang Choon Peng</p>
 </li>
 <li>
 <p>Mrs Annie Ng</p>
