@@ -73,6 +73,9 @@ and push our limits!</p>
 <li>
 <p>Miss Vanessa Chia</p>
 </li>
+<li>
+<p>Mr Dexter Fong Jin Meng</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram <a href="https://www.instagram.com/xms_xcountry/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xcountry/?hl=en</a></strong>

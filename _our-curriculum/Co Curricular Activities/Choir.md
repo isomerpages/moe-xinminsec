@@ -160,6 +160,9 @@ of performance — our voices come together as one.</p>
 <li>
 <p>Ms Mildred Michelle Kline</p>
 </li>
+<li>
+<p>Ms Francesca Peck</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms_xmchorale" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms_xmchorale</a>
