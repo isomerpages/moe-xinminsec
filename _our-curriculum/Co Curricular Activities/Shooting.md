@@ -233,26 +233,23 @@ competition periods.</p>
 <h4><strong>2025/2026 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain: </strong>Tey Shee Suan (304, 2025)</p>
+<p><strong>Captain: </strong>Tey Shee Suan (404, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Admin): </strong>Peh Ning Yi, Phedra (305, 2025)</p>
+<p><strong>Vice-Captain (Admin): </strong>Peh Ning Yi, Phedra (405, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (309, 2025)</p>
-</li>
-<li>
-<p><strong>Vice-Captain (Training): </strong>Joshua Lee Kai En (305, 2025)</p>
+<p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (409, 2026)</p>
 </li>
 <li>
 <p><strong>Sec 1 Level Head: </strong>Yuki Tey Chu Tong (302, 2025), Batrisyia
-binte Isham (309, 2025)</p>
+binte Isham (409, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Head: </strong>Clarice Chua Xin Ting (302, 2025)</p>
+<p><strong>Sec 2 Level Head: </strong>Clarice Chua Xin Ting (402, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (304, 2025)</p>
+<p><strong>Sec 3 Level Head: </strong>Lee Zi Jia, Reese (404, 2026)</p>
 </li>
 </ul>
 <h4><strong>Teachers-in-charge</strong></h4>
@@ -261,10 +258,7 @@ binte Isham (309, 2025)</p>
 <p>Ms Norhuda Bte Maksum (IC)</p>
 </li>
 <li>
-<p>Ms Chua Ai Zhen Kris</p>
-</li>
-<li>
-<p>Mr Annie Ng</p>
+<p>Mrs Annie Ng</p>
 </li>
 <li>
 <p>Ms Nor'ain Binte Ismail</p>
