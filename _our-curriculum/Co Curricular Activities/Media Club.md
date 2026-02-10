@@ -57,7 +57,7 @@ Tech Championship</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3.00pm - 5.30pm</p>
+<p>Wednesdays: 3.00pm to 5.30pm</p>
 </li>
 <li>
 <p>Fridays: 2.00pm to 5.00pm</p>
