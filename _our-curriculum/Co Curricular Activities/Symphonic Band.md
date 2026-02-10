@@ -134,13 +134,16 @@ lasting memories together!</p>
 <p>Ms Edna Pan (IC)</p>
 </li>
 <li>
+<p>Ms Xuan Xuan</p>
+</li>
+<li>
 <p>Ms Nur Ellyana</p>
 </li>
 <li>
-<p>Ms Asniza Hassan</p>
+<p>Ms Anny Roezza</p>
 </li>
 <li>
-<p>Ms Francesca Peck</p>
+<p>Ms Thilagavathi D/O Sigamani</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
