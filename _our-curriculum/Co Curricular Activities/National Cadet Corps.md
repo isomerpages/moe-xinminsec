@@ -135,6 +135,9 @@ embarking on thrilling adventures and lifelong friendships!</p>
 <li>
 <p>Mr Ang Koon Yong</p>
 </li>
+<li>
+<p>Ms Low Pei Yun</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xinmin.ncc/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xinmin.ncc/</a>
