@@ -50,7 +50,7 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <p>White space Wednesdays: 4pm to 6pm</p>
 </li>
 <li>
-<p>Fridays: Corp Meetings (2pm to 6pm)</p>
+<p>Fridays - Corp Meetings: 2pm to 6pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -186,10 +186,10 @@ our community!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Koh Cher Yee (IC)</p>
+<p>Ms Low Lai Yip (IC)</p>
 </li>
 <li>
-<p>Ms Nadhrah Binte Zainalabiden</p>
+<p>Ms Koh Cher Yee</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
