@@ -83,6 +83,9 @@ and Discipline within our GB 42nd Company!</p>
 <li>
 <p>Ms Ee Ai Lin (IC)</p>
 </li>
+<li>
+<p>Ms Hsu Xin Ying Una</p>
+</li>
 </ul>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xmsgirlsbrigade/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsgirlsbrigade/</a>
