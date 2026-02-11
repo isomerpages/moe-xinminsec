@@ -282,7 +282,9 @@ the above periods.</p>
 can only be used when directed by teachers and for purposes authorised
 by teachers. Students must connect to the school network by logging in
 with their own official MOE iCON student account (@<a rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>)
-and switch to their Xinmin Gmail profile in the browser.</p>
+and switch to their Xinmin Gmail profile in the browser. Students are to
+always abide by the school’s PLD Acceptable Use Policy. <a href="/files/PDLP AUP/XMS_IT_Acceptable_Use_Policy_2026_pdf_Copy_Copy.pdf" rel="noopener nofollow" target="_blank">PLD Acceptable Use Policy</a>
+</p>
 </li>
 <li>
 <p>Students are to take care of their PLDs and lock them in their lockers
