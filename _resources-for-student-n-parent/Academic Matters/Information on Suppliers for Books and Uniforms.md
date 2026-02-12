@@ -40,6 +40,9 @@ variant: tiptap
 <p><a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/pages/contact-us</a> &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bit.ly/JSFSUPPORT" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bookshop and Uniform Suppliers/2026/JSF_CYN_closure.png">
+</div>
 <h4>Quick Link:</h4>
 <ul data-tight="true" class="tight">
 <li>
