@@ -45,7 +45,7 @@ audiences.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday 3pm - 5pm</p>
+<p>Wednesday 3pm - 5pm (May onwards)</p>
 </li>
 <li>
 <p>Friday 2pm - 5pm</p>
