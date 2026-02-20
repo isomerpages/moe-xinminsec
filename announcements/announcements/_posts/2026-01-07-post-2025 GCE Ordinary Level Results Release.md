@@ -16,7 +16,7 @@ You are reminded to be in your school uniform, and to adhere to the school’s
 attire and grooming guidelines. Parents and Guardians are welcome to accompany
 students to school to collect their results. If you or your child cannot
 collect the O-Level results at school, you can nominate another adult to
-do so using this&nbsp;<a href="https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/jae-proxy-form.pdf" rel="noopener noreferrer nofollow" target="_blank">proxy form</a>.</p>
+do so using this&nbsp;<a href="https://www.moe.gov.sg/api/media/87f750a5-f740-435c-acaa-65d1b3f6481e/JAE-Proxy-Form.pdf" rel="noopener noreferrer nofollow" target="_blank">proxy form</a>.</p>
 <p>To ensure the safety and well-being of our students and staff, students
 who are unwell should seek medical attention and not return to school to
 collect their results. They should appoint a proxy to collect a physical
@@ -31,7 +31,7 @@ more tips and resources for students, parents, and guardians.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/O Level/2025/2025_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank"> 2025 O-Level Results Release Briefing Slides for Students</a>
+<p><a href="/files/O Level/2025/2025_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank">2025 O-Level Results Release Briefing Slides for Students</a>
 </p>
 </li>
 <li>
