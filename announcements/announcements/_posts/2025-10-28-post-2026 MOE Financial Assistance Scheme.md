@@ -53,10 +53,6 @@ qualify for support. Please refer to the press release for more details.
 </p>
 </li>
 <li>
-<p>Apply early for free textbooks/uniforms before school starts on 2 January
-2026</p>
-</li>
-<li>
 <p>ComCare recipients who have been auto-granted MOE FAS, please contact
 school at 6288 9382 to check status</p>
 </li>
@@ -67,13 +63,8 @@ school at 6288 9382 to check status</p>
 </ul>
 <p><strong>How to Apply</strong>
 </p>
-<p><strong>For 2026 Sec 1: </strong>Please download the hard copy application
-form <a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> and
-submit the completed form with supporting documents to the school general
-office by <strong><u>22 December 2025</u></strong>.&nbsp;</p>
-<p><strong>For existing students: </strong>Apply via eFAS link in 'Financial
-Assistance' under Services section in Parents Gateway or visit&nbsp;
-<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
+<p>Apply via eFAS link in 'Financial Assistance' under Services section in
+Parents Gateway or visit&nbsp; <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>.</p>
 <p><strong>Benefits under MOE FAS</strong>
 </p>
 <p>For more information on the benefits provided under MOE Financial Assistance
