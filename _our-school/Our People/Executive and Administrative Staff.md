@@ -108,12 +108,12 @@ variant: tiptap
 <p><strong>Mr Hazin Bin Masri</strong>
 <br>Designation: Desktop Engineer
 <br>Department: Information Technology
-<br>Email: <a href="mailto:hazin.binmasri@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">hazin.binmasri@ncs.com.sg</a>
+<br>Email: <a href="mailto:mohd_hazin_bin_masri@xinminss.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_hazin_bin_masri@xinminss.edu.sg</a>
 </p>
 <p><strong>Mr Yap Hock Heng</strong>
 <br>Designation: Desktop Engineer
 <br>Department: Information Technology
-<br>Email: <a href="mailto:macgyver.yap@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">macgyver.yap@ncs.com.sg</a>
+<br>Email: <a href="mailto:yap_hock_heng@xinminss.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hock_heng@xinminss.edu.sg</a>
 </p>
 <p><strong>Ms Zahira Zainal</strong>
 <br>Designation: Librarian
