@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - XMS Strategic Plan Diagram.md
       - Principal's Foreword.md
       - Our Vision, Mission, Values, and Desired Xinmin Outcomes.md
       - Our Identity.md
@@ -25,4 +24,5 @@ collections:
       - Our Stakeholders/School Advisory Committee.md
       - Our Stakeholders/Alumni Executive Committee.md
       - Our Stakeholders/Parents@Xinmin.md
+      - XMS Strategic Plan Diagram.md
       - Contact Us.md
