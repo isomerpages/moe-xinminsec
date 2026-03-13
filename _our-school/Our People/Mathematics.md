@@ -48,7 +48,7 @@ variant: tiptap
 <p><strong>Mr Jerome Leong</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
-<br>Email: <a href="mailto:JEROME_LEONG_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jerome_leong_a@schools.gov.sg</a>
+<br>Email: <a href="mailto:jerome_leong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jerome_leong_a@schools.gov.sg</u></a>
 </p>
 <p><strong>Ms Joanne Kong Min</strong>
 <br>Designation: Teacher
