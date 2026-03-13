@@ -45,11 +45,6 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:ee_ai_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ee_ai_lin@schools.gov.sg</a>
 </p>
-<p><strong>Ms Keveri D/O Rajoo</strong>
-<br>Designation: Teacher
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:keveri_rajoo_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">keveri_rajoo_a@schools.gov.sg</a>
-</p>
 <p><strong>Mdm Lim Ee Gek Belinda</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
