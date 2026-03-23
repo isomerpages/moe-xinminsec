@@ -40,6 +40,11 @@ variant: tiptap
 <br>Department: Physical Education
 <br>Email: <a href="mailto:singh_hardev@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">singh_hardev@schools.gov.sg</a>
 </p>
+<p><strong>Ms Shee Shi Min Shermaine</strong>
+<br>Designation: Head of Department - English Language and Literature (Acting)
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:shee_shi_min_shermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shee_shi_min_shermaine@schools.gov.sg</a>
+</p>
 <p><strong>Ms Lim Aiwen Bernadine</strong>
 <br>Designation: Head of Department - Humanities
 <br>Department: Humanities
@@ -130,11 +135,6 @@ variant: tiptap
 <br>Department: Aesthetics and Applied Science
 <br>Email: <a href="mailto:seah_li_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_li_ping@schools.gov.sg</a>
 </p>
-<p><strong>Ms Shee Shi Min Shermaine</strong>
-<br>Designation: Subject Head - English Language and Literature (Acting HOD)
-<br>Department: English Language and Literature
-<br>Email: <a href="mailto:shee_shi_min_shermaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shee_shi_min_shermaine@schools.gov.sg</a>
-</p>
 <p><strong>Ms Tan Sheng Ting Heidi</strong>
 <br>Designation: Subject Head - Humanities
 <br>Department: Humanities
@@ -174,6 +174,11 @@ variant: tiptap
 <br>Designation: Administration Manager
 <br>Department: Administration
 <br>Email: <a href="mailto:indrani_kaliyaperumal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">indrani_kaliyaperumal@schools.gov.sg</a>
+</p>
+<p><strong>Mdm Soh Fong Lian</strong>
+<br>Designation: Administration Manager (Covering)
+<br>Department: Administration
+<br>Email: <a href="mailto:soh_fong_lian_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_fong_lian_c@schools.gov.sg</a>
 </p>
 <p><strong>Ms Adriana Ting Siew Lin</strong>
 <br>Designation: Operations Manager
