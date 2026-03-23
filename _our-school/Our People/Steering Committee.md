@@ -175,6 +175,11 @@ variant: tiptap
 <br>Department: Administration
 <br>Email: <a href="mailto:indrani_kaliyaperumal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">indrani_kaliyaperumal@schools.gov.sg</a>
 </p>
+<p><strong>Mdm Soh Fong Lian</strong>
+<br>Designation: Administration Manager (Covering)
+<br>Department: Administration
+<br>Email: <a href="mailto:soh_fong_lian_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_fong_lian_c@schools.gov.sg</a>
+</p>
 <p><strong>Ms Adriana Ting Siew Lin</strong>
 <br>Designation: Operations Manager
 <br>Department: Operations
