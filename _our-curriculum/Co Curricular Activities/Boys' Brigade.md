@@ -122,7 +122,7 @@ day-to-day operations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
 </div>
-<h4><strong>2026 NCO Council</strong></h4>
+<h4><strong>2025 NCO Council</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Company Sergeant Major</strong>
