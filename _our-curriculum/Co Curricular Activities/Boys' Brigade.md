@@ -119,42 +119,91 @@ shaping the brigade and fostering the boys’ holistic growth. They hone
 their leadership skills by leading many of our key programmes, providing
 mentorship and guidance to younger boys, and forming the backbone of our
 day-to-day operations.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
-</div>
-<h4><strong>2026 NCO Council</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
+<h4><strong>2025 NCO Council</strong></h4>
 <p><strong>Company Sergeant Major</strong>
 </p>
-<p>SSG Emmanuel Yeo Xiang Yong (402, 2026)</p>
-<p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Assistant Company Sergeant Major</strong>
-</p>
-<p>SGT Neo Hao Yu (406, 2026)</p>
-<p></p>
-</li>
-<li>
-<p><strong>Quartermaster&nbsp;</strong>
-</p>
-<p>SGT Luke Tang Yan Zhen (405, 2026)</p>
-<p></p>
-</li>
-<li>
-<p><strong>Training Head</strong>
-</p>
-<p>SSG Aaron Teo Yu Hao (403, 2026)</p>
-<p></p>
-</li>
-<li>
-<p><strong>Publicity Head</strong>
-</p>
-<p>SGT Xavier Tong Zi Jun (401, 2026)</p>
+<p>WO Emmanuel Yeo Xiang Yong (402, 2026)</p>
 <p></p>
 </li>
 </ul>
+<p><strong>Assistant Company Sergeant Major</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SSG Neo Hao Yu (406, 2026)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Training Head</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SSG Aaron Teo Yu Hao (403, 2026)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Quartermaster&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGT Luke Tang Yan Zhen (405, 2026)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Publicity Head</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGT Xavier Tong Zi Jun (401, 2026)</p>
+</li>
+</ul>
+<h4><strong>2026 NCO Council</strong></h4>
+<p><strong>Company Sergeant Major</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGT Phoa Wei Kang (302, 2026)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Assistant Company Sergeant Major</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGT Quan Rui Jie Jayden (305, 2026)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Training Head</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGT Low Yew Hung, Randel (304, 2026)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Quartermaster&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGT Isaiah Tan Zhi Sheng (302, 2026)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Publicity Head</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGT Yu Canyang (304, 2026)</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
+</div>
+<p></p>
 <h4><strong>The Boys’ Brigade Development Programme (BDP)</strong></h4>
 <p>The Boys’ Brigade Development Programme (BDP) is the 45th Singapore Company's
 flagship leadership and talent development initiative, launched in 2025
