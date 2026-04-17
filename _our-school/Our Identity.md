@@ -23,6 +23,7 @@ the community.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JZweZQYQ6hE?si=EBSRvXcyWhD_j362"></iframe>
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Song%20Lyrics/school_song_lyrics_3.jpg">
 </div>
