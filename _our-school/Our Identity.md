@@ -21,7 +21,7 @@ with confidence and optimism.</p>
 the community.</p>
 <h2>Our School Song</h2>
 <div class="iframe-wrapper">
-<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jeAyRTFA5Kk?si=U6h6T8chic_MCfJC"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JZweZQYQ6hE?si=EBSRvXcyWhD_j362"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
