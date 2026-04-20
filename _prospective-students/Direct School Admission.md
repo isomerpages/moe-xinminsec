@@ -18,6 +18,9 @@ upon your registration by completing this form which can be access by clicking
 on this link <a href="https://go.gov.sg/xms-dsa-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-dsa-2026</a>&nbsp;
 &nbsp;This webinar will provide valuable insights and information to support
 your understanding of our school's offerings and the DSA process.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/DSA_2026.jpg">
+</div>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
