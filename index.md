@@ -28,7 +28,7 @@ sections:
         to 7.30pm to learn more about our school curriculum and DSA Talent Areas
       button: Click Here
       url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
-      image: /images/DSA/2026/DSA_2026.png
+      image: /images/DSA/2026/DSA_E_banner_2026_v2.gif
       alt: Image alt text
   - infopic:
       title: Every Xinmin Student a Curious Learner
