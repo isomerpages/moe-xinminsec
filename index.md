@@ -22,6 +22,16 @@ sections:
           description: ""
           url: /prospective-students/secondary-one-posting/
   - infopic:
+      title: 2026 DSA Webinar
+      id: infopic
+      description: Join us at the 2026 DSA Webinar on Friday, 15 May 2026, from 6.15pm
+        to 7.30pm to learn more about our school curriculum and DSA Talent
+        Areas.
+      button: Click Here
+      url: https://www.xinminsec.moe.edu.sg/resources/students/admissions/direct-school-admission/
+      image: /images/DSA/2026/DSA_E_banner_2026_v2.gif
+      alt: Image alt text
+  - infopic:
       title: Every Xinmin Student a Curious Learner
       id: infopic
       description: Xinmin students are curious learners who are self-directed, possess

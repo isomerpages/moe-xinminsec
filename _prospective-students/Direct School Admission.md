@@ -19,7 +19,7 @@ on this link <a href="https://go.gov.sg/xms-dsa-2026" rel="noopener noreferrer n
 &nbsp;This webinar will provide valuable insights and information to support
 your understanding of our school's offerings and the DSA process.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/DSA_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/DSA_E_banner_2026_v2.gif">
 </div>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
