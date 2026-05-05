@@ -105,6 +105,11 @@ variant: tiptap
 <br>Department: Operations
 <br>Email: <a href="mailto:SOH_JIA_YI_JENNY@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_jia_yi_jenny@schools.gov.sg</a>
 </p>
+<p><strong>Mr Haris Bin Abbas </strong>
+<br>Designation: CAC Ops Executive
+<br>Department: Operations
+<br>Email: <a href="mailto:haris_abbas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haris_abbas@schools.gov.sg</a>
+</p>
 <p><strong>Mr Muhammad Fariduddin Yusoff </strong>
 <br>Designation: CAC Ops Executive
 <br>Department: Operations
