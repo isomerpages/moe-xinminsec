@@ -75,6 +75,11 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:norfarhana_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norfarhana_abdullah@schools.gov.sg</a>
 </p>
+<p><strong>Mr Tan Zhen Wei</strong>
+<br>Designation: Teacher
+<br>Department: Science
+<br>Email: <a href="mailto:tan_zhen_wei_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_zhen_wei_b@schools.gov.sg</a>
+</p>
 <p><strong>Ms Oh Hwee Kiang, Cindy</strong>
 <br>Designation: Teacher
 <br>Department: Science
