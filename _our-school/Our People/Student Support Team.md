@@ -25,6 +25,11 @@ variant: tiptap
 <br>Department: Student Support Team
 <br>Email: <a href="mailto:Brian_Yeo_Qiyang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">brian_yeo_qiyang@schools.gov.sg</a>
 </p>
+<p><strong>Ms Chua Pei En</strong>
+<br>Designation: Special Educational Needs Officer
+<br>Department: Student Support Team
+<br>Email: <a href="mailto:chua_pei_en_d@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pei_en_d@schools.gov.sg</a>
+</p>
 <p><strong>Ms Nora Fernandez</strong>
 <br>Designation: Special Educational Needs Officer
 <br>Department: Student Support Team
