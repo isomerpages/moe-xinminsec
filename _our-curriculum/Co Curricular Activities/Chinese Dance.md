@@ -62,9 +62,6 @@ the passion and emotion that stem from hours of dedicated practice.</p>
 <p>Mondays: 4pm - 6pm</p>
 </li>
 <li>
-<p>Wednesdays - (prior to competition/performance) 3pm - 6pm</p>
-</li>
-<li>
 <p>Fridays: 2pm - 5.30pm</p>
 </li>
 </ul>
