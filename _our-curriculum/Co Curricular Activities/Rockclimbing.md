@@ -55,19 +55,6 @@ managing the club’s day-to-day operations, assisting teachers with administrat
 tasks, and ensuring that the entire team puts forth their best effort during
 training sessions and competitions.</p>
 <h4><strong>Student Leaders</strong></h4>
-<p><strong><em>C Division Executive Committee</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tan Rui Jie (202)</p>
-</li>
-<li>
-<p>Loh Rui Ying (206)</p>
-</li>
-<li>
-<p>Poh Min Yi, Amelia (206)</p>
-</li>
-</ul>
 <p><strong><em>B Division Executive Committee</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -76,7 +63,7 @@ training sessions and competitions.</p>
 </li>
 <li>
 <p>Exco Members:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Heng Rui Yang Zayden (301)</p>
 </li>
@@ -85,6 +72,8 @@ training sessions and competitions.</p>
 </li>
 <li>
 <p>Shernice Koh Si Min (308)</p>
+</li>
+</ul>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
