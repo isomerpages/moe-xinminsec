@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/odac.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_1.jpg">
 </div>
 <p><strong>Improvise, Adapt, Overcome</strong>
 </p>
@@ -23,9 +23,41 @@ while embracing inclusiveness. Experiencing the outdoors firsthand in unfamiliar
 settings not only fosters adaptability but also deepens respect for nature.
 Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
 <h4><strong>Activities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Setting up Campsite @ Trans-Island Expedition</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/odac2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_2.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Mastering the basics of Prussiking</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_3.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Practice station for abseiling skills</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>MacRitchie to Bukit Timah Hike (Sec 1)</p>
