@@ -131,16 +131,15 @@ Poh (309, 2026), Iszabelle Lai Jia Xuan (304, 2026)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Goh Ik Xi (203, 2025)</p>
+<p><strong>Captain:</strong> Davian Tan Yu Kai (208, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captains</strong>: Javier Koo Dong Yi (201, 2025) &amp; Lucas
-Lim Ding Cheng (209, 2025)</p>
+<p><strong>Vice-Captains:</strong> Nye Yu Zhe Xadrian (202, 2026) &amp; Tan
+Yong Jun Jayden (207, 2026)</p>
 </li>
 <li>
-<p><strong>Assistant Head of Publicity</strong>: Lim Zu Le Richemont (203,
-2025) &amp; Tey Yi Liang (203, 2025)</p>
-<p></p>
+<p><strong>Assistant Head of Publicity:</strong> Su Jun Xuan Lyonel (206,
+2026) &amp; Kieran Cho Rui Jun (209, 2026)</p>
 </li>
 </ul>
 <p><strong>B Division Boys</strong>
