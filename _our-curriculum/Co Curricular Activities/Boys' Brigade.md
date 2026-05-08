@@ -205,11 +205,12 @@ day-to-day operations.</p>
 </div>
 <p></p>
 <h4><strong>The Boys’ Brigade Development Programme (BDP)</strong></h4>
-<p>The Boys’ Brigade Development Programme (BDP) is the 45th Singapore Company's
-flagship leadership and talent development initiative, launched in 2025
-to nurture future-ready Stewards grounded in character, service, and initiative.</p>
-<p>BDP is a <strong>two-year programme</strong> for selected Secondary 1 and
-2 Boys who demonstrate potential in leadership, teamwork, and contribution.</p>
+<p>The <strong>Boys’ Brigade Development Programme (BDP)</strong> is the 45th
+Singapore Company's flagship leadership and talent development initiative,
+launched in 2025 to nurture future-ready Stewards grounded in character,
+service, and initiative.</p>
+<p>BDP is a <strong>selective two-year programme </strong>for Secondary 1
+and 2 Boys who demonstrate potential in leadership, teamwork, and contribution.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Boys who join the Company through the Direct School Admission (DSA) pathway
@@ -263,7 +264,7 @@ personal growth</p>
 the company’s inclusion in the BB Blaze Competition Gold Honour Roll highlights
 the boys' resilience and teamwork in a physically challenging environment.
 Additionally, two members were awarded the prestigious Founder’s Award,
-recognizing their exemplary conduct and character. Furthermore, receiving
+recognising their exemplary conduct and character. Furthermore, receiving
 a High Distinction in the JM Fraser Award for Excellence stands as a testament
 to the boys' dedication and camaraderie.</p>
 <p>Our participation in BB Cares was especially meaningful, as we collaborated
