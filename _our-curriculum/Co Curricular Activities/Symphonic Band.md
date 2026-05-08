@@ -90,31 +90,35 @@ Goh Chee Henk (305, 2026), Jayden Lim (304, 2026), Chloe Koo (306, 2026)</p>
 <h4><strong>Section Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Flute &amp; Oboe – Reuben Lee (305, 2025)</p>
+<p>Flute &amp; Oboe – Phang Yuh Qing (304, 2026)</p>
 </li>
 <li>
-<p>Clarinet – Zac Png (305, 2025), Velda Wong (Asst.) (302, 2025)</p>
+<p>Clarinet – Lim Zheng Kai (304, 2026), Alexander Ho (Asst.) (306, 2026)</p>
 </li>
 <li>
-<p>Saxophone &amp; Bassoon – Abel Lau (301, 2025)</p>
+<p>Saxophone &amp; Bassoon – Ang Shao Yi (309, 2026)</p>
 </li>
 <li>
-<p>Trumpet – Hong Jing Xien (302, 2025)</p>
+<p>Trumpet – Emmanuel Toh (307, 2026)</p>
 </li>
 <li>
-<p>Trombone – Chloe Lim (303, 2025)</p>
+<p>Trombone – Axel Kie (306, 2026)</p>
 </li>
 <li>
-<p>French Horn – Marcus Ong (304, 2025)</p>
+<p>French Horn – Harshini Kaur (306, 2026)</p>
 </li>
 <li>
-<p>Euphonium &amp; Tuba – Jason Liew (303, 2025)</p>
+<p>Euphonium – Ashe Kie (304, 2026)</p>
 </li>
 <li>
-<p>Double Bass – Goh Chee Henk (Asst.) (201, 2025)</p>
+<p>Tuba – Nathaniel Lim (303, 2026)</p>
 </li>
 <li>
-<p>Percussion – Theodore Hee (301, 2025), Poh Jia An (Asst.) (305, 2025)</p>
+<p>Double Bass – Goh Chee Henk (305, 2026)</p>
+</li>
+<li>
+<p>Percussion – Ethan Cheong (307, 2026), Vaden Chia (Asst.) (309, 2026),
+Ahmad Zulhilmi (Asst.) (207, 2026)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
