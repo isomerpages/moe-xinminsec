@@ -122,6 +122,16 @@ and ensure that every member feels supported and valued.&nbsp;</p>
 <p>Huynh Bao Khang (301) – Bass</p>
 </li>
 </ul>
+<p><strong>Asst Section Leaders:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chloe Wong Yu Tong (203) – Soprano</p>
+</li>
+<li>
+<p>Gabriella Bianca Halim (207) – Alto</p>
+</li>
+</ul>
 <h4><strong>Excellence:</strong></h4>
 <p>Despite our relatively short history, Xinmin Chorale has consistently
 earned accolades at the <strong>Singapore Youth Festival (SYF)</strong>,
