@@ -153,8 +153,8 @@ relationships that may lead to future collaborations and learning opportunities.
 <p>Public performances, such as the Ang Mo Kio-Hougang National Day Dinner
 and the Chinese Dance Fiesta, allow us to showcase the art form to a wider
 audience, promoting cultural appreciation and understanding within the
-community.
-<br>Join us on an exciting journey with Xinmin Chinese Dance, where we practice
+community.</p>
+<p>Join us on an exciting journey with Xinmin Chinese Dance, where we practice
 with the humility of never having won and perform with the confidence of
 never having lost!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
