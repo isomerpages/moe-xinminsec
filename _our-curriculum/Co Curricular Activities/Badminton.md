@@ -64,12 +64,11 @@ all involved.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>C’ Division Captain: NG ZIQI (208)</p>
+<p>‘C’ Division Captain: Lee Xi Ying Kira (204)</p>
 </li>
 <li>
-<p>‘C’ Division Vice-Captains: TEH KAYLEE (203) &amp; MEGAN WONG JING EN
-(208)</p>
-<p></p>
+<p>'C’ Division Vice-Captains: Vernice Tay Yiting (205) &amp; Ava Cai Yitong
+(206)</p>
 </li>
 </ul>
 <p><strong>B Division Girls</strong>
