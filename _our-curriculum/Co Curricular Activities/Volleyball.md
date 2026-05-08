@@ -93,20 +93,16 @@ to competitions/events</p>
 enhance their leadership skills by guiding the team through warm-ups, gym
 sessions, training, competitions, and debriefs. They also lead various
 events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
-<h4><strong>2025 Student Leaders</strong></h4>
+<h4><strong>2026 Student Leaders</strong></h4>
 <p><strong>C Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Emma Tay Le Xuan (201, 2025)</p>
+<p> <strong>Captain:</strong> Gagan Eliana Biel Devela (203, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captains</strong>: Lim Ke En Adrienna (201, 2025), Ezanne
-Lim Chia Soan (208, 2025)</p>
-</li>
-<li>
-<p><strong>Assistant Head of Publicity</strong>: Nicia Poh (201, 2025), Iszabelle
-Lai Jia Xuan (201, 2025)</p>
+<p><strong>Assistant Head of Publicity:</strong> Choy Yu Tung (208, 2026),
+Lee Qi Xuan Jeraine (209, 2026)</p>
 </li>
 </ul>
 <p><strong>B Division Girls</strong>
