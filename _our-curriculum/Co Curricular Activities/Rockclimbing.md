@@ -150,3 +150,7 @@ resilience, and a mindset of excellence for both sports and life!</p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Rockclimbing/2026_rc_1.jpg">
+</div>
+<p></p>
