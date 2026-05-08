@@ -159,7 +159,7 @@ Lim Ding Cheng (301, 2026)</p>
 2026), Lim Zu Le Richemont (302, 2026) &amp; Tey Yi Liang (306, 2026)</p>
 </li>
 </ul>
-<h4><strong>Excellence:</strong></h4>
+<h4><strong>Volleyball Excellence:</strong></h4>
 <p>Members of the Xinmin Volleyball Team proudly represent our school in
 numerous competitions. We actively engage in these events, embracing opportunities
 to refine our skills and broaden our experiences.</p>
@@ -359,6 +359,26 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 </li>
 <li>
 <p>C Division Girls: League 1 – 4th</p>
+</li>
+</ul>
+<p><strong>f) Achievements for 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG North Zone Inter-School Volleyball Championship</p>
+<p>- <em>B Division Boys: 1<sup>st</sup></em>
+</p>
+<p>- <em>B Division Girls: 1<sup>s</sup></em>
+</p>
+<p><em><sup>t</sup></em>
+</p>
+</li>
+<li>
+<p>NSG National Inter-School Volleyball Championship</p>
+<p>- <em>B Division Boys: Top 8</em>
+</p>
+<p>- <em>B Division Girls: 4<sup>th</sup>&nbsp;</em>
+</p>
 </li>
 </ul>
 <p>Join Xinmin Volleyball Team and become part of a legacy built on camaraderie,
