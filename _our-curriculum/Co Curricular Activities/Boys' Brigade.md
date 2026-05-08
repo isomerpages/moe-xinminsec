@@ -159,6 +159,9 @@ day-to-day operations.</p>
 <p>SGT Xavier Tong Zi Jun (401, 2026)</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
+</div>
 <h4><strong>2026 NCO Council</strong></h4>
 <p><strong>Company Sergeant Major</strong>
 </p>
@@ -200,9 +203,6 @@ day-to-day operations.</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
-</div>
 <p></p>
 <h4><strong>The Boys’ Brigade Development Programme (BDP)</strong></h4>
 <p>The <strong>Boys’ Brigade Development Programme (BDP)</strong> is the 45th
