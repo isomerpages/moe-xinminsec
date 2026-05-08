@@ -37,41 +37,38 @@ a part in driving the team forward.</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
-<p>Leadership is an important part of our journey. Our leaders in the Executive
-Committee guide the team by organising key initiatives such as the 3v3
-Primary School Tournament and the Xinmin Royale. They also take the lead
-in welcoming new members at events like the Open House and Secondary 1
-CCA Orientation, ensuring every newcomer feels part of the team from day
-one.</p>
-<p>At the same time, leadership is not limited to the committee. Every player
-is given the chance to lead in different ways — from helping to plan bonding
-activities to taking on rotating captaincy roles in matches outside the
-National School Games. These experiences allow every player to grow in
-confidence, responsibility, and service, while learning how to support
-and inspire others.</p>
-<p>In every role they take on, be it leading warm-ups, mentoring juniors,
-or representing the team on court, we aim to grow our boys’ confidence,
-responsibility, and service. These opportunities help them to discover
-their strengths, set an example for others, and carry the Xinmin spirit
-forward.</p>
+<p>Leadership is a key pillar of our team’s journey. Our Executive Committee
+plays a vital role in guiding the team by organising major initiatives
+and setting the direction for growth. They also take the lead in welcoming
+new members during events such as Open House and Secondary 1 CCA Orientation,
+ensuring that every newcomer feels valued and part of the team from the
+very beginning.</p>
+<p>Beyond formal roles, all players are encouraged to step up, whether through
+organising bonding activities or taking on rotating captaincy roles in
+matches outside the National School Games. These opportunities build confidence,
+accountability, and a sense of service.</p>
+<p>From leading warm-ups to mentoring juniors and representing the team in
+competitions, players learn to lead by example and contribute meaningfully
+to the team.</p>
 <h4><strong>Student Leaders</strong></h4>
 <p><strong><u>B division Executive Committe</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Captain – Lim Wen Hao, Julian (304, 2025)</p>
+<p><strong>Co-Captain – </strong>Chua Raiker (305, 2026)</p>
 </li>
 <li>
-<p>Vice-Captain – Chua Qi Han Darrius (302, 2025)</p>
+<p><strong>Co-Captain –&nbsp;</strong>Oon Si Jun (303, 2026)</p>
 </li>
 <li>
-<p>Team Manager – Chiu Bo Hao (303, 2025)</p>
+<p><strong>Team Manager – </strong>Tan Zheng Hong (304, 2026)</p>
 </li>
 <li>
-<p>Team Manager – Muhammad Rais Bin Noor Iskandar Shah (305, 2025)</p>
+<p><strong>Team Manager –&nbsp;</strong>Mohd Reisha Raffalie M. Bin Raffit
+(305, 2026)</p>
 </li>
 <li>
-<p>Physical Training IC – Yong Chang Foong (309, 2025)</p>
+<p><strong>Physical Training IC – </strong>Liaw Kai Le, Jarren (303, 2026)</p>
 <p></p>
 </li>
 </ul>
