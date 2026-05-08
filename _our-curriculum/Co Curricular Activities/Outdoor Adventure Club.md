@@ -100,30 +100,26 @@ and teamwork.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Presidents: Lee Li Xuan (401), Lee Yong Le (401)</p>
+<p>Presidents: Joan Chee Tze Yun (404), Dylan Ling Ruiwen</p>
 </li>
 <li>
-<p>Vice-Presidents: Anas Bin Mohamad Rizal (408), Pang Min Qi, Iris (301)</p>
+<p>Vice-Presidents: Tan Zi Yang (401), Celeste Fong Li En (402)</p>
 </li>
 <li>
-<p>Quartermaster: Tay Jing Ying, Andria (403)</p>
-</li>
-<li>
-<p>Executive Committee Members: Sim Khim Yew (Shen Jingyu) (401),Goh Zhi
-Yi (404)</p>
+<p>Quartermaster: Kayden Lee Kai Jin (401)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
-<p>National Orienteering Race (Schools) in 2024</p>
+<p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>B-Division Girls: 1st</p>
+<p>B-Division Girls: 3<sup>rd</sup> &amp; 7<sup>th</sup>
+</p>
 </li>
 <li>
-<p>B-Division Boys: 1st, 2nd and 3rd</p>
-</li>
-<li>
-<p>C-Division Girls: 2nd</p>
+<p>C-Division Girls: 1<sup>st</sup>
+</p>
 </li>
 </ul>
 <p>Join ODAC— explore the outdoors, develop leadership, and embrace adventure.</p>
@@ -137,6 +133,9 @@ Yi (404)</p>
 </li>
 <li>
 <p>Ms Kee Yi-Juan, Ophelia</p>
+</li>
+<li>
+<p>Tan Zhen Wei</p>
 </li>
 </ul>
 <p><em>Affiliate</em>
