@@ -110,8 +110,7 @@ and teamwork.</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
-<p></p>
-<p></p>
+<p>National Orienteering Race (Schools) in 2025</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>B-Division Girls: 3<sup>rd</sup> &amp; 7<sup>th</sup>
