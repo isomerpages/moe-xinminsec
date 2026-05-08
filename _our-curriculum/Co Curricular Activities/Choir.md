@@ -110,25 +110,16 @@ and ensure that every member feels supported and valued.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Natasha Arletta Senjaya (301) – Soprano</p>
+<p>Emma Koh Hui En (305) – Soprano</p>
 </li>
 <li>
-<p>Cheng Eng Kin (303) – Soprano</p>
+<p>Riffa Aryssa Binte Muhanmmad Raffiq (306) – Alto</p>
 </li>
 <li>
-<p>Chrystabelle Sng Jia En (309) – Alto</p>
+<p>Lleyton Hooi Koon Chern (303) – Tenor</p>
 </li>
 <li>
-<p>Fissel Ronauli Simbolon (301) – Alto</p>
-</li>
-<li>
-<p>Colin Wang Zer Han (305) – Tenor</p>
-</li>
-<li>
-<p>Asher Tung Ting Rui (304) – Tenor</p>
-</li>
-<li>
-<p>Zhang Yu Yang Alex (305) – Bass</p>
+<p>Huynh Bao Khang (301) – Bass</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
