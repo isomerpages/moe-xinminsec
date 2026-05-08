@@ -42,7 +42,6 @@ experiences like laser tag, archery, k-pop dance, and rockclimbing!</p>
 Boys' Brigade lies in serving others. Through initiatives like Boys’ Brigade
 Cares and BB Week, our boys learn the joy of giving back and mentoring
 their juniors, preparing them to be future leaders.</p>
-<p></p>
 </li>
 </ul>
 <p>As we look forward to another year of growth, we celebrate the dedication
