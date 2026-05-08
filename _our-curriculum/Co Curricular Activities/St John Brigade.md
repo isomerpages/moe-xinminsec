@@ -150,16 +150,32 @@ the Passing Out Parade, National Day Parade and Total Defence Day.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Cadets also participate in the annual First Aid competition, where they
 work as a team to apply their knowledge and skills in managing emergency
 situations with precision. Beyond developing key competencies, cadets are
 recognized for their commitment to exploring their interests beyond the
-St. John curriculum through the Cadet Proficiency Badge scheme.</p>
+St John curriculum through the Cadet Proficiency Badge scheme.</p>
 <h4><strong>Accomplishments</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_7.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_8.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>Corps Achievement Award 2024- Gold</p>
