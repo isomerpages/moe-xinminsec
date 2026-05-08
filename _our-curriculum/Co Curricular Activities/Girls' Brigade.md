@@ -30,7 +30,6 @@ need to overcome challenges and thrive in every aspect of life.</p>
 </li>
 <li>
 <p>Wednesdays: Reserved Training Day (3pm - 5pm)</p>
-<p></p>
 </li>
 </ul>
 <h4><strong>2026 Student Leaders</strong></h4>
