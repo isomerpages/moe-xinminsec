@@ -79,7 +79,7 @@ Limelight at the Esplanade)</p>
 </ul>
 <p>Members value punctuality, often arriving 10–15 minutes before practice
 session. After each session, they help to maintain the cleanliness of the
-Choir Room, staying up to 20 minutes if needed.</p>
+Choir Room, staying up to 20 minutes if needed.&nbsp;</p>
 <p>Additional practice sessions are held in preparation for key performances
 and competitions to ensure our choir’s excellence and readiness.</p>
 <h4><strong>Leadership Development:</strong></h4>
