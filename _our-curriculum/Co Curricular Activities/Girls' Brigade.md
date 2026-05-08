@@ -33,14 +33,17 @@ need to overcome challenges and thrive in every aspect of life.</p>
 <p></p>
 </li>
 </ul>
-<h4><strong>Student Leaders</strong></h4>
+<h4><strong>2026 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Head Girl: </strong>Claris Hong Kai Ning (305, 2025)</p>
+<p><strong>Head Girl</strong>: Adeline Tan Rui Ting (307)</p>
 </li>
 <li>
-<p><strong>Vice Heads: </strong>Foo Si Jia Faith (402, 2025) &amp; Yeow Xuan
-Ning (404, 2025)</p>
+<p><strong>Vice-Heads</strong>: Meagan Cheow (302) and How Xin Min (305)</p>
+</li>
+<li>
+<p><strong>Exco Members</strong>: Acelynn Yap (307), Teh Kai Sim (305), Eilis
+Tan (304) and Athena Toh (307)</p>
 </li>
 </ul>
 <h4><strong>2024 - 2025 Awards:</strong></h4>
