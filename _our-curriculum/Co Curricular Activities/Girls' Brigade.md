@@ -20,6 +20,30 @@ and excellence in all their endeavours.</p>
 <p>The high standards and unwavering dedication of our student leaders, youth
 officers, and teachers have earned the Xinmin St. John Brigade its 26th
 consecutive Gold in the Corps Achievement Award since 2001.</p>
+<h4><strong>Activities</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Standard First Aid Course</p>
+</li>
+<li>
+<p>Basic Cardiac Life Support</p>
+</li>
+<li>
+<p>Instructors’ Course</p>
+</li>
+<li>
+<p>Non-Commissioned Officer Course</p>
+</li>
+<li>
+<p>Annual March Camp</p>
+</li>
+<li>
+<p>Outdoor Activities: Hiking, Cycling &amp; 1-star Kayaking</p>
+</li>
+<li>
+<p>National Day Parade Marching Contingent</p>
+</li>
+</ul>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
