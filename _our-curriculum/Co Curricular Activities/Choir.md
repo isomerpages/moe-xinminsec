@@ -141,14 +141,14 @@ with the prestigious Certificate of Distinction at the SYF Arts Presentation.
 To sustain our choir’s excellence, our singers are regularly coached by
 internationally renowned choral conductors, composers, and clinicians,
 providing them with invaluable exposure to further develop their talents.</p>
-<p>&nbsp;In 2017, 2019, and 2023, Xinmin Chorale successfully staged public
-concerts at the Esplanade Concert Hall as part of the <strong>Limelight</strong> series,
+<p>In 2017, 2019, and 2023, Xinmin Chorale successfully staged public concerts
+at the Esplanade Concert Hall as part of the <strong>Limelight</strong> series,
 which showcases some of Singapore’s finest school choirs and symphonic
 bands at Esplanade – Theatres on the Bay.</p>
-<p>&nbsp;Beyond performances, we actively engage in exchange programmes and
-combined-school performances, such as the SuperNova Concert, hosted by
-Anglo-Chinese School in 2019, by Xinmin in 2022, and by Fairfield Methodist
-School in 2023 and 2025.&nbsp;</p>
+<p>Beyond performances, we actively engage in exchange programmes and combined-school
+performances, such as the SuperNova Concert, hosted by Anglo-Chinese School
+in 2019, by Xinmin in 2022, and by Fairfield Methodist School in 2023 and
+2025.&nbsp;</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -162,10 +162,15 @@ School in 2023 and 2025.&nbsp;</p>
 <p>Hosted an exchange with other school choirs in March 2025</p>
 </li>
 <li>
-<p>Performed at the Esplanade in the Limelight series in 2018, 2019 and 2023</p>
+<p>Involved in National Day Choir Music Video in 2020 and 2023</p>
 </li>
 <li>
-<p>Involved in National Day Choir Music Video in 2020 and 2023</p>
+<p>Performed at the Esplanade in the Limelight series in 2018, 2019, 2023 <em>and there will be an upcoming one in Q1 of 2027</em>
+</p>
+</li>
+<li>
+<p><em>Upcoming performance at SYF60 Festival Concert (July 2026)</em>
+</p>
 </li>
 </ul>
 <p>Join us in <strong>Xinmin Chorale</strong>, where we celebrate our love
