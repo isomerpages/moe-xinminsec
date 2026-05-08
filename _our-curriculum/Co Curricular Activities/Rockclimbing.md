@@ -86,16 +86,20 @@ students are known for.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inter-School Bouldering Championship C Division Boys – 1st Runner Up</p>
+<p><em>Inter-School Bouldering Championship C Division Boys –2<sup>nd</sup> Runner-up</em>
+</p>
 </li>
 <li>
-<p>Inter-School Bouldering Championship C Division Girls – 1st Runner Up</p>
+<p><em>Inter-School Bouldering Championship C Division Girls – 1<sup>st</sup> Runner-up</em>
+</p>
 </li>
 <li>
-<p>Inter-School Bouldering Championship B Division Boys – 1st Runner Up</p>
+<p><em>Inter-School Bouldering Championship B Division Boys – 1<sup>st</sup> Runner-up</em>
+</p>
 </li>
 <li>
-<p>Inter-School Bouldering Championship B Division Girls – Champion</p>
+<p><em>Inter-School Bouldering Championship B Division Girls – 1<sup>st</sup> Runner-up</em>
+</p>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
