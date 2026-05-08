@@ -370,6 +370,9 @@ boy!</p>
 </p>
 <h4>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast boy!</h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/2026_bb_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
 </div>
 <div class="isomer-image-wrapper">
