@@ -104,23 +104,35 @@ enhancing their skills to guide and mentor their juniors effectively.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>1SG FARHAN BIN BAHARUDIN</p>
+<p>3SG TAY RAIDEN</p>
 </li>
 <li>
-<p>1SG HENG ZI JIAN MATHIAS</p>
+<p>3SG YAN RUOEN</p>
 </li>
 <li>
-<p>1SG LIM ZI XI</p>
+<p>3SG HAH XIAN RONG</p>
 </li>
 <li>
-<p>1SG NG YU HAO</p>
+<p>3SG ISAAC TEO NGEE GIAM</p>
 </li>
 <li>
-<p>1SG TAN CHEK YEW AIDAN</p>
+<p>3SG LAI DAI XIAN, JAYMOND</p>
+</li>
+<li>
+<p>3SG MUHAMMAD NURRABBANI BIN MUHAMMAD SAFARI</p>
+</li>
+<li>
+<p>3SG ASHER THONG YOU EN</p>
+</li>
+<li>
+<p>3SG LIM BING RUI</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>2025 Unit Recognition Award – Distinction</p>
+</li>
 <li>
 <p>2024 Unit Recognition Award – Distinction</p>
 </li>
