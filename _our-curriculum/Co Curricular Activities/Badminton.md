@@ -75,11 +75,10 @@ all involved.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘B’ Division Captain: NUR IMAN (402)</p>
+<p>‘B’ Division Captain: Nur Iman Binte Muhammad Fadhly (402)</p>
 </li>
 <li>
-<p>‘B’ Division Vice-Captain: CHARICE PHUA (406)</p>
-<p></p>
+<p>‘B’ Division Vice-Captains: Charice Phua Mui Hua (406)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
