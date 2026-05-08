@@ -48,7 +48,11 @@ and self-assurance. Here's a closer look at what we do:</p>
 </li>
 <li>
 <p>Bohemian artworks, clay works, coaster designing, fan art, bracelet making,</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>hydro dipping, stone painting, postcard designs and shrink plastic works</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Digital drawing with various apps</p>
