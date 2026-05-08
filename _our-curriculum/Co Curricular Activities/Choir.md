@@ -32,16 +32,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/2026_choir_3.jpg">
 </div>
 <h4><strong>Welcome to Xinmin Chorale!</strong></h4>
-<p>At Xinmin Chorale, students with a passion for singing come together to
-express themselves through music. Under the expert musical direction of
-our dedicated conductor, Mr. Yong Chee Foon, members refine their vocal
-abilities and learn to perform confidently across a wide range of genres
-and languages.</p>
+<p>At <strong>Xinmin Chorale</strong>, students with a passion for singing
+come together to express themselves through music. Under the expert musical
+direction of our dedicated conductor, <strong>Mr. Yong Chee Foon</strong>,
+members refine their vocal abilities and learn to perform confidently across
+a wide range of genres and languages.</p>
 <p>Beyond learning songs in various languages and preparing for performances,
 members are encouraged to plan and lead activities that strengthen the
 bonds within the choir. We also look forward to exchange programmes with
-other local school choirs and beyond the shores of Singapore — learning,
-sharing, and growing through every experience.</p>
+other local school choirs and beyond the shores of Singapore &nbsp;— learning,
+sharing, and growing through every experience</p>
 <p>At Xinmin Chorale, we firmly believe that with the right guidance, a supportive
 environment, and opportunities, every member can develop not just as a
 performer, but as a gracious and resilient individual who embodies our
