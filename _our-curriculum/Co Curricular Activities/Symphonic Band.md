@@ -124,9 +124,8 @@ Goh Chee Henk (305, 2026), Jayden Lim (304, 2026), Chloe Koo (306, 2026)</p>
 Distinction</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/band2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/2026_s_1.jpg">
 </div>
 <p>Join the Xinmin Symphonic Band and unleash your musical talent while making
 lasting memories together!</p>
