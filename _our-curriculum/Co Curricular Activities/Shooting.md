@@ -287,7 +287,6 @@ Choo Rui Kai Reagan (304, 2026)</p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting</a>
 </p>
-<p></p>
 </li>
 </ul>
 <p></p>
