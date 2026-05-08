@@ -53,162 +53,41 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tues</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thurs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Sec 1 Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (C Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (B Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B1 +B2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm (B1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Sec 1 Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm or
-<br>3.15pm - 6.15pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (C Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm or
-<br>3.15pm - 6.15pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (B Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm or
-<br>3.15pm - 6.15pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Girls</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1: Tuesday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm or 3.15pm – 6.15pm)</p>
+</li>
+<li>
+<p>C Division: Tuesday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm or 3.15pm – 6.15pm)</p>
+</li>
+<li>
+<p>B Division: Tuesday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm or 3.15pm – 6.15pm)</p>
 <p>*Training frequencies and schedules are subject to change prior to competitions/events</p>
+</li>
+</ul>
+<p><strong>Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1: Monday (3.15pm – 6.15pm), Tuesday (3.15pm – 6.15pm), Thursday
+(3.15pm – 6.15pm)</p>
+</li>
+<li>
+<p>C Division: Monday (3.15pm – 6.15pm), Thursday (3.15pm – 6.15pm), Friday
+(1pm – 4pm)</p>
+</li>
+<li>
+<p>B Division: Monday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm)</p>
+</li>
+</ul>
+<p>&nbsp;*Training frequencies and schedules are subject to change prior
+to competitions/events</p>
 <h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a crucial role in shaping the team’s journey. They
 enhance their leadership skills by guiding the team through warm-ups, gym
