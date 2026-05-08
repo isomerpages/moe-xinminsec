@@ -238,7 +238,7 @@ stated in monthly training schedule.</p>
 </tr>
 </tbody>
 </table>
-<h4><br><strong>2026/2027 Student Leaders</strong></h4>
+<h4><strong>2026/2027 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Captain:&nbsp;</strong>Lee Li Xinn (301, 2026)</p>
