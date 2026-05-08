@@ -14,12 +14,12 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/2026_chinese_dance_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/chinese_dance_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/2026_chinese_dance_2.jpg">
 </div>
 </th>
 </tr>
@@ -37,10 +37,10 @@ while developing discipline, teamwork, and a deep appreciation for the
 beauty of the performing arts. The dance team practices regularly to prepare
 for various competitions, including the Singapore Youth Festival (SYF)
 Arts Presentation, as well as performances for significant events like
-Chinese Dance Fiesta and the ASEAN Federation of Engineering Organisations
-Mid-Term Welcome Reception. Each performance allows our dancers to showcase
-not only their technical skills but also the passion and emotion that stem
-from hours of dedicated practice.</p>
+Chinese Dance Fiesta, SYF 60 Dance Extravaganza and the ASEAN Federation
+of Engineering Organisations Mid-Term Welcome Reception. Each performance
+allows our dancers to showcase not only their technical skills but also
+the passion and emotion that stem from hours of dedicated practice.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
