@@ -238,28 +238,32 @@ stated in monthly training schedule.</p>
 </tr>
 </tbody>
 </table>
-<h4><br><strong>2025/2026 Student Leaders</strong></h4>
+<h4><br><strong>2026/2027 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain: </strong>Tey Shee Suan (404, 2026)</p>
+<p><strong>Captain:&nbsp;</strong>Lee Li Xinn (301, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Admin): </strong>Peh Ning Yi, Phedra (405, 2026)</p>
+<p><strong>Vice-Captain (Admin):</strong>&nbsp;Naimi Sabrina Binte Muhammad
+Khir (302, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (409, 2026)</p>
+<p><strong>Vice-Captain (Welfare):&nbsp;</strong>Jaselle Wong Xuan Ting (301,
+2026)</p>
 </li>
 <li>
-<p><strong>Sec 1 Level Head: </strong>Batrisyia binte Isham (409, 2026)</p>
+<p><strong>Vice-Captain (Training):&nbsp;</strong>Ho Louis (303, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Head: </strong>Yuki Tey Chu Tong (402, 2026)</p>
+<p><strong>Sec 1 Level Head:&nbsp;</strong>Olivia Or Ning En (302, 2026),
+Clarrise Goh Ee Shuan (301, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Head: </strong>Clarice Chua Xin Ting (402, 2026)</p>
+<p><strong>Sec 2 Level Head:&nbsp;</strong>Wong Wei Jie Dylan (306, 2026),
+Choo Rui Kai Reagan (304, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 4/5 Level head: </strong>Lee Zi Jia, Reese (404, 2026)</p>
+<p><strong>Sec 3 Level Head:&nbsp;</strong>Zhou Yicheng (305, 2026)</p>
 </li>
 </ul>
 <h4><strong>Teachers-in-charge</strong></h4>
