@@ -112,7 +112,7 @@ workshop for all Secondary 1 students during their Sec 1 Orientation. This
 experience allows the newcomers to get a taste of bouldering, with some
 deciding to pursue the sport further with us or on their own.</p>
 <p>The team collaborates with an external vendor to organise the Inter-Schools
-Bouldering Championships, where they take on various auxiliary roles such
+Bouldering Championship, where they take on various auxiliary roles such
 as registration, safety oversight, and emceeing. Through this event, they
 gain valuable insights into the behind-the-scenes efforts required to organise
 competitions, fostering appreciation for those who go the extra mile.</p>
