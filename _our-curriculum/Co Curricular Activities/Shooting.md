@@ -50,7 +50,7 @@ at the 2026 NSG Shooting Championship.</p>
 </tbody>
 </table>
 <h4><strong>2026 Accomplishments</strong></h4>
-<p><u>NSG B Division 2026</u>
+<p><strong><u>NSG B Division 2026</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -63,7 +63,7 @@ at the 2026 NSG Shooting Championship.</p>
 </p>
 </li>
 </ul>
-<p><u>Individual Medal</u>
+<p><strong><u>Individual Medal</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -74,7 +74,44 @@ at the 2026 NSG Shooting Championship.</p>
 </li>
 </ul>
 <h4><strong>2025 Accomplishments</strong></h4>
-<p><u>NSG B Division 2024</u>
+<p><strong><u>NSG B Division 2025</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3rd</p>
+</li>
+<li>
+<p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
+1<sup>st</sup>
+</p>
+</li>
+</ul>
+<p><strong><u>NSG C Division 2025</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 5<sup>th</sup>
+</p>
+</li>
+</ul>
+<p><strong><u>Individual Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
+</li>
+<li>
+<p>Individual B Div Air Pistol Women 3rd: Lee Zi Jia Reese</p>
+</li>
+<li>
+<p>Individual B Div Air Rifle Men 4th: Joshua Lee Kai En</p>
+</li>
+<li>
+<p>Individual C Div Air Rifle Men 1st: Zhou Yicheng</p>
+</li>
+</ul>
+<h4><strong>2024 Accomplishments</strong></h4>
+<p><strong><u>NSG B Division 2024</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,7 +122,7 @@ at the 2026 NSG Shooting Championship.</p>
 </p>
 </li>
 </ul>
-<p><u>NSG C Division 2024</u>
+<p><strong><u>NSG C Division 2024</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -95,7 +132,7 @@ at the 2026 NSG Shooting Championship.</p>
 <p>Pistol Women + Rifle Women: National 4th</p>
 </li>
 </ul>
-<p><u>Individual Medal:</u>
+<p><strong><u>Individual Medals:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -269,6 +306,7 @@ competition periods.</p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xms.shooting/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xms.shooting</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
