@@ -64,8 +64,8 @@ school’s core values of <strong>Respect, Responsibility, and Resilience</stron
 <p>Learning Journey - Attending Choir Performances/Musicals</p>
 </li>
 <li>
-<p>Performing during School Events/Festivals</p>
-<p></p>
+<p>Performing during School Events/Festivals (e.g. SYF60 Festival Concert,
+Limelight at the Esplanade)</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
