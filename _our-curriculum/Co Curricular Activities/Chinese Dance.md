@@ -79,41 +79,20 @@ dance practice session.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President: </strong>Lim Zhining (304, 2025)</p>
+<p><strong>President:</strong> Li Anya Genevieve (305’26)</p>
 </li>
 <li>
-<p><strong>Vice-President (Admin): </strong>Xie Yixuan (302, 2025)</p>
+<p><strong>Vice-President (Admin):</strong> Maggie Liu Minqi (303’26)</p>
 </li>
 <li>
-<p><strong>Vice-President (Dance Mistress): </strong>Kate Lee Yu Xing (305,
-2025)</p>
+<p><strong>Vice-President (Dance Mistress):</strong> Gooi Ying Tong, Joan
+(302’26)</p>
 </li>
 <li>
-<p><strong>Level Leaders: </strong>Jhudiella Jessamina Gautama (302, 2025),
-Lim Jia En Pearlyn (305, 2025), Germaine Neo (301, 2025), Li Anya Genevieve
-(203, 2025), Foo Yean Yee (304, 2025), Gooi Ying Tong, Joan (207, 2025),
-Tan Yee Woon Zeryne (202, 2025), Maggie Liu Minqi (209, 2025)</p>
+<p><strong>Logistics Head: </strong>Ang Xue Han, Abby (301’26)</p>
 </li>
 <li>
-<p><strong>Logistics Head: </strong>Pek Lin Yi (302, 2025)</p>
-</li>
-<li>
-<p><strong>Logistics Vice-Head: </strong>Trinity Tan (304, 2025)</p>
-</li>
-<li>
-<p><strong>Logistics Members: </strong>Zu Jingshu (207, 2025), Toh En Yi
-(207, 2025), Ang Xue Han, Abby (206, 2025)</p>
-</li>
-<li>
-<p><strong>Publicity Head: </strong>Celestina Tan (306, 2025)</p>
-</li>
-<li>
-<p><strong>Publicity Vice-Head: </strong>Sim Ci Lin Janelle (307, 2025)</p>
-</li>
-<li>
-<p><strong>Publicity Assistants: </strong>Lee En Qi Shernise (306, 2025),
-Teo Rui Ning (204, 2025), Ng Xiao Xuan, Ariel (207, 2025)</p>
-<p></p>
+<p><strong>Publicity Head: </strong>Teo Rui Ning (305’26)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
