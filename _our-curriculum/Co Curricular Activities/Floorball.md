@@ -80,7 +80,7 @@ to the team.</p>
 (201, 2026)</p>
 </li>
 <li>
-<p>V<strong>ice-Captain –&nbsp;</strong>Muhammad Yusuf Yu Heng Bin Mohammad
+<p><strong>Vice-Captain –&nbsp;</strong>Muhammad Yusuf Yu Heng Bin Mohammad
 Fadly (203, 2026)</p>
 </li>
 <li>
