@@ -178,42 +178,50 @@ St John curriculum through the Cadet Proficiency Badge scheme.</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Achievement Award 2024- Gold</p>
+<p>Corps Achievement Award 2025 - Gold</p>
 </li>
 <li>
-<p>Northeast District First Aid Competition 2025:</p>
+<p>Northeast District First Aid Competition 2026:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nursing Adult Category- Overall Champion</p>
+<p>Nursing Adult Category - Overall Champion, Best in Home Nursing</p>
 </li>
 <li>
-<p>Ambulance Cadet Category- 1st Runner-up</p>
+<p>Nursing Cadet Category – First Runner-up</p>
+</li>
+<li>
+<p>Ambulance Adult Category – First Runner-up, Best Leader, Best in CPR,
+Best in Long Case</p>
+</li>
+<li>
+<p>Ambulance Cadet Category – Second Runner-up, Best in Long Case</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 </li>
 <li>
 <p>Chief Commissioner’s Badge 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Elodie Sim Yuen (401)</p>
+<p>Elodie Sim Yuen (401/2025)</p>
 </li>
 <li>
-<p>Jaeden Chin (401)</p>
+<p>Jaeden Chin (401/2025)</p>
 </li>
 <li>
-<p>Soh Si Ning, Shannon (401)</p>
+<p>Soh Si Ning, Shannon (401/2025)</p>
 </li>
 <li>
-<p>Ho Xuan Jing Kayden (402)</p>
+<p>Ho Xuan Jing Kayden (402/2025)</p>
 </li>
 <li>
-<p>Jaden Tay Yu Yang (402)</p>
+<p>Jaden Tay Yu Yang (402/2025)</p>
 </li>
 <li>
-<p>Toh Cher Yee (404)</p>
+<p>Toh Cher Yee (404/2025)</p>
 </li>
 <li>
-<p>Seth Wong Yi Heng (405)</p>
+<p>Seth Wong Yi Heng (405/2025)</p>
 </li>
 </ul>
 </li>
@@ -226,10 +234,10 @@ our community!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Low Lai Yip (IC)</p>
+<p>Mrs Seetoh Lai Yip (IC)</p>
 </li>
 <li>
-<p>Ms Koh Cher Yee</p>
+<p>Ms Koh Cher Yee (Semester 1)</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>
