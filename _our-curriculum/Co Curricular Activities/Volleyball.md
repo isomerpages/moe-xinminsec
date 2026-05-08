@@ -98,7 +98,7 @@ events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <strong>Captain:</strong> Gagan Eliana Biel Devela (203, 2026)</p>
+<p><strong>Captain:</strong> Gagan Eliana Biel Devela (203, 2026)</p>
 </li>
 <li>
 <p><strong>Assistant Head of Publicity:</strong> Choy Yu Tung (208, 2026),
@@ -109,19 +109,22 @@ Lee Qi Xuan Jeraine (209, 2026)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Senior Captain:</strong> Sim Wei Xuan, Jamie (402, 2025)</p>
+<p><strong>Senior Captain:</strong> Mia Chua (402, 2026)</p>
 </li>
 <li>
-<p><strong>Senior Vice-Captain:</strong> Lim Han Xuan Trisha (403, 2025)</p>
+<p><strong>Senior Vice-Captains:</strong> Jaslyn Koh Wei Xuan (402, 2026),
+Tan Xin Man (402, 2026)</p>
 </li>
 <li>
-<p><strong>Juniors Leaders</strong>: Jaslyn Koh Wei Xuan (302, 2025), Mia
-Chua (302, 2025), Tan Xin Man (302, 2025)</p>
+<p><strong>Junior Leaders:</strong> Lim Ke En Adrienna (301, 2026), Emma Tay
+Le Xuan (302, 2026)</p>
 </li>
 <li>
-<p><strong>Head of Publicity</strong>: Goh Zi Xuan, Mathilda (407, 2025),
-Lim Kai Qi Mikaella (304, 2025)</p>
-<p></p>
+<p><strong>Head of Logistics: </strong>Ezanne Lim Chi Soan (306, 2026)</p>
+</li>
+<li>
+<p><strong>Head of Publicity:</strong> Lim Kai Qi Mikaella (404, 2026), Nicia
+Poh (309, 2026), Iszabelle Lai Jia Xuan (304, 2026)</p>
 </li>
 </ul>
 <p><strong>C Division Boys</strong>
