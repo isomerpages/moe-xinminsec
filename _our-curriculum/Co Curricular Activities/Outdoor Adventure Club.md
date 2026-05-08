@@ -91,12 +91,12 @@ Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
-<p>To further develop their leadership skills, our Secondary Three members
-are entrusted with significant responsibilities. They lead weekly training
-sessions, guiding their peers through various skills and activities, and
-take charge of planning and executing expeditions. This builds their confidence
-while cultivating essential skills in organization, decision-making, and
-teamwork.</p>
+<p>To further develop their leadership skills, our Secondary Three/Four/Five
+members are entrusted with significant responsibilities. They lead weekly
+training sessions, guiding their peers through various skills and activities,
+and take charge of planning and executing expeditions. This builds their
+confidence while cultivating essential skills in organization, decision-making,
+and teamwork.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
