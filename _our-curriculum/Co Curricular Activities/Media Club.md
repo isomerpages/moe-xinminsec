@@ -51,7 +51,7 @@ contributions to society.</p>
 </li>
 <li>
 <p>Various competitions like MOE Our Schools Our Stories, IMDA National Youth
-Tech Championship</p>
+Tech Championship, Drone Odyssey Challenge</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
