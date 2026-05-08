@@ -9,20 +9,17 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjab_1.jpg">
 </div>
 <h4><strong>Welcome to the Girls’ Brigade, 42<sup>nd</sup> company!</strong></h4>
-<p>The Girls’ Brigade (GB) 42nd Company is dedicated to nurturing and empowering
-young women, equipping them with the skills and confidence to grow into
-leaders. Our mission is to cultivate every Girl as a leader and every Officer
-as a Servant Leader, helping them reach their fullest potential by providing
-opportunities to lead, learn, and serve.</p>
-<p>We offer a well-rounded selection of activities, from camps, drills, and
-badgework, to leadership opportunities that span both indoor and outdoor
-environments. Whether it’s crafting, community outreach, outdoor cooking,
-or exploring learning journeys around Singapore, our diverse programmes
-allow the girls to plan, lead, and actively participate in meaningful experiences.</p>
-<p>Throughout their four years with Girls’ Brigade, our girls embark on a
-journey of personal development, building their social, educational, spiritual,
-and physical skills. Our aim is to equip them with the life skills they
-need to overcome challenges and thrive in every aspect of life.</p>
+<p>At Xinmin St. John Brigade, we are dedicated to nurturing resilient and
+compassionate leaders who are prepared to create a positive impact in the
+community. Our Cadet program equips members with essential First Aid and
+Home Nursing skills while fostering leadership development. Through community
+service and the Cadet Proficiency Badge Schemes, cadets gain hands-on experience
+and explore their personal interests. Guided by the motto “For the Service
+of Mankind,” our cadets strive to embody the values of service, empathy,
+and excellence in all their endeavours.</p>
+<p>The high standards and unwavering dedication of our student leaders, youth
+officers, and teachers have earned the Xinmin St. John Brigade its 26th
+consecutive Gold in the Corps Achievement Award since 2001.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
