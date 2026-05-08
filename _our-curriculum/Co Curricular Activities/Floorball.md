@@ -76,54 +76,46 @@ to the team.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain </strong>– Chua Raiker (207, 2025)</p>
+<p><strong>Captain –&nbsp;</strong>Muhammad Nur Firhan Bin Muhammad Hafiz
+(201, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captain</strong> – Chin Kai Xian Xanden (201, 2025)</p>
+<p>V<strong>ice-Captain –&nbsp;</strong>Muhammad Yusuf Yu Heng Bin Mohammad
+Fadly (203, 2026)</p>
 </li>
 <li>
-<p><strong>Team Manager</strong> – Oon Si Jun (202, 2025)</p>
-</li>
-<li>
-<p>T<strong>eam Manager</strong> – Chen Yongfu, Ethan (205, 2025)</p>
-</li>
-<li>
-<p><strong>Physical Training IC</strong> – Liaw Kai Le, Jarren (207, 2025)</p>
+<p><strong>Team Manager – </strong>Leow Jun Yu (207, 2026)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
-<p>Xinmin’s Floorball members proudly represent the school in the National
-School Games and other competitions. Beyond results, we see every match,
-from friendly games to tournaments like Pesta Sukan, as an opportunity
-to sharpen our skills, learn new gameplay strategies, and grow together
+<p>Xinmin Floorball represents the school in the National School Games and
+other competitions. Every match — from friendlies to tournaments like Pesta
+Sukan — is an opportunity to sharpen skills, refine strategies, and grow
 as a team.</p>
-<p>For the third year running, we hosted our annual 3v3 Primary School Tournament
-during the June holidays, giving aspiring young players a chance to experience
-the thrill of floorball. The tournament also serves as a meaningful introduction
-for those considering floorball as their future CCA, while strengthening
-the bonds within our own team.</p>
+<p>As an emerging team in the floorball scene, we continue to challenge ourselves
+and strive for higher standards.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>First Runner-up in 'C' Division National School Games League 1 2025</p>
+<p>First Runner-up in 'B' Division National School Games (2026)</p>
 </li>
 <li>
-<p>First Runner-up in Pesta Sukan U14 Boys 2025</p>
+<p>First Runner-up in 'C' Division National School Games League 1 (2025)</p>
 </li>
 <li>
-<p>Top 8 in 'C' Division National School Games 2024</p>
+<p>First Runner-up in Pesta Sukan U14 Boys (2025)</p>
 </li>
 <li>
-<p>First runner-up in Pesta Sukan U14 Boys 2024</p>
+<p>First Runner-up in Eunoia Junior College Invitational Competition (2025)</p>
 </li>
 <li>
-<p>Second runner-up in Pesta Sukan U17 Boys 2024</p>
+<p>Top 8 in 'C' Division National School Games (2024)</p>
 </li>
 <li>
-<p>Champion U15 Northbrooks Invitational Competition 2024</p>
+<p>First Runner-up in Pesta Sukan U14 Boys (2024)</p>
 </li>
 <li>
-<p>First runner-up U14 Northbrooks Invitational Competition 2024</p>
+<p>Second Runner-up in Pesta Sukan U17 Boys (2024)</p>
 </li>
 </ul>
 <p>At Xinmin Floorball, excellence is not just about medals. It is about
