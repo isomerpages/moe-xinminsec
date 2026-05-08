@@ -12,7 +12,43 @@ mental strength and physical skill, as success depends on consistency,
 discipline and precision. Through regular training, our athletes develop
 focus, resilience and self-mastery, learning to overcome their greatest
 challenge, themselves.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_1.png">
+</div>
+<p>Our team proudly participates in various invitational competitions as
+well as the prestigious annual National School Games (NSG) Shooting Championship.
+Our shooters have continued to uphold this proud tradition through dedication
+and perseverance, putting in tremendous effort to achieve commendable results
+at the 2026 NSG Shooting Championship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_2.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_4.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_5.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>2026 Accomplishments</strong></h4>
 <p><u>NSG B Division 2026</u>
 </p>
@@ -25,6 +61,16 @@ challenge, themselves.</p>
 <p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
 2<sup>nd</sup>
 </p>
+</li>
+</ul>
+<p><u>Individual Medal</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
+</li>
+<li>
+<p>Individual B Div Air Pistol Men 3rd: Alston Ng Jin Yu</p>
 </li>
 </ul>
 <p><u>NSG C Division 2025</u>
