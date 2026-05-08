@@ -6,23 +6,21 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Floorball/floorball_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Floorball/2026_floorball_1.jpg">
 </div>
 <p><strong>Brothers, first always, Xinmin!</strong>
 </p>
 <h4><strong>Welcome to Xinmin Floorball team!</strong></h4>
-<p>Established in 2022, our team has rapidly expanded from a handful of passionate
-players into a strong, cohesive unit. While we take pride in competing
-with heart and discipline, floorball at Xinmin is about much more than
-the game. It is where character is built, brotherhood is forged, and every
-player learns to take ownership of his growth, with the assurance of support
-from his teammates, teachers and coach.</p>
-<p>Through consistent training and commitment, our boys sharpen their individual
-skills while learning the value of collaboration, resilience, and respect.
-Each training session is not just about drills and tactics, but about pushing
-one another to be better — as players, as students and as people. Every
-member matters, and every member contributes to the spirit that drives
-us forward.</p>
+<p>Established in 2022, our team has grown from a handful of passionate players
+into a strong, cohesive unit. While we take pride in competing with heart
+and discipline, floorball at Xinmin goes beyond the game. It is where character
+is shaped, brotherhood is forged, and every player learns to take ownership
+of his growth, with the support of teammates, teachers, and coach.</p>
+<p>Through consistent training, our boys sharpen their skills while learning
+the value of collaboration, resilience, and respect. Each training session
+is not just about drills and tactics, but about pushing one another to
+be better — as players, as student, and as individuals. Every member plays
+a part in driving the team forward.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,7 +30,7 @@ us forward.</p>
 <p>Fridays: 2 pm – 5 pm ('C' Division)</p>
 </li>
 <li>
-<p>Wednesdays: 3:30 pm - 6 pm ('B' Division)</p>
+<p>Wednesdays: 3:00 pm - 5:30 pm ('B' Division)</p>
 </li>
 <li>
 <p>Fridays: 3 pm - 6 pm ('B' Division)</p>
