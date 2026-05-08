@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjab_1.jpg">
 </div>
 <h4><strong>Welcome to Xinmin St John Brigade!</strong></h4>
 <p>At Xinmin St. John Brigade, we are dedicated to nurturing resilient and
@@ -18,7 +18,7 @@ and explore their personal interests. Guided by the motto “For the Service
 of Mankind,” our cadets strive to embody the values of service, empathy,
 and excellence in all their endeavours.</p>
 <p>The high standards and unwavering dedication of our student leaders, youth
-officers, and teachers have earned the Xinmin St. John Brigade its 25th
+officers, and teachers have earned the Xinmin St. John Brigade its 26th
 consecutive Gold in the Corps Achievement Award since 2001.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
@@ -29,10 +29,10 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <p>Basic Cardiac Life Support</p>
 </li>
 <li>
-<p>Non-Commissioned Officer Course</p>
+<p>Instructors’ Course</p>
 </li>
 <li>
-<p>Hospital Attachment Programme</p>
+<p>Non-Commissioned Officer Course</p>
 </li>
 <li>
 <p>Annual March Camp</p>
@@ -47,10 +47,13 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>White space Wednesdays: 4pm to 6pm</p>
+<p>Whitespace Wednesdays: 4pm to 6pm</p>
 </li>
 <li>
-<p>Fridays - Corp Meetings: 2pm to 6pm</p>
+<p>Fridays: 2pm to 6pm</p>
+</li>
+<li>
+<p>Selected Saturdays : 8am to 12pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -63,12 +66,12 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_3.jpg">
 </div>
 </th>
 </tr>
@@ -83,7 +86,7 @@ teaching first aid, home nursing, or foot drill have opportunities to attend
 HQ instructor courses, enabling them to take the lead in these areas within
 the corps. Our corps leaders collaborate closely with other uniformed groups,
 such as NCC, BB, and GB, to organize inter-uniformed group activities like
-the Passing Out Parade and inter-UG hikes.</p>
+the Passing Out Parade, National Day Parade and Total Defence Day.</p>
 <h4>Student Leaders</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_4.jpg">
