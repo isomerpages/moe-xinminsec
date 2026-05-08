@@ -46,7 +46,6 @@ sharing, and growing through every experience</p>
 environment, and opportunities, every member can develop not just as a
 performer, but as a gracious and resilient individual who embodies our
 school’s core values of <strong>Respect, Responsibility, and Resilience</strong>.</p>
-<p></p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
