@@ -73,26 +73,25 @@ leadership qualities rooted in respect, responsibility, and integrity,
 we empower our student leaders to become civic-minded individuals capable
 of leading with empathy and making meaningful contributions within and
 beyond the school community.</p>
-<h4><strong>Student Leaders</strong></h4>
+<h4><strong>Student Leaders 2026</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President</strong>: Harrison Tan Xue You (301)</p>
+<p>President: Neo Su Han (305)</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>: Chloe Giselle Kessler (306)</p>
+<p>Vice-President: Annabelle Lee Xian En (309)</p>
 </li>
 <li>
-<p><strong>Head Of Department (AVA)</strong>: Chng Jiaxuan, Chloe (302)</p>
+<p>Head Of Department (Ava): Lim Wen Bin, Alexus (309)</p>
 </li>
 <li>
-<p><strong>Head Of Department (Photography)</strong>: Jaelyn See Xin Ru (303)</p>
+<p>Head Of Department (Photography): Samantha Loke En Ping (305)</p>
 </li>
 <li>
-<p><strong>Head Of Department (Videography)</strong>: Freya Ling Jia Han
-(302)</p>
+<p>Head Of Department (Videography): Wu Lekang (305)</p>
 </li>
 <li>
-<p><strong>Head Of Infocomm Wing</strong>: Harrison Tan Xue You (301)</p>
+<p>Head Of Infocomm Wing: Dario Koh Hong Da (301)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
