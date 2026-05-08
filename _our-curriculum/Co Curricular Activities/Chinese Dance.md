@@ -96,15 +96,13 @@ dance practice session.</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
-<p>In 2023, the Xinmin Chinese Dance team participated in the Chinese Dance
-Fiesta, organised by the Singapore Chinese Dance Theatre, where their performance
-was met with enthusiastic applause from the audience. In 2024, the dance
-troupe had the honour of performing at the ASEAN Federation of Engineering
-Organisations' Mid-Term Welcome Reception and at The Institution of Engineers'
-58th Annual Dinner. The following year, in 2025, the troupe was selected
-to perform once again at the Chinese Dance Fiesta held at the DBS Foundation.
-These performances are in addition to the members’ participation in the
-annual Chinese New Year and Speech Day performances held in school.</p>
+<p>In 2024, the Xinmin Chinese Dance team had the honour of performing at
+the ASEAN Federation of Engineering Organisations' Mid-Term Welcome Reception
+and the Institution of Engineers' 58th Annual Dinner. In 2025, the troupe
+was selected to perform at the Chinese Dance Fiesta organised by the Singapore
+Chinese Dance Theatre. The following year, in 2026, the troupe performed
+at our school’s Sights and Sounds of Xinmin and is now preparing to perform
+at the upcoming SYF 60 Dance Extravaganza.</p>
 <p>The troupe's journey has been defined by continuous growth and unwavering
 dedication. With each performance, they faced new challenges, pushing the
 limits of their abilities and demonstrating remarkable resilience and determination.
