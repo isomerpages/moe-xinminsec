@@ -199,10 +199,8 @@ day-to-day operations.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SGT Yu Canyang (304, 2026)</p>
-<p></p>
 </li>
 </ul>
-<p></p>
 <h4><strong>The Boys’ Brigade Development Programme (BDP)</strong></h4>
 <p>The <strong>Boys’ Brigade Development Programme (BDP)</strong> is the 45th
 Singapore Company's flagship leadership and talent development initiative,
