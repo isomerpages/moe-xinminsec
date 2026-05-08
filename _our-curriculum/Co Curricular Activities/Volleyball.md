@@ -146,17 +146,17 @@ Yong Jun Jayden (207, 2026)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Senior &amp; Junior Captain</strong>: Timothy Lim Sheuan Horng
-(402, 2025) &amp; Jovan Lum Ka Fai (305, 2025)</p>
+<p><strong>Senior &amp; Junior Captain:</strong> Jovan Lum Ka Fai (405, 2026)
+&amp; Goh Ik Xi (303, 2026)</p>
 </li>
 <li>
-<p><strong>Senior &amp; Junior Vice-Captains</strong>: Swee Wee Herng Jeroy
-(402, 2025) &amp; Tan Woo Yew Samuel (402, 2025), Tan Justin (305, 2025)
-&amp; Jayden Huang (301, 2025)</p>
+<p><strong>Senior &amp; Junior Vice-Captains:</strong> Tan Justin (405, 2026)
+&amp; Jayden Huang (401, 2026), Javier Koo Dong Yi (303, 2026) &amp; Lucas
+Lim Ding Cheng (301, 2026)</p>
 </li>
 <li>
-<p><strong>Senior &amp; Junior Head of Publicity</strong>: Evan Lee Yee Fan
-(402, 2025), Lee Yuan Rui (306, 2025)</p>
+<p><strong>Senior &amp; Junior Head of Publicity:</strong> Lee Yuan Rui (406,
+2026), Lim Zu Le Richemont (302, 2026) &amp; Tey Yi Liang (306, 2026)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
