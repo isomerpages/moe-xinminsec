@@ -18,7 +18,7 @@ of values such as teamwork, resilience, and leadership.</p>
 <p>Beyond training and competitions, our players have the opportunity to
 plan and organise events like the Secondary 1 Induction Programme, the
 Xinmin Invitational Competition for primary school students, and our Annual
-Badminton Teambuilding Day. These experiences provide a platform for them
+Badminton Teambuilding Camp. These experiences provide a platform for them
 to develop leadership skills and strengthen team bonds, shaping them into
 well-rounded individuals both on and off the court.</p>
 <h4><strong>Activities</strong></h4>
