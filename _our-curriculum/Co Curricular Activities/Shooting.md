@@ -73,30 +73,7 @@ at the 2026 NSG Shooting Championship.</p>
 <p>Individual B Div Air Pistol Men 3rd: Alston Ng Jin Yu</p>
 </li>
 </ul>
-<p><u>NSG C Division 2025</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 5th</p>
-</li>
-</ul>
-<p><u>Individual Medal</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
-</li>
-<li>
-<p>Individual B Div Air Pistol Women 3rd: Lee Zi Jia Reese</p>
-</li>
-<li>
-<p>Individual B Div Air Rifle Men 4th: Joshua Lee Kai En</p>
-</li>
-<li>
-<p>Individual C Div Air Rifle Men 1st: Zhou Yicheng</p>
-</li>
-</ul>
-<h4><strong>2024 Accomplishments</strong></h4>
+<h4><strong>2025 Accomplishments</strong></h4>
 <p><u>NSG B Division 2024</u>
 </p>
 <ul data-tight="true" class="tight">
