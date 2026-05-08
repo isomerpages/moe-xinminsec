@@ -2,8 +2,8 @@ collections:
   prospective-students:
     output: true
     order:
-      - Secondary 1 Posting.md
       - Direct School Admission.md
+      - Secondary 1 Posting.md
       - Prospectus.md
       - 360 Campus Tour.md
       - Xinmin Scholarship.md
