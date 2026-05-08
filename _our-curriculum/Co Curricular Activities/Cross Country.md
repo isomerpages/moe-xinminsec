@@ -40,11 +40,11 @@ new students feel welcomed through engaging bonding and fitness activities.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captains:</strong> Ong Joon Jae (405, 2025), Janelle Li (401, 2025)</p>
+<p><strong>Captains:</strong> Alvin Kong (403, 2026), Lim Yue Wei (401, 2026)</p>
 </li>
 <li>
-<p><strong>Vice Captain</strong>: Jayden Evans Pang (408, 2025), Lim Yue
-Wei (301, 2025)</p>
+<p><strong>Vice-Captains</strong>: Jovan Foo (403, 2026), Yeoh Jing Xuan
+(301, 2026)</p>
 </li>
 </ul>
 <h4><strong>Competitions</strong></h4>
