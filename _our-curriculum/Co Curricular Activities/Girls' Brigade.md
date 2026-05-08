@@ -45,7 +45,7 @@ need to overcome challenges and thrive in every aspect of life.</p>
 Tan (304) and Athena Toh (307)</p>
 </li>
 </ul>
-<h4><strong>2024 - 2025 Awards:</strong></h4>
+<h4><strong>2024 - 2026 Awards:</strong></h4>
 <p>In 2024, our company proudly completed the GB Tech Girl badgework, where
 the girls gained programming skills by coding with the micro: bit. This
 was conducted alongside the biannual Dr Low Guat Tin Challenge, under the
@@ -58,11 +58,16 @@ and ingenuity.</p>
 both our teams demonstrated resilience in their training, creativity in
 their moves and precision in their drills. We are proud to share that both
 the teams won Gold awards for our company! Well done!</p>
-<p>Finally, we celebrate the achievements of four of our graduating girls
-who earned the prestigious Pioneer Brigadier Brooch, the pinnacle award
-in the GB. These outstanding girls exemplified excellence, self-discipline,
-and servant-leadership, standing as role models for others.</p>
-<h4><em>&nbsp;</em><strong>Accomplishments</strong></h4>
+<p>In the recent 2026 GB Awards Ceremony, we celebrate the achievements of
+two of our graduating girls who earned the prestigious Pioneer Brigadier
+Brooch, the pinnacle award in the GB. These outstanding girls exemplified
+excellence, self-discipline, and servant-leadership, standing as role models
+for others. We are also very proud of our SPARKS officers who received
+the highest level of recognition for their contribution to GB – the SPARKS
+Endeavour Award in the ceremony. They have made outstanding contributions
+to the 42<sup>nd</sup> Coy and also at HQ level and are truly exemplary
+in their commitment and dedication to give of their best in service.</p>
+<h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Dr Low Guat Tin Challenge (2024): 2 Gold, 2 Silver and 5 Bronze awards</p>
@@ -71,11 +76,17 @@ and servant-leadership, standing as role models for others.</p>
 <p>GB National Drill Competition (2025): 2 Gold awards</p>
 </li>
 <li>
-<p>Pioneer Brigadier Brooch awardees: Foo Si Jia Faith (402, 2025), Yeow
-Xuan Ning (404, 2025), Lee Yu Xi (401, 2025) and Clara Yar (401, 2024)</p>
+<p>Pioneer Brigadier Brooch awardees: Ng En Qi (404,2025), Ashlyn Goh (405,
+2025)</p>
+</li>
+<li>
+<p>2025 SPARKS Endeavour Awardees: Faith Lim, Goh Zi Qi and Ho Zhi Xuan</p>
 </li>
 <li>
 <p>2024 Company Award: Gold</p>
+</li>
+<li>
+<p>2025 Company Award: Gold</p>
 </li>
 </ul>
 <p>Join us as we continue to live out the core values of Family, Friendship,
