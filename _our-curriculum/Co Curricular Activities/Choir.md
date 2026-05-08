@@ -91,19 +91,19 @@ and ensure that every member feels supported and valued.&nbsp;</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President</strong>: Ang Yi Xiang Brandon (301)&nbsp;</p>
+<p>President: Ong Ting Rui Reanne (305)</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>: Jonathan Alvaro (304)</p>
+<p>Vice-President: Javen Lee Ming Le (307)</p>
 </li>
 <li>
-<p><strong>Head of Logistics</strong>: Chan Su Mi (307)</p>
+<p>Head of Logistics: Wei Haoyang (303)</p>
 </li>
 <li>
-<p><strong>Head of Publicity</strong>: Lee Xin Ting Jerzelle (301)</p>
+<p>Head of Publicity: Lee Qian Le Shermane (309)</p>
 </li>
 <li>
-<p><strong>Head of Welfare</strong>: Ramirez Annika Lauren Fillon (304)</p>
+<p>Head of Welfare: Lee Jun Sheng (301)</p>
 </li>
 </ul>
 <p><strong>Section Leaders:</strong>
