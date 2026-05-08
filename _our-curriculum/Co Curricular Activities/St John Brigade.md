@@ -89,47 +89,68 @@ such as NCC, BB, and GB, to organize inter-uniformed group activities like
 the Passing Out Parade, National Day Parade and Total Defence Day.</p>
 <h4>Student Leaders</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_4.jpg">
 </div>
 <p><strong>Corps Leaders</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Sergeant Major: Sergeant Shania Yip (301)</p>
+<p>Corps Sergeant Major: Lance Corporal Ernest Ang Hsiao Kai (304)</p>
 </li>
 <li>
-<p>Assistant Corps Sergeant Major: Corporal Charlyn Ang Hui En (306)</p>
+<p>Assistant Corps Sergeant Major: Lance Corporal Angel Law Jia Yi (301)
+&amp; Lance Corporal Aaron Goi Guo Tong (309)</p>
 </li>
 </ul>
 <p><strong>Combat:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Platoon 1 Commander: Corporal Er Yi Fei, Kira (305)</p>
+<p>Platoon 1 Commander: Lance Corporal Aiden Lim Wei Zhe (303)</p>
 </li>
 <li>
-<p>Platoon 2 Commander: Lance Corporal Angel Law Jia Yi (203) &amp; Lance
-Corporal Aaron Goi Guo Tong (209)</p>
+<p>Platoon 2 Commander: Lance Corporal Delisha Naeema Silas Muhammad Daud
+(307)</p>
 </li>
 <li>
-<p>Platoon 3 Commander: Corporal Shaista Afsheen Binte Abdul Shukor (308)</p>
+<p>Platoon 3 Commander: Lance Corporal Zheng Tianze (305)</p>
 </li>
 </ul>
 <p><strong>Departments:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Logistics Head: Corporal Teo Zhao Hui (308)</p>
+<p>Head of Cadet Development: Lance Corporal Parvathi Valsan (305)</p>
 </li>
 <li>
-<p>Cadet Development Head: Corporal Tan Zhi You Abbie (301)</p>
+<p>Head of Logistics: Lance Corporal Chen Jiayi (303)</p>
 </li>
 <li>
-<p>Publicity Head: Lance Corporal Chew Yi En (301) &amp; Lance Corporal Laurencio
-Elaine Rose (305)</p>
+<p>Head of Publicity: Lance Corporal Lekshmi Sandeep (304)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_6.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Cadets also participate in the annual First Aid competition, where they
 work as a team to apply their knowledge and skills in managing emergency
 situations with precision. Beyond developing key competencies, cadets are
