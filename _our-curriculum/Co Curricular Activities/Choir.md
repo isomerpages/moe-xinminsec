@@ -8,6 +8,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/choir.jpg">
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/2026_choir_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/2026_choir_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>Welcome to Xinmin Chorale!</strong></h4>
 <p>At Xinmin Chorale, students with a passion for singing come together to
 express themselves through music. Under the expert musical direction of
