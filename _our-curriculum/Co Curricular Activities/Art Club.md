@@ -95,15 +95,21 @@ and self-assurance. Here's a closer look at what we do:</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_1.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_3.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -170,6 +176,38 @@ ideas are exchanged, friendships are built, and creativity thrives. From
 camps, art workshops, and museum visits to Co-Curricular Activity Orientations
 and partnerships with community organisations, our members actively enrich
 the school environment while exploring the limitless world of art.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Join us on our artistic journey at XAC, where creativity knows no bounds,
 and the pursuit of knowledge is a lifelong adventure. Together, we explore
 new possibilities, create meaningful art, and inspire one another!</p>
