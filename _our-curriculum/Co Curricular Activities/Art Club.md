@@ -90,7 +90,7 @@ and self-assurance. Here's a closer look at what we do:</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -102,12 +102,12 @@ and self-assurance. Here's a closer look at what we do:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_3.jpg">
 </div>
 </td>
 </tr>
