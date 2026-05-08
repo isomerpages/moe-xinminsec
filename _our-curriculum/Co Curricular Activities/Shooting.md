@@ -5,55 +5,26 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_1.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_4.jpg">
-</div>
 <h4><strong>Welcome to Xinmin Shooting Team!</strong></h4>
-<p>Established in 2004, the Xinmin Shooting Team aims to ignite students'
-passion for 10m air rifle and air pistol shooting. This sport requires
-both mental strength and physical skill, as success relies on consistency
-and precision. Through regular training, our athletes develop focus and
-resilience, learning to conquer their biggest challenge: themselves.</p>
-<p>Our team proudly competes in various invitational shooting competitions
-and the esteemed annual National School Games (NSG) Shooting Championship.
-With the support of our experienced coaches, we have successfully nurtured
-at least 18 Xinmin students who have been invited to train with the National
-Youth Team.</p>
-<p>Our shooters have put in tremendous effort to achieve impressive results
-at the 2025 NSG Shooting Championship.</p>
-<h4><strong>2025 Accomplishments</strong></h4>
-<p><u>NSG B Division 2025</u>
+<p>Established in 2004, the Xinmin Shooting Team aims to ignite students’
+passion for 10m Air Rifle and Air Pistol shooting. This sport demands both
+mental strength and physical skill, as success depends on consistency,
+discipline and precision. Through regular training, our athletes develop
+focus, resilience and self-mastery, learning to overcome their greatest
+challenge, themselves.</p>
+<p></p>
+<h4><strong>2026 Accomplishments</strong></h4>
+<p><u>NSG B Division 2026</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3rd</p>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3<sup>rd</sup>
+</p>
 </li>
 <li>
 <p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
-1st</p>
+2<sup>nd</sup>
+</p>
 </li>
 </ul>
 <p><u>NSG C Division 2025</u>
