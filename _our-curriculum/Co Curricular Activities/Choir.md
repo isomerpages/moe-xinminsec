@@ -28,6 +28,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Choir/2026_choir_3.jpg">
+</div>
 <h4><strong>Welcome to Xinmin Chorale!</strong></h4>
 <p>At Xinmin Chorale, students with a passion for singing come together to
 express themselves through music. Under the expert musical direction of
