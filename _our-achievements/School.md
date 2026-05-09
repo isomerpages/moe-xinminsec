@@ -4,7 +4,6 @@ permalink: /news/achievements/school/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:120px" height="auto" width="100%" alt="Student-All-Round Development" src="/images/BPA-Student-All-Round%20Development.jpeg">
 </div>
@@ -15,9 +14,7 @@ level themes &amp; cohort curriculum, academic subjects, co-curricular
 activities, talent development, and signature programmes - develops every
 Xinmin student to be a curious learner, a compassionate contributor and
 a confident leader.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:120px" height="auto" width="100%" alt="Teaching and Learning" src="/images/BPA-Teaching%20and%20Learning.jpeg">
@@ -28,9 +25,7 @@ day. Our dedicated teachers consider goals and content, pedagogy, and assessment
 in designing learning experiences for our students. Our students take ownership
 of their learning and growth in the academic, character, and leadership
 domains.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:120px" height="auto" width="100%" alt="Staff WellBeing" src="/images/BPA-Staff%20WellBeing.jpeg">
