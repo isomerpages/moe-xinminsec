@@ -14,8 +14,8 @@ pinnacle award at Speech Day 2026):</p>
 <p></p>
 <p><strong><u>L.E.A.D. Award and Valedictorian</u></strong>
 </p>
-<p>This award recognises the most outstanding student in the graduating cohort
-who possesses the qualities of:</p>
+<p>This award recognises the most outstanding student in the graduated cohort
+who exemplifies the qualities of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>L: Leadership&nbsp;</p>
