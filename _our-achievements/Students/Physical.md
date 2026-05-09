@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -138,7 +138,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -148,7 +154,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -267,7 +273,13 @@ Individual Rifle 1<sup>st</sup>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -277,7 +289,7 @@ Individual Rifle 1<sup>st</sup>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -429,7 +441,10 @@ Individual Rifle 1<sup>st</sup>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -439,7 +454,7 @@ Individual Rifle 1<sup>st</sup>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
