@@ -32,8 +32,7 @@ to 2 Jun 2026, 4.30pm.</p>
 <h2>Selection Process</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Shortlisted candidates will be notified by email latest by 3 July 202
-6.</p>
+<p>Shortlisted candidates will be notified by email latest by 3 July 2026.</p>
 </li>
 <li>
 <p>Shortlisted candidates will be required to sit for the required questionnaires,
@@ -69,7 +68,7 @@ them of the outcome,</p>
 28 Aug 2026.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from year 1- 4/5.</p>
+related to the talent they are selected for from Year 1- 4/5.</p>
 <h2>2026 Talent Areas and Criteria</h2>
 <ul data-tight="true" class="tight">
 <li>
