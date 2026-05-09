@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -109,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
@@ -164,7 +164,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>COMPETITION/PLATFORM &amp; ACHIEVEMENT</strong>
+<p><strong>PLATFORM/COMPETITION &amp; ACHIEVEMENT</strong>
 </p>
 </td>
 </tr>
