@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p><strong>Student All-Round Development</strong>
 <br>Student All-Round Development encapsulates the outcomes of a Xinmin education.
-Our <a href="our-curriculum/the-xinmin-learning-experience/" rel="noopener nofollow" target="_blank">total curriculum</a> -
+Our <a href="/our-curriculum/the-xinmin-learning-experience/" rel="noopener nofollow" target="_blank">total curriculum</a> -
 level themes &amp; cohort curriculum, academic subjects, co-curricular
 activities, talent development, and signature programmes - develops every
 Xinmin student to be a curious learner, a compassionate contributor and
