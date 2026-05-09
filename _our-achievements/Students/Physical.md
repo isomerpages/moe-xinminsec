@@ -23,7 +23,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -105,22 +105,17 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>C Division Boys – ongoing</p>
+<p>C Division Boys – Semester 2</p>
 </li>
 <li>
-<p>C Division Girls – ongoing</p>
+<p>C Division Girls – Semester 2</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
-<p><strong><u>Inter-Schools Bouldering Championships</u></strong>
-</p>
-<p><strong>Rockclimbing</strong>
+<p><strong><u>Inter-Schools Bouldering Championships (Rockclimbing)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -272,10 +267,7 @@ Individual Rifle 1<sup>st</sup>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p></p>
 </td>
 </tr>
