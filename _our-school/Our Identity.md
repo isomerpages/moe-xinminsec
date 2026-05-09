@@ -13,12 +13,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:20%;" height="auto" width="100%" alt="School Crest" src="/images/schlogo_big.jpeg">
 </div>
-<p>The graphic display of grace and exuberance depicts our vibrant and dynamic
-pupils being ready to strive, excel and serve.</p>
-<p>The 3 bold strokes surging forward signify our pupils embracing the future
-with confidence and optimism.</p>
-<p>The 3 figures represent the close Partnership between school, home and
-the community.</p>
+<p>The graphic display of grace and exuberance depicts the school’s vibrant
+and dynamic students who are ready to strive, excel and serve. The three
+bold strokes surging forward signify the students embracing the future
+with confidence and optimism. The three figures represent the close partnership
+between the school, home and community.</p>
 <h2>Our School Song</h2>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JZweZQYQ6hE?si=EBSRvXcyWhD_j362"></iframe>
