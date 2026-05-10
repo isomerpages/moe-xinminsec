@@ -1,5 +1,5 @@
 ---
-title: Student Leadership
+title: Leadership
 permalink: /our-achievements/student/leadership/
 description: ""
 third_nav_title: Students
@@ -41,13 +41,15 @@ variant: tiptap
 <p>JM Fraser Award for Excellence 2025 – High Distinction&nbsp;</p>
 </li>
 </ul>
-<p><strong>Girls Brigade</strong>
+<p></p>
+<p><strong>Girls' Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Company Award 2025 – Gold&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -55,6 +57,7 @@ variant: tiptap
 <p>Unit Recognition 2025 – Distinction&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <p><strong>St John Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -104,13 +107,15 @@ variant: tiptap
 <p>JM Fraser Award for Excellence 2024 – High Distinction&nbsp;</p>
 </li>
 </ul>
-<p><strong>Girls Brigade</strong>
+<p></p>
+<p><strong>Girls' Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Company Award 2024 – Gold&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -118,6 +123,7 @@ variant: tiptap
 <p>Unit Recognition 2024 – Distinction&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <p><strong>St John Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -271,13 +277,14 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>National Police Cadet Corps</strong>
+<p><strong>Girls' Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Overall Proficiency Award 2023 – Distinction&nbsp;</p>
+<p>Company Award 2023 – Gold&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <p><strong>National Cadet Corps (Land)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -285,6 +292,15 @@ variant: tiptap
 <p>Unit Recognition 2023 – Distinction&nbsp;</p>
 </li>
 </ul>
+<p></p>
+<p><strong>National Police Cadet Corps</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Overall Proficiency Award 2023 – Distinction&nbsp;</p>
+</li>
+</ul>
+<p></p>
 <p><strong>St John Brigade</strong>
 </p>
 <ul data-tight="true" class="tight">
