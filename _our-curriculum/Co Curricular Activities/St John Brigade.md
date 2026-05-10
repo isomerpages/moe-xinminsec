@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjab_1.jpg">
 </div>
 <h4><strong>Welcome to Xinmin St John Brigade!</strong></h4>
 <p>At Xinmin St. John Brigade, we are dedicated to nurturing resilient and
@@ -18,7 +18,7 @@ and explore their personal interests. Guided by the motto “For the Service
 of Mankind,” our cadets strive to embody the values of service, empathy,
 and excellence in all their endeavours.</p>
 <p>The high standards and unwavering dedication of our student leaders, youth
-officers, and teachers have earned the Xinmin St. John Brigade its 25th
+officers, and teachers have earned the Xinmin St. John Brigade its 26th
 consecutive Gold in the Corps Achievement Award since 2001.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
@@ -29,10 +29,10 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <p>Basic Cardiac Life Support</p>
 </li>
 <li>
-<p>Non-Commissioned Officer Course</p>
+<p>Instructors’ Course</p>
 </li>
 <li>
-<p>Hospital Attachment Programme</p>
+<p>Non-Commissioned Officer Course</p>
 </li>
 <li>
 <p>Annual March Camp</p>
@@ -47,10 +47,13 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>White space Wednesdays: 4pm to 6pm</p>
+<p>Whitespace Wednesdays: 4pm to 6pm</p>
 </li>
 <li>
-<p>Fridays - Corp Meetings: 2pm to 6pm</p>
+<p>Fridays: 2pm to 6pm</p>
+</li>
+<li>
+<p>Selected Saturdays : 8am to 12pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -63,12 +66,12 @@ consecutive Gold in the Corps Achievement Award since 2001.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_3.jpg">
 </div>
 </th>
 </tr>
@@ -83,97 +86,142 @@ teaching first aid, home nursing, or foot drill have opportunities to attend
 HQ instructor courses, enabling them to take the lead in these areas within
 the corps. Our corps leaders collaborate closely with other uniformed groups,
 such as NCC, BB, and GB, to organize inter-uniformed group activities like
-the Passing Out Parade and inter-UG hikes.</p>
+the Passing Out Parade, National Day Parade and Total Defence Day.</p>
 <h4>Student Leaders</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_4.jpg">
 </div>
 <p><strong>Corps Leaders</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Sergeant Major: Sergeant Shania Yip (301)</p>
+<p>Corps Sergeant Major: Lance Corporal Ernest Ang Hsiao Kai (304)</p>
 </li>
 <li>
-<p>Assistant Corps Sergeant Major: Corporal Charlyn Ang Hui En (306)</p>
+<p>Assistant Corps Sergeant Major: Lance Corporal Angel Law Jia Yi (301)
+&amp; Lance Corporal Aaron Goi Guo Tong (309)</p>
 </li>
 </ul>
 <p><strong>Combat:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Platoon 1 Commander: Corporal Er Yi Fei, Kira (305)</p>
+<p>Platoon 1 Commander: Lance Corporal Aiden Lim Wei Zhe (303)</p>
 </li>
 <li>
-<p>Platoon 2 Commander: Lance Corporal Angel Law Jia Yi (203) &amp; Lance
-Corporal Aaron Goi Guo Tong (209)</p>
+<p>Platoon 2 Commander: Lance Corporal Delisha Naeema Silas Muhammad Daud
+(307)</p>
 </li>
 <li>
-<p>Platoon 3 Commander: Corporal Shaista Afsheen Binte Abdul Shukor (308)</p>
+<p>Platoon 3 Commander: Lance Corporal Zheng Tianze (305)</p>
 </li>
 </ul>
 <p><strong>Departments:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Logistics Head: Corporal Teo Zhao Hui (308)</p>
+<p>Head of Cadet Development: Lance Corporal Parvathi Valsan (305)</p>
 </li>
 <li>
-<p>Cadet Development Head: Corporal Tan Zhi You Abbie (301)</p>
+<p>Head of Logistics: Lance Corporal Chen Jiayi (303)</p>
 </li>
 <li>
-<p>Publicity Head: Lance Corporal Chew Yi En (301) &amp; Lance Corporal Laurencio
-Elaine Rose (305)</p>
+<p>Head of Publicity: Lance Corporal Lekshmi Sandeep (304)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_6.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Cadets also participate in the annual First Aid competition, where they
 work as a team to apply their knowledge and skills in managing emergency
 situations with precision. Beyond developing key competencies, cadets are
 recognized for their commitment to exploring their interests beyond the
-St. John curriculum through the Cadet Proficiency Badge scheme.</p>
+St John curriculum through the Cadet Proficiency Badge scheme.</p>
 <h4><strong>Accomplishments</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/SJAB_2025_5.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_7.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_8.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Corps Achievement Award 2024- Gold</p>
+<p>Corps Achievement Award 2025 - Gold</p>
 </li>
 <li>
-<p>Northeast District First Aid Competition 2025:</p>
+<p>Northeast District First Aid Competition 2026:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nursing Adult Category- Overall Champion</p>
+<p>Nursing Adult Category - Overall Champion, Best in Home Nursing</p>
 </li>
 <li>
-<p>Ambulance Cadet Category- 1st Runner-up</p>
+<p>Nursing Cadet Category – First Runner-up</p>
+</li>
+<li>
+<p>Ambulance Adult Category – First Runner-up, Best Leader, Best in CPR,
+Best in Long Case</p>
+</li>
+<li>
+<p>Ambulance Cadet Category – Second Runner-up, Best in Long Case</p>
 </li>
 </ul>
+<p>&nbsp;</p>
 </li>
 <li>
 <p>Chief Commissioner’s Badge 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Elodie Sim Yuen (401)</p>
+<p>Elodie Sim Yuen (401/2025)</p>
 </li>
 <li>
-<p>Jaeden Chin (401)</p>
+<p>Jaeden Chin (401/2025)</p>
 </li>
 <li>
-<p>Soh Si Ning, Shannon (401)</p>
+<p>Soh Si Ning, Shannon (401/2025)</p>
 </li>
 <li>
-<p>Ho Xuan Jing Kayden (402)</p>
+<p>Ho Xuan Jing Kayden (402/2025)</p>
 </li>
 <li>
-<p>Jaden Tay Yu Yang (402)</p>
+<p>Jaden Tay Yu Yang (402/2025)</p>
 </li>
 <li>
-<p>Toh Cher Yee (404)</p>
+<p>Toh Cher Yee (404/2025)</p>
 </li>
 <li>
-<p>Seth Wong Yi Heng (405)</p>
+<p>Seth Wong Yi Heng (405/2025)</p>
 </li>
 </ul>
 </li>
@@ -186,10 +234,10 @@ our community!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Low Lai Yip (IC)</p>
+<p>Mrs Seetoh Lai Yip (IC)</p>
 </li>
 <li>
-<p>Ms Koh Cher Yee</p>
+<p>Ms Koh Cher Yee (Semester 1)</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

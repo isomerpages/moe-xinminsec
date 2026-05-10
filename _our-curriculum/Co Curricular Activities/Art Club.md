@@ -13,15 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_ac_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_ac_2.jpg">
 </div>
 </th>
 </tr>
@@ -49,8 +47,12 @@ and self-assurance. Here's a closer look at what we do:</p>
 <p>Art competitions</p>
 </li>
 <li>
-<p>Bohemian artworks, clay works, coaster designing, fan art, bracelet making,
-hydro dipping, stone painting, postcard designs and shrink plastic works</p>
+<p>Bohemian artworks, clay works, coaster designing, fan art, bracelet making,</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>hydro dipping, stone painting, postcard designs and shrink plastic works</p>
+</li>
+</ul>
 </li>
 <li>
 <p>Digital drawing with various apps</p>
@@ -77,7 +79,7 @@ hydro dipping, stone painting, postcard designs and shrink plastic works</p>
 <p>Wednesdays: 3pm- 5pm/ 5.30pm</p>
 </li>
 <li>
-<p>Fridays: 2.15pm-4.15pm</p>
+<p>Fridays: 2.15pm-4.15pm (timing subject to relevant arts programme)</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
@@ -89,36 +91,31 @@ hydro dipping, stone painting, postcard designs and shrink plastic works</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_1.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_3.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>Our Executive Committee leaders play a crucial role in guiding the club’s
+<p>Our Executive Committee leaders play a crucial role in guiding the club’s
 growth and direction. They sharpen their leadership skills by leading major
 initiatives such as Xpressions Festival, community projects and in-house
 programmes. They also oversee key events like Art Jamming sessions, Open
@@ -127,15 +124,31 @@ welcomed through creative bonding activities and immersive arts programmes.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President: </strong>Gan Jia Xuan Charmaine</p>
+<p>Andrea Nicole Poh Xuan (PRESIDENT)</p>
 </li>
 <li>
-<p><strong>Vice Presidents: </strong>Lim Kye Kiat, Loh Hwee En, Huang Jie
-En Jancis</p>
+<p>Khoo Rui Jie Matthias (VICE PRESIDENT)</p>
 </li>
 <li>
-<p><strong>Heads Of Department: </strong>Chee Jun Yi , Iffah Asyqin Binte
-Sulaiman, Jessica Lee Xin Hui, Lim Xuan Le Xavier</p>
+<p>Loy Jing Xuan Shalynn (VICE PRESIDENT)</p>
+</li>
+<li>
+<p>Malcen Chua Ee Heng (VICE PRESIDENT)</p>
+</li>
+<li>
+<p>Seet Yu, Zara (VICE PRESIDENT)</p>
+</li>
+<li>
+<p>Tay Yu Tong (HEAD OF DEPARTMENT)</p>
+</li>
+<li>
+<p>Wong Wei Sheng (HEAD OF DEPARTMENT)</p>
+</li>
+<li>
+<p>Yia Jia En Joy (HEAD OF DEPARTMENT)</p>
+</li>
+<li>
+<p>Rini Mazmirah Binte Mazlan (HEAD OF DEPARTMENT)</p>
 </li>
 </ul>
 <h4><strong>Artistic Excellence:</strong></h4>
@@ -164,6 +177,38 @@ ideas are exchanged, friendships are built, and creativity thrives. From
 camps, art workshops, and museum visits to Co-Curricular Activity Orientations
 and partnerships with community organisations, our members actively enrich
 the school environment while exploring the limitless world of art.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_a4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Join us on our artistic journey at XAC, where creativity knows no bounds,
 and the pursuit of knowledge is a lifelong adventure. Together, we explore
 new possibilities, create meaningful art, and inspire one another!</p>

@@ -18,7 +18,7 @@ of values such as teamwork, resilience, and leadership.</p>
 <p>Beyond training and competitions, our players have the opportunity to
 plan and organise events like the Secondary 1 Induction Programme, the
 Xinmin Invitational Competition for primary school students, and our Annual
-Badminton Teambuilding Day. These experiences provide a platform for them
+Badminton Teambuilding Camp. These experiences provide a platform for them
 to develop leadership skills and strengthen team bonds, shaping them into
 well-rounded individuals both on and off the court.</p>
 <h4><strong>Activities</strong></h4>
@@ -46,65 +46,11 @@ well-rounded individuals both on and off the court.</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tues</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sem 1: Sec 1 &amp; 2
-<br>Sem 2: Sec 1</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>3pm-6pm</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>3pm-6pm</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>1:30-4:30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sem 1: Sec 3, 4 &amp; 5
-<br>Sem 2: Sec 2 &amp; 3</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div and C Div - Tuesday, Wednesday 1500h to 1800h, Friday 1330h to 1630h</p>
+</li>
+</ul>
 <p>*Training frequencies are subjected to changes prior to competitions</p>
 <h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a vital role in shaping the badminton team’s journey.
@@ -118,23 +64,21 @@ all involved.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>C’ Division Captain: NG ZIQI (208)</p>
+<p>‘C’ Division Captain: Lee Xi Ying Kira (204)</p>
 </li>
 <li>
-<p>‘C’ Division Vice-Captains: TEH KAYLEE (203) &amp; MEGAN WONG JING EN
-(208)</p>
-<p></p>
+<p>'C’ Division Vice-Captains: Vernice Tay Yiting (205) &amp; Ava Cai Yitong
+(206)</p>
 </li>
 </ul>
 <p><strong>B Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>‘B’ Division Captain: NUR IMAN (402)</p>
+<p>‘B’ Division Captain: Nur Iman Binte Muhammad Fadhly (402)</p>
 </li>
 <li>
-<p>‘B’ Division Vice-Captain: CHARICE PHUA (406)</p>
-<p></p>
+<p>‘B’ Division Vice-Captains: Charice Phua Mui Hua (406)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -145,6 +89,18 @@ serve as a platform for players to build resilience and learn to navigate
 challenges on the court. As a team, we gain invaluable lessons, fostering
 both personal and collective growth with every competition.</p>
 <h4><strong>Accomplishments</strong></h4>
+<p>NSG Badminton Championships (North Zone) 2026:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>‘B’ Division Girls: 1<sup>st</sup> Runner up</p>
+</li>
+</ul>
+<p>NSG Badminton Championships (Nationals) 2026:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>‘B’ Division Girls: Top 8</p>
+</li>
+</ul>
 <p>NSG Badminton Championships (North Zone) 2025:</p>
 <p>• ‘B’ Division Girls: Champions</p>
 <p>NSG Badminton Championships (Nationals) 2025:</p>

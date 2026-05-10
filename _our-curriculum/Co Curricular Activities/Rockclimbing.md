@@ -55,19 +55,6 @@ managing the club’s day-to-day operations, assisting teachers with administrat
 tasks, and ensuring that the entire team puts forth their best effort during
 training sessions and competitions.</p>
 <h4><strong>Student Leaders</strong></h4>
-<p><strong><em>C Division Executive Committee</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tan Rui Jie (202)</p>
-</li>
-<li>
-<p>Loh Rui Ying (206)</p>
-</li>
-<li>
-<p>Poh Min Yi, Amelia (206)</p>
-</li>
-</ul>
 <p><strong><em>B Division Executive Committee</em></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -76,7 +63,7 @@ training sessions and competitions.</p>
 </li>
 <li>
 <p>Exco Members:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Heng Rui Yang Zayden (301)</p>
 </li>
@@ -85,6 +72,8 @@ training sessions and competitions.</p>
 </li>
 <li>
 <p>Shernice Koh Si Min (308)</p>
+</li>
+</ul>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
@@ -97,16 +86,16 @@ students are known for.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inter-School Bouldering Championship C Division Boys – 1st Runner Up</p>
+<p>Inter-School Bouldering Championship C Division Boys –2<sup>nd</sup> Runner-up</p>
 </li>
 <li>
-<p>Inter-School Bouldering Championship C Division Girls – 1st Runner Up</p>
+<p>Inter-School Bouldering Championship C Division Girls – 1<sup>st</sup> Runner-up</p>
 </li>
 <li>
-<p>Inter-School Bouldering Championship B Division Boys – 1st Runner Up</p>
+<p>Inter-School Bouldering Championship B Division Boys – 1<sup>st</sup> Runner-up</p>
 </li>
 <li>
-<p>Inter-School Bouldering Championship B Division Girls – Champion</p>
+<p>Inter-School Bouldering Championship B Division Girls – 1<sup>st</sup> Runner-up</p>
 </li>
 </ul>
 <h4><strong>Community Engagement:</strong></h4>
@@ -119,7 +108,7 @@ workshop for all Secondary 1 students during their Sec 1 Orientation. This
 experience allows the newcomers to get a taste of bouldering, with some
 deciding to pursue the sport further with us or on their own.</p>
 <p>The team collaborates with an external vendor to organise the Inter-Schools
-Bouldering Championships, where they take on various auxiliary roles such
+Bouldering Championship, where they take on various auxiliary roles such
 as registration, safety oversight, and emceeing. Through this event, they
 gain valuable insights into the behind-the-scenes efforts required to organise
 competitions, fostering appreciation for those who go the extra mile.</p>
@@ -157,3 +146,7 @@ resilience, and a mindset of excellence for both sports and life!</p>
 <h4><strong>Visit us</strong></h4>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xmsrockclimbing/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/xmsrockclimbing/</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Rockclimbing/2026_rc_1.jpg">
+</div>
+<p></p>

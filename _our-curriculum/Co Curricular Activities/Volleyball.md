@@ -53,236 +53,113 @@ Academy or ActiveSG (e.g. Pesta Sukan, Under 15, Under 16)</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tues</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thurs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Sec 1 Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (C Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (B Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B1 +B2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm (B2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm (B1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Sec 1 Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm or
-<br>3.15pm - 6.15pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (C Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm or
-<br>3.15pm - 6.15pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (B Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15pm - 6.15pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.00pm - 4.00pm or
-<br>3.15pm - 6.15pm</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Girls</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1: Tuesday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm or 3.15pm – 6.15pm)</p>
+</li>
+<li>
+<p>C Division: Tuesday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm or 3.15pm – 6.15pm)</p>
+</li>
+<li>
+<p>B Division: Tuesday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm or 3.15pm – 6.15pm)</p>
 <p>*Training frequencies and schedules are subject to change prior to competitions/events</p>
+</li>
+</ul>
+<p><strong>Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1: Monday (3.15pm – 6.15pm), Tuesday (3.15pm – 6.15pm), Thursday
+(3.15pm – 6.15pm)</p>
+</li>
+<li>
+<p>C Division: Monday (3.15pm – 6.15pm), Thursday (3.15pm – 6.15pm), Friday
+(1pm – 4pm)</p>
+</li>
+<li>
+<p>B Division: Monday (3.15pm – 6.15pm), Wednesday (3.15pm – 6.15pm), Friday
+(1pm – 4pm)</p>
+</li>
+</ul>
+<p>&nbsp;*Training frequencies and schedules are subject to change prior
+to competitions/events</p>
 <h4><strong>Leadership Development:</strong></h4>
 <p>Our CCA leaders play a crucial role in shaping the team’s journey. They
 enhance their leadership skills by guiding the team through warm-ups, gym
 sessions, training, competitions, and debriefs. They also lead various
 events such as Open House, CCA Orientation, and Sec 1 Team Bonding.</p>
-<h4><strong>2025 Student Leaders</strong></h4>
+<h4><strong>2026 Student Leaders</strong></h4>
 <p><strong>C Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Emma Tay Le Xuan (201, 2025)</p>
+<p><strong>Captain:</strong> Gagan Eliana Biel Devela (203, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captains</strong>: Lim Ke En Adrienna (201, 2025), Ezanne
-Lim Chia Soan (208, 2025)</p>
-</li>
-<li>
-<p><strong>Assistant Head of Publicity</strong>: Nicia Poh (201, 2025), Iszabelle
-Lai Jia Xuan (201, 2025)</p>
+<p><strong>Assistant Head of Publicity:</strong> Choy Yu Tung (208, 2026),
+Lee Qi Xuan Jeraine (209, 2026)</p>
 </li>
 </ul>
 <p><strong>B Division Girls</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Senior Captain:</strong> Sim Wei Xuan, Jamie (402, 2025)</p>
+<p><strong>Senior Captain:</strong> Mia Chua (402, 2026)</p>
 </li>
 <li>
-<p><strong>Senior Vice-Captain:</strong> Lim Han Xuan Trisha (403, 2025)</p>
+<p><strong>Senior Vice-Captains:</strong> Jaslyn Koh Wei Xuan (402, 2026),
+Tan Xin Man (402, 2026)</p>
 </li>
 <li>
-<p><strong>Juniors Leaders</strong>: Jaslyn Koh Wei Xuan (302, 2025), Mia
-Chua (302, 2025), Tan Xin Man (302, 2025)</p>
+<p><strong>Junior Leaders:</strong> Lim Ke En Adrienna (301, 2026), Emma Tay
+Le Xuan (302, 2026)</p>
 </li>
 <li>
-<p><strong>Head of Publicity</strong>: Goh Zi Xuan, Mathilda (407, 2025),
-Lim Kai Qi Mikaella (304, 2025)</p>
-<p></p>
+<p><strong>Head of Logistics: </strong>Ezanne Lim Chi Soan (306, 2026)</p>
+</li>
+<li>
+<p><strong>Head of Publicity:</strong> Lim Kai Qi Mikaella (404, 2026), Nicia
+Poh (309, 2026), Iszabelle Lai Jia Xuan (304, 2026)</p>
 </li>
 </ul>
 <p><strong>C Division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Goh Ik Xi (203, 2025)</p>
+<p><strong>Captain:</strong> Davian Tan Yu Kai (208, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captains</strong>: Javier Koo Dong Yi (201, 2025) &amp; Lucas
-Lim Ding Cheng (209, 2025)</p>
+<p><strong>Vice-Captains:</strong> Nye Yu Zhe Xadrian (202, 2026) &amp; Tan
+Yong Jun Jayden (207, 2026)</p>
 </li>
 <li>
-<p><strong>Assistant Head of Publicity</strong>: Lim Zu Le Richemont (203,
-2025) &amp; Tey Yi Liang (203, 2025)</p>
-<p></p>
+<p><strong>Assistant Head of Publicity:</strong> Su Jun Xuan Lyonel (206,
+2026) &amp; Kieran Cho Rui Jun (209, 2026)</p>
 </li>
 </ul>
 <p><strong>B Division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Senior &amp; Junior Captain</strong>: Timothy Lim Sheuan Horng
-(402, 2025) &amp; Jovan Lum Ka Fai (305, 2025)</p>
+<p><strong>Senior &amp; Junior Captain:</strong> Jovan Lum Ka Fai (405, 2026)
+&amp; Goh Ik Xi (303, 2026)</p>
 </li>
 <li>
-<p><strong>Senior &amp; Junior Vice-Captains</strong>: Swee Wee Herng Jeroy
-(402, 2025) &amp; Tan Woo Yew Samuel (402, 2025), Tan Justin (305, 2025)
-&amp; Jayden Huang (301, 2025)</p>
+<p><strong>Senior &amp; Junior Vice-Captains:</strong> Tan Justin (405, 2026)
+&amp; Jayden Huang (401, 2026), Javier Koo Dong Yi (303, 2026) &amp; Lucas
+Lim Ding Cheng (301, 2026)</p>
 </li>
 <li>
-<p><strong>Senior &amp; Junior Head of Publicity</strong>: Evan Lee Yee Fan
-(402, 2025), Lee Yuan Rui (306, 2025)</p>
+<p><strong>Senior &amp; Junior Head of Publicity:</strong> Lee Yuan Rui (406,
+2026), Lim Zu Le Richemont (302, 2026) &amp; Tey Yi Liang (306, 2026)</p>
 </li>
 </ul>
-<h4><strong>Excellence:</strong></h4>
+<h4><strong>Volleyball Excellence:</strong></h4>
 <p>Members of the Xinmin Volleyball Team proudly represent our school in
 numerous competitions. We actively engage in these events, embracing opportunities
 to refine our skills and broaden our experiences.</p>
@@ -482,6 +359,26 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 </li>
 <li>
 <p>C Division Girls: League 1 – 4th</p>
+</li>
+</ul>
+<p><strong>f) Achievements for 2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG North Zone Inter-School Volleyball Championship</p>
+<p>- <em>B Division Boys: 1<sup>st</sup></em>
+</p>
+<p>- <em>B Division Girls: 1<sup>s</sup></em>
+</p>
+<p><em><sup>t</sup></em>
+</p>
+</li>
+<li>
+<p>NSG National Inter-School Volleyball Championship</p>
+<p>- <em>B Division Boys: Top 8</em>
+</p>
+<p>- <em>B Division Girls: 4<sup>th</sup>&nbsp;</em>
+</p>
 </li>
 </ul>
 <p>Join Xinmin Volleyball Team and become part of a legacy built on camaraderie,

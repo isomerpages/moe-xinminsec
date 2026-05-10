@@ -18,7 +18,7 @@ third_nav_title: Students
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>COMPETITION/PLATFORM</strong>
+<p><strong>PLATFORM/COMPETITION</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,17 +31,34 @@ third_nav_title: Students
 <p>2026</p>
 </td>
 <td rowspan="1" colspan="2">
+<p>Highest O-Level Value-Addedness in the past 5 years:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>92.0% of O-Level students were eligible for progression to A-Level</p>
+</li>
+<li>
 <p>99.0% of O-Level students were eligible for progression to A-Level and
 Polytechnics</p>
+</li>
+<li>
 <p>1 in 3 of our O-Level students achieved 5 or more Distinctions</p>
+</li>
+<li>
 <p>Around 20 of our O-Level students scored 7 or more Distinctions</p>
+</li>
+</ul>
 <p>2 in 5 of our N(A)-Level students were eligible for Polytechnic Foundation
 Programme</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -51,7 +68,7 @@ Programme</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>COMPETITION/PLATFORM</strong>
+<p><strong>PLATFORM/COMPETITION</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,7 +239,13 @@ Programme</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -232,7 +255,7 @@ Programme</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>COMPETITION/PLATFORM</strong>
+<p><strong>PLATFORM/COMPETITION</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,7 +417,13 @@ Tracks</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>

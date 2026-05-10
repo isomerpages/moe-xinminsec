@@ -1,5 +1,5 @@
 ---
-title: E21CC EAGLES and ECHA Awards
+title: EAGLES E21CC and ECHA Awards
 permalink: /e21cc-eagles-and-echa-awards/
 variant: tiptap
 description: ""

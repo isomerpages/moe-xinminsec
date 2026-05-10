@@ -14,12 +14,12 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/cd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/2026_chinese_dance_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/chinese_dance_2025_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Chinese Dance/2026_chinese_dance_2.jpg">
 </div>
 </th>
 </tr>
@@ -37,10 +37,10 @@ while developing discipline, teamwork, and a deep appreciation for the
 beauty of the performing arts. The dance team practices regularly to prepare
 for various competitions, including the Singapore Youth Festival (SYF)
 Arts Presentation, as well as performances for significant events like
-Chinese Dance Fiesta and the ASEAN Federation of Engineering Organisations
-Mid-Term Welcome Reception. Each performance allows our dancers to showcase
-not only their technical skills but also the passion and emotion that stem
-from hours of dedicated practice.</p>
+Chinese Dance Fiesta, SYF 60 Dance Extravaganza and the ASEAN Federation
+of Engineering Organisations Mid-Term Welcome Reception. Each performance
+allows our dancers to showcase not only their technical skills but also
+the passion and emotion that stem from hours of dedicated practice.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,9 +62,6 @@ from hours of dedicated practice.</p>
 <p>Mondays: 4pm - 6pm</p>
 </li>
 <li>
-<p>Wednesdays - (prior to competition/performance) 3pm - 6pm</p>
-</li>
-<li>
 <p>Fridays: 2pm - 5.30pm</p>
 </li>
 </ul>
@@ -82,53 +79,30 @@ dance practice session.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President: </strong>Lim Zhining (304, 2025)</p>
+<p><strong>President:</strong> Li Anya Genevieve (305’26)</p>
 </li>
 <li>
-<p><strong>Vice-President (Admin): </strong>Xie Yixuan (302, 2025)</p>
+<p><strong>Vice-President (Admin):</strong> Maggie Liu Minqi (303’26)</p>
 </li>
 <li>
-<p><strong>Vice-President (Dance Mistress): </strong>Kate Lee Yu Xing (305,
-2025)</p>
+<p><strong>Vice-President (Dance Mistress):</strong> Gooi Ying Tong, Joan
+(302’26)</p>
 </li>
 <li>
-<p><strong>Level Leaders: </strong>Jhudiella Jessamina Gautama (302, 2025),
-Lim Jia En Pearlyn (305, 2025), Germaine Neo (301, 2025), Li Anya Genevieve
-(203, 2025), Foo Yean Yee (304, 2025), Gooi Ying Tong, Joan (207, 2025),
-Tan Yee Woon Zeryne (202, 2025), Maggie Liu Minqi (209, 2025)</p>
+<p><strong>Logistics Head: </strong>Ang Xue Han, Abby (301’26)</p>
 </li>
 <li>
-<p><strong>Logistics Head: </strong>Pek Lin Yi (302, 2025)</p>
-</li>
-<li>
-<p><strong>Logistics Vice-Head: </strong>Trinity Tan (304, 2025)</p>
-</li>
-<li>
-<p><strong>Logistics Members: </strong>Zu Jingshu (207, 2025), Toh En Yi
-(207, 2025), Ang Xue Han, Abby (206, 2025)</p>
-</li>
-<li>
-<p><strong>Publicity Head: </strong>Celestina Tan (306, 2025)</p>
-</li>
-<li>
-<p><strong>Publicity Vice-Head: </strong>Sim Ci Lin Janelle (307, 2025)</p>
-</li>
-<li>
-<p><strong>Publicity Assistants: </strong>Lee En Qi Shernise (306, 2025),
-Teo Rui Ning (204, 2025), Ng Xiao Xuan, Ariel (207, 2025)</p>
-<p></p>
+<p><strong>Publicity Head: </strong>Teo Rui Ning (305’26)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
-<p>In 2023, the Xinmin Chinese Dance team participated in the Chinese Dance
-Fiesta, organised by the Singapore Chinese Dance Theatre, where their performance
-was met with enthusiastic applause from the audience. In 2024, the dance
-troupe had the honour of performing at the ASEAN Federation of Engineering
-Organisations' Mid-Term Welcome Reception and at The Institution of Engineers'
-58th Annual Dinner. The following year, in 2025, the troupe was selected
-to perform once again at the Chinese Dance Fiesta held at the DBS Foundation.
-These performances are in addition to the members’ participation in the
-annual Chinese New Year and Speech Day performances held in school.</p>
+<p>In 2024, the Xinmin Chinese Dance team had the honour of performing at
+the ASEAN Federation of Engineering Organisations' Mid-Term Welcome Reception
+and the Institution of Engineers' 58th Annual Dinner. In 2025, the troupe
+was selected to perform at the Chinese Dance Fiesta organised by the Singapore
+Chinese Dance Theatre. The following year, in 2026, the troupe performed
+at our school’s Sights and Sounds of Xinmin and is now preparing to perform
+at the upcoming SYF 60 Dance Extravaganza.</p>
 <p>The troupe's journey has been defined by continuous growth and unwavering
 dedication. With each performance, they faced new challenges, pushing the
 limits of their abilities and demonstrating remarkable resilience and determination.
@@ -179,8 +153,8 @@ relationships that may lead to future collaborations and learning opportunities.
 <p>Public performances, such as the Ang Mo Kio-Hougang National Day Dinner
 and the Chinese Dance Fiesta, allow us to showcase the art form to a wider
 audience, promoting cultural appreciation and understanding within the
-community.
-<br>Join us on an exciting journey with Xinmin Chinese Dance, where we practice
+community.</p>
+<p>Join us on an exciting journey with Xinmin Chinese Dance, where we practice
 with the humility of never having won and perform with the confidence of
 never having lost!</p>
 <h4><strong>Teachers-in-charge</strong></h4>

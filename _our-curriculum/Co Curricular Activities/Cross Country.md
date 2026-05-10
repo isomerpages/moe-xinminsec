@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Cross Country/cross_country_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Cross Country/2026_cc_1.jpg">
 </div>
 <p><strong><em>“Run when you can, walk when you have to, crawl if you must. Just never give up!”</em><br><em>Dean Karnazes</em></strong>
 </p>
@@ -40,11 +40,11 @@ new students feel welcomed through engaging bonding and fitness activities.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captains:</strong> Ong Joon Jae (405, 2025), Janelle Li (401, 2025)</p>
+<p><strong>Captains:</strong> Alvin Kong (403, 2026), Lim Yue Wei (401, 2026)</p>
 </li>
 <li>
-<p><strong>Vice Captain</strong>: Jayden Evans Pang (408, 2025), Lim Yue
-Wei (301, 2025)</p>
+<p><strong>Vice-Captains</strong>: Jovan Foo (403, 2026), Yeoh Jing Xuan
+(301, 2026)</p>
 </li>
 </ul>
 <h4><strong>Competitions</strong></h4>
@@ -72,9 +72,6 @@ and push our limits!</p>
 </li>
 <li>
 <p>Miss Vanessa Chia</p>
-</li>
-<li>
-<p>Mr Dexter Fong Jin Meng</p>
 </li>
 </ul>
 <h4><strong>Visit us</strong></h4>

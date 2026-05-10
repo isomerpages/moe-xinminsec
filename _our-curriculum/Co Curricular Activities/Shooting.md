@@ -5,8 +5,27 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<table style="minWidth: 50px">
+<h4><strong>Welcome to Xinmin Shooting Team!</strong></h4>
+<p>Established in 2004, the Xinmin Shooting Team aims to ignite students’
+passion for 10m Air Rifle and Air Pistol shooting. This sport demands both
+mental strength and physical skill, as success depends on consistency,
+discipline and precision. Through regular training, our athletes develop
+focus, resilience and self-mastery, learning to overcome their greatest
+challenge, themselves.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_1.png">
+</div>
+<p>Our team proudly participates in various invitational competitions as
+well as the prestigious annual National School Games (NSG) Shooting Championship.
+Our shooters have continued to uphold this proud tradition through dedication
+and perseverance, putting in tremendous effort to achieve commendable results
+at the 2026 NSG Shooting Championship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_2.jpg">
+</div>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -14,38 +33,48 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_3.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_4.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/2026_shooting_5.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Shooting/Shooting_2025_4.jpg">
-</div>
-<h4><strong>Welcome to Xinmin Shooting Team!</strong></h4>
-<p>Established in 2004, the Xinmin Shooting Team aims to ignite students'
-passion for 10m air rifle and air pistol shooting. This sport requires
-both mental strength and physical skill, as success relies on consistency
-and precision. Through regular training, our athletes develop focus and
-resilience, learning to conquer their biggest challenge: themselves.</p>
-<p>Our team proudly competes in various invitational shooting competitions
-and the esteemed annual National School Games (NSG) Shooting Championship.
-With the support of our experienced coaches, we have successfully nurtured
-at least 18 Xinmin students who have been invited to train with the National
-Youth Team.</p>
-<p>Our shooters have put in tremendous effort to achieve impressive results
-at the 2025 NSG Shooting Championship.</p>
+<h4><strong>2026 Accomplishments</strong></h4>
+<p><strong><u>NSG B Division 2026</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 3<sup>rd</sup>
+</p>
+</li>
+<li>
+<p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
+2<sup>nd</sup>
+</p>
+</li>
+</ul>
+<p><strong><u>Individual Medal</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individual B Div Air Rifle Women 1st: Tey Shee Suan</p>
+</li>
+<li>
+<p>Individual B Div Air Pistol Men 3rd: Alston Ng Jin Yu</p>
+</li>
+</ul>
 <h4><strong>2025 Accomplishments</strong></h4>
-<p><u>NSG B Division 2025</u>
+<p><strong><u>NSG B Division 2025</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -53,17 +82,19 @@ at the 2025 NSG Shooting Championship.</p>
 </li>
 <li>
 <p>Divisional Title Girls - Air Pistol Women + Air Rifle Women: Nationals
-1st</p>
+1<sup>st</sup>
+</p>
 </li>
 </ul>
-<p><u>NSG C Division 2025</u>
+<p><strong><u>NSG C Division 2025</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 5th</p>
+<p>Divisional Title Boys - Air Pistol Men + Air Rifle Men: Nationals 5<sup>th</sup>
+</p>
 </li>
 </ul>
-<p><u>Individual Medal</u>
+<p><strong><u>Individual Medal</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,7 +111,7 @@ at the 2025 NSG Shooting Championship.</p>
 </li>
 </ul>
 <h4><strong>2024 Accomplishments</strong></h4>
-<p><u>NSG B Division 2024</u>
+<p><strong><u>NSG B Division 2024</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -91,7 +122,7 @@ at the 2025 NSG Shooting Championship.</p>
 </p>
 </li>
 </ul>
-<p><u>NSG C Division 2024</u>
+<p><strong><u>NSG C Division 2024</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,7 +132,7 @@ at the 2025 NSG Shooting Championship.</p>
 <p>Pistol Women + Rifle Women: National 4th</p>
 </li>
 </ul>
-<p><u>Individual Medal:</u>
+<p><strong><u>Individual Medals:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -121,10 +152,8 @@ at the 2025 NSG Shooting Championship.</p>
 <p>*Shooters to check schedule regularly for updates especially closer to
 competition periods.</p>
 <p>This is the tentative schedule for 2026:</p>
-<table style="minWidth: 150px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -133,125 +162,108 @@ competition periods.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>Jan – April (NSG B Div period)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon</p>
+<p><strong>April – July (NSG C Div period)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tues</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Before B Div NSG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 3-5)
-<br>3.20 - 6.20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 1,2)
-<br>3.20 - 6.20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 3-5)
-<br>3.00 - 6.00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 1,2)
-<br>3.20 - 6.20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 3-5)
-<br>2.00 - 5.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Before C Div NSG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 2/
-<br>Sec 1 DSA)
-<br>3.20 - 5.20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 1, 3)
-<br>3.20 - 6.20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 2/
-<br>Sec 1 DSA)
-<br>3.00 - 5.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 1, 3)
-<br>3.20 - 6.20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(Sec 2/
-<br>&nbsp;Sec 1 DSA)
-<br>2.00- 4.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>After NSG</p>
+<p><strong>August, November (Off-peak)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>(Sec 1)
-<br>3.20 - 5.20pm</p>
+<p><strong><u>Sec 3, 4, 5</u></strong>
+</p>
+<p><strong>Mon:</strong> 3.20-5.20pm/4.50-6.20pm</p>
+<p><strong>Wed:</strong> 3.00-5.00pm/4.30-6.00pm</p>
+<p><strong>Fri:</strong> 2.00-4.00pm/3.30-5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>( Sec 2 ,3)
-<br>3.00 - 6.00pm</p>
+<p><strong><u>Sec 2</u></strong>
+</p>
+<p><strong>Mon: </strong>3.20 – 5.20pm</p>
+<p><strong>Wed: </strong>3.00 – 5.00pm</p>
+<p><strong>Fri: </strong>2.00 – 4.00pm</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Sec 1)
-<br>3.20 - 5.20pm</p>
+<p><strong><u>Sec 2, 3</u></strong>
+</p>
+<p><strong>Wed:</strong> 3.00-5.00pm/4.30-6.00pm</p>
+<p><strong>Fri: </strong>2.00-4.00pm/3.30-5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>( Sec 2 ,3)
-<br>2.00 - 5.00pm</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1, 2</u></strong>
+</p>
+<p><strong>Tues: </strong>3.00-5.00pm/4.30-6.00pm</p>
+<p><strong>Thu: </strong>3.00-5.00pm/4.30-6.00pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1, 3</u></strong>
+</p>
+<p><strong>Tues: </strong>3.00-5.00pm/4.30-6.00pm
+<br><strong>Thu: </strong>3.00-5.00pm/4.30-6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sec 1</u></strong>
+</p>
+<p><strong>Tues: </strong>3.00 – 5.00pm</p>
+<p><strong>Thu: </strong>3.00 – 5.00pm</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Shooters report for 1 session only for each CCA day, allocated by air
+weapon/respective level.</p>
+<p>All CCA sessions include 30 minutes of Physical Training, unless otherwise
+stated in monthly training schedule.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025/2026 Student Leaders</strong></h4>
+<h4><strong>2026/2027 Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain: </strong>Tey Shee Suan (404, 2026)</p>
+<p><strong>Captain:&nbsp;</strong>Lee Li Xinn (301, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Admin): </strong>Peh Ning Yi, Phedra (405, 2026)</p>
+<p><strong>Vice-Captain (Admin):</strong>&nbsp;Naimi Sabrina Binte Muhammad
+Khir (302, 2026)</p>
 </li>
 <li>
-<p><strong>Vice-Captain (Welfare): </strong>Xerlyn Tay Zhi Xin (409, 2026)</p>
+<p><strong>Vice-Captain (Welfare):&nbsp;</strong>Jaselle Wong Xuan Ting (301,
+2026)</p>
 </li>
 <li>
-<p><strong>Sec 1 Level Head: </strong>Batrisyia binte Isham (409, 2026)</p>
+<p><strong>Vice-Captain (Training):&nbsp;</strong>Ho Louis (303, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Head: </strong>Yuki Tey Chu Tong (402, 2026)</p>
+<p><strong>Sec 1 Level Head:&nbsp;</strong>Olivia Or Ning En (302, 2026),
+Clarrise Goh Ee Shuan (301, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Head: </strong>Clarice Chua Xin Ting (402, 2026)</p>
+<p><strong>Sec 2 Level Head:&nbsp;</strong>Wong Wei Jie Dylan (306, 2026),
+Choo Rui Kai Reagan (304, 2026)</p>
 </li>
 <li>
-<p><strong>Sec 4/5 Level head: </strong>Lee Zi Jia, Reese (404, 2026)</p>
+<p><strong>Sec 3 Level Head:&nbsp;</strong>Zhou Yicheng (305, 2026)</p>
 </li>
 </ul>
 <h4><strong>Teachers-in-charge</strong></h4>

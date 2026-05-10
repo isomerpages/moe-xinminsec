@@ -16,17 +16,18 @@ predecessors through rigorous practices and sectionals. Under the expert
 musical direction of our band maestros, Mr. Daniel Kiang and Ms. Leong
 Tjar Ngee, along with the ongoing support from our dedicated band teachers,
 the ensemble has grown stronger, achieving remarkable artistic heights.</p>
+<p>&nbsp;</p>
 <p>The Xinmin Symphonic Band has earned prestigious awards, particularly
 at the Singapore Youth Festival Arts Presentation for concert bands, receiving
-Distinction awards in 2015, 2017, 2023 and 2025. During our annual Xinmin
-Arts Week (Xinfony), the Band performs a diverse array of musical pieces,
-ranging from simple ensemble works to highly acclaimed and technically
-demanding compositions transcribed from renowned musicals, operas, and
-orchestral pieces. The Band has also had the honour of participating in
-various school events, including Speech Day and National Day celebrations,
-as well as external performances such as Schools In Concert and the Junior
-Band Festival, where they showcased their remarkable talents and captivated
-audiences.</p>
+Distinction awards in 2015, 2017, 2023 and 2025. During our biannual Xinmin
+Arts Week, the Band performs a diverse array of musical pieces, ranging
+from simple ensemble works to highly acclaimed and technically demanding
+compositions transcribed from renowned musicals, operas, and orchestral
+pieces. The Band has also had the honour of participating in various school
+events, including Xpressions Fest, Speech Day and National Day celebrations,
+as well as external performances such as <em>Schools In Concert</em> and
+the Junior Band Festival, where they showcased their remarkable talents
+and captivated audiences.</p>
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong>Main Band (Sec 2-5)</strong>
 </p>
@@ -54,65 +55,70 @@ audiences.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Drum Major – Ethan Wong (302, 2025)</p>
+<p><strong>Drum Major –</strong> Goh Chee Henk (305, 2026)</p>
 </li>
 <li>
-<p>Band Major (Music) – Javier Zhao (301, 2025)</p>
+<p><strong>Band Major (Music) –</strong> Jayden Lim (304, 2026)</p>
 </li>
 <li>
-<p>Band Major (Admin) – Velda Wong (302, 2025)</p>
+<p><strong>Band Major (Admin) –</strong> Chloe Koo (306, 2026)</p>
 </li>
 <li>
-<p>Secretary &amp; Media – Mak Yu Xuan (304, 2025)</p>
+<p><strong>Secretary &amp; Media –</strong> Harshini Kaur (306, 2026)</p>
 </li>
 <li>
-<p>Librarian – Puah Yan Wen (304, 2025), Cayman Tan (307, 2025), Poh Jia
-An (305, 2025)</p>
+<p><strong>Librarian –</strong> Masumi Peh (301, 2026), Vera Cheng (301, 2026),
+Phang Yuh Qing (304, 2026)</p>
 </li>
 <li>
-<p>Quartermaster – Jason Liew (303, 2025), Leor Wong (307, 2025), Abel Lau
-(301, 2025)</p>
+<p><strong>Quartermaster –</strong> Emmanuel Toh (307, 2026), Alden Siow (304,
+2026), Gaius Thio (304, 2026)</p>
 </li>
 <li>
-<p>Band Room Management – Kong Hansheng (303, 2025), Lucas Foo (309, 2025),
-Yang Yui Kong (308, 2025)</p>
+<p><strong>Band Room Management –</strong> Nathaniel Lim (303, 2026), Alexander
+Ho (306, 2026), Cheah Yi Heng (305, 2026)</p>
 </li>
 <li>
-<p>Uniform Management – Puah Yan Wen (304, 2025), Sofiyah Naznin (304, 2025)</p>
+<p><strong>Uniform Management –</strong> Masumi Peh (301, 2026), Harshini
+Kaur (306, 2026)</p>
 </li>
 <li>
-<p>Welfare &amp; Activities – Kong Hansheng (303, 2025), Ethan Wong (302,
-2025)</p>
+<p><strong>Welfare &amp; Activities –</strong> Cheah Yi Heng (305, 2026),
+Goh Chee Henk (305, 2026), Jayden Lim (304, 2026), Chloe Koo (306, 2026)</p>
 </li>
 </ul>
 <h4><strong>Section Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Flute &amp; Oboe – Reuben Lee (305, 2025)</p>
+<p>Flute &amp; Oboe – Phang Yuh Qing (304, 2026)</p>
 </li>
 <li>
-<p>Clarinet – Zac Png (305, 2025), Velda Wong (Asst.) (302, 2025)</p>
+<p>Clarinet – Lim Zheng Kai (304, 2026), Alexander Ho (Asst.) (306, 2026)</p>
 </li>
 <li>
-<p>Saxophone &amp; Bassoon – Abel Lau (301, 2025)</p>
+<p>Saxophone &amp; Bassoon – Ang Shao Yi (309, 2026)</p>
 </li>
 <li>
-<p>Trumpet – Hong Jing Xien (302, 2025)</p>
+<p>Trumpet – Emmanuel Toh (307, 2026)</p>
 </li>
 <li>
-<p>Trombone – Chloe Lim (303, 2025)</p>
+<p>Trombone – Axel Kie (306, 2026)</p>
 </li>
 <li>
-<p>French Horn – Marcus Ong (304, 2025)</p>
+<p>French Horn – Harshini Kaur (306, 2026)</p>
 </li>
 <li>
-<p>Euphonium &amp; Tuba – Jason Liew (303, 2025)</p>
+<p>Euphonium – Ashe Kie (304, 2026)</p>
 </li>
 <li>
-<p>Double Bass – Goh Chee Henk (Asst.) (201, 2025)</p>
+<p>Tuba – Nathaniel Lim (303, 2026)</p>
 </li>
 <li>
-<p>Percussion – Theodore Hee (301, 2025), Poh Jia An (Asst.) (305, 2025)</p>
+<p>Double Bass – Goh Chee Henk (305, 2026)</p>
+</li>
+<li>
+<p>Percussion – Ethan Cheong (307, 2026), Vaden Chia (Asst.) (309, 2026),
+Ahmad Zulhilmi (Asst.) (207, 2026)</p>
 </li>
 </ul>
 <h4><strong>Accomplishments</strong></h4>
@@ -122,9 +128,8 @@ Yang Yui Kong (308, 2025)</p>
 Distinction</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/band2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Band/2026_s_1.jpg">
 </div>
 <p>Join the Xinmin Symphonic Band and unleash your musical talent while making
 lasting memories together!</p>

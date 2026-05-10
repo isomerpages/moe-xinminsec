@@ -217,7 +217,7 @@ new ones such as virtual learning journeys using VR technology.</p>
 a vision for Xinmin to be a home that prepares students for the future,
 he fostered a culture of trust and learning. He also led the school to
 adopt a Total Curriculum approach to cultivate students' talents and dispositions.</p>
-<p>The year 2025 is a very special one for Xinmin - we celebrated our 80th
+<p>The year 2025 was a very special one for Xinmin - we celebrated our 80th
 Anniversary with Minister for Education Mr Desmond Lee as our Guest-of-Honour.
 Our anniversary theme <em>Decades of Dedication :: Shaping Future Generations</em> (the
 double colon is a mathematical symbol representing equal importance) calls

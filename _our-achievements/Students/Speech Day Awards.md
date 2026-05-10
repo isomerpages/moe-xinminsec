@@ -5,9 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: Students
 ---
+<p>Every April, our school is proud to celebrate the achievements of our
+students at Speech Day. In addition to Academic Awards, Edusave Character
+Awards, and Holistic Achievement Awards, the following Special Awards are
+presented to outstanding students from the recently-graduated cohort (for
+example, an award recipient in the Class of 2025 would have received the
+pinnacle award at Speech Day 2026):</p>
+<p></p>
 <p><strong><u>L.E.A.D. Award and Valedictorian</u></strong>
 </p>
-<p>Most outstanding student in the graduating cohort with:</p>
+<p>This award recognises the most outstanding student in the graduated cohort
+who exemplifies the qualities of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>L: Leadership&nbsp;</p>
@@ -30,6 +38,14 @@ third_nav_title: Students
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Timothy Lim Sheuan Horng (402)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -56,10 +72,11 @@ third_nav_title: Students
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>Chew Peng Leng Scholarship</u></strong>
 </p>
-<p>The scholarship is awarded to graduating students who carry the can-do
-spirit that is characteristic of the many leaders and movers of the school
+<p>The scholarship is awarded to students who have embodied Xinmin's can-do
+spirit, that is characteristic of the many leaders and movers of the school
 who have overcome difficulties and challenges and demonstrated resilience
 and fortitude to propel the school to a higher level.</p>
 <p><strong>Award Recipients</strong>
@@ -70,6 +87,15 @@ and fortitude to propel the school to a higher level.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yaw Wei Jian, Albert (409)</p>
+<p>Yaw Wei Jie, Alfred (409)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -100,11 +126,12 @@ and fortitude to propel the school to a higher level.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>Chew Peng Leng Award for Exemplary Service</u></strong>
 </p>
-<p>This award is for graduating students who showed dedication and passion
-in service to the school and the wider community throughout their school
-life.</p>
+<p>This award recognises students who have demonstrated dedication and passion
+in service to the school and the community, and who have influenced and
+inspired others to do so.</p>
 <p><strong>Award Recipients</strong>
 </p>
 <table style="minWidth: 50px">
@@ -113,6 +140,14 @@ life.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rachael Tan Xuan En (403)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -134,15 +169,16 @@ life.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Yijie,Gwenaelle (401)</p>
+<p>Wong Yijie, Gwenaelle (401)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>Heng Chin Soo Award for Visual, Creative and Performing Arts</u></strong>
 </p>
-<p>This is awarded to an individual who displayed excellent artistic skill
-and dedication in the area of the arts.</p>
+<p>This award recognises students who have displayed excellent artistic skill
+and dedication in the visual, creative, and performing arts.</p>
 <p><strong>Award Recipients</strong>
 </p>
 <table style="minWidth: 50px">
@@ -151,6 +187,14 @@ and dedication in the area of the arts.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ning Hin Suan (402)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -177,10 +221,13 @@ and dedication in the area of the arts.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong><u>Tung Sey Yew Award for Leadership in the Uniformed Groups</u></strong>
 </p>
-<p>This is awarded to a student in the top leadership position in CCA or
-at the National level.</p>
+<p>This award recognises students who hold top leadership positions in their
+Uniformed Group, demonstrated strong leadership skills and are seen as
+role models who communicate effectively and have good organisational and
+team management skills.</p>
 <p><strong>Award Recipients</strong>
 </p>
 <table style="minWidth: 50px">
@@ -189,6 +236,14 @@ at the National level.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soh Si Ning Shannon (401)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -218,8 +273,9 @@ at the National level.</p>
 <p>
 <br><strong><u>Yap Fun Hong Award for Sports and Outdoor Education</u></strong>
 </p>
-<p>This is awarded to students who displayed passion and commitment in sports,
-displaying the values of sportsmanship, friendship, excellence and respect.</p>
+<p>This award recognises students who have displayed passion and commitment
+towards their chosen sport, displaying the values of sportsmanship, friendship,
+excellence and respect.</p>
 <p><strong>Award Recipients</strong>
 </p>
 <table style="minWidth: 50px">
@@ -228,6 +284,15 @@ displaying the values of sportsmanship, friendship, excellence and respect.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Shu De (402)</p>
+<p>Sim Wei Xuan Jamie (402)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2024</p>

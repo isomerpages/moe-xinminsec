@@ -42,7 +42,6 @@ experiences like laser tag, archery, k-pop dance, and rockclimbing!</p>
 Boys' Brigade lies in serving others. Through initiatives like Boys’ Brigade
 Cares and BB Week, our boys learn the joy of giving back and mentoring
 their juniors, preparing them to be future leaders.</p>
-<p></p>
 </li>
 </ul>
 <p>As we look forward to another year of growth, we celebrate the dedication
@@ -159,6 +158,9 @@ day-to-day operations.</p>
 <p>SGT Xavier Tong Zi Jun (401, 2026)</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
+</div>
 <h4><strong>2026 NCO Council</strong></h4>
 <p><strong>Company Sergeant Major</strong>
 </p>
@@ -197,19 +199,15 @@ day-to-day operations.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SGT Yu Canyang (304, 2026)</p>
-<p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_2.jpg">
-</div>
-<p></p>
 <h4><strong>The Boys’ Brigade Development Programme (BDP)</strong></h4>
-<p>The Boys’ Brigade Development Programme (BDP) is the 45th Singapore Company's
-flagship leadership and talent development initiative, launched in 2025
-to nurture future-ready Stewards grounded in character, service, and initiative.</p>
-<p>BDP is a <strong>two-year programme</strong> for selected Secondary 1 and
-2 Boys who demonstrate potential in leadership, teamwork, and contribution.</p>
+<p>The <strong>Boys’ Brigade Development Programme (BDP)</strong> is the 45th
+Singapore Company's flagship leadership and talent development initiative,
+launched in 2025 to nurture future-ready Stewards grounded in character,
+service, and initiative.</p>
+<p>BDP is a <strong>selective two-year programme </strong>for Secondary 1
+and 2 Boys who demonstrate potential in leadership, teamwork, and contribution.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Boys who join the Company through the Direct School Admission (DSA) pathway
@@ -263,7 +261,7 @@ personal growth</p>
 the company’s inclusion in the BB Blaze Competition Gold Honour Roll highlights
 the boys' resilience and teamwork in a physically challenging environment.
 Additionally, two members were awarded the prestigious Founder’s Award,
-recognizing their exemplary conduct and character. Furthermore, receiving
+recognising their exemplary conduct and character. Furthermore, receiving
 a High Distinction in the JM Fraser Award for Excellence stands as a testament
 to the boys' dedication and camaraderie.</p>
 <p>Our participation in BB Cares was especially meaningful, as we collaborated
@@ -369,6 +367,9 @@ boy!</p>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xmsbb45th/" rel="noopener nofollow" target="_blank">https://www.instagram.com/xmsbb45th/</a>
 </p>
 <h4>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast boy!</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/2026_bb_1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
 </div>
