@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Strategic Directions.md
       - Principal's Foreword.md
       - Our Vision, Mission, Values, and Desired Xinmin Outcomes.md
       - Our Identity.md
