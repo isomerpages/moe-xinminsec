@@ -46,10 +46,10 @@ Here are some of the ensemble’s key activities:</p>
 <h4><strong>CCA Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesdays: 3pm to 6pm</p>
+<p>Wednesdays: 3pm to 6/6.30pm</p>
 </li>
 <li>
-<p>Fridays: 2pm to 5pm</p>
+<p>Fridays: 2pm to 5/5.30pm</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
