@@ -127,7 +127,7 @@ welcomed through creative bonding activities and immersive arts programmes.</p>
 <p><strong>President:</strong> Andrea Nicole Poh Xuan (305)</p>
 </li>
 <li>
-<p><strong>Vice presidents:</strong> 
+<p><strong>Vice presidents:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
