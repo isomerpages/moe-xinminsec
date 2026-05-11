@@ -40,7 +40,7 @@ Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
 <p><strong>Mastering the basics of Prussiking</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_3.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_3.jpg">
 </div>
 </th>
 </tr>
@@ -52,9 +52,9 @@ Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_4.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
