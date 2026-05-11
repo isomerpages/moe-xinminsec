@@ -49,30 +49,34 @@ every activity is conducted smoothly and effectively.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chairperson: Edison Lee Rui Yang (402, 2025)</p>
+<p><strong>Chairperson</strong>: Soon Rui Jing, Jacinth (401, 2026)</p>
 </li>
 <li>
-<p>Vice-Chairperson: Dave Krivish Vishal (402, 2025)</p>
-</li>
-<li>
-<p>Head of Welfare: Koann Kwok Ke En (401, 2025)</p>
-</li>
-<li>
-<p>Head of Publicity: Chakarin Tongchanachai (403, 2025)</p>
+<p><strong>Vice-Chairperson</strong>: Gracelyn Su (402, 2026), Giam Cheng
+Ning, Elise (403, 2026)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
-<p>In 2025, the Xinmin Debate Club proudly reached the semi-finals of the
-Singapore Secondary Schools Debating Championships (SSSDC), with one member
-recognised as a Top 5 Speaker. These milestones mark an important step
-forward for the club, reflecting both individual talent and the collective
-effort behind every debate.</p>
-<p>Our achievements this year are not only about results but about the journey
-of growth we share as a team. Each member has played a part in pushing
+<p>In 2026, the Xinmin Debate Club Lower Secondary Team proudly attained
+Silver position at the National Schools Debating Championship. The Upper
+Secondary Team earned a hard fought Breaking Second position at the Debate
+Association Debating Championship. In our CCA, success is not measured
+solely by the final score, but by the courage it takes to step into the
+arena. We believe in providing broad-based opportunities for all our members
+to gain match experience. By prioritising participation over podiums, we
+foster a culture of inclusivity and long-term resilience.</p>
+<p>While we are proud of our competitive achievements, our selection philosophy
+is rooted in opportunity and inclusivity. We intentionally field members
+to provide them with invaluable ‘on-the-ground’ experience, believing that
+the lessons learned in the heat of competition. resilience, composure,
+and sportsmanship, cannot be taught in a classroom.</p>
+<p>Success is a collective effort. Each member has played a part in pushing
 boundaries, supporting one another, and striving for improvement together.
-The spirit of collaboration and determination forms the foundation of the
-club, and we continue to build on these successes as we grow stronger,
-sharper, and more united with every experience.</p>
+We recognise that a team's strength is not just in its top performers,
+but in the depth of its camaraderie and the shared lessons learned through
+both victory and defeat. The spirit of collaboration and determination
+forms the foundation of the club, and we continue to build on these successes
+as we grow stronger, sharper, and more united with every experience.</p>
 <h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
