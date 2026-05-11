@@ -9,22 +9,40 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/English Drama/el_drama_2025_1.png">
 </div>
 <h4><strong>Welcome to English Drama Club! 🎭✨</strong></h4>
-<p>The English Drama Club began the year with preparations for the Singapore
-Youth Festival (SYF) 2025. Everyone worked tirelessly, putting in long
-hours of rehearsal. Though the process was challenging, our perseverance
-and teamwork saw us through. We were absolutely thrilled to clinch the
-Distinction Award at the SYF Drama competition in April – a testament to
-the passion, hard work, and dedication of both our students and teachers.</p>
-<p>Our journey does not stop here. As we gear up for Kaleidoscope II this
-November, held in conjunction with our school’s 80<sup>th</sup> anniversary
-celebration, the Drama Club is determined to shine once again. With commitment
-and creativity, we are ready to give our very best and make our school
-proud.</p>
-<p>And with that, we say, “Drama, that's a wrap!”</p>
+<p>English Drama kicked off with an amazing performance at the start of the
+year called, “Dreams” ☁️. It was held on the 10th of April during “Sights
+and Sounds” 👀✨, which consisted of other performing arts CCA’s. Our play
+was directed by our instructors, Ms Sonia and Ms Kimberely. The journey
+was challenging, with moments of pressure, exhaustion and frustration.
+However, despite all those difficulties, we managed to push through these
+moments together. It helped us to create new friendships and bonds with
+people in our CCA through supporting one another and helping each other
+with our mistakes. The play turned out to be remarkable, delivering meaningful
+lessons and compassion. This production holds a special place in our hearts
+as it taught our members how to go through difficulties and how to overcome
+the challenges that we face. However, this was the secondary 4’s last show,
+and the last time performing together before bidding farewell to them.
+While it was such a bittersweet moment, it was also a heartwarming one,
+filled with cherished memories. We wish them all the best for their wonderful
+journey that lies ahead, and hope they achieve happiness and success in
+everything they wished for in their life.</p>
+<p>While we bid farewell to our graduating members, a new chapter has just
+begun for the Drama Club. We are working and training hard to prepare ourselves
+for the upcoming Singapore Youth Festival (SYF) competition that will take
+place next year, 2027. During CCA sessions, we dedicate many hours to improve
+our acting skills, teamwork, and growth. With the help of our instructor
+we managed to receive professional training and gain a deeper understanding
+of drama and stage performances.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF</p>
+<p>Singapore Youth Festival (SYF)</p>
+</li>
+<li>
+<p>Sights and Sounds</p>
+</li>
+<li>
+<p>CCA orientation booth</p>
 </li>
 <li>
 <p>Drama Night</p>
@@ -33,19 +51,16 @@ proud.</p>
 <p>N1 Cluster’s ‘Spin A Tale’</p>
 </li>
 <li>
-<p>CCA Orientation Booth</p>
-</li>
-<li>
 <p>Physical and vocal training every session</p>
 </li>
 <li>
 <p>Bonding games at the start of each session</p>
 </li>
 <li>
-<p>3 Line Improvisation Exercises</p>
+<p>Tableau (Freeze-frame) activities</p>
 </li>
 <li>
-<p>Tableau (Freeze-frame) activities</p>
+<p>Ensemble work (working together as a team)</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
@@ -58,35 +73,37 @@ proud.</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
-<p>Our executive committee plays a crucial role in shaping the direction
-of the club. They enhance their leadership abilities by managing the preparations
-for upcoming productions and ensuring that tasks are fairly distributed
-among all members. Always ready to assist teachers, instructors, and fellow
-students, they also take responsibility for maintaining discipline and
-fostering engagement within the club.</p>
+<p>Our executive committee (EXCO) plays a huge role in shaping the direction
+of the club. They enhance their leadership skills by managing the daily
+CCA sessions and also for the upcoming events and productions. They ensure
+that tasks are fairly distributed among all members of the CCA. They are
+always ready to help teachers, instructors and also students. Not only
+that, they also take responsibility in the discipline of the members in
+our CCA and ensuring that the members have constant respect, care and appreciation
+towards the CCA, teachers, instructors and towards their fellow members
+too.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President</strong>: Alyssa Goh Yue Xuan (305, 2025)</p>
+<p><strong>President</strong>: Quek Si Yin Chloe (305, 2026)</p>
 </li>
 <li>
-<p><strong>Vice Presidents: </strong>Zoe Wang Ya Qi (305, 2025), Welvin Tan
-Jun Hao (309, 2025)</p>
+<p><strong>Vice President</strong>: Zerlinda Lee Xin Ning (304, 2026)</p>
 </li>
 <li>
-<p><strong>Head of Discipline</strong>: Goh Si Xuan Gladys (304, 2025)</p>
+<p><strong>Head of Discipline</strong>: Zakarene Lim Liang Tarn (302, 2026)&nbsp;</p>
 </li>
 <li>
-<p><strong>Head of Admin: </strong>Chua Joy Yi Elysha (301, 2025)</p>
+<p><strong>Head of Admin</strong>: Elijah Wang Jia Jie (301, 2026)</p>
 </li>
 <li>
-<p><strong>Head of Welfare: </strong>Ahsan Sarah (307, 2025)</p>
+<p><strong>Head of Welfare</strong>: Clarna Lee Wenxuan (307, 2026)</p>
 </li>
 <li>
-<p><strong>Upper Sec Head: </strong>Stanley Tio (304, 2025)</p>
+<p><strong>Upper Sec Head</strong>: Tan Kai Yang Lucas (306, 2026)</p>
 </li>
 <li>
-<p><strong>Lower Sec Head:</strong> Lana Putri Mohamad Isrudy (307, 2025)</p>
+<p><strong>Lower Sec Head</strong>: Hani Alisha Binte Hairul Asri (306, 2026)</p>
 </li>
 </ul>
 <h4><strong>English Drama Club Excellence:</strong></h4>
