@@ -165,7 +165,7 @@ St John curriculum through the Cadet Proficiency Badge scheme.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_7.jpg">
+<img style="width: 43%;" height="auto" width="100%" alt="" src="/images/CCAs/SJB/2026_sjb_7.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
