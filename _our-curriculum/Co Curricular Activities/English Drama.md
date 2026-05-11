@@ -9,18 +9,30 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/English Drama/el_drama_2025_1.png">
 </div>
 <h4><strong>Welcome to English Drama Club! 🎭✨</strong></h4>
-<p>The English Drama Club began the year with preparations for the Singapore
-Youth Festival (SYF) 2025. Everyone worked tirelessly, putting in long
-hours of rehearsal. Though the process was challenging, our perseverance
-and teamwork saw us through. We were absolutely thrilled to clinch the
-Distinction Award at the SYF Drama competition in April – a testament to
-the passion, hard work, and dedication of both our students and teachers.</p>
-<p>Our journey does not stop here. As we gear up for Kaleidoscope II this
-November, held in conjunction with our school’s 80<sup>th</sup> anniversary
-celebration, the Drama Club is determined to shine once again. With commitment
-and creativity, we are ready to give our very best and make our school
-proud.</p>
-<p>And with that, we say, “Drama, that's a wrap!”</p>
+<p>English Drama kicked off with an amazing performance at the start of the
+year called, “Dreams” ☁️. It was held on the 10th of April during “Sights
+and Sounds” 👀✨, which consisted of other performing arts CCA’s. Our play
+was directed by our instructors, Ms Sonia and Ms Kimberely. The journey
+was challenging, with moments of pressure, exhaustion and frustration.
+However, despite all those difficulties, we managed to push through these
+moments together. It helped us to create new friendships and bonds with
+people in our CCA through supporting one another and helping each other
+with our mistakes. The play turned out to be remarkable, delivering meaningful
+lessons and compassion. This production holds a special place in our hearts
+as it taught our members how to go through difficulties and how to overcome
+the challenges that we face. However, this was the secondary 4’s last show,
+and the last time performing together before bidding farewell to them.
+While it was such a bittersweet moment, it was also a heartwarming one,
+filled with cherished memories. We wish them all the best for their wonderful
+journey that lies ahead, and hope they achieve happiness and success in
+everything they wished for in their life.</p>
+<p>While we bid farewell to our graduating members, a new chapter has just
+begun for the Drama Club. We are working and training hard to prepare ourselves
+for the upcoming Singapore Youth Festival (SYF) competition that will take
+place next year, 2027. During CCA sessions, we dedicate many hours to improve
+our acting skills, teamwork, and growth. With the help of our instructor
+we managed to receive professional training and gain a deeper understanding
+of drama and stage performances.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
