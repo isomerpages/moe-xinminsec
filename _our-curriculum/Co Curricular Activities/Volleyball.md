@@ -363,22 +363,24 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 </ul>
 <p><strong>f) Achievements for 2026</strong>
 </p>
+<p>NSG North Zone Inter-School Volleyball Championship</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG North Zone Inter-School Volleyball Championship</p>
-<p>- <em>B Division Boys: 1<sup>st</sup></em>
-</p>
-<p>- <em>B Division Girls: 1<sup>s</sup></em>
-</p>
-<p><em><sup>t</sup></em>
+<p><em>B Division Boys: 1<sup>st</sup></em>
 </p>
 </li>
 <li>
+<p><em>B Division Girls: 1<sup>s</sup></em>
+</p>
+</li>
+</ul>
 <p>NSG National Inter-School Volleyball Championship</p>
-<p>- <em>B Division Boys: Top 8</em>
-</p>
-<p>- <em>B Division Girls: 4<sup>th</sup>&nbsp;</em>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Division Boys: Top 8</p>
+</li>
+<li>
+<p>B Division Girls: 4th&nbsp;</p>
 </li>
 </ul>
 <p>Join Xinmin Volleyball Team and become part of a legacy built on camaraderie,

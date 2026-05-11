@@ -124,31 +124,43 @@ welcomed through creative bonding activities and immersive arts programmes.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Andrea Nicole Poh Xuan (PRESIDENT)</p>
+<p><strong>President:</strong> Andrea Nicole Poh Xuan (305)</p>
 </li>
 <li>
-<p>Khoo Rui Jie Matthias (VICE PRESIDENT)</p>
+<p><strong>Vice presidents:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Khoo Rui Jie Matthias (302)</p>
 </li>
 <li>
-<p>Loy Jing Xuan Shalynn (VICE PRESIDENT)</p>
+<p>Loy Jing Xuan Shalynn (302)</p>
 </li>
 <li>
-<p>Malcen Chua Ee Heng (VICE PRESIDENT)</p>
+<p>Malcen Chua Ee Heng (306)</p>
 </li>
 <li>
-<p>Seet Yu, Zara (VICE PRESIDENT)</p>
+<p>Seet Yu, Zara (307)</p>
+</li>
+</ul>
 </li>
 <li>
-<p>Tay Yu Tong (HEAD OF DEPARTMENT)</p>
+<p><strong>Head of Departments:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tay Yu Tong (302)</p>
 </li>
 <li>
-<p>Wong Wei Sheng (HEAD OF DEPARTMENT)</p>
+<p>Wong Wei Sheng (306)</p>
 </li>
 <li>
-<p>Yia Jia En Joy (HEAD OF DEPARTMENT)</p>
+<p>Yia Jia En Joy (309)</p>
 </li>
 <li>
-<p>Rini Mazmirah Binte Mazlan (HEAD OF DEPARTMENT)</p>
+<p>Rini Mazmirah Binte Mazlan (308)</p>
+</li>
+</ul>
 </li>
 </ul>
 <h4><strong>Artistic Excellence:</strong></h4>
