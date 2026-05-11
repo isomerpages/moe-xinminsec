@@ -370,7 +370,7 @@ competition offers valuable lessons, fostering both personal and team growth.</p
 </p>
 </li>
 <li>
-<p><em>B Division Girls: 1<sup>s</sup></em>
+<p><em>B Division Girls: 1<sup>st</sup></em>
 </p>
 </li>
 </ul>
