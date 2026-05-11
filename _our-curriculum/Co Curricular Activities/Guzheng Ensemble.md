@@ -11,14 +11,14 @@ variant: tiptap
 <h4><strong>Welcome to Xinmin Guzheng Ensemble</strong>,</h4>
 <p>where the rich tradition of the instrument harmonizes with the vibrant
 energy of our students.</p>
-<p>&nbsp;At Xinmin Guzheng Ensemble, we believe that learning the Guzheng
-transcends the mere mastery of notes and melodies. Our members discover
-the art of musical expression while developing discipline, teamwork, and
-a deep appreciation for the performing arts. Regular practice sessions
-prepare the ensemble for a range of performances, including school events
-and regional competitions. In each performance, students demonstrate not
-only technical precision but also the soul and emotion that stem from hours
-of dedicated practice. Here are some of the ensemble’s key activities:</p>
+<p>At Xinmin Guzheng Ensemble, we believe that learning the Guzheng transcends
+the mere mastery of notes and melodies. Our members discover the art of
+musical expression while developing discipline, teamwork, and a deep appreciation
+for the performing arts. Regular practice sessions prepare the ensemble
+for a range of performances, including school events and regional competitions.
+In each performance, students demonstrate not only technical precision
+but also the soul and emotion that stem from hours of dedicated practice.
+Here are some of the ensemble’s key activities:</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,16 +28,13 @@ of dedicated practice. Here are some of the ensemble’s key activities:</p>
 <p>Chinese New Year Celebrations</p>
 </li>
 <li>
-<p>Speech Day</p>
-</li>
-<li>
 <p>Xinmin Arts Week</p>
 </li>
 <li>
 <p>Singapore Youth Festival (SYF) Arts Presentation</p>
 </li>
 <li>
-<p>Kaleidoscope II</p>
+<p>Alumni Dinner</p>
 </li>
 <li>
 <p>Open House</p>
