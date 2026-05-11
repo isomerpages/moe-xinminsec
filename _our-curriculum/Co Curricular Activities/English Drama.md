@@ -85,26 +85,25 @@ too.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President</strong>: Alyssa Goh Yue Xuan (305, 2025)</p>
+<p><strong>President</strong>: Quek Si Yin Chloe (305, 2026)</p>
 </li>
 <li>
-<p><strong>Vice Presidents: </strong>Zoe Wang Ya Qi (305, 2025), Welvin Tan
-Jun Hao (309, 2025)</p>
+<p><strong>Vice President</strong>: Zerlinda Lee Xin Ning (304, 2026)</p>
 </li>
 <li>
-<p><strong>Head of Discipline</strong>: Goh Si Xuan Gladys (304, 2025)</p>
+<p><strong>Head of Discipline</strong>: Zakarene Lim Liang Tarn (302, 2026)&nbsp;</p>
 </li>
 <li>
-<p><strong>Head of Admin: </strong>Chua Joy Yi Elysha (301, 2025)</p>
+<p><strong>Head of Admin</strong>: Elijah Wang Jia Jie (301, 2026)</p>
 </li>
 <li>
-<p><strong>Head of Welfare: </strong>Ahsan Sarah (307, 2025)</p>
+<p><strong>Head of Welfare</strong>: Clarna Lee Wenxuan (307, 2026)</p>
 </li>
 <li>
-<p><strong>Upper Sec Head: </strong>Stanley Tio (304, 2025)</p>
+<p><strong>Upper Sec Head</strong>: Tan Kai Yang Lucas (306, 2026)</p>
 </li>
 <li>
-<p><strong>Lower Sec Head:</strong> Lana Putri Mohamad Isrudy (307, 2025)</p>
+<p><strong>Lower Sec Head</strong>: Hani Alisha Binte Hairul Asri (306, 2026)</p>
 </li>
 </ul>
 <h4><strong>English Drama Club Excellence:</strong></h4>
