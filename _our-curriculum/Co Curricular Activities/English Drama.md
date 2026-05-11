@@ -36,7 +36,13 @@ of drama and stage performances.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF</p>
+<p>Singapore Youth Festival (SYF)</p>
+</li>
+<li>
+<p>Sights and Sounds</p>
+</li>
+<li>
+<p>CCA orientation booth</p>
 </li>
 <li>
 <p>Drama Night</p>
@@ -45,19 +51,16 @@ of drama and stage performances.</p>
 <p>N1 Cluster’s ‘Spin A Tale’</p>
 </li>
 <li>
-<p>CCA Orientation Booth</p>
-</li>
-<li>
 <p>Physical and vocal training every session</p>
 </li>
 <li>
 <p>Bonding games at the start of each session</p>
 </li>
 <li>
-<p>3 Line Improvisation Exercises</p>
+<p>Tableau (Freeze-frame) activities</p>
 </li>
 <li>
-<p>Tableau (Freeze-frame) activities</p>
+<p>Ensemble work (working together as a team)</p>
 </li>
 </ul>
 <h4><strong>CCA Schedule</strong></h4>
