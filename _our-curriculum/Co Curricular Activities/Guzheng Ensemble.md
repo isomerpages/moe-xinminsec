@@ -57,43 +57,41 @@ Here are some of the ensemble’s key activities:</p>
 role in shaping the CCA experience. Comprising a dynamic mix of Sec 2 and
 3 students, the EXCO is given numerous opportunities to cultivate their
 leadership skills. Together, they foster a positive culture and set the
-direction for the ensemble. The President (Music) work closely with members,
-providing coaching based on instructor feedback, while the Vice Presidents
-(Well-being and Discipline) and Level Leaders ensure the welfare and cohesion
-of all members. The Logistics Team manages the smooth execution of practices,
-and the Publicity Team creatively promotes the ensemble’s activities to
-engage the school and community.</p>
+direction for the ensemble. The President (Discipline) work closely with
+members, providing coaching based on instructor feedback, while the Vice
+Presidents (Well-being and Music) and Level Leaders ensure the welfare
+and cohesion of all members. The Logistics Team manages the smooth execution
+of practices, and the Publicity Team creatively promotes the ensemble’s
+activities to engage the school and community.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President (Music)</strong>: Scarlett Tan Jun Ying (304)</p>
+<p><strong>President (Discipline)</strong>: Ling En Xi (306)&nbsp;</p>
 </li>
 <li>
-<p><strong>Vice Presidents (Discipline)</strong>: Wang Tianyue (303)</p>
+<p><strong>Vice Presidents (Music)</strong>: Foo Zhi Xin (301)</p>
 </li>
 <li>
-<p><strong>Vice President (Well-being)</strong>: Ashlyn Zhu Jingying (303)</p>
+<p><strong>Vice President (Well-being)</strong>: Elise Zhang (305)</p>
 </li>
 <li>
-<p><strong>Heads of Publicity</strong>: Cheong Wai Kei (302), Natalie Purnomo
-Tan (304)</p>
+<p><strong>Heads of Publicity</strong>: Fernice Phua (307), Sin Jie Hui (304)</p>
 </li>
 <li>
-<p><strong>Publicity Team</strong>: Elise Zhang (201), Fernice Phua (202)</p>
+<p><strong>Publicity Team</strong>: Ling Yi Xu Taurus (202), Ng Shi En (205)</p>
 </li>
 <li>
-<p><strong>Heads of Logistics</strong>: Quan Ruixuan Chevelle (304), Chew
-Zhi Xuan Jadence (307), Raine Fung Rui Xuan (307)</p>
+<p><strong>Heads of Logistics</strong>: Tai Yu Tong (303), Zee Sze En, Clara
+(309)</p>
 </li>
 <li>
-<p><strong>Logistics Team</strong>: Ling Enxi (202), Tai Yu Tong (202), Foo
-Zhi Xin (204)</p>
+<p><strong>Logistics Team</strong>: Ho Jia Xuan Rae-Anne (201), Yeoh Li Ming
+(206)</p>
 </li>
 <li>
-<p><strong>Level Leaders</strong>: Lim Yan Tong (203), Zee Sze En, Clara
-(207), Lai Shi Jie Amelie (207) Adriana Lim (209), Tan Cayla (302), Goh
-Ji Ting, Nichelle (309), Sammi Tan Yan Ying (309)</p>
-<p></p>
+<p><strong>Level Leaders</strong>: Gwen Tan (202), Kate Chu (204), Megan
+Leong (204), Tan Li Xuan, Nicole (206), Loh Wan Qi (209), Lim Yan Tong
+(302), Adriana Lim (304), Jovial Lee (308)</p>
 </li>
 </ul>
 <h4><strong>Excellence:</strong></h4>
