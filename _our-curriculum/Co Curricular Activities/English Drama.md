@@ -73,12 +73,15 @@ of drama and stage performances.</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
-<p>Our executive committee plays a crucial role in shaping the direction
-of the club. They enhance their leadership abilities by managing the preparations
-for upcoming productions and ensuring that tasks are fairly distributed
-among all members. Always ready to assist teachers, instructors, and fellow
-students, they also take responsibility for maintaining discipline and
-fostering engagement within the club.</p>
+<p>Our executive committee (EXCO) plays a huge role in shaping the direction
+of the club. They enhance their leadership skills by managing the daily
+CCA sessions and also for the upcoming events and productions. They ensure
+that tasks are fairly distributed among all members of the CCA. They are
+always ready to help teachers, instructors and also students. Not only
+that, they also take responsibility in the discipline of the members in
+our CCA and ensuring that the members have constant respect, care and appreciation
+towards the CCA, teachers, instructors and towards their fellow members
+too.</p>
 <h4><strong>Student Leaders</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
