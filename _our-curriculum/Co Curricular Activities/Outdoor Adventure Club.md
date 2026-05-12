@@ -23,8 +23,10 @@ while embracing inclusiveness. Experiencing the outdoors firsthand in unfamiliar
 settings not only fosters adaptability but also deepens respect for nature.
 Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
 <h4><strong>Activities</strong></h4>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -43,18 +45,36 @@ Our objectives are captured in ODAC’s motto: "Improvise, Adapt, Overcome."</p>
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_3.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Practice station for abseiling skills</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Odac/2026_odac_4.jpg">
 </div>
-</td>
-<th rowspan="1" colspan="1">
 <p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
