@@ -83,7 +83,38 @@ and self-assurance. Here's a closer look at what we do:</p>
 </li>
 </ul>
 <h4><strong>Leadership Development:</strong></h4>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -94,24 +125,16 @@ and self-assurance. Here's a closer look at what we do:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2025_1.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_1.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_2.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_3.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
