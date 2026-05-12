@@ -104,7 +104,7 @@ and self-assurance. Here's a closer look at what we do:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCAs/Art Club/2026_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
