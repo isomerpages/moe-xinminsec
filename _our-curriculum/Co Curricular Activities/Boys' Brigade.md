@@ -376,6 +376,9 @@ journey</p>
 </p>
 <h4>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast boy!</h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo11b.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/2026_bb_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -389,5 +392,8 @@ journey</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_photo13.jpg">
 </div>
 <p></p>
