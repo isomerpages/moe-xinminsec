@@ -279,36 +279,41 @@ excellence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo_2025_3.png">
 </div>
-<h4><strong>Accomplishments in 2025</strong></h4>
+<h4><strong>Accomplishments</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>JM Fraser Award for Excellence (Year of Assessment 2025) – High Distinction</p>
 </li>
+<li>
+<p>BB Blaze 2026: Silver Honour Roll</p>
+</li>
+<li>
+<p>Best Boy Award 2026: WO Emmanuel Yeo Xiang Yong (402)</p>
+</li>
+<li>
+<p>Most Stedfast NCO Award 2026: WO Emmanuel Yeo Xiang Yong (402)</p>
+</li>
+<li>
+<p>Most Improved NCO Award 2026: SSG Aaron Teo Yu Hao (403)</p>
+</li>
+<li>
+<p>Best Recruit 2026: LCP Chew Yong Xiang Jordan (204)</p>
+</li>
+<li>
+<p>Xinmin Uniformed Group Excellence Award 2026: SSG Aaron Teo Yu Hao (403)</p>
+</li>
+<li>
+<p>Servant Leadership Award 2026: SCL Sim Xiang Zhi Riley</p>
+</li>
+<li>
+<p>Student Testimony at Enrolment Dedication Ceremony 2026: Neo Hao Yu (406)
+was selected to represent the Company in sharing his testimony and growth
+journey</p>
+</li>
+<li>
+<p>Friends of Xinmin Award 2026: OCT John Low, OCT Owen Saw</p>
+</li>
 </ul>
-<p>Founder's Award Recipients for 2025:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SSG ETHAN YAP ERN XIN (401, 2025)</p>
-</li>
-<li>
-<p>SSG SEOW ZHI QIN (407, 2025)</p>
-<p></p>
-</li>
-<li>
-<p>Most Improved NCO Award 2025: SSG Braven Wee</p>
-</li>
-<li>
-<p>Outstanding NCO Award 2025: SSG Ethan Yap</p>
-</li>
-<li>
-<p>Servant Leadership Award 2025: SCL Owen Saw</p>
-</li>
-<li>
-<p>Best Recruit 2025: LCP Jayden Quan</p>
-</li>
-</ul>
-<p>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast
-boy!</p>
 <h4><strong>Teachers-in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
