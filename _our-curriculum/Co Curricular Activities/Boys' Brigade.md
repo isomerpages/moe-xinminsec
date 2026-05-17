@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo11b.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/2026_bb_1.jpg">
 </div>
 <h4><strong>45<sup>th</sup> Boys’ Brigade Company, Xinmin Secondary School</strong></h4>
 <p>The <strong>Boys' Brigade (BB) 45<sup>th </sup>&nbsp;Singapore Company at Xinmin Secondary School</strong> is
@@ -85,6 +85,9 @@ where every boy finds <strong>brotherhood, adventure, and purpose</strong>!</p>
 </li>
 <li>
 <p>BB Significant Day – August</p>
+</li>
+<li>
+<p>BB Cares - August</p>
 </li>
 <li>
 <p>BB Band of Brothers – October</p>
