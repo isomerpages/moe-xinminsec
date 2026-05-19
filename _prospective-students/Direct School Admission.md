@@ -13,7 +13,7 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Please refer to the 2026 DSA webinar recordings shown below.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F16mOUHQYFQ?si=BzhFwSgKLTa4U2GK"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="394" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F16mOUHQYFQ?si=BzhFwSgKLTa4U2GK"></iframe>
 </div>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
