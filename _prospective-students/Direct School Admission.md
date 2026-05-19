@@ -11,15 +11,9 @@ School for the Secondary 1 cohort of 2027.</p>
 the student's aptitudes and strengths, bearing in mind the schools' academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>To learn more about our school's curriculum and DSA Talent Areas, we invite
-parents and students to join us at the 2026 DSA Webinar on Friday, 15 May
-2026 from 6:15pm to 7:30pm. The webinar details will be emailed to you
-upon your registration by completing this form which can be access by clicking
-on this link <a href="https://go.gov.sg/xms-dsa-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/xms-dsa-2026</a>&nbsp;
-&nbsp;This webinar will provide valuable insights and information to support
-your understanding of our school's offerings and the DSA process.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA/2026/DSA_E_banner_2026_v2.gif">
+<p>Please refer to the DSA webinar recordings shown below.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F16mOUHQYFQ?si=BzhFwSgKLTa4U2GK"></iframe>
 </div>
 <h2>DSA Application Procedure</h2>
 <p>Applications for DSA-Sec can be submitted through the online DSA-Sec Portal.
