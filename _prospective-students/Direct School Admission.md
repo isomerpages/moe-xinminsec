@@ -11,7 +11,7 @@ School for the Secondary 1 cohort of 2027.</p>
 the student's aptitudes and strengths, bearing in mind the schools' academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<p>Please refer to the 2026 DSA webinar recordings shown below.</p>
+<p>Please refer to the 2026 DSA webinar recording shown below.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="394" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F16mOUHQYFQ?si=BzhFwSgKLTa4U2GK"></iframe>
 </div>
