@@ -45,16 +45,6 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:guan_jing_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guan_jing_a@schools.gov.sg</a>
 </p>
-<p><strong>Ms He Qingqing</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:HE_QINGQING_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">he_qingqing_b@schools.gov.sg</a>
-</p>
-<p><strong>Mdm Junaidah Binti Aman</strong>
-<br>Designation: Teacher
-<br>Department: Mother Tongue Languages
-<br>Email: <a href="mailto:junaidah_aman_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_aman_c@schools.gov.sg</a>
-</p>
 <p><strong>Ms Koh Cher Yee</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
