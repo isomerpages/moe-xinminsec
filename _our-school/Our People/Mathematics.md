@@ -75,6 +75,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="mailto:tok_hong_da@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tok_hong_da@schools.gov.sg</a>
 </p>
+<p><strong>Ms Tong Bee Yen</strong>
+<br>Designation: Teacher
+<br>Department: Mathematics
+<br>Email: <a href="mailto:tong_bee_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_bee_yen@schools.gov.sg</a>
+</p>
 <p><strong>Ms Vanessa Chia Su Qing</strong>
 <br>Designation: Teacher
 <br>Department: Mathematics
