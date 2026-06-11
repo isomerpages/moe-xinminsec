@@ -50,6 +50,11 @@ variant: tiptap
 <br>Department: Humanities
 <br>Email: <a href="mailto:emily_lim_xin_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emily_lim_xin_yi@schools.gov.sg</a>
 </p>
+<p><strong>Ms Hew Kai Ling Vanessa</strong>
+<br>Designation: Teacher
+<br>Department: Humanities
+<br>Email: <a href="mailto:hew_kai_ling_vanessa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hew_kai_ling_vanessa@schools.gov.sg</a>
+</p>
 <p><strong>Ms Koh Shi Li</strong>
 <br>Designation: Teacher
 <br>Department: Humanities
