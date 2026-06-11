@@ -99,7 +99,7 @@ variant: tiptap
 <p><strong>Ms Toh Yen Nee</strong>
 <br>Designation: Teacher
 <br>Department: Science
-<br>Email: <a href="mailto:toh_yen_nee@schools.gov.sg" rel="" target="_self">toh_yen_nee@schools.gov.sg</a> 
+<br>Email: <a href="mailto:toh_yen_nee@schools.gov.sg" rel="" target="_self">toh_yen_nee@schools.gov.sg</a>
 </p>
 <p><strong>Mr Zhuang Haoyang</strong>
 <br>Designation: Teacher
