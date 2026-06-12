@@ -26,7 +26,7 @@ third_nav_title: Our People
 <br>Email: <a href="mailto:xiao_yanfei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_yanfei@schools.gov.sg</a>
 </p>
 <p><strong>Ms Gwyneth Chua Li Shan</strong>
-<br>Designation: Senior Teacher - History (Acting)
+<br>Designation: Senior Teacher - History
 <br>Department: Humanities
 <br>Email: <a href="mailto:chua_li_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_shan@schools.gov.sg</a>
 </p>
