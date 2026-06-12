@@ -60,7 +60,7 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:nur_ellyana_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ellyana_roslan@schools.gov.sg</a>
 </p>
-<p><strong>Ms Tan Yee Herng</strong>
+<p><strong>Mr Tan Yee Herng Zest</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:tan_yee_herng_zest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_herng_zest@schools.gov.sg</a>
