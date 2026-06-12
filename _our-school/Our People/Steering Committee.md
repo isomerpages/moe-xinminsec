@@ -150,6 +150,11 @@ variant: tiptap
 <br>Department: Mathematics
 <br>Email: <a href="-" rel="noopener noreferrer nofollow" target="_blank">pang_hui_chin@schools.gov.sg</a>
 </p>
+<p><strong>Ms Eng Jie Ling</strong>
+<br>Designation: Subject Head - Mother Tongue Languages (Acting)
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:eng_jie_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eng_jie_ling@schools.gov.sg</a>
+</p>
 <p><strong>Ms Foo Fang Yu</strong>
 <br>Designation: Subject Head - Partnerships
 <br>Department: Humanities
