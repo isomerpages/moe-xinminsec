@@ -55,6 +55,11 @@ variant: tiptap
 <br>Department: Science
 <br>Email: <a href="mailto:kuo_yu_hsuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuo_yu_hsuan@schools.gov.sg</a>
 </p>
+<p><strong>Ms Kwong Wai Mun</strong>
+<br>Designation: Teacher
+<br>Department: Science
+<br>Email: <a href="mailto:kwong_wai_mun_a@schools.gov.sg" rel="" target="_self">kwong_wai_mun_a@schools.gov.sg</a>
+</p>
 <p><strong>Ms Low Lai Yip</strong>
 <br>Designation: Teacher
 <br>Department: Science
@@ -90,6 +95,11 @@ variant: tiptap
 <br>Designation: Teacher
 <br>Department: Science
 <br>Email: <a href="mailto:tham_lai_paik_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_lai_paik_a@schools.gov.sg</a>
+</p>
+<p><strong>Ms Toh Yen Nee</strong>
+<br>Designation: Teacher
+<br>Department: Science
+<br>Email: <a href="mailto:toh_yen_nee@schools.gov.sg" rel="" target="_self">toh_yen_nee@schools.gov.sg</a>
 </p>
 <p><strong>Mr Zhuang Haoyang</strong>
 <br>Designation: Teacher
