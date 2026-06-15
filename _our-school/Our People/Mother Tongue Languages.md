@@ -45,6 +45,11 @@ variant: tiptap
 <br>Department: Mother Tongue Languages
 <br>Email: <a href="mailto:ang_koon_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_koon_yong@schools.gov.sg</a>
 </p>
+<p><strong>Ms Angela Wang Wanxin</strong>
+<br>Designation: Teacher
+<br>Department: Mother Tongue Languages
+<br>Email: <a href="mailto:angela_wang_wanxin@schools.gov.sg" rel="" target="_self">angela_wang_wanxin@schools.gov.sg</a>
+</p>
 <p><strong>Mdm Guan Jing</strong>
 <br>Designation: Teacher
 <br>Department: Mother Tongue Languages
