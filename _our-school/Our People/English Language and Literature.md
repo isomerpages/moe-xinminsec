@@ -45,6 +45,11 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:ee_ai_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ee_ai_lin@schools.gov.sg</a>
 </p>
+<p><strong>Ms Joyce Lee Ling Wei</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:joyce_lee@schools.gov.sg" rel="" target="_self">joyce_lee_ling_wei@schools.gov.sg</a>
+</p>
 <p><strong>Mdm Lim Ee Gek Belinda</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
