@@ -65,6 +65,11 @@ variant: tiptap
 <br>Department: English Language and Literature
 <br>Email: <a href="mailto:nur_ellyana_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ellyana_roslan@schools.gov.sg</a>
 </p>
+<p><strong>Ms Sumithra D/O Narayanan</strong>
+<br>Designation: Teacher
+<br>Department: English Language and Literature
+<br>Email: <a href="mailto:nur_ellyana_roslan@schools.gov.sg" rel="" target="_self">sumithra_do_narayanan@schools.gov.sg</a>
+</p>
 <p><strong>Mr Tan Yee Herng Zest</strong>
 <br>Designation: Teacher
 <br>Department: English Language and Literature
