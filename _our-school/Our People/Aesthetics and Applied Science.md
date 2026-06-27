@@ -65,11 +65,6 @@ variant: tiptap
 <br>Department: Aesthetics and Applied Science
 <br>Email: <a href="mailto:peck_pei_yi_francesca_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peck_pei_yi_francesca_b@schools.gov.sg</a>
 </p>
-<p><strong>Ms Shalyn Thng</strong>
-<br>Designation: Teacher
-<br>Department: Aesthetics and Applied Science
-<br>Email: <a href="mailto:thng_shalyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thng_shalyn@schools.gov.sg</a>
-</p>
 <p><strong>Mr Tan Wa-Wa James</strong>
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
