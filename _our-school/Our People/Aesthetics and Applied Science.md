@@ -45,6 +45,11 @@ variant: tiptap
 <br>Department: Aesthetics and Applied Science
 <br>Email: <a href="mailto:pan_yunxin_edna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pan_yunxin_edna@schools.gov.sg</a>
 </p>
+<p><strong>Ms Fan Yuxuan</strong>
+<br>Designation: Teacher
+<br>Department: Aesthetics and Applied Science
+<br>Email: <a href="mailto:pan_yunxin_edna@schools.gov.sg" rel="" target="_self">fan_yuxuan_g@schools.gov.sg</a>
+</p>
 <p><strong>Ms Hailey Tan Hui Li</strong>
 <br>Designation: Teacher
 <br>Department: Aesthetics and Applied Science
