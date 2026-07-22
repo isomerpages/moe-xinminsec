@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Prelim Exams/4E5N_4N_and_4NT_Prelim_Timetable_2026_Final.pdf" rel="noopener nofollow" target="_blank">S4E5N, 4NA, 4NT Prelim Exam Timetable 2026</a>
+<p><a href="/files/Prelim Exams/4E5N_4NA_4NT_Prelim_Timetable_2026_v2.pdf" rel="noopener nofollow" target="_blank">S4E5N, 4NA, 4NT Prelim Exam Timetable 2026</a>
 </p>
 </li>
 </ul>
