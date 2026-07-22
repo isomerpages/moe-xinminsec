@@ -43,7 +43,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/eoy-exam-timetable/" rel="noopener nofollow" target="_blank">Sec 1, 2 and 3 End of Year Examination Timetable 2026</a>
+</p>
 </li>
 </ul>
 <h2>Books and Uniforms</h2>
