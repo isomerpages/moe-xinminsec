@@ -128,6 +128,10 @@ variant: tiptap
 <p><a href="https://drive.google.com/drive/u/3/folders/1ixk4EdnS8uy6zoUVuQj0R51x5kiL6muL" rel="noopener nofollow" target="_blank">Total Assessment Plan</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Prelim Exams/4E5N_4NA_4NT_Prelim_Timetable_2026_v2.pdf" rel="noopener nofollow" target="_blank">S4E5N, 4NA, 4NT Prelim Exam Timetable 2026</a>
+</p>
+</li>
 </ul>
 <h2>Other Resources</h2>
 <ul data-tight="true" class="tight">
