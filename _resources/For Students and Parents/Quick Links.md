@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Prelim Exams/N_level_and_O_level_Prelim_Timetable_2025_2.pdf" rel="noopener nofollow" target="_blank">N_level_and_O_level_Prelim_Timetable_2025</a>
+<p><a href="/files/Prelim Exams/4E5N_4NA_4NT_Prelim_Timetable_2026_v2.pdf" rel="noopener nofollow" target="_blank">S4E5N, 4NA, 4NT Prelim Exam Timetable 2026</a>
 </p>
 </li>
 </ul>

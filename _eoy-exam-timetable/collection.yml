@@ -1,0 +1,5 @@
+collections:
+  eoy-exam-timetable:
+    output: true
+    order:
+      - EOY Exam Timetable.md
