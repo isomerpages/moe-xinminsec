@@ -42,10 +42,6 @@ variant: tiptap
 <p><a href="/files/Prelim Exams/4E5N_4NA_4NT_Prelim_Timetable_2026_v2.pdf" rel="noopener nofollow" target="_blank">S4E5N, 4NA, 4NT Prelim Exam Timetable 2026</a>
 </p>
 </li>
-<li>
-<p><a href="/eoy-exam-timetable/" rel="noopener nofollow" target="_blank">Sec 1, 2 and 3 End of Year Examination Timetable 2026</a>
-</p>
-</li>
 </ul>
 <h2>Books and Uniforms</h2>
 <ul data-tight="true" class="tight">
