@@ -288,6 +288,9 @@ excellence.</p>
 <p>JM Fraser Award for Excellence (Year of Assessment 2025) – High Distinction</p>
 </li>
 <li>
+<p>Founder’s Award: WO Emmanuel Yeo Xiang Yong (402), SSG Neo Hao Yu (406)</p>
+</li>
+<li>
 <p>BB Blaze 2026: Silver Honour Roll</p>
 </li>
 <li>
