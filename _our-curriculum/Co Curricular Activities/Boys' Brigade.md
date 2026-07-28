@@ -381,16 +381,4 @@ journey</p>
 <p><strong>Instagram </strong><a href="https://www.instagram.com/xmsbb45th/" rel="noopener nofollow" target="_blank">https://www.instagram.com/xmsbb45th/</a>
 </p>
 <h4>Join the BB45th family and embody our motto of being a Sure &amp; Steadfast boy!</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Photo11b.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/2026_bb_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_Company_Group_photo_02.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Boys_brigade/BB_photo13.jpg">
-</div>
 <p></p>
