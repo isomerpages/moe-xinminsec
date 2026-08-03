@@ -8,5 +8,5 @@ description: ""
 </p>
 <p><a href="/files/EOY Timetable/2026/2026_Sec_2_EOY_Exam_Timetable__final_.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Timetable 2026</a>
 </p>
-<p><a href="/files/EOY Timetable/2026/2026_Sec_3_EOY_Exam_Timetable__final_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Timetable 2026</a>
+<p><a href="/files/EOY Timetable/2026/2026_Sec_3_EOY_Exam_Timetable__final__v2.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Timetable 2026</a>
 </p>
