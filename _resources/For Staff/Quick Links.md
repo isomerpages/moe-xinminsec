@@ -117,11 +117,19 @@ variant: tiptap
 <h2>Assessment</h2>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Assessment/2026_GCE_Briefing_to_Candidates__Prelims_.pdf" rel="noopener nofollow" target="_blank">2026 GCE Briefing to Candidates (Prelims)</a>
+</p>
+</li>
+<li>
 <p><a href="/resources/students/assessment/assessment-plan/" rel="noopener noreferrer nofollow" target="_blank">Assessment Plan</a>
 </p>
 </li>
 <li>
 <p><a href="/resources/students/assessment/criteria-for-promotion/" rel="noopener noreferrer nofollow" target="_blank">Criteria for Student Progression</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Assessment/Prelim_Examination_2026_Briefing_for_students_4E5N.pdf" rel="noopener nofollow" target="_blank">Prelim Examination 2026 Briefing for students 4E5N</a>
 </p>
 </li>
 <li>
